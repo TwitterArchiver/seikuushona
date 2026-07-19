@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2066158097815785760",
+    "created_at": "2026-06-14T13:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066158097815785760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066158097815785760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066141365478768679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024: 每次墙内这些被平台封杀，天天不是杀我微信就是杀我QQ，要么就是杀我手机号，给我整无语了，真正诈骗的你不封，来封我一个普通人，真的就是宁愿杀错三千也不肯放过一个吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2066158097815785760",
+        "created_at": "2026-06-14T13:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066158097815785760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066158097815785760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066141365478768679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024: 每次墙内这些被平台封杀，天天不是杀我微信就是杀我QQ，要么就是杀我手机号，给我整无语了，真正诈骗的你不封，来封我一个普通人，真的就是宁愿杀错三千也不肯放过一个吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2066141365478768679",
+        "created_at": "2026-06-14T12:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066141365478768679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066141365478768679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每次墙内这些被平台封杀，天天不是杀我微信就是杀我QQ，要么就是杀我手机号，给我整无语了，真正诈骗的你不封，来封我一个普通人，真的就是宁愿杀错三千也不肯放过一个吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 409,
+          "like_count": 6669,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10507,
+          "following_count": 973,
+          "like_count": 94224,
+          "listed_count": 25,
+          "media_count": 1913,
+          "tweet_count": 13208
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

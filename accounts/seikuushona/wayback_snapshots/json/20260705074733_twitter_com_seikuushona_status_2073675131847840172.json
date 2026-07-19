@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073674829375610880"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2073675131847840172",
+    "created_at": "2026-07-05T07:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073675131847840172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Free domain names",
+          "display_url": "eu.org",
+          "end": 33,
+          "expanded_url": "http://eu.org",
+          "start": 10,
+          "status": 200,
+          "title": "EU.org: free domain names since 1996",
+          "unwound_url": "https://nic.eu.org/",
+          "url": "https://t.co/9MTFkH5ACc"
+        },
+        {
+          "display_url": "pic.x.com/yLatCClwtd",
+          "end": 86,
+          "expanded_url": "https://x.com/seikuushona/status/2073675131847840172/photo/1",
+          "media_key": "3_2073674829375610880",
+          "start": 63,
+          "url": "https://t.co/yLatCClwtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073675131847840172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2023 年那会在 https://t.co/9MTFkH5ACc 上申请的子域名，今年居然通过了——我早忘掉了有这么回事。 https://t.co/yLatCClwtd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1725,
+        "media_key": "3_2073674829375610880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcsRUCaIAAZSEL.jpg",
+        "width": 1787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073674829375610880"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2073675131847840172",
+        "created_at": "2026-07-05T07:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073675131847840172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Free domain names",
+              "display_url": "eu.org",
+              "end": 33,
+              "expanded_url": "http://eu.org",
+              "start": 10,
+              "status": 200,
+              "title": "EU.org: free domain names since 1996",
+              "unwound_url": "https://nic.eu.org/",
+              "url": "https://t.co/9MTFkH5ACc"
+            },
+            {
+              "display_url": "pic.x.com/yLatCClwtd",
+              "end": 86,
+              "expanded_url": "https://x.com/seikuushona/status/2073675131847840172/photo/1",
+              "media_key": "3_2073674829375610880",
+              "start": 63,
+              "url": "https://t.co/yLatCClwtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073675131847840172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2023 年那会在 https://t.co/9MTFkH5ACc 上申请的子域名，今年居然通过了——我早忘掉了有这么回事。 https://t.co/yLatCClwtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 974,
+          "like_count": 12220,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045168522448580608"
+      ],
+      "media_source_tweet_id": [
+        "2045168567247855863"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045337560269095202",
+    "created_at": "2026-04-18T03:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045337560269095202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1201051665744326658",
+          "start": 3,
+          "username": "Nanq4_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CuXtUdB38f",
+          "end": 35,
+          "expanded_url": "https://x.com/Nanq4_/status/2045168567247855863/photo/1",
+          "media_key": "3_2045168522448580608",
+          "start": 12,
+          "url": "https://t.co/CuXtUdB38f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045337560269095202",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045168567247855863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanq4_: https://t.co/CuXtUdB38f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2045168522448580608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHl73ZbsAAL--p.jpg",
+        "width": 1716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045168522448580608"
+          ],
+          "media_source_tweet_id": [
+            "2045168567247855863"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045337560269095202",
+        "created_at": "2026-04-18T03:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045337560269095202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1201051665744326658",
+              "start": 3,
+              "username": "Nanq4_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuXtUdB38f",
+              "end": 35,
+              "expanded_url": "https://x.com/Nanq4_/status/2045168567247855863/photo/1",
+              "media_key": "3_2045168522448580608",
+              "start": 12,
+              "url": "https://t.co/CuXtUdB38f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045337560269095202",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168567247855863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanq4_: https://t.co/CuXtUdB38f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045168522448580608"
+          ]
+        },
+        "author_id": "1201051665744326658",
+        "conversation_id": "2045168567247855863",
+        "created_at": "2026-04-17T15:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045168567247855863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuXtUdB38f",
+              "end": 23,
+              "expanded_url": "https://x.com/Nanq4_/status/2045168567247855863/photo/1",
+              "media_key": "3_2045168522448580608",
+              "start": 0,
+              "url": "https://t.co/CuXtUdB38f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168567247855863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 15919,
+          "like_count": 2494,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CuXtUdB38f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 158,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-01T08:13:38.000Z",
+        "description": "足立とテトが好きです",
+        "id": "1201051665744326658",
+        "name": "無名し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007118229555326976/YXSXpvZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 456,
+          "like_count": 17037,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2298
+        },
+        "username": "Nanq4_",
+        "verified": false
+      }
+    ]
+  }
+}

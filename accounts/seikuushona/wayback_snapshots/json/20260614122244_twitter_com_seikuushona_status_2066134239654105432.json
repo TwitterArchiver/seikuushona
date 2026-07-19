@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066037191563005952"
+      ],
+      "media_source_tweet_id": [
+        "2066037193450356796"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2066134239654105432",
+    "created_at": "2026-06-14T12:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066134239654105432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "127231917",
+          "start": 3,
+          "username": "missile_39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HboZVNz3Za",
+          "end": 102,
+          "expanded_url": "https://x.com/missile_39/status/2066037193450356796/photo/1",
+          "media_key": "3_2066037191563005952",
+          "start": 79,
+          "url": "https://t.co/HboZVNz3Za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066134239654105432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1073
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066037193450356796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @missile_39: 新しい制御システム試すのに恐る恐る電源投入。暴れなかった。脚の角度取得出来るようになった。結構でかい伸展。新オシロお役立ち！ https://t.co/HboZVNz3Za"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066037191563005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwJ4R_b0AAbpzo.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066037191563005952"
+          ],
+          "media_source_tweet_id": [
+            "2066037193450356796"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2066134239654105432",
+        "created_at": "2026-06-14T12:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066134239654105432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "127231917",
+              "start": 3,
+              "username": "missile_39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HboZVNz3Za",
+              "end": 102,
+              "expanded_url": "https://x.com/missile_39/status/2066037193450356796/photo/1",
+              "media_key": "3_2066037191563005952",
+              "start": 79,
+              "url": "https://t.co/HboZVNz3Za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066134239654105432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1073
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066037193450356796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @missile_39: 新しい制御システム試すのに恐る恐る電源投入。暴れなかった。脚の角度取得出来るようになった。結構でかい伸展。新オシロお役立ち！ https://t.co/HboZVNz3Za"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066037191563005952"
+          ]
+        },
+        "author_id": "127231917",
+        "conversation_id": "2066037193450356796",
+        "created_at": "2026-06-14T05:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066037193450356796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HboZVNz3Za",
+              "end": 86,
+              "expanded_url": "https://x.com/missile_39/status/2066037193450356796/photo/1",
+              "media_key": "3_2066037191563005952",
+              "start": 63,
+              "url": "https://t.co/HboZVNz3Za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066037193450356796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 182138,
+          "like_count": 9460,
+          "quote_count": 96,
+          "reply_count": 14,
+          "retweet_count": 1073
+        },
+        "reply_settings": "everyone",
+        "text": "新しい制御システム試すのに恐る恐る電源投入。暴れなかった。脚の角度取得出来るようになった。結構でかい伸展。新オシロお役立ち！ https://t.co/HboZVNz3Za"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 401,
+          "like_count": 6520,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-28T14:31:23.000Z",
+        "description": "等身大ロボとか作ってる人です。好物は科学全般。ボーカロイド、VTuber、アニメすき。足立レイ＆合成音声開発中！\n日本大学理工学研究科精密機械工学専攻研究生\nメカニカルガール代表　　ニコニコ→https://t.co/eAph43cyBm\nyoutube→https://t.co/CxkGZy2DXP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/4333086",
+                "end": 119,
+                "expanded_url": "http://nicovideo.jp/user/4333086",
+                "start": 96,
+                "url": "https://t.co/eAph43cyBm"
+              },
+              {
+                "display_url": "onl.tw/8NgwZfx",
+                "end": 151,
+                "expanded_url": "http://onl.tw/8NgwZfx",
+                "start": 128,
+                "url": "https://t.co/CxkGZy2DXP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp",
+                "end": 23,
+                "expanded_url": "https://mechanicalgirl.jp/",
+                "start": 0,
+                "url": "https://t.co/ou6PtuiAT0"
+              }
+            ]
+          }
+        },
+        "id": "127231917",
+        "location": "サイト",
+        "name": "みさいる",
+        "pinned_tweet_id": "2017651627872948491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488895740319772672/TsvxDjnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77272,
+          "following_count": 765,
+          "like_count": 12642,
+          "listed_count": 295,
+          "media_count": 3967,
+          "tweet_count": 23447
+        },
+        "url": "https://t.co/ou6PtuiAT0",
+        "username": "missile_39",
+        "verified": true
+      }
+    ]
+  }
+}

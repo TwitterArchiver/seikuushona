@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2071226220054802530",
+    "created_at": "2026-06-28T14:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071244327406510294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1285045131758809091",
+          "start": 0,
+          "username": "CnDiode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071244327406510294",
+    "in_reply_to_user_id": "1285045131758809091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071226220054802530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnDiode 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2071226216556986368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL55RSdbAAAd8Cu.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2071226220054802530",
+        "created_at": "2026-06-28T14:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071244327406510294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1285045131758809091",
+              "start": 0,
+              "username": "CnDiode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071244327406510294",
+        "in_reply_to_user_id": "1285045131758809091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071226220054802530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnDiode 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071226216556986368"
+          ]
+        },
+        "author_id": "1285045131758809091",
+        "conversation_id": "2071226220054802530",
+        "created_at": "2026-06-28T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071226220054802530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDwcJrJn7P",
+              "end": 73,
+              "expanded_url": "https://x.com/CnDiode/status/2071226220054802530/photo/1",
+              "media_key": "3_2071226216556986368",
+              "start": 50,
+              "url": "https://t.co/yDwcJrJn7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071226220054802530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 744,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "尽管只有棉花娃娃陪我过生日，礼物也寥寥无几，但我依然要为我自己庆祝，迎接在世间饱受磨难的第二十年。 https://t.co/yDwcJrJn7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 888,
+          "like_count": 11343,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T02:53:42.000Z",
+        "description": "⭐︎本日の運転は終了しました⭐︎｜广东/関西｜❤@hirasawataffy ｜ 🍼@Chiyorin8964 ｜ 🐷@DrSunan2022422 ｜里@tsukiha_niko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "hirasawataffy"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Chiyorin8964"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "DrSunan2022422"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "tsukiha_niko"
+              }
+            ]
+          }
+        },
+        "id": "1285045131758809091",
+        "name": "ElmCose榆法糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798288378498342912/eT-pml4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 269,
+          "like_count": 4565,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "CnDiode",
+        "verified": false
+      }
+    ]
+  }
+}

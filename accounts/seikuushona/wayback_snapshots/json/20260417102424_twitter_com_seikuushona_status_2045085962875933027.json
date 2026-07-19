@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044420909524807681"
+      ],
+      "media_source_tweet_id": [
+        "2044420914704789894"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      }
+    ],
+    "conversation_id": "2045085962875933027",
+    "created_at": "2026-04-17T10:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045085962875933027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638702806323564544",
+          "start": 3,
+          "username": "champeemanb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZUsmQDzG4M",
+          "end": 60,
+          "expanded_url": "https://x.com/champeemanb/status/2044420914704789894/photo/1",
+          "media_key": "3_2044420909524807681",
+          "start": 37,
+          "url": "https://t.co/ZUsmQDzG4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045085962875933027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5768
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044420914704789894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @champeemanb: 長男の英単語テスト。何してんねんwww https://t.co/ZUsmQDzG4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2044420909524807681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF89_EObcAE8oNK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044420909524807681"
+          ],
+          "media_source_tweet_id": [
+            "2044420914704789894"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2045085962875933027",
+        "created_at": "2026-04-17T10:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045085962875933027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638702806323564544",
+              "start": 3,
+              "username": "champeemanb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUsmQDzG4M",
+              "end": 60,
+              "expanded_url": "https://x.com/champeemanb/status/2044420914704789894/photo/1",
+              "media_key": "3_2044420909524807681",
+              "start": 37,
+              "url": "https://t.co/ZUsmQDzG4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045085962875933027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5768
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044420914704789894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @champeemanb: 長男の英単語テスト。何してんねんwww https://t.co/ZUsmQDzG4M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044420909524807681"
+          ]
+        },
+        "author_id": "1638702806323564544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2044420914704789894",
+        "created_at": "2026-04-15T14:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044420914704789894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUsmQDzG4M",
+              "end": 43,
+              "expanded_url": "https://x.com/champeemanb/status/2044420914704789894/photo/1",
+              "media_key": "3_2044420909524807681",
+              "start": 20,
+              "url": "https://t.co/ZUsmQDzG4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044420914704789894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1640,
+          "impression_count": 1795503,
+          "like_count": 92819,
+          "quote_count": 478,
+          "reply_count": 163,
+          "retweet_count": 5768
+        },
+        "reply_settings": "everyone",
+        "text": "長男の英単語テスト。何してんねんwww https://t.co/ZUsmQDzG4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 138,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T00:43:08.000Z",
+        "description": "3児のシンママ✨中1♂小6♂小4♀💕雑でズボラな日常生活を垂れ流すアカウント🫠ママ垢さんパパ垢さん今日も適当に頑張ろうね❗️",
+        "id": "1638702806323564544",
+        "name": "ちゃんぴーまん",
+        "pinned_tweet_id": "1767397395938304389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638703054370529280/Qr6g-0UK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 442,
+          "like_count": 12738,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 2412
+        },
+        "username": "champeemanb",
+        "verified": false
+      }
+    ]
+  }
+}

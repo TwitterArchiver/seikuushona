@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364369",
+          "name": "Allstate"
+        }
+      }
+    ],
+    "conversation_id": "2040553384671940645",
+    "created_at": "2026-04-05T18:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040861499158388951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "960997346216734720",
+          "start": 0,
+          "username": "merklegroot"
+        },
+        {
+          "end": 24,
+          "id": "524618848",
+          "start": 13,
+          "username": "icanvardar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040861499158388951",
+    "in_reply_to_user_id": "960997346216734720",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040604214884225492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@merklegroot @icanvardar As the DNIB Quarterly Report Q4 2025 said, there are 386.9 million domain name registrations across all top-level domains. So, if TLDs are removed, your domain will seem like https://mydomain123wastakenaaaqwerty101010pplmlm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364369",
+              "name": "Allstate"
+            }
+          }
+        ],
+        "conversation_id": "2040553384671940645",
+        "created_at": "2026-04-05T18:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040861499158388951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "960997346216734720",
+              "start": 0,
+              "username": "merklegroot"
+            },
+            {
+              "end": 24,
+              "id": "524618848",
+              "start": 13,
+              "username": "icanvardar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040861499158388951",
+        "in_reply_to_user_id": "960997346216734720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040604214884225492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@merklegroot @icanvardar As the DNIB Quarterly Report Q4 2025 said, there are 386.9 million domain name registrations across all top-level domains. So, if TLDs are removed, your domain will seem like https://mydomain123wastakenaaaqwerty101010pplmlm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "960997346216734720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2040553384671940645",
+        "created_at": "2026-04-05T01:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040604214884225492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "524618848",
+              "start": 0,
+              "username": "icanvardar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040604214884225492",
+        "in_reply_to_user_id": "524618848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3716,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040553384671940645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icanvardar At least subdomains serve a purpose.\n\n.com, .net, .gov -- they should never have been a thing.\n\nIt should just be https://www .google or https://google"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "青空 しょな。",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 78,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-06T22:03:16.000Z",
+        "description": "Functional programming advocate |\n.NET / TypeScript |\nChristian primitivist |\nGentile Zionist | Rugged individualist",
+        "id": "960997346216734720",
+        "name": "merklegroot🇺🇸🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996023611139018752/JxtOXj-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 704,
+          "like_count": 7703,
+          "listed_count": 24,
+          "media_count": 774,
+          "tweet_count": 24153
+        },
+        "username": "merklegroot",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-14T18:45:00.000Z",
+        "description": "building https://t.co/CrDD2mzZLe and https://t.co/xSL8CDfBHk at @heycupola, swe, not in forbes 30u30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "heycupola"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "relic.so",
+                "end": 32,
+                "expanded_url": "https://relic.so",
+                "start": 9,
+                "url": "https://t.co/CrDD2mzZLe"
+              },
+              {
+                "display_url": "wrapper.sh",
+                "end": 60,
+                "expanded_url": "https://wrapper.sh",
+                "start": 37,
+                "url": "https://t.co/xSL8CDfBHk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "icanvardar.com",
+                "end": 23,
+                "expanded_url": "https://icanvardar.com",
+                "start": 0,
+                "url": "https://t.co/dcFN3Zs8wa"
+              }
+            ]
+          }
+        },
+        "id": "524618848",
+        "name": "Can Vardar",
+        "pinned_tweet_id": "2036470270362304651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007589161398583297/N6jnElE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18104,
+          "following_count": 588,
+          "like_count": 55544,
+          "listed_count": 91,
+          "media_count": 2642,
+          "tweet_count": 20536
+        },
+        "url": "https://t.co/dcFN3Zs8wa",
+        "username": "icanvardar",
+        "verified": true
+      }
+    ]
+  }
+}

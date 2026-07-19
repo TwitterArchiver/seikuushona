@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2070465260071641429",
+    "created_at": "2026-06-26T11:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070465260071641429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "858014629938769920",
+          "start": 3,
+          "username": "endermanch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070465260071641429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070230456633532711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @endermanch: Important! The global Internet is dying. Today I want to talk a bit about largely internationally unrecognized phenomenon c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2070219838006427649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrl-WNXAAEnOfQ.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2070465260071641429",
+        "created_at": "2026-06-26T11:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070465260071641429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "858014629938769920",
+              "start": 3,
+              "username": "endermanch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070465260071641429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070230456633532711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @endermanch: Important! The global Internet is dying. Today I want to talk a bit about largely internationally unrecognized phenomenon c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070219838006427649"
+          ]
+        },
+        "author_id": "858014629938769920",
+        "conversation_id": "2070230456633532711",
+        "created_at": "2026-06-25T19:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070230456633532711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTWgRizSPq",
+              "end": 296,
+              "expanded_url": "https://x.com/endermanch/status/2070230456633532711/photo/1",
+              "media_key": "3_2070219838006427649",
+              "start": 273,
+              "url": "https://t.co/rTWgRizSPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070230456633532711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2140,
+          "impression_count": 232626,
+          "like_count": 4225,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "Important! The global Internet is dying. Today I want to talk a bit about largely internationally unrecognized phenomenon called «whitelists» and what the international community needs to prepare for in the future, since the precedent has been set by 🇨🇳China and 🇷🇺Russia. https://t.co/rTWgRizSPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 608,
+          "like_count": 9321,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-28T17:46:43.000Z",
+        "description": "A software engineer, a malware enthusiast and most importantly, a weird tall creature. I poke tech and act surprised when it breaks.\n\n💖 400K+ subs on YouTube",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "enderman.ch",
+                "end": 23,
+                "expanded_url": "http://enderman.ch",
+                "start": 0,
+                "url": "https://t.co/8Ko0roA8m1"
+              }
+            ]
+          }
+        },
+        "id": "858014629938769920",
+        "location": "The End",
+        "name": "Enderman",
+        "pinned_tweet_id": "2039373104745497009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743666497111683072/_sbfcoOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41982,
+          "following_count": 90,
+          "like_count": 3350,
+          "listed_count": 74,
+          "media_count": 1938,
+          "tweet_count": 5073
+        },
+        "url": "https://t.co/8Ko0roA8m1",
+        "username": "endermanch",
+        "verified": true
+      }
+    ]
+  }
+}

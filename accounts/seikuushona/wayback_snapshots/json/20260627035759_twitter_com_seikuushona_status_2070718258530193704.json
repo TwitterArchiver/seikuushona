@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2070718258530193704",
+    "created_at": "2026-06-27T03:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070718258530193704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247054463329656832",
+          "start": 3,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070718258530193704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070557223055745379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quasarne: 我感到很吊诡的是，马克思主义的那些教材，花了大篇幅去讲意义，并且都要背，却没有挤出一点点空间来讲一下具体内容。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2070718258530193704",
+        "created_at": "2026-06-27T03:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070718258530193704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247054463329656832",
+              "start": 3,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070718258530193704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070557223055745379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quasarne: 我感到很吊诡的是，马克思主义的那些教材，花了大篇幅去讲意义，并且都要背，却没有挤出一点点空间来讲一下具体内容。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2070557223055745379",
+        "created_at": "2026-06-26T17:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:40:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070547835247100055",
+          "2070557223055745379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070557223055745379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 934,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我感到很吊诡的是，马克思主义的那些教材，花了大篇幅去讲意义，并且都要背，却没有挤出一点点空间来讲一下具体内容。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 696,
+          "like_count": 9963,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla バカ SAD｜數碼/科幻/政治/Wikier｜ 🚩◼️ libertarian socialism🌹｜🏳️‍🌈gay/pan🏳️‍⚧️ 正太控｜ 🌐漢語 吴、普/English OK/打卡Deutsch吗｜安人Alt @JunenKim ｜目前不太确定该发什么…大概是当QQ空间。有人找主包聊天吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 113,
+                "username": "JunenKim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1120,
+          "like_count": 83380,
+          "listed_count": 6,
+          "media_count": 1381,
+          "tweet_count": 17761
+        },
+        "url": "",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

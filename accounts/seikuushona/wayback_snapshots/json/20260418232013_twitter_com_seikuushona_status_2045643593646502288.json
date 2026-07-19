@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045386699774267393"
+      ],
+      "media_source_tweet_id": [
+        "2045386709567938942"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045643593646502288",
+    "created_at": "2026-04-18T23:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T00:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045643593646502288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029489722532544512",
+          "start": 3,
+          "username": "ui94056"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eAFJKe67go",
+          "end": 57,
+          "expanded_url": "https://x.com/ui94056/status/2045386709567938942/photo/1",
+          "media_key": "3_2045386699774267393",
+          "start": 34,
+          "url": "https://t.co/eAFJKe67go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045643593646502288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045386709567938942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ui94056: ネットでこれ見つけて1人で笑ってる！！！ https://t.co/eAFJKe67go"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045386699774267393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKsXdRakAEhqf1.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045386699774267393"
+          ],
+          "media_source_tweet_id": [
+            "2045386709567938942"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045643593646502288",
+        "created_at": "2026-04-18T23:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045643593646502288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029489722532544512",
+              "start": 3,
+              "username": "ui94056"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAFJKe67go",
+              "end": 57,
+              "expanded_url": "https://x.com/ui94056/status/2045386709567938942/photo/1",
+              "media_key": "3_2045386699774267393",
+              "start": 34,
+              "url": "https://t.co/eAFJKe67go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045643593646502288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045386709567938942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ui94056: ネットでこれ見つけて1人で笑ってる！！！ https://t.co/eAFJKe67go"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045386699774267393"
+          ]
+        },
+        "author_id": "2029489722532544512",
+        "conversation_id": "2045386709567938942",
+        "created_at": "2026-04-18T06:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045386709567938942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAFJKe67go",
+              "end": 44,
+              "expanded_url": "https://x.com/ui94056/status/2045386709567938942/photo/1",
+              "media_key": "3_2045386699774267393",
+              "start": 21,
+              "url": "https://t.co/eAFJKe67go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045386709567938942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 56056,
+          "like_count": 3609,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "ネットでこれ見つけて1人で笑ってる！！！ https://t.co/eAFJKe67go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 170,
+          "like_count": 1822,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T09:30:39.000Z",
+        "description": "♀16↑初音ミクさんが好きなオタク🫶 たくさんライブに行きたいです❣️ 仲良くしてください✨",
+        "id": "2029489722532544512",
+        "name": "みしらぬ そぉだ",
+        "pinned_tweet_id": "2039309580581360127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900116375879680/nWrgvd8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 436,
+          "like_count": 1185,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 239
+        },
+        "username": "ui94056",
+        "verified": false
+      }
+    ]
+  }
+}

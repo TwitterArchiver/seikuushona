@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045687830429777920"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045511237182869807",
+    "created_at": "2026-04-19T02:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045687842916241560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014015286635327488",
+          "start": 0,
+          "username": "m781145"
+        },
+        {
+          "end": 24,
+          "id": "1918274202580467713",
+          "start": 9,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/up1Sm3oJzd",
+          "end": 48,
+          "expanded_url": "https://x.com/seikuushona/status/2045687842916241560/photo/1",
+          "media_key": "3_2045687830429777920",
+          "start": 25,
+          "url": "https://t.co/up1Sm3oJzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045687842916241560",
+    "in_reply_to_user_id": "2014015286635327488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045573212583411946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m781145 @CyberKanjousen https://t.co/up1Sm3oJzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2045687830429777920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGO-PkYbQAAU6sr.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045687830429777920"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045511237182869807",
+        "created_at": "2026-04-19T02:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045687842916241560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014015286635327488",
+              "start": 0,
+              "username": "m781145"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/up1Sm3oJzd",
+              "end": 48,
+              "expanded_url": "https://x.com/seikuushona/status/2045687842916241560/photo/1",
+              "media_key": "3_2045687830429777920",
+              "start": 25,
+              "url": "https://t.co/up1Sm3oJzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045687842916241560",
+        "in_reply_to_user_id": "2014015286635327488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045573212583411946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m781145 @CyberKanjousen https://t.co/up1Sm3oJzd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014015286635327488",
+        "conversation_id": "2045511237182869807",
+        "created_at": "2026-04-18T18:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045573212583411946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045573212583411946",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 928,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045511237182869807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 什么叫性别和民族双重歧视？我不否认有的因为别人看个日漫听个日本的音乐就要骂鬼子很傻逼但母鬼子的原意是骂那些侵略者，骂那些为侵略者洗白的人骂汉奸的人和出辱华动漫的COS有任何毛病吗？至于拿性别做文章，那就更搞笑了为什么要强调一个母，因为不强调母，别人都默认鬼子是男的这是对男性的压迫！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 179,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T16:40:55.000Z",
+        "description": "",
+        "id": "2014015286635327488",
+        "name": "片警别搞我：（",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014391967531347968/R5gEAODd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "m781145",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 515,
+          "like_count": 13681,
+          "listed_count": 5,
+          "media_count": 866,
+          "tweet_count": 4553
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

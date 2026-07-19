@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2070901320618295790",
+    "created_at": "2026-06-28T01:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071046978612650038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728668679481827328",
+          "start": 0,
+          "username": "UsamiRenko1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071046978612650038",
+    "in_reply_to_user_id": "1728668679481827328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070901320618295790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UsamiRenko1145 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070901296513601536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1Rwc-W0AAIqEx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2070901320618295790",
+        "created_at": "2026-06-28T01:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071046978612650038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728668679481827328",
+              "start": 0,
+              "username": "UsamiRenko1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071046978612650038",
+        "in_reply_to_user_id": "1728668679481827328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070901320618295790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UsamiRenko1145 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070901296513601536"
+          ]
+        },
+        "author_id": "1728668679481827328",
+        "conversation_id": "2070901320618295790",
+        "created_at": "2026-06-27T16:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070901320618295790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bfhp1ocSqG",
+              "end": 36,
+              "expanded_url": "https://x.com/UsamiRenko1145/status/2070901320618295790/photo/1",
+              "media_key": "3_2070901296513601536",
+              "start": 13,
+              "url": "https://t.co/Bfhp1ocSqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070901320618295790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是🐟的19歲生日喔🥺 https://t.co/Bfhp1ocSqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 775,
+          "like_count": 10625,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:55:18.000Z",
+        "description": "这里莲子鱼，07上海，BI4BGJ，男的，航空摄影，东方众，秘封厨，百合豚，打舞萌的，战争雷霆，fo我的我都会回关ww",
+        "id": "1728668679481827328",
+        "name": "🎀UsamiRenko🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989952437034389509/IJtUUZGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 286,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "UsamiRenko1145",
+        "verified": false
+      }
+    ]
+  }
+}

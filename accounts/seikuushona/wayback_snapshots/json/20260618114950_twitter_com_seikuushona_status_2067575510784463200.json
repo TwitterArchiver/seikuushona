@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067538771000926208"
+      ],
+      "media_source_tweet_id": [
+        "2067538783294382231"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067575510784463200",
+    "created_at": "2026-06-18T11:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067575510784463200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "千早愛音"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1415356544640708610",
+          "start": 3,
+          "username": "tumaomao11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/upnwfwk3G6",
+          "end": 70,
+          "expanded_url": "https://x.com/tumaomao11/status/2067538783294382231/photo/1",
+          "media_key": "3_2067538771000926208",
+          "start": 47,
+          "url": "https://t.co/upnwfwk3G6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067575510784463200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067538783294382231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tumaomao11: Day43 画了百变anon 第二期\n#千早愛音 #MyGO https://t.co/upnwfwk3G6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2550,
+        "media_key": "3_2067538771000926208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFfjtTboAADLd4.jpg",
+        "width": 3400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067538771000926208"
+          ],
+          "media_source_tweet_id": [
+            "2067538783294382231"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067575510784463200",
+        "created_at": "2026-06-18T11:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067575510784463200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "千早愛音"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1415356544640708610",
+              "start": 3,
+              "username": "tumaomao11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upnwfwk3G6",
+              "end": 70,
+              "expanded_url": "https://x.com/tumaomao11/status/2067538783294382231/photo/1",
+              "media_key": "3_2067538771000926208",
+              "start": 47,
+              "url": "https://t.co/upnwfwk3G6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067575510784463200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067538783294382231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tumaomao11: Day43 画了百变anon 第二期\n#千早愛音 #MyGO https://t.co/upnwfwk3G6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067538771000926208"
+          ]
+        },
+        "author_id": "1415356544640708610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067538783294382231",
+        "created_at": "2026-06-18T09:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067538783294382231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "千早愛音"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upnwfwk3G6",
+              "end": 54,
+              "expanded_url": "https://x.com/tumaomao11/status/2067538783294382231/photo/1",
+              "media_key": "3_2067538771000926208",
+              "start": 31,
+              "url": "https://t.co/upnwfwk3G6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538783294382231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3020,
+          "like_count": 410,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "Day43 画了百变anon 第二期\n#千早愛音 #MyGO https://t.co/upnwfwk3G6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 425,
+          "like_count": 6992,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T17:04:38.000Z",
+        "description": "=兔猫 全平台同id 感谢关注，粉丝交流群：305856608。b站工坊&mhs百日绘橱窗已上线！\n商业合作 | tumaomao11@gmail.com\nIllustrator，Anon Chihaya🩷/ MyGO💞\nNO AI🚫 All platform ID is 兔猫锚.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/80815…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/80815813",
+                "start": 0,
+                "url": "https://t.co/IrBqyJ9ZML"
+              }
+            ]
+          }
+        },
+        "id": "1415356544640708610",
+        "name": "兔猫锚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659113726992343040/upokmIlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 507,
+          "like_count": 497,
+          "listed_count": 13,
+          "media_count": 171,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/IrBqyJ9ZML",
+        "username": "tumaomao11",
+        "verified": false
+      }
+    ]
+  }
+}

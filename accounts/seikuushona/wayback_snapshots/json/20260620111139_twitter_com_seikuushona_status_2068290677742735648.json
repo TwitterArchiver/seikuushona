@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2068289265868689432",
+    "created_at": "2026-06-20T11:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068290677742735648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        },
+        {
+          "end": 28,
+          "id": "2065400061757145088",
+          "start": 13,
+          "username": "kuuki_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068290677742735648",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068289265868689432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 @kuuki_official R.P.G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2068289265868689432",
+        "created_at": "2026-06-20T11:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068290677742735648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            },
+            {
+              "end": 28,
+              "id": "2065400061757145088",
+              "start": 13,
+              "username": "kuuki_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068290677742735648",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068289265868689432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 @kuuki_official R.P.G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2068289265868689432",
+        "created_at": "2026-06-20T11:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068289265868689432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2065400061757145088",
+              "start": 5,
+              "username": "kuuki_official"
+            },
+            {
+              "end": 33,
+              "id": "1846596976265326592",
+              "start": 21,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068289265868689432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发情况\n@kuuki_official @voidsama777 \n号主 又名“クウキ”被发现熟睡在中国山东的家中，祂一切安好，现年16岁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 504,
+          "like_count": 8250,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n挂国旗是喜欢♡谢谢\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 233,
+          "like_count": 9327,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T11:46:22.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\nThank you for following",
+        "id": "2065400061757145088",
+        "location": " ＩＮＴＥＲＮＥＴ ",
+        "name": "✟ kuuki ✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065401435404320768/lniCS-cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 28,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "kuuki_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067539409227198917",
+    "created_at": "2026-06-19T01:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067777162078539813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045127800324288513",
+          "start": 0,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067777162078539813",
+    "in_reply_to_user_id": "2045127800324288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067539409227198917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yacht_ono 先发后改...？\n但看起来像只是扔软件里跑就什么都不管的样子。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2067539398686810112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFgIPnaIAAPBN-.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067539409227198917",
+        "created_at": "2026-06-19T01:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067777162078539813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045127800324288513",
+              "start": 0,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067777162078539813",
+        "in_reply_to_user_id": "2045127800324288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067539409227198917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yacht_ono 先发后改...？\n但看起来像只是扔软件里跑就什么都不管的样子。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067539398686810112"
+          ]
+        },
+        "author_id": "2045127800324288513",
+        "conversation_id": "2067539409227198917",
+        "created_at": "2026-06-18T09:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067539409227198917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VIXFEBFyD",
+              "end": 42,
+              "expanded_url": "https://x.com/yacht_ono/status/2067539409227198917/photo/1",
+              "media_key": "3_2067539398686810112",
+              "start": 19,
+              "url": "https://t.co/7VIXFEBFyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067539409227198917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 195608,
+          "like_count": 1876,
+          "quote_count": 17,
+          "reply_count": 282,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "你们买推特号发广告 能不能先换个头像 https://t.co/7VIXFEBFyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 441,
+          "like_count": 7233,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2066917575884460113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 37,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

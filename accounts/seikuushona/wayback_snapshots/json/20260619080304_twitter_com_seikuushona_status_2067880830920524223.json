@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067880830920524223",
+    "created_at": "2026-06-19T08:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067880830920524223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006339026559889409",
+          "start": 3,
+          "username": "mafumrlon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/DmXc2D",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/DmXc2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067880830920524223",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 601
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067259156000567303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mafumrlon: NO ONE in the PJSK fandom can deny that these cards are the most romantic and intimate cards of the game https://t.co/DmXc2D…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2067259150023684097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBhPn_WcAEUA1D.jpg",
+        "width": 750
+      },
+      {
+        "height": 750,
+        "media_key": "3_2067259150023667712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBhPn_WMAAS6J0.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067880830920524223",
+        "created_at": "2026-06-19T08:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067880830920524223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006339026559889409",
+              "start": 3,
+              "username": "mafumrlon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/DmXc2D",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/DmXc2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067880830920524223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 601
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067259156000567303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mafumrlon: NO ONE in the PJSK fandom can deny that these cards are the most romantic and intimate cards of the game https://t.co/DmXc2D…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067259150023684097",
+            "3_2067259150023667712"
+          ]
+        },
+        "author_id": "2006339026559889409",
+        "conversation_id": "2067259156000567303",
+        "created_at": "2026-06-17T14:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067259156000567303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmXc2D68VR",
+              "end": 128,
+              "expanded_url": "https://x.com/mafumrlon/status/2067259156000567303/photo/1",
+              "media_key": "3_2067259150023684097",
+              "start": 105,
+              "url": "https://t.co/DmXc2D68VR"
+            },
+            {
+              "display_url": "pic.x.com/DmXc2D68VR",
+              "end": 128,
+              "expanded_url": "https://x.com/mafumrlon/status/2067259156000567303/photo/1",
+              "media_key": "3_2067259150023667712",
+              "start": 105,
+              "url": "https://t.co/DmXc2D68VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067259156000567303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 28238,
+          "like_count": 3601,
+          "quote_count": 42,
+          "reply_count": 20,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "NO ONE in the PJSK fandom can deny that these cards are the most romantic and intimate cards of the game https://t.co/DmXc2D68VR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 466,
+          "like_count": 7739,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T12:18:13.000Z",
+        "description": "⸝⸝ #朝比奈まふゆ’s beloved ♡ NON sharing",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 3,
+                "tag": "朝比奈まふゆ"
+              }
+            ]
+          }
+        },
+        "id": "2006339026559889409",
+        "location": "mafuyu’s arms ♡",
+        "name": "melon ♡ mafuyu’s fawn",
+        "pinned_tweet_id": "2065674577661845737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063824354949890048/-WX2vWIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 697,
+          "like_count": 3119,
+          "listed_count": 15,
+          "media_count": 816,
+          "tweet_count": 3944
+        },
+        "url": "",
+        "username": "mafumrlon",
+        "verified": false
+      }
+    ]
+  }
+}

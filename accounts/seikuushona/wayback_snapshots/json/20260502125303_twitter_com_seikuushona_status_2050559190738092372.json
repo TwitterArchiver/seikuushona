@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050141320849874944"
+      ],
+      "media_source_tweet_id": [
+        "2050141327741141401"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050559190738092372",
+    "created_at": "2026-05-02T12:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050559190738092372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770817179887280129",
+          "start": 3,
+          "username": "shoshi444_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oKT5YbNXnJ",
+          "end": 39,
+          "expanded_url": "https://x.com/shoshi444_/status/2050141327741141401/photo/1",
+          "media_key": "3_2050141320849874944",
+          "start": 16,
+          "url": "https://t.co/oKT5YbNXnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050559190738092372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1078
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050141327741141401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shoshi444_: https://t.co/oKT5YbNXnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050141320849874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOQq1CbYAAgd1X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050141320849874944"
+          ],
+          "media_source_tweet_id": [
+            "2050141327741141401"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050559190738092372",
+        "created_at": "2026-05-02T12:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050559190738092372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770817179887280129",
+              "start": 3,
+              "username": "shoshi444_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKT5YbNXnJ",
+              "end": 39,
+              "expanded_url": "https://x.com/shoshi444_/status/2050141327741141401/photo/1",
+              "media_key": "3_2050141320849874944",
+              "start": 16,
+              "url": "https://t.co/oKT5YbNXnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050559190738092372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050141327741141401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shoshi444_: https://t.co/oKT5YbNXnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050141320849874944"
+          ]
+        },
+        "author_id": "1770817179887280129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050141327741141401",
+        "created_at": "2026-05-01T09:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050141327741141401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKT5YbNXnJ",
+              "end": 23,
+              "expanded_url": "https://x.com/shoshi444_/status/2050141327741141401/photo/1",
+              "media_key": "3_2050141320849874944",
+              "start": 0,
+              "url": "https://t.co/oKT5YbNXnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050141327741141401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 758,
+          "impression_count": 144462,
+          "like_count": 15192,
+          "quote_count": 35,
+          "reply_count": 25,
+          "retweet_count": 1078
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oKT5YbNXnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 234,
+          "like_count": 2890,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T14:18:24.000Z",
+        "description": "I make music for Teto! JP/EN he/him i : @uwa_illust_v16v fan-art : #しょしぶし #ナマステト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "しょしぶし"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "ナマステト"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "uwa_illust_v16v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shoshi444_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shoshi444_",
+                "start": 0,
+                "url": "https://t.co/GaV8BOt0X4"
+              }
+            ]
+          }
+        },
+        "id": "1770817179887280129",
+        "location": "444shoshi@gmail.com",
+        "name": "shoshi444_",
+        "pinned_tweet_id": "2039123996969779457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977775829380993024/n5RpcAhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 589,
+          "like_count": 13658,
+          "listed_count": 4,
+          "media_count": 733,
+          "tweet_count": 5012
+        },
+        "url": "https://t.co/GaV8BOt0X4",
+        "username": "shoshi444_",
+        "verified": true
+      }
+    ]
+  }
+}

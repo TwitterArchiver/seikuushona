@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049088897142165505"
+      ],
+      "media_source_tweet_id": [
+        "2049503975125237785"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2049849585649308034",
+    "created_at": "2026-04-30T13:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049849585649308034"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "プロセカ"
+        },
+        {
+          "end": 111,
+          "start": 99,
+          "tag": "東雲絵名誕生祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158668053183266816",
+          "start": 3,
+          "username": "pj_sekai"
+        },
+        {
+          "end": 77,
+          "id": "1388088510570123266",
+          "start": 67,
+          "username": "saki_noji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7WBL2mJW7",
+          "end": 135,
+          "expanded_url": "https://x.com/pj_sekai/status/2049503975125237785/photo/1",
+          "media_key": "3_2049088897142165505",
+          "start": 112,
+          "url": "https://t.co/X7WBL2mJW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049849585649308034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049503975125237785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pj_sekai: ㊗️本日4月30日は\n🎧25時、ナイトコードで。💻\n🎉🎂東雲絵名の誕生日🎂🎉\n\n誕生日イラストは咲の字。（@saki_noji）さんに担当いただきました✨\n\n#プロセカ #東雲絵名誕生祭2026 https://t.co/X7WBL2mJW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3776,
+        "media_key": "3_2049088897142165505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_TftNbEAEhvUK.jpg",
+        "width": 3359
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049088897142165505"
+          ],
+          "media_source_tweet_id": [
+            "2049503975125237785"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049849585649308034",
+        "created_at": "2026-04-30T13:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049849585649308034"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 111,
+              "start": 99,
+              "tag": "東雲絵名誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158668053183266816",
+              "start": 3,
+              "username": "pj_sekai"
+            },
+            {
+              "end": 77,
+              "id": "1388088510570123266",
+              "start": 67,
+              "username": "saki_noji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7WBL2mJW7",
+              "end": 135,
+              "expanded_url": "https://x.com/pj_sekai/status/2049503975125237785/photo/1",
+              "media_key": "3_2049088897142165505",
+              "start": 112,
+              "url": "https://t.co/X7WBL2mJW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049849585649308034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049503975125237785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pj_sekai: ㊗️本日4月30日は\n🎧25時、ナイトコードで。💻\n🎉🎂東雲絵名の誕生日🎂🎉\n\n誕生日イラストは咲の字。（@saki_noji）さんに担当いただきました✨\n\n#プロセカ #東雲絵名誕生祭2026 https://t.co/X7WBL2mJW7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049088897142165505"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049503975125237785",
+        "created_at": "2026-04-29T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049503975125237785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "東雲絵名誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1388088510570123266",
+              "start": 53,
+              "username": "saki_noji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7WBL2mJW7",
+              "end": 121,
+              "expanded_url": "https://x.com/pj_sekai/status/2049503975125237785/photo/1",
+              "media_key": "3_2049088897142165505",
+              "start": 98,
+              "url": "https://t.co/X7WBL2mJW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049503975125237785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2830,
+          "impression_count": 1150220,
+          "like_count": 58766,
+          "quote_count": 1118,
+          "reply_count": 240,
+          "retweet_count": 15244
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️本日4月30日は\n🎧25時、ナイトコードで。💻\n🎉🎂東雲絵名の誕生日🎂🎉\n\n誕生日イラストは咲の字。（@saki_noji）さんに担当いただきました✨\n\n#プロセカ #東雲絵名誕生祭2026 https://t.co/X7WBL2mJW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 195,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306920,
+          "following_count": 616,
+          "like_count": 27,
+          "listed_count": 8952,
+          "media_count": 13999,
+          "tweet_count": 19022
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-30T11:11:59.000Z",
+        "description": "イラストレーター/PHASE STUDIO ご連絡 saki.noji.0305@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/saki_noji?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/saki_noji?igsh=M2VlcG1pN2w5NXd4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/v2LirQ55cg"
+              }
+            ]
+          }
+        },
+        "id": "1388088510570123266",
+        "location": "⚠️無断転載無断使用、AI学習は許可しておりません",
+        "name": "咲の字 。(sakinoji)",
+        "pinned_tweet_id": "1784565984269062363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388089785785323520/ZrNtaI4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34723,
+          "following_count": 226,
+          "like_count": 5605,
+          "listed_count": 308,
+          "media_count": 90,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/v2LirQ55cg",
+        "username": "saki_noji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045337384615805194",
+    "created_at": "2026-04-18T03:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045337384615805194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025943126834352128",
+          "start": 3,
+          "username": "Ggod323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045337384615805194",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34905
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044993649054781483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ggod323: I genuinely dont remember half my life"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045337384615805194",
+        "created_at": "2026-04-18T03:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045337384615805194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025943126834352128",
+              "start": 3,
+              "username": "Ggod323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045337384615805194",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34905
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044993649054781483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ggod323: I genuinely dont remember half my life"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025943126834352128",
+        "conversation_id": "2044993649054781483",
+        "created_at": "2026-04-17T04:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044993649054781483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044993649054781483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8205,
+          "impression_count": 3014598,
+          "like_count": 209798,
+          "quote_count": 1200,
+          "reply_count": 851,
+          "retweet_count": 34905
+        },
+        "reply_settings": "everyone",
+        "text": "I genuinely dont remember half my life"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 157,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T14:37:49.000Z",
+        "description": "drawing conclusions | 17",
+        "id": "2025943126834352128",
+        "name": "323",
+        "pinned_tweet_id": "2037700619213946979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025943184757469184/b1O3e_4I_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 238,
+          "like_count": 6109,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 809
+        },
+        "username": "Ggod323",
+        "verified": false
+      }
+    ]
+  }
+}

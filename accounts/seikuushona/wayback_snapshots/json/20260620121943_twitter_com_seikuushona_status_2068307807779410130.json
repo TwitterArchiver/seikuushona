@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068256685014310912"
+      ],
+      "media_source_tweet_id": [
+        "2068256807542481373"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2068307807779410130",
+    "created_at": "2026-06-20T12:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068307807779410130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "426408938",
+          "start": 3,
+          "username": "RowanKanon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/df73F2MYXd",
+          "end": 46,
+          "expanded_url": "https://x.com/RowanKanon/status/2068256807542481373/photo/1",
+          "media_key": "3_2068256685014310912",
+          "start": 23,
+          "url": "https://t.co/df73F2MYXd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068307807779410130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068256807542481373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RowanKanon: WL2的那個 https://t.co/df73F2MYXd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2068256685014310912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPsfzaa4AAC5HW.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068256685014310912"
+          ],
+          "media_source_tweet_id": [
+            "2068256807542481373"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2068307807779410130",
+        "created_at": "2026-06-20T12:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068307807779410130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "426408938",
+              "start": 3,
+              "username": "RowanKanon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/df73F2MYXd",
+              "end": 46,
+              "expanded_url": "https://x.com/RowanKanon/status/2068256807542481373/photo/1",
+              "media_key": "3_2068256685014310912",
+              "start": 23,
+              "url": "https://t.co/df73F2MYXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068307807779410130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068256807542481373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RowanKanon: WL2的那個 https://t.co/df73F2MYXd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068256685014310912"
+          ]
+        },
+        "author_id": "426408938",
+        "conversation_id": "2068256807542481373",
+        "created_at": "2026-06-20T08:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068256807542481373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/df73F2MYXd",
+              "end": 30,
+              "expanded_url": "https://x.com/RowanKanon/status/2068256807542481373/photo/1",
+              "media_key": "3_2068256685014310912",
+              "start": 7,
+              "url": "https://t.co/df73F2MYXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068256807542481373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 5592,
+          "like_count": 595,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "WL2的那個 https://t.co/df73F2MYXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 520,
+          "like_count": 8439,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-02T06:16:10.000Z",
+        "description": "雜繪圖帳，CP固定、 20↑、PJSK繁體服進度。\n雑多、好きで絵を描いている。\nWhen reposting please indicate the source. 󠀠 \n📜profile👉https://t.co/3ylf1fbnJZ\n✉️仕事依頼等はこちらへ👉wintermagic.tw@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/RowanKanon",
+                "end": 119,
+                "expanded_url": "http://twpf.jp/RowanKanon",
+                "start": 96,
+                "url": "https://t.co/3ylf1fbnJZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/RowanKanon",
+                "end": 23,
+                "expanded_url": "http://portaly.cc/RowanKanon",
+                "start": 0,
+                "url": "https://t.co/eVNFeeZpR2"
+              }
+            ]
+          }
+        },
+        "id": "426408938",
+        "location": "禁止AI學習．轉載請附出處",
+        "name": "若望RuoWang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763402090326667265/kMsT4dVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1083,
+          "like_count": 2240,
+          "listed_count": 16,
+          "media_count": 1495,
+          "tweet_count": 16247
+        },
+        "url": "https://t.co/eVNFeeZpR2",
+        "username": "RowanKanon",
+        "verified": false
+      }
+    ]
+  }
+}

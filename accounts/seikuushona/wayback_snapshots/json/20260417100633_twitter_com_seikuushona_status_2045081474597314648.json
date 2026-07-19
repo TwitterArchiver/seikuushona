@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2044727392170885579",
+    "created_at": "2026-04-17T10:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045081474597314648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1401377401838264320",
+          "start": 0,
+          "username": "BbdBlue5"
+        },
+        {
+          "end": 17,
+          "id": "1676101365465235457",
+          "start": 10,
+          "username": "qgmzmy"
+        },
+        {
+          "end": 28,
+          "id": "1930871432998965248",
+          "start": 18,
+          "username": "renoshade"
+        },
+        {
+          "end": 39,
+          "id": "1751497892001685504",
+          "start": 29,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045081474597314648",
+    "in_reply_to_user_id": "1401377401838264320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044809597358371037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbdBlue5 @qgmzmy @renoshade @45_206MHz Got our pickaxe swinging from side to side"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2044727392170885579",
+        "created_at": "2026-04-17T10:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045081474597314648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1401377401838264320",
+              "start": 0,
+              "username": "BbdBlue5"
+            },
+            {
+              "end": 17,
+              "id": "1676101365465235457",
+              "start": 10,
+              "username": "qgmzmy"
+            },
+            {
+              "end": 28,
+              "id": "1930871432998965248",
+              "start": 18,
+              "username": "renoshade"
+            },
+            {
+              "end": 39,
+              "id": "1751497892001685504",
+              "start": 29,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045081474597314648",
+        "in_reply_to_user_id": "1401377401838264320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044809597358371037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbdBlue5 @qgmzmy @renoshade @45_206MHz Got our pickaxe swinging from side to side"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401377401838264320",
+        "conversation_id": "2044727392170885579",
+        "created_at": "2026-04-16T16:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044809597358371037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676101365465235457",
+              "start": 0,
+              "username": "qgmzmy"
+            },
+            {
+              "end": 18,
+              "id": "1930871432998965248",
+              "start": 8,
+              "username": "renoshade"
+            },
+            {
+              "end": 29,
+              "id": "1751497892001685504",
+              "start": 19,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044809597358371037",
+        "in_reply_to_user_id": "1676101365465235457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044800668423299303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qgmzmy @renoshade @45_206MHz So we back in the mine"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 131,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T03:16:37.000Z",
+        "description": "你说你恨我 那跟想我有什么区别",
+        "id": "1401377401838264320",
+        "name": "北北",
+        "pinned_tweet_id": "1858572447345504388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851887405646909440/l-28RYp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 487,
+          "like_count": 39169,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 1251
+        },
+        "username": "BbdBlue5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T05:31:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.qgmzmy.me",
+                "end": 23,
+                "expanded_url": "https://blog.qgmzmy.me",
+                "start": 0,
+                "url": "https://t.co/N26RxgKESL"
+              }
+            ]
+          }
+        },
+        "id": "1676101365465235457",
+        "location": "평양 직할시",
+        "name": "qgmzmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678357802753081344/UrFmWcen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 94,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/N26RxgKESL",
+        "username": "qgmzmy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T06:17:42.000Z",
+        "description": "",
+        "id": "1930871432998965248",
+        "name": "瑞诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044791302035038208/YysNl1bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "renoshade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic（性别冷淡）\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 122,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 99,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 495,
+          "like_count": 33106,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 3749
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

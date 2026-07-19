@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063970242645426176"
+      ],
+      "media_source_tweet_id": [
+        "2063970251193426398"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2064231068094570865",
+    "created_at": "2026-06-09T06:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064231068094570865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCJSYG5XeB",
+          "end": 121,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2063970251193426398/photo/1",
+          "media_key": "3_2063970242645426176",
+          "start": 98,
+          "url": "https://t.co/zCJSYG5XeB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064231068094570865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063970251193426398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 您看您说的这是人话吗？\n\n不大面积采用扫码支付就是落后国家？在扫码支付方面落后，其他地方就一定全落后？另外，「扫码支付」何时变成评判「发达国家」的标准了？ https://t.co/zCJSYG5XeB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_2063970242645426176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSyABPbgAArtdo.jpg",
+        "width": 1409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063970242645426176"
+          ],
+          "media_source_tweet_id": [
+            "2063970251193426398"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2064231068094570865",
+        "created_at": "2026-06-09T06:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064231068094570865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCJSYG5XeB",
+              "end": 121,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2063970251193426398/photo/1",
+              "media_key": "3_2063970242645426176",
+              "start": 98,
+              "url": "https://t.co/zCJSYG5XeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064231068094570865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063970251193426398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 您看您说的这是人话吗？\n\n不大面积采用扫码支付就是落后国家？在扫码支付方面落后，其他地方就一定全落后？另外，「扫码支付」何时变成评判「发达国家」的标准了？ https://t.co/zCJSYG5XeB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063970242645426176"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2063970251193426398",
+        "created_at": "2026-06-08T13:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063970251193426398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCJSYG5XeB",
+              "end": 101,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2063970251193426398/photo/1",
+              "media_key": "3_2063970242645426176",
+              "start": 78,
+              "url": "https://t.co/zCJSYG5XeB"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2062701185023214012",
+              "start": 102,
+              "url": "https://t.co/0McpRd5Efw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063970251193426398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8159,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062701185023214012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您看您说的这是人话吗？\n\n不大面积采用扫码支付就是落后国家？在扫码支付方面落后，其他地方就一定全落后？另外，「扫码支付」何时变成评判「发达国家」的标准了？ https://t.co/zCJSYG5XeB https://t.co/0McpRd5Efw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 336,
+          "like_count": 5257,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 869,
+          "like_count": 25061,
+          "listed_count": 8,
+          "media_count": 1382,
+          "tweet_count": 7631
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

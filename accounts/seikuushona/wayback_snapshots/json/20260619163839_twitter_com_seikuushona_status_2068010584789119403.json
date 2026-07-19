@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067943322598117376"
+      ],
+      "media_source_tweet_id": [
+        "2067943324724695452"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2068010584789119403",
+    "created_at": "2026-06-19T16:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068010584789119403"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "みずえな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017260676490969088",
+          "start": 3,
+          "username": "enaluvday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DxOpyazs37",
+          "end": 44,
+          "expanded_url": "https://x.com/enaluvday/status/2067943324724695452/photo/1",
+          "media_key": "3_2067943322598117376",
+          "start": 21,
+          "url": "https://t.co/DxOpyazs37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068010584789119403",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067943324724695452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enaluvday: #みずえな https://t.co/DxOpyazs37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067943322598117376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLPftcaEAAw5Gh.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067943322598117376"
+          ],
+          "media_source_tweet_id": [
+            "2067943324724695452"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2068010584789119403",
+        "created_at": "2026-06-19T16:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068010584789119403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "みずえな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017260676490969088",
+              "start": 3,
+              "username": "enaluvday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxOpyazs37",
+              "end": 44,
+              "expanded_url": "https://x.com/enaluvday/status/2067943324724695452/photo/1",
+              "media_key": "3_2067943322598117376",
+              "start": 21,
+              "url": "https://t.co/DxOpyazs37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068010584789119403",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067943324724695452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enaluvday: #みずえな https://t.co/DxOpyazs37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067943322598117376"
+          ]
+        },
+        "author_id": "2017260676490969088",
+        "conversation_id": "2067943324724695452",
+        "created_at": "2026-06-19T12:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067943324724695452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "みずえな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxOpyazs37",
+              "end": 29,
+              "expanded_url": "https://x.com/enaluvday/status/2067943324724695452/photo/1",
+              "media_key": "3_2067943322598117376",
+              "start": 6,
+              "url": "https://t.co/DxOpyazs37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067943324724695452",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 16415,
+          "like_count": 2570,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "#みずえな https://t.co/DxOpyazs37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 494,
+          "like_count": 8071,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T15:40:09.000Z",
+        "description": "💍 @yoiyoi__00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "yoiyoi__00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hiyo25",
+                "end": 23,
+                "expanded_url": "http://lit.link/hiyo25",
+                "start": 0,
+                "url": "https://t.co/UUdRU51dFL"
+              }
+            ]
+          }
+        },
+        "id": "2017260676490969088",
+        "location": "えにゃ",
+        "name": "ひよ",
+        "pinned_tweet_id": "2032361134939132064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067189831223115776/66BU4DWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 165,
+          "like_count": 3308,
+          "listed_count": 14,
+          "media_count": 15,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/UUdRU51dFL",
+        "username": "enaluvday",
+        "verified": false
+      }
+    ]
+  }
+}

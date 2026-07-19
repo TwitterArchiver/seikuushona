@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049555506675777536"
+      ],
+      "media_source_tweet_id": [
+        "2049555509624312217"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1395109724786290690",
+          "name": "Travel accommodations "
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2049843200073117715",
+    "created_at": "2026-04-30T13:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049843200073117715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "337119125",
+          "start": 3,
+          "username": "wongmjane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9J18oIruCu",
+          "end": 82,
+          "expanded_url": "https://x.com/wongmjane/status/2049555509624312217/photo/1",
+          "media_key": "3_2049555506675777536",
+          "start": 59,
+          "url": "https://t.co/9J18oIruCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049843200073117715",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 655
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049555509624312217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @wongmjane: Using Chinese AI models for coding be like: https://t.co/9J18oIruCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2059,
+        "media_key": "3_2049555506675777536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHF739LbAAAcB2M.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049555506675777536"
+          ],
+          "media_source_tweet_id": [
+            "2049555509624312217"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2049843200073117715",
+        "created_at": "2026-04-30T13:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049843200073117715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "337119125",
+              "start": 3,
+              "username": "wongmjane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9J18oIruCu",
+              "end": 82,
+              "expanded_url": "https://x.com/wongmjane/status/2049555509624312217/photo/1",
+              "media_key": "3_2049555506675777536",
+              "start": 59,
+              "url": "https://t.co/9J18oIruCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049843200073117715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 655
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049555509624312217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @wongmjane: Using Chinese AI models for coding be like: https://t.co/9J18oIruCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049555506675777536"
+          ]
+        },
+        "author_id": "337119125",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2049555509624312217",
+        "created_at": "2026-04-29T18:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049555509624312217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9J18oIruCu",
+              "end": 67,
+              "expanded_url": "https://x.com/wongmjane/status/2049555509624312217/photo/1",
+              "media_key": "3_2049555506675777536",
+              "start": 44,
+              "url": "https://t.co/9J18oIruCu"
+            },
+            {
+              "display_url": "x.com/rachyljones/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/rachyljones/status/2049529702046408910",
+              "start": 68,
+              "url": "https://t.co/t4HvLliaEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049555509624312217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1214,
+          "impression_count": 1004716,
+          "like_count": 9791,
+          "quote_count": 117,
+          "reply_count": 20,
+          "retweet_count": 655
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049529702046408910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Using Chinese AI models for coding be like: https://t.co/9J18oIruCu https://t.co/t4HvLliaEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 194,
+          "like_count": 2098,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-17T13:48:53.000Z",
+        "description": "“The woman scooping Silicon Valley” — BBC・hacker turned builder, writer & consultant・prev: Threads, Instagram, startups",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wongmjane.com",
+                "end": 23,
+                "expanded_url": "https://wongmjane.com",
+                "start": 0,
+                "url": "https://t.co/Wkd2OfXgQR"
+              }
+            ]
+          }
+        },
+        "id": "337119125",
+        "location": "San Francisco, CA",
+        "name": "Jane Manchun Wong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001468039167180800/fQLK2MWx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178779,
+          "following_count": 2849,
+          "like_count": 209196,
+          "listed_count": 2050,
+          "media_count": 7917,
+          "tweet_count": 41177
+        },
+        "url": "https://t.co/Wkd2OfXgQR",
+        "username": "wongmjane",
+        "verified": true
+      }
+    ]
+  }
+}

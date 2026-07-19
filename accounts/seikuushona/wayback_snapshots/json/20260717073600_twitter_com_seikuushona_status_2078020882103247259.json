@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2077926653049872560",
+    "created_at": "2026-07-17T07:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078020882103247259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438140768091140096",
+          "start": 0,
+          "username": "kumatamasan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078020882103247259",
+    "in_reply_to_user_id": "1438140768091140096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077926653049872560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumatamasan 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2077926653049872560",
+        "created_at": "2026-07-17T07:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078020882103247259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438140768091140096",
+              "start": 0,
+              "username": "kumatamasan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078020882103247259",
+        "in_reply_to_user_id": "1438140768091140096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077926653049872560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumatamasan 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438140768091140096",
+        "conversation_id": "2077926653049872560",
+        "created_at": "2026-07-17T01:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077926653049872560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "日常"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077926653049872560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 957,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早安民那，但只是早安的话就有点太水了\n悄悄透露一个小秘密，现在点我头像能看到🎈在飞\n#日常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1099,
+          "like_count": 15325,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T14:03:14.000Z",
+        "description": "Cn/En/Jp🌐 #日本語間違えてたら教えて | 散步才是正经事，不管是不是在动物园🐾 | 书推评论号 @Cordifhyura",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 10,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Cordifhyura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pomalfunction.wordpress.com/contact/",
+                "end": 23,
+                "expanded_url": "https://pomalfunction.wordpress.com/contact/",
+                "start": 0,
+                "url": "https://t.co/qjoYdGGi4b"
+              }
+            ]
+          }
+        },
+        "id": "1438140768091140096",
+        "location": "妖都",
+        "name": "たまき🏵",
+        "pinned_tweet_id": "2077926653049872560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061151929011707904/gqokWGMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 1657,
+          "like_count": 35008,
+          "listed_count": 9,
+          "media_count": 3455,
+          "tweet_count": 16121
+        },
+        "url": "https://t.co/qjoYdGGi4b",
+        "username": "kumatamasan",
+        "verified": false
+      }
+    ]
+  }
+}

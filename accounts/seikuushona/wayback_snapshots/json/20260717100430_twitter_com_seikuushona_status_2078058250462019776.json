@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2077921823971573991",
+    "created_at": "2026-07-17T10:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078058250462019776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078058250462019776",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077921823971573991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyilingyi 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2077921823971573991",
+        "created_at": "2026-07-17T10:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078058250462019776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078058250462019776",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077921823971573991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyilingyi 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2077921823971573991",
+        "created_at": "2026-07-17T01:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077921823971573991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077921823971573991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少人可以看到绫的推文喵🤐😇🤗🤕🤧🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1104,
+          "like_count": 15413,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "✨朝雾绫澜✨｜本人已成年，无不良引导｜含糖🍥｜清水日常推✨｜同类互fo，其他fo会查成分回关｜转生版｜喜欢一切可爱的事物🎉我错了小团体别举报我了",
+        "id": "1796471454839816192",
+        "location": "距离你1米",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2076886094776574354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 492,
+          "like_count": 3116,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1393
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

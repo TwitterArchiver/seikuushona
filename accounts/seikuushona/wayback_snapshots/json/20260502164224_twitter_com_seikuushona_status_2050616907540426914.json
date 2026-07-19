@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2050616907540426914",
+    "created_at": "2026-05-02T16:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050616907540426914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1836069508303216640",
+          "start": 3,
+          "username": "kagamidefence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050616907540426914",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1559
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050314793400082649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagamidefence: I feel incredible pain every time I see someone post a link without removing tracking tags"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2050616907540426914",
+        "created_at": "2026-05-02T16:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050616907540426914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1836069508303216640",
+              "start": 3,
+              "username": "kagamidefence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050616907540426914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050314793400082649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagamidefence: I feel incredible pain every time I see someone post a link without removing tracking tags"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836069508303216640",
+        "conversation_id": "2050314793400082649",
+        "created_at": "2026-05-01T20:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050314793400082649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/terminallyOL/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/terminallyOL/status/2050285848466215290",
+              "start": 91,
+              "url": "https://t.co/eQHd95S1oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050314793400082649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6893,
+          "impression_count": 1266100,
+          "like_count": 27542,
+          "quote_count": 50,
+          "reply_count": 65,
+          "retweet_count": 1559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050285848466215290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I feel incredible pain every time I see someone post a link without removing tracking tags https://t.co/eQHd95S1oP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 243,
+          "like_count": 3011,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T15:47:57.000Z",
+        "description": "follow to expand the kagami network",
+        "id": "1836069508303216640",
+        "name": "kdf",
+        "pinned_tweet_id": "1910444130939068573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041272680671031296/2z8AzfvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1569,
+          "like_count": 29712,
+          "listed_count": 4,
+          "media_count": 932,
+          "tweet_count": 9922
+        },
+        "username": "kagamidefence",
+        "verified": false
+      }
+    ]
+  }
+}

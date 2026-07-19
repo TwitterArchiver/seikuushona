@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049895558592987136"
+      ],
+      "media_source_tweet_id": [
+        "2049895560417567038"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2050084822228537679",
+    "created_at": "2026-05-01T05:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050084822228537679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1909542639495757824",
+          "start": 3,
+          "username": "techbromemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOsi8b1nse",
+          "end": 41,
+          "expanded_url": "https://x.com/techbromemes/status/2049895560417567038/photo/1",
+          "media_key": "3_2049895558592987136",
+          "start": 18,
+          "url": "https://t.co/vOsi8b1nse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050084822228537679",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 774
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049895560417567038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @techbromemes: https://t.co/vOsi8b1nse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2049895558592987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKxJlSWAAAa9Su.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049895558592987136"
+          ],
+          "media_source_tweet_id": [
+            "2049895560417567038"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2050084822228537679",
+        "created_at": "2026-05-01T05:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050084822228537679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909542639495757824",
+              "start": 3,
+              "username": "techbromemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOsi8b1nse",
+              "end": 41,
+              "expanded_url": "https://x.com/techbromemes/status/2049895560417567038/photo/1",
+              "media_key": "3_2049895558592987136",
+              "start": 18,
+              "url": "https://t.co/vOsi8b1nse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050084822228537679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 774
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049895560417567038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @techbromemes: https://t.co/vOsi8b1nse"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049895558592987136"
+          ]
+        },
+        "author_id": "1909542639495757824",
+        "conversation_id": "2049895560417567038",
+        "created_at": "2026-04-30T16:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049895560417567038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOsi8b1nse",
+              "end": 23,
+              "expanded_url": "https://x.com/techbromemes/status/2049895560417567038/photo/1",
+              "media_key": "3_2049895558592987136",
+              "start": 0,
+              "url": "https://t.co/vOsi8b1nse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049895560417567038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 284344,
+          "like_count": 19537,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 774
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vOsi8b1nse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 203,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T09:44:44.000Z",
+        "description": "💻 Tech bro memes | Memeing from first principles | I’m like the Peter Thiel of Memes https://t.co/HMyrShAIqg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "memelord.link/techbro",
+                "end": 108,
+                "expanded_url": "http://memelord.link/techbro",
+                "start": 85,
+                "url": "https://t.co/HMyrShAIqg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memelord.link/techbro",
+                "end": 23,
+                "expanded_url": "https://memelord.link/techbro",
+                "start": 0,
+                "url": "https://t.co/psRFtK8sIG"
+              }
+            ]
+          }
+        },
+        "id": "1909542639495757824",
+        "name": "Tech Bro Memes",
+        "pinned_tweet_id": "1994848595393106395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949602057150959616/O-za4ASr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48815,
+          "following_count": 64,
+          "like_count": 4166,
+          "listed_count": 73,
+          "media_count": 3255,
+          "tweet_count": 5063
+        },
+        "url": "https://t.co/psRFtK8sIG",
+        "username": "techbromemes",
+        "verified": true
+      }
+    ]
+  }
+}

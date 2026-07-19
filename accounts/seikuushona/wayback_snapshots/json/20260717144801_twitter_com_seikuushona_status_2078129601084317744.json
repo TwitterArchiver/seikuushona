@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078074835444638036",
+    "created_at": "2026-07-17T14:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078129601084317744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        },
+        {
+          "end": 18,
+          "id": "1662436643452731392",
+          "start": 9,
+          "username": "rdealy81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078129601084317744",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078078236588990509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 @rdealy81 那是套了 AI 生成内容的，批量生产的广告机器人。\n不要浪费情感在这种地方啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078074835444638036",
+        "created_at": "2026-07-17T14:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078129601084317744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            },
+            {
+              "end": 18,
+              "id": "1662436643452731392",
+              "start": 9,
+              "username": "rdealy81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078129601084317744",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078078236588990509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 @rdealy81 那是套了 AI 生成内容的，批量生产的广告机器人。\n不要浪费情感在这种地方啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672078534469369856",
+        "conversation_id": "2078074835444638036",
+        "created_at": "2026-07-17T11:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078078236588990509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662436643452731392",
+              "start": 0,
+              "username": "rdealy81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078078236588990509",
+        "in_reply_to_user_id": "1662436643452731392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078075029284106258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rdealy81 嗯嗯嗯（点头）emm……🤔，原来官方也会刷帖子，捉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 1132,
+          "like_count": 15688,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 艰难存活ing | 出柜变家暴党藏吃药ing | 163cm/44kg | 推魔女伊蕾娜 | 计算机技术宅 | 记录可爱日常～💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "location": "江苏 徐州",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075210180112064747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 27,
+          "like_count": 290,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:32:47.000Z",
+        "description": "银狐VPN，先下载，后安心。免费2天，邀请再送1天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/pU58oSdQAe"
+              }
+            ]
+          }
+        },
+        "id": "1662436643452731392",
+        "name": "银狐VPN稳定通道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077838812118388736/Ow7NOwid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/pU58oSdQAe",
+        "username": "rdealy81",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067667166682558536",
+    "created_at": "2026-06-19T05:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067841122995732766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054226432860327936",
+          "start": 0,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067841122995732766",
+    "in_reply_to_user_id": "2054226432860327936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067667166682558536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aic_BKY 我认为还蛮好玩的——可能因为这是我第一次接触到的 3A 游戏。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_2067667143056105472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHUT8ebIAANI5s.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067667166682558536",
+        "created_at": "2026-06-19T05:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067841122995732766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067841122995732766",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067667166682558536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 我认为还蛮好玩的——可能因为这是我第一次接触到的 3A 游戏。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067667143056105472"
+          ]
+        },
+        "author_id": "2054226432860327936",
+        "conversation_id": "2067667166682558536",
+        "created_at": "2026-06-18T17:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067667166682558536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCKkZGqlVH",
+              "end": 45,
+              "expanded_url": "https://x.com/Aic_BKY/status/2067667166682558536/photo/1",
+              "media_key": "3_2067667143056105472",
+              "start": 22,
+              "url": "https://t.co/YCKkZGqlVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067667166682558536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网速超慢！！！还有就是这个真的有那么好玩吗 https://t.co/YCKkZGqlVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 450,
+          "like_count": 7434,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "来这里是为了交朋友/喜欢我请私信  我喜欢聊天/重要的人@KuaiWo34671",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "2054226432860327936",
+        "location": "门167/267/667纯绿好友位无区别",
+        "name": "AIC",
+        "pinned_tweet_id": "2064379500310434056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 88,
+          "like_count": 2706,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": false
+      }
+    ]
+  }
+}

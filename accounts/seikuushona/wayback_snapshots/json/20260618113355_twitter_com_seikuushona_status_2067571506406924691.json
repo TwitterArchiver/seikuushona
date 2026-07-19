@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067276246258737152"
+      ],
+      "media_source_tweet_id": [
+        "2067276363040694471"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067571506406924691",
+    "created_at": "2026-06-18T11:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067571506406924691"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "千早愛音"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1415356544640708610",
+          "start": 3,
+          "username": "tumaomao11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WPRmZlTqD9",
+          "end": 61,
+          "expanded_url": "https://x.com/tumaomao11/status/2067276363040694471/photo/1",
+          "media_key": "3_2067276246258737152",
+          "start": 38,
+          "url": "https://t.co/WPRmZlTqD9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067571506406924691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067276363040694471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tumaomao11: Day42 伦敦雨\n#千早愛音 #MyGO https://t.co/WPRmZlTqD9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2384,
+        "media_key": "3_2067276246258737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBwywba4AAimGE.jpg",
+        "width": 2981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067276246258737152"
+          ],
+          "media_source_tweet_id": [
+            "2067276363040694471"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067571506406924691",
+        "created_at": "2026-06-18T11:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067571506406924691"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "千早愛音"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1415356544640708610",
+              "start": 3,
+              "username": "tumaomao11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPRmZlTqD9",
+              "end": 61,
+              "expanded_url": "https://x.com/tumaomao11/status/2067276363040694471/photo/1",
+              "media_key": "3_2067276246258737152",
+              "start": 38,
+              "url": "https://t.co/WPRmZlTqD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067571506406924691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067276363040694471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tumaomao11: Day42 伦敦雨\n#千早愛音 #MyGO https://t.co/WPRmZlTqD9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067276246258737152"
+          ]
+        },
+        "author_id": "1415356544640708610",
+        "conversation_id": "2067276363040694471",
+        "created_at": "2026-06-17T16:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067276363040694471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "千早愛音"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPRmZlTqD9",
+              "end": 45,
+              "expanded_url": "https://x.com/tumaomao11/status/2067276363040694471/photo/1",
+              "media_key": "3_2067276246258737152",
+              "start": 22,
+              "url": "https://t.co/WPRmZlTqD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067276363040694471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 15904,
+          "like_count": 1826,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "Day42 伦敦雨\n#千早愛音 #MyGO https://t.co/WPRmZlTqD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 421,
+          "like_count": 6927,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T17:04:38.000Z",
+        "description": "=兔猫 全平台同id 感谢关注，粉丝交流群：305856608。b站工坊&mhs百日绘橱窗已上线！\n商业合作 | tumaomao11@gmail.com\nIllustrator，Anon Chihaya🩷/ MyGO💞\nNO AI🚫 All platform ID is 兔猫锚.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/80815…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/80815813",
+                "start": 0,
+                "url": "https://t.co/IrBqyJ9ZML"
+              }
+            ]
+          }
+        },
+        "id": "1415356544640708610",
+        "name": "兔猫锚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659113726992343040/upokmIlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 507,
+          "like_count": 497,
+          "listed_count": 13,
+          "media_count": 171,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/IrBqyJ9ZML",
+        "username": "tumaomao11",
+        "verified": false
+      }
+    ]
+  }
+}

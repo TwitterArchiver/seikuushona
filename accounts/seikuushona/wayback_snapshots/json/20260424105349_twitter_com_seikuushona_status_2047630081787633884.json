@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2047630081787633884",
+    "created_at": "2026-04-24T10:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047630081787633884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1233733129199898624",
+          "start": 3,
+          "username": "KANADE_Y0ISAKI_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047630081787633884",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047299232940368154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KANADE_Y0ISAKI_: Analyzing every second of “D/N/A” by Nightcord at 25. \n\n0:00 - silence implying that the song has not started yet. htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2047299229186424832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl3zUiWgAAQ28P.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2047630081787633884",
+        "created_at": "2026-04-24T10:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047630081787633884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1233733129199898624",
+              "start": 3,
+              "username": "KANADE_Y0ISAKI_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047630081787633884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047299232940368154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KANADE_Y0ISAKI_: Analyzing every second of “D/N/A” by Nightcord at 25. \n\n0:00 - silence implying that the song has not started yet. htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047299229186424832"
+          ]
+        },
+        "author_id": "1233733129199898624",
+        "conversation_id": "2047299232940368154",
+        "created_at": "2026-04-23T12:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047299232940368154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8tc4J4EJn",
+              "end": 138,
+              "expanded_url": "https://x.com/KANADE_Y0ISAKI_/status/2047299232940368154/photo/1",
+              "media_key": "3_2047299229186424832",
+              "start": 115,
+              "url": "https://t.co/k8tc4J4EJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047299232940368154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 67237,
+          "like_count": 3607,
+          "quote_count": 13,
+          "reply_count": 11,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "Analyzing every second of “D/N/A” by Nightcord at 25. \n\n0:00 - silence implying that the song has not started yet. https://t.co/k8tc4J4EJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 187,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T12:38:06.000Z",
+        "description": "Daily posts of N25’s composer. Missed Days: 0. Tag us in anything Kanade related! 3 mods! 🪶(@BreadAwesome_), 🪼(@yoisakikanades) and 🐿️ (@lu4kana)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "BreadAwesome_"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "yoisakikanades"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "username": "lu4kana"
+              }
+            ]
+          }
+        },
+        "id": "1233733129199898624",
+        "name": "Daily Kanade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039081440999047169/JihffVSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5547,
+          "following_count": 38,
+          "like_count": 2760,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 1043
+        },
+        "username": "KANADE_Y0ISAKI_",
+        "verified": false
+      }
+    ]
+  }
+}

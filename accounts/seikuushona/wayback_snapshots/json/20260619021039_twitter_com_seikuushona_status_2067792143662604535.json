@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067418352520409535",
+    "created_at": "2026-06-19T02:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067792143662604535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067792143662604535",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067418352520409535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang rage bait."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067418352520409535",
+        "created_at": "2026-06-19T02:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067792143662604535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067792143662604535",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067418352520409535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang rage bait."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677732423667445760",
+        "conversation_id": "2067418352520409535",
+        "created_at": "2026-06-18T01:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067418352520409535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JFGAi/status/2…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/JFGAi/status/2067213935053554031",
+              "start": 23,
+              "url": "https://t.co/Ar89vZB27n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067418352520409535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 52114,
+          "like_count": 406,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067213935053554031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我寻思你没上过大学就算了，连字也不认识吗…… https://t.co/Ar89vZB27n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 445,
+          "like_count": 7378,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2065254868072247314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11310,
+          "following_count": 975,
+          "like_count": 19555,
+          "listed_count": 48,
+          "media_count": 2909,
+          "tweet_count": 9449
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

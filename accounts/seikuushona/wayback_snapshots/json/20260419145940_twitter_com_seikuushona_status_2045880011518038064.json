@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045584341238185984"
+      ],
+      "media_source_tweet_id": [
+        "2045584367502889046"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045880011518038064",
+    "created_at": "2026-04-19T14:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045880011518038064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646506148055629826",
+          "start": 3,
+          "username": "makur0gaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrL815V4b0",
+          "end": 51,
+          "expanded_url": "https://x.com/makur0gaku/status/2045584367502889046/photo/1",
+          "media_key": "3_2045584341238185984",
+          "start": 28,
+          "url": "https://t.co/jrL815V4b0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045880011518038064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3725
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045584367502889046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makur0gaku: お前が死んでどうする？ https://t.co/jrL815V4b0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2045584341238185984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNgHtGagAAFLZ3.png",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045584341238185984"
+          ],
+          "media_source_tweet_id": [
+            "2045584367502889046"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045880011518038064",
+        "created_at": "2026-04-19T14:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045880011518038064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646506148055629826",
+              "start": 3,
+              "username": "makur0gaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrL815V4b0",
+              "end": 51,
+              "expanded_url": "https://x.com/makur0gaku/status/2045584367502889046/photo/1",
+              "media_key": "3_2045584341238185984",
+              "start": 28,
+              "url": "https://t.co/jrL815V4b0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045880011518038064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3725
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045584367502889046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makur0gaku: お前が死んでどうする？ https://t.co/jrL815V4b0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045584341238185984"
+          ]
+        },
+        "author_id": "1646506148055629826",
+        "conversation_id": "2045584367502889046",
+        "created_at": "2026-04-18T19:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045584367502889046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrL815V4b0",
+              "end": 35,
+              "expanded_url": "https://x.com/makur0gaku/status/2045584367502889046/photo/1",
+              "media_key": "3_2045584341238185984",
+              "start": 12,
+              "url": "https://t.co/jrL815V4b0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045584367502889046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 871,
+          "impression_count": 1469975,
+          "like_count": 50435,
+          "quote_count": 102,
+          "reply_count": 53,
+          "retweet_count": 3725
+        },
+        "reply_settings": "everyone",
+        "text": "お前が死んでどうする？ https://t.co/jrL815V4b0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 183,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T13:30:54.000Z",
+        "description": "HTML/CSS/JS/Python/C/C++\nリアル多め/病み/超雑多垢(10％くらい？) @newline_CRLF\n#kosen25s\nScratch: ankouakaisikairoka\nGitHub: kztmrngs\nコミュ障脱したい!!!!\n英語と中国語わかるようにはなりたい。\n問い合わせは下記リンク",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "kosen25s"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "newline_CRLF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kzng.f5.si/links.html",
+                "end": 23,
+                "expanded_url": "https://kzng.f5.si/links.html",
+                "start": 0,
+                "url": "https://t.co/paQt3ARlQ5"
+              }
+            ]
+          }
+        },
+        "id": "1646506148055629826",
+        "location": "Twitter",
+        "name": "まくろ@n月病(",
+        "pinned_tweet_id": "1964689967617397027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027781129533853703/kb1Ks2TP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 2462,
+          "like_count": 62939,
+          "listed_count": 4,
+          "media_count": 3289,
+          "tweet_count": 23999
+        },
+        "url": "https://t.co/paQt3ARlQ5",
+        "username": "makur0gaku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2063692832360353953",
+    "created_at": "2026-06-08T14:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063988885508817163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620292752583032836",
+          "start": 0,
+          "username": "xioy09580384"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063988885508817163",
+    "in_reply_to_user_id": "1620292752583032836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063692832360353953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy09580384 还有三十几天高考了吧，应该是三十几天，反正40天吧，确实还是想了很久的，学的话已经学不太动了，也不是心里没压力，反而是真的感觉很忙，有一点累，说实话是真的很无助，我还能说什么呢，我还能做什么呢？现在的情况简单来说就是躺在家里吧，主要就是先暂时退学，然后主要研究塔菲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2063692832360353953",
+        "created_at": "2026-06-08T14:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063988885508817163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620292752583032836",
+              "start": 0,
+              "username": "xioy09580384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063988885508817163",
+        "in_reply_to_user_id": "1620292752583032836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063692832360353953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy09580384 还有三十几天高考了吧，应该是三十几天，反正40天吧，确实还是想了很久的，学的话已经学不太动了，也不是心里没压力，反而是真的感觉很忙，有一点累，说实话是真的很无助，我还能说什么呢，我还能做什么呢？现在的情况简单来说就是躺在家里吧，主要就是先暂时退学，然后主要研究塔菲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620292752583032836",
+        "conversation_id": "2063692832360353953",
+        "created_at": "2026-06-07T18:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063692832360353953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063692832360353953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 250279,
+          "like_count": 2799,
+          "quote_count": 15,
+          "reply_count": 556,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳大家好！我是来自中国的中国人大家好！💗我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在日本住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，请大家多多关心吧🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 328,
+          "like_count": 5142,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T05:28:08.000Z",
+        "description": "相信要相信 幸福它终将会越靠越近",
+        "id": "1620292752583032836",
+        "location": "in your heart",
+        "name": "kimono萌",
+        "pinned_tweet_id": "2063809328654795106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037405150055477248/uEzTdB2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 744,
+          "like_count": 13130,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 3679
+        },
+        "username": "xioy09580384",
+        "verified": false
+      }
+    ]
+  }
+}

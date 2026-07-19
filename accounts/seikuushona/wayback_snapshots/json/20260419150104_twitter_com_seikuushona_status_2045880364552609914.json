@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045829393759834114"
+      ],
+      "media_source_tweet_id": [
+        "2045829632499569067"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045880364552609914",
+    "created_at": "2026-04-19T15:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045880364552609914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616792457819357185",
+          "start": 3,
+          "username": "faoru_ofuton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pm4kcVCpIo",
+          "end": 48,
+          "expanded_url": "https://x.com/faoru_ofuton/status/2045829632499569067/photo/1",
+          "media_key": "3_2045829393759834114",
+          "start": 25,
+          "url": "https://t.co/Pm4kcVCpIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045880364552609914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045829632499569067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faoru_ofuton: みに合成音声 https://t.co/Pm4kcVCpIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_2045829393759834114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ-_o4bkAIgNan.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045829393759834114"
+          ],
+          "media_source_tweet_id": [
+            "2045829632499569067"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045880364552609914",
+        "created_at": "2026-04-19T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045880364552609914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616792457819357185",
+              "start": 3,
+              "username": "faoru_ofuton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pm4kcVCpIo",
+              "end": 48,
+              "expanded_url": "https://x.com/faoru_ofuton/status/2045829632499569067/photo/1",
+              "media_key": "3_2045829393759834114",
+              "start": 25,
+              "url": "https://t.co/Pm4kcVCpIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045880364552609914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045829632499569067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faoru_ofuton: みに合成音声 https://t.co/Pm4kcVCpIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045829393759834114"
+          ]
+        },
+        "author_id": "1616792457819357185",
+        "conversation_id": "2045829632499569067",
+        "created_at": "2026-04-19T11:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045829632499569067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pm4kcVCpIo",
+              "end": 30,
+              "expanded_url": "https://x.com/faoru_ofuton/status/2045829632499569067/photo/1",
+              "media_key": "3_2045829393759834114",
+              "start": 7,
+              "url": "https://t.co/Pm4kcVCpIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045829632499569067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 23280,
+          "like_count": 2796,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "みに合成音声 https://t.co/Pm4kcVCpIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 183,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T13:39:11.000Z",
+        "description": "好きなものを描きます 各種リンク・ご依頼について→https://t.co/pZOzQhARpu  \nヘッダーは友人が描いてくれたものです。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/faoru",
+                "end": 48,
+                "expanded_url": "http://lit.link/faoru",
+                "start": 25,
+                "url": "https://t.co/pZOzQhARpu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@faoru_ofuton",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@faoru_ofuton",
+                "start": 0,
+                "url": "https://t.co/yHzcRv5V9f"
+              }
+            ]
+          }
+        },
+        "id": "1616792457819357185",
+        "location": "無断転載・使用、AI学習等禁止　FAはご本人様のみ使用可です",
+        "name": "ふぁおる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038945547634225152/sU7Cz6wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31620,
+          "following_count": 154,
+          "like_count": 105816,
+          "listed_count": 118,
+          "media_count": 320,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/yHzcRv5V9f",
+        "username": "faoru_ofuton",
+        "verified": false
+      }
+    ]
+  }
+}

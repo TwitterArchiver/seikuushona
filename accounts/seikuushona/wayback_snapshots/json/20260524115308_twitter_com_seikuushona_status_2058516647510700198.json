@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058516603982217216"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2058133055894847553",
+    "created_at": "2026-05-24T11:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058516647510700198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572209604804878338",
+          "start": 0,
+          "username": "about_config01"
+        },
+        {
+          "end": 26,
+          "id": "1863439189909618688",
+          "start": 16,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkUWH71bXd",
+          "end": 107,
+          "expanded_url": "https://x.com/seikuushona/status/2058516647510700198/photo/1",
+          "media_key": "3_2058516603982217216",
+          "start": 84,
+          "url": "https://t.co/FkUWH71bXd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058516647510700198",
+    "in_reply_to_user_id": "1572209604804878338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058455644634567023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@about_config01 @hsn8086xe 是的。\n其的域名在 1994 年注册，这是其被 internet Archive 收录的 1996 年时的首页： https://t.co/FkUWH71bXd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1910,
+        "media_key": "3_2058516603982217216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFR8eCagAAFiJp.jpg",
+        "width": 3525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058516603982217216"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2058133055894847553",
+        "created_at": "2026-05-24T11:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058516647510700198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572209604804878338",
+              "start": 0,
+              "username": "about_config01"
+            },
+            {
+              "end": 26,
+              "id": "1863439189909618688",
+              "start": 16,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkUWH71bXd",
+              "end": 107,
+              "expanded_url": "https://x.com/seikuushona/status/2058516647510700198/photo/1",
+              "media_key": "3_2058516603982217216",
+              "start": 84,
+              "url": "https://t.co/FkUWH71bXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058516647510700198",
+        "in_reply_to_user_id": "1572209604804878338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058455644634567023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@about_config01 @hsn8086xe 是的。\n其的域名在 1994 年注册，这是其被 internet Archive 收录的 1996 年时的首页： https://t.co/FkUWH71bXd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572209604804878338",
+        "conversation_id": "2058133055894847553",
+        "created_at": "2026-05-24T07:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058455644634567023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058455644634567023",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058133055894847553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 不是，南華早報1996年就有網頁版本了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 302,
+          "like_count": 4524,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:02:47.000Z",
+        "description": "",
+        "id": "1572209604804878338",
+        "name": "深淵凝視",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036380966936100864/GLS7k9am_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 52,
+          "like_count": 3126,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 2975
+        },
+        "username": "about_config01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36329,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 105,
+          "media_count": 14510,
+          "tweet_count": 14593
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

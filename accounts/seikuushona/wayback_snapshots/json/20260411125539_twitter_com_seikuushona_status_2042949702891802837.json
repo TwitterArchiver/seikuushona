@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042691771935920129"
+      ],
+      "media_source_tweet_id": [
+        "2042814899852894239"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2042949702891802837",
+    "created_at": "2026-04-11T12:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042949702891802837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZ6odyoIws",
+          "end": 63,
+          "expanded_url": "https://x.com/youy1qwq/status/2042814899852894239/photo/1",
+          "media_key": "3_2042691771935920129",
+          "start": 40,
+          "url": "https://t.co/LZ6odyoIws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042949702891802837",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042814899852894239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: The big brother is coming https://t.co/LZ6odyoIws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2042691771935920129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkZWAvakAEVook.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042691771935920129"
+          ],
+          "media_source_tweet_id": [
+            "2042814899852894239"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2042949702891802837",
+        "created_at": "2026-04-11T12:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042949702891802837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZ6odyoIws",
+              "end": 63,
+              "expanded_url": "https://x.com/youy1qwq/status/2042814899852894239/photo/1",
+              "media_key": "3_2042691771935920129",
+              "start": 40,
+              "url": "https://t.co/LZ6odyoIws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042949702891802837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042814899852894239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: The big brother is coming https://t.co/LZ6odyoIws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042691771935920129"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2042814899852894239",
+        "created_at": "2026-04-11T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042814899852894239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZ6odyoIws",
+              "end": 49,
+              "expanded_url": "https://x.com/youy1qwq/status/2042814899852894239/photo/1",
+              "media_key": "3_2042691771935920129",
+              "start": 26,
+              "url": "https://t.co/LZ6odyoIws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042814899852894239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12341,
+          "like_count": 288,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "The big brother is coming https://t.co/LZ6odyoIws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 124,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10023,
+          "following_count": 1515,
+          "like_count": 3653,
+          "listed_count": 14,
+          "media_count": 1320,
+          "tweet_count": 1782
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2077612392163483966",
+    "created_at": "2026-07-17T06:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078001281839644820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970438708794109952",
+          "start": 0,
+          "username": "LyCtAA2gVM46001"
+        },
+        {
+          "end": 29,
+          "id": "1574516663935901696",
+          "start": 17,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078001281839644820",
+    "in_reply_to_user_id": "1970438708794109952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077949641522663556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyCtAA2gVM46001 @wangjupaian 视听中国这里没有提到习的视频都还是有不喜欢键的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077949638762811392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZcL9-b0AA9MKL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2077612392163483966",
+        "created_at": "2026-07-17T06:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078001281839644820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970438708794109952",
+              "start": 0,
+              "username": "LyCtAA2gVM46001"
+            },
+            {
+              "end": 29,
+              "id": "1574516663935901696",
+              "start": 17,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078001281839644820",
+        "in_reply_to_user_id": "1970438708794109952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077949641522663556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyCtAA2gVM46001 @wangjupaian 视听中国这里没有提到习的视频都还是有不喜欢键的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077949638762811392"
+          ]
+        },
+        "author_id": "1970438708794109952",
+        "conversation_id": "2077612392163483966",
+        "created_at": "2026-07-17T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077949641522663556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEN9hJ42Bx",
+              "end": 95,
+              "expanded_url": "https://x.com/LyCtAA2gVM46001/status/2077949641522663556/photo/1",
+              "media_key": "3_2077949638762811392",
+              "start": 72,
+              "url": "https://t.co/HEN9hJ42Bx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077949641522663556",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1504,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077612392163483966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 刚去试了，不知道是视听中国这个账号的视频都这样还是咋滴，反正我看其他up主的视频还可以点不喜欢，这个确实没有不喜欢了 https://t.co/HEN9hJ42Bx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 11,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T10:43:06.000Z",
+        "description": "",
+        "id": "1970438708794109952",
+        "name": "minmin",
+        "pinned_tweet_id": "2059445932824068272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008209939131727872/YLxd0yiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 77,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "LyCtAA2gVM46001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2077918488480694328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155527,
+          "following_count": 358,
+          "like_count": 545,
+          "listed_count": 434,
+          "media_count": 8576,
+          "tweet_count": 9412
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

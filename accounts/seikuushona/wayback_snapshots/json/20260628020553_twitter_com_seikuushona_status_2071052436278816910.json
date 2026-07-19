@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2070898087988772952",
+    "created_at": "2026-06-28T02:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071052436278816910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038314279045132288",
+          "start": 0,
+          "username": "ExteriorLanXuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071052436278816910",
+    "in_reply_to_user_id": "2038314279045132288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070898087988772952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExteriorLanXuan 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2070897791778582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1Okc0acAAGkcy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2070898087988772952",
+        "created_at": "2026-06-28T02:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071052436278816910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038314279045132288",
+              "start": 0,
+              "username": "ExteriorLanXuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071052436278816910",
+        "in_reply_to_user_id": "2038314279045132288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070898087988772952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExteriorLanXuan 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070897791778582528"
+          ]
+        },
+        "author_id": "2038314279045132288",
+        "conversation_id": "2070898087988772952",
+        "created_at": "2026-06-27T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070898087988772952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbGcTCa2BT",
+              "end": 117,
+              "expanded_url": "https://x.com/ExteriorLanXuan/status/2070898087988772952/photo/1",
+              "media_key": "3_2070897791778582528",
+              "start": 94,
+              "url": "https://t.co/VbGcTCa2BT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070898087988772952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5845,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘了在这边发了\n上午出分多开心下午看到排名就多想死 什么叫前三年1000多名今年直接排2868 湖北完全一群疯子 虽然但是这次让我爽到了因为死对头三年一直压着我考断层年级第一这次考砸了😋 https://t.co/VbGcTCa2BT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 778,
+          "like_count": 10657,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:57:09.000Z",
+        "description": "这里澜轩 一只蓝白狼 \n里@InteriorFengJin QQ 1912732410 这个号不回关r18号请移步里推互关\n晚上在线白天随缘\n湖北准大一 喜欢英语化学\n重度舞萌痴 最大成就223pc彩框",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "InteriorFengJin"
+              }
+            ]
+          }
+        },
+        "id": "2038314279045132288",
+        "location": "UNiVERSE",
+        "name": "澜轩→Freedom DiVE↓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038315126395379712/tMsI2nV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "ExteriorLanXuan",
+        "verified": false
+      }
+    ]
+  }
+}

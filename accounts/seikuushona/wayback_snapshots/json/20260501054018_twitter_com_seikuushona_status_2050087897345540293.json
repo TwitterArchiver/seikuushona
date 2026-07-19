@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049947037291225088"
+      ],
+      "media_source_tweet_id": [
+        "2049947046493479348"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2050087897345540293",
+    "created_at": "2026-05-01T05:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050087897345540293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688873509660000256",
+          "start": 3,
+          "username": "bayOApplePie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HG7iRsd709",
+          "end": 136,
+          "expanded_url": "https://x.com/bayOApplePie/status/2049947046493479348/photo/1",
+          "media_key": "3_2049947037291225088",
+          "start": 113,
+          "url": "https://t.co/HG7iRsd709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050087897345540293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049947046493479348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bayOApplePie: 試著說明一下我在看VTuber的時候真正喜歡的東西是什麼\n老實說不是中之本人，也不只是皮\n甚至不只是中之+皮\n\n而是再加上一層我的投射，所形成的新的一層東西\n\n然後我不知道怎麼命名它才好🥺 https://t.co/HG7iRsd709"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3053,
+        "media_key": "3_2049947037291225088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLf-CYboAAm6Un.jpg",
+        "width": 3170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049947037291225088"
+          ],
+          "media_source_tweet_id": [
+            "2049947046493479348"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2050087897345540293",
+        "created_at": "2026-05-01T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050087897345540293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688873509660000256",
+              "start": 3,
+              "username": "bayOApplePie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG7iRsd709",
+              "end": 136,
+              "expanded_url": "https://x.com/bayOApplePie/status/2049947046493479348/photo/1",
+              "media_key": "3_2049947037291225088",
+              "start": 113,
+              "url": "https://t.co/HG7iRsd709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050087897345540293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049947046493479348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bayOApplePie: 試著說明一下我在看VTuber的時候真正喜歡的東西是什麼\n老實說不是中之本人，也不只是皮\n甚至不只是中之+皮\n\n而是再加上一層我的投射，所形成的新的一層東西\n\n然後我不知道怎麼命名它才好🥺 https://t.co/HG7iRsd709"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049947037291225088"
+          ]
+        },
+        "author_id": "1688873509660000256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2049947046493479348",
+        "created_at": "2026-04-30T20:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T21:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049947046493479348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG7iRsd709",
+              "end": 118,
+              "expanded_url": "https://x.com/bayOApplePie/status/2049947046493479348/photo/1",
+              "media_key": "3_2049947037291225088",
+              "start": 95,
+              "url": "https://t.co/HG7iRsd709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049947046493479348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 23766,
+          "like_count": 1071,
+          "quote_count": 14,
+          "reply_count": 31,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "試著說明一下我在看VTuber的時候真正喜歡的東西是什麼\n老實說不是中之本人，也不只是皮\n甚至不只是中之+皮\n\n而是再加上一層我的投射，所形成的新的一層東西\n\n然後我不知道怎麼命名它才好🥺 https://t.co/HG7iRsd709"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 204,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T11:23:43.000Z",
+        "description": "川貝蘋果派在此避難\n\n2023年11月去北歐玩20天的川貝蘋果派\n此TL會發各種相關雜推\n\n行程人數：4人",
+        "id": "1688873509660000256",
+        "name": "北歐蘋果派",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719034005751025664/VoFOdKiC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 134,
+          "like_count": 6426,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2808
+        },
+        "username": "bayOApplePie",
+        "verified": false
+      }
+    ]
+  }
+}

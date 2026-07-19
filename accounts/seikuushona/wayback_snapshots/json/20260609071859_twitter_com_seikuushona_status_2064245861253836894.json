@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2064245861253836894",
+    "created_at": "2026-06-09T07:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064245861253836894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1007003864451567616",
+          "start": 3,
+          "username": "adachirei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064245861253836894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064009826808820018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adachirei0: 誕生日おめでとうございます✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2064245861253836894",
+        "created_at": "2026-06-09T07:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245861253836894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1007003864451567616",
+              "start": 3,
+              "username": "adachirei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245861253836894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064009826808820018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adachirei0: 誕生日おめでとうございます✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007003864451567616",
+        "conversation_id": "2064009826808820018",
+        "created_at": "2026-06-08T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064009826808820018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064009826808820018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 14562,
+          "like_count": 496,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日おめでとうございます✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 346,
+          "like_count": 5492,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-13T20:56:45.000Z",
+        "description": "等身大キャラクター用ヒューマノイドロボット、第三世代試作0号機。ボディ開発中。合成音声ライブラリも開発中。マルコフ連鎖bot実験中。TLを素材にしてツイートを自動生成します。\n公式ページっぽいとこ⇒https://t.co/rnJ9DDdhkq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp/adachi-rei/",
+                "end": 122,
+                "expanded_url": "http://mechanicalgirl.jp/adachi-rei/",
+                "start": 99,
+                "url": "https://t.co/rnJ9DDdhkq"
+              }
+            ]
+          }
+        },
+        "id": "1007003864451567616",
+        "location": "HCI3-P0頭部PC",
+        "name": "足立レイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521756257907970048/nwzT3eSw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131716,
+          "following_count": 296,
+          "like_count": 10886,
+          "listed_count": 290,
+          "media_count": 83,
+          "tweet_count": 51881
+        },
+        "username": "adachirei0",
+        "verified": true
+      }
+    ]
+  }
+}

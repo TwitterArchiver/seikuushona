@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2065785490738225277",
+    "created_at": "2026-06-13T18:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065856778315931666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065856778315931666",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065785490738225277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery 和我一起 █"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_2065785480457932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsk8xDa0AARY4v.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2065785490738225277",
+        "created_at": "2026-06-13T18:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065856778315931666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065856778315931666",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065785490738225277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 和我一起 █"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065785480457932800"
+          ]
+        },
+        "author_id": "2721275622",
+        "conversation_id": "2065785490738225277",
+        "created_at": "2026-06-13T13:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065785490738225277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9zePBJkeW",
+              "end": 46,
+              "expanded_url": "https://x.com/__oQuery/status/2065785490738225277/photo/1",
+              "media_key": "3_2065785480457932800",
+              "start": 23,
+              "url": "https://t.co/c9zePBJkeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065785490738225277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2915,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这都是什么翻译...\n\n和我一起 X ... https://t.co/c9zePBJkeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 396,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.max-fast",
+        "pinned_tweet_id": "2059130836377907336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060426329519243264/S2O6a2UH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10427,
+          "following_count": 992,
+          "like_count": 12427,
+          "listed_count": 87,
+          "media_count": 1176,
+          "tweet_count": 9585
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

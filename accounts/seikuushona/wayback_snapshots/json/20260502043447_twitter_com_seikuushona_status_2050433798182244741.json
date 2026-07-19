@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050163282385031168"
+      ],
+      "media_source_tweet_id": [
+        "2050163471749353798"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050433798182244741",
+    "created_at": "2026-05-02T04:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050433798182244741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009064941597413378",
+          "start": 3,
+          "username": "____9w9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fHIi5cPPQL",
+          "end": 66,
+          "expanded_url": "https://x.com/____9w9/status/2050163471749353798/photo/1",
+          "media_key": "3_2050163282385031168",
+          "start": 43,
+          "url": "https://t.co/fHIi5cPPQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050433798182244741",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050163471749353798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @____9w9: 잘 들어 시지마,\n파스타만 만들 줄 알면 살아갈 수, https://t.co/fHIi5cPPQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2050163282385031168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOkpKIb0AAgP6s.png",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050163282385031168"
+          ],
+          "media_source_tweet_id": [
+            "2050163471749353798"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050433798182244741",
+        "created_at": "2026-05-02T04:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050433798182244741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009064941597413378",
+              "start": 3,
+              "username": "____9w9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHIi5cPPQL",
+              "end": 66,
+              "expanded_url": "https://x.com/____9w9/status/2050163471749353798/photo/1",
+              "media_key": "3_2050163282385031168",
+              "start": 43,
+              "url": "https://t.co/fHIi5cPPQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050433798182244741",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050163471749353798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @____9w9: 잘 들어 시지마,\n파스타만 만들 줄 알면 살아갈 수, https://t.co/fHIi5cPPQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050163282385031168"
+          ]
+        },
+        "author_id": "2009064941597413378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050163471749353798",
+        "created_at": "2026-05-01T10:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050163471749353798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHIi5cPPQL",
+              "end": 53,
+              "expanded_url": "https://x.com/____9w9/status/2050163471749353798/photo/1",
+              "media_key": "3_2050163282385031168",
+              "start": 30,
+              "url": "https://t.co/fHIi5cPPQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050163471749353798",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 9394,
+          "like_count": 632,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "잘 들어 시지마,\n파스타만 만들 줄 알면 살아갈 수, https://t.co/fHIi5cPPQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 225,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T00:49:51.000Z",
+        "description": "꽁치는 눈알도 먹을 수 있어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gongicha.straw.page",
+                "end": 23,
+                "expanded_url": "https://gongicha.straw.page/",
+                "start": 0,
+                "url": "https://t.co/ZehwT0ijQQ"
+              }
+            ]
+          }
+        },
+        "id": "2009064941597413378",
+        "location": "西よもぎ市 ",
+        "name": "공기챠",
+        "pinned_tweet_id": "2046497520361394339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048310659604201472/iF7zxxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 198,
+          "like_count": 3449,
+          "listed_count": 1,
+          "media_count": 1050,
+          "tweet_count": 4489
+        },
+        "url": "https://t.co/ZehwT0ijQQ",
+        "username": "____9w9",
+        "verified": false
+      }
+    ]
+  }
+}

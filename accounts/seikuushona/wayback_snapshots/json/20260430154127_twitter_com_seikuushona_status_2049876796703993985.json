@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049828770664849409"
+      ],
+      "media_source_tweet_id": [
+        "2049828773407957353"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "2049876796703993985",
+    "created_at": "2026-04-30T15:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049876796703993985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1219249749049532417",
+          "start": 3,
+          "username": "ReZeN07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JrF9dRZZJ9",
+          "end": 49,
+          "expanded_url": "https://x.com/ReZeN07/status/2049828773407957353/photo/1",
+          "media_key": "3_2049828770664849409",
+          "start": 26,
+          "url": "https://t.co/JrF9dRZZJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049876796703993985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049828773407957353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReZeN07: 牛乳買ったらロスレスで神 https://t.co/JrF9dRZZJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049828770664849409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ0aA3aoAE6R8T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049828770664849409"
+          ],
+          "media_source_tweet_id": [
+            "2049828773407957353"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2049876796703993985",
+        "created_at": "2026-04-30T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049876796703993985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1219249749049532417",
+              "start": 3,
+              "username": "ReZeN07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrF9dRZZJ9",
+              "end": 49,
+              "expanded_url": "https://x.com/ReZeN07/status/2049828773407957353/photo/1",
+              "media_key": "3_2049828770664849409",
+              "start": 26,
+              "url": "https://t.co/JrF9dRZZJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876796703993985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049828773407957353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReZeN07: 牛乳買ったらロスレスで神 https://t.co/JrF9dRZZJ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049828770664849409"
+          ]
+        },
+        "author_id": "1219249749049532417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2049828773407957353",
+        "created_at": "2026-04-30T12:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049828773407957353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrF9dRZZJ9",
+              "end": 36,
+              "expanded_url": "https://x.com/ReZeN07/status/2049828773407957353/photo/1",
+              "media_key": "3_2049828770664849409",
+              "start": 13,
+              "url": "https://t.co/JrF9dRZZJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049828773407957353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 51579,
+          "like_count": 1098,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "牛乳買ったらロスレスで神 https://t.co/JrF9dRZZJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 199,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T13:26:12.000Z",
+        "description": "07/fripSide/90s J-POP/バンドリ/虹・蓮/ガジェット/ポタオデ/太鼓/音ゲー",
+        "id": "1219249749049532417",
+        "location": "滋賀",
+        "name": "くろおろち",
+        "pinned_tweet_id": "2027736253345714659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948783820091891712/j0bCFqVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 4150,
+          "like_count": 78554,
+          "listed_count": 8,
+          "media_count": 3986,
+          "tweet_count": 27920
+        },
+        "username": "ReZeN07",
+        "verified": false
+      }
+    ]
+  }
+}

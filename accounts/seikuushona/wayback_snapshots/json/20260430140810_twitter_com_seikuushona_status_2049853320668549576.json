@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049804259139678208"
+      ],
+      "media_source_tweet_id": [
+        "2049804282447499342"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049853320668549576",
+    "created_at": "2026-04-30T14:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049853320668549576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801216598008848384",
+          "start": 3,
+          "username": "BH3GEI_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0JKO8mxna0",
+          "end": 40,
+          "expanded_url": "https://x.com/BH3GEI_CN/status/2049804282447499342/photo/1",
+          "media_key": "3_2049804259139678208",
+          "start": 17,
+          "url": "https://t.co/0JKO8mxna0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049853320668549576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049804282447499342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BH3GEI_CN: ？ https://t.co/0JKO8mxna0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2049804259139678208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJeHQUacAAalYg.jpg",
+        "width": 1806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049804259139678208"
+          ],
+          "media_source_tweet_id": [
+            "2049804282447499342"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049853320668549576",
+        "created_at": "2026-04-30T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049853320668549576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801216598008848384",
+              "start": 3,
+              "username": "BH3GEI_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JKO8mxna0",
+              "end": 40,
+              "expanded_url": "https://x.com/BH3GEI_CN/status/2049804282447499342/photo/1",
+              "media_key": "3_2049804259139678208",
+              "start": 17,
+              "url": "https://t.co/0JKO8mxna0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853320668549576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049804282447499342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BH3GEI_CN: ？ https://t.co/0JKO8mxna0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049804259139678208"
+          ]
+        },
+        "author_id": "1801216598008848384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049804282447499342",
+        "created_at": "2026-04-30T10:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049804282447499342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JKO8mxna0",
+              "end": 25,
+              "expanded_url": "https://x.com/BH3GEI_CN/status/2049804282447499342/photo/1",
+              "media_key": "3_2049804259139678208",
+              "start": 2,
+              "url": "https://t.co/0JKO8mxna0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049804282447499342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1014,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/0JKO8mxna0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 196,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T11:34:43.000Z",
+        "description": "Courage: 1%\nStupidity: 100%\n\n24+1岁｜!学生｜咸蛋黄肉粽狂热爱好者\n\nTelegram: \nhttps://t.co/87Xp3uybiC\n\nEnglish Version: \n@BH3GEI_EN\n\n日本語版: \n@BH3GEI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "BH3GEI_EN"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "username": "BH3GEI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BH3GEI",
+                "end": 85,
+                "expanded_url": "http://t.me/BH3GEI",
+                "start": 62,
+                "url": "https://t.co/87Xp3uybiC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4j0trxf",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4j0trxf",
+                "start": 0,
+                "url": "https://t.co/wv2BzdalyX"
+              }
+            ]
+          }
+        },
+        "id": "1801216598008848384",
+        "location": "Tsukuba-shi, Ibaraki",
+        "name": "BH3GEI",
+        "pinned_tweet_id": "2032317002090758226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922208049466359808/ow9aGZDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1336,
+          "like_count": 16929,
+          "listed_count": 2,
+          "media_count": 673,
+          "tweet_count": 4971
+        },
+        "url": "https://t.co/wv2BzdalyX",
+        "username": "BH3GEI_CN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2042935767291580752",
+    "created_at": "2026-04-11T12:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042935767291580752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1028925064601788417",
+          "start": 3,
+          "username": "BeiKunKun22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042935767291580752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042900361531322605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeiKunKun22: 三编：\n推特不是Pornhub。\n我们要严格捍卫正常人类使用推特的权利。不是所有人上推都是为了看黄。不是所有人上推都是为了卖。\n不要以“上推都是为了看黄”揣测别人的意图。\n其实你根本就不该揣测别人的意图，这在逻辑上不成立。\n如果你觉得你的推特首…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2042935767291580752",
+        "created_at": "2026-04-11T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042935767291580752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1028925064601788417",
+              "start": 3,
+              "username": "BeiKunKun22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042935767291580752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042900361531322605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeiKunKun22: 三编：\n推特不是Pornhub。\n我们要严格捍卫正常人类使用推特的权利。不是所有人上推都是为了看黄。不是所有人上推都是为了卖。\n不要以“上推都是为了看黄”揣测别人的意图。\n其实你根本就不该揣测别人的意图，这在逻辑上不成立。\n如果你觉得你的推特首…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028925064601788417",
+        "conversation_id": "2042900361531322605",
+        "created_at": "2026-04-11T09:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042900361531322605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042900361531322605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "三编：\n推特不是Pornhub。\n我们要严格捍卫正常人类使用推特的权利。不是所有人上推都是为了看黄。不是所有人上推都是为了卖。\n不要以“上推都是为了看黄”揣测别人的意图。\n其实你根本就不该揣测别人的意图，这在逻辑上不成立。\n如果你觉得你的推特首页都是逼飞奶炸的，那你该考虑关注一些别的博主了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 119,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-13T08:43:46.000Z",
+        "description": "这里是我的QQ空间。是会频繁发自己想法的神秘理中客，如有冒犯可以静音。相信人是具体的，长期开放讨论空间，欢迎与我约聊。福瑞真是太棒啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furrysky.com",
+                "end": 23,
+                "expanded_url": "http://furrysky.com",
+                "start": 0,
+                "url": "https://t.co/vUXpuwTP3W"
+              }
+            ]
+          }
+        },
+        "id": "1028925064601788417",
+        "location": "月球，境外势力",
+        "name": "北冥饼鲲",
+        "pinned_tweet_id": "1584120523180879872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041691351860023296/3yQyUyC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4046,
+          "following_count": 1035,
+          "like_count": 10553,
+          "listed_count": 8,
+          "media_count": 1209,
+          "tweet_count": 5276
+        },
+        "url": "https://t.co/vUXpuwTP3W",
+        "username": "BeiKunKun22",
+        "verified": false
+      }
+    ]
+  }
+}

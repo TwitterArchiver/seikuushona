@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2075918019042357386",
+    "created_at": "2026-07-11T14:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075947279786410386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4421941038",
+          "start": 0,
+          "username": "stevehongkong"
+        },
+        {
+          "end": 27,
+          "id": "188330055",
+          "start": 15,
+          "username": "cherylnatsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/zh-cn/",
+          "end": 51,
+          "expanded_url": "https://zh.wikipedia.org/zh-cn/",
+          "start": 28,
+          "status": 200,
+          "title": "维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/zh-cn/",
+          "url": "https://t.co/TpoqACVzqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075947279786410386",
+    "in_reply_to_user_id": "4421941038",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075933880071401553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevehongkong @cherylnatsu https://t.co/TpoqACVzqu華為251事件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2075918019042357386",
+        "created_at": "2026-07-11T14:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075947279786410386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4421941038",
+              "start": 0,
+              "username": "stevehongkong"
+            },
+            {
+              "end": 27,
+              "id": "188330055",
+              "start": 15,
+              "username": "cherylnatsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/zh-cn/",
+              "end": 51,
+              "expanded_url": "https://zh.wikipedia.org/zh-cn/",
+              "start": 28,
+              "status": 200,
+              "title": "维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/zh-cn/",
+              "url": "https://t.co/TpoqACVzqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075947279786410386",
+        "in_reply_to_user_id": "4421941038",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075933880071401553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevehongkong @cherylnatsu https://t.co/TpoqACVzqu華為251事件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4421941038",
+        "conversation_id": "2075918019042357386",
+        "created_at": "2026-07-11T13:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075933880071401553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188330055",
+              "start": 0,
+              "username": "cherylnatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075933880071401553",
+        "in_reply_to_user_id": "188330055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075918019042357386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cherylnatsu 251是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 1043,
+          "like_count": 13617,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-01T16:07:07.000Z",
+        "description": "Transforming big ideas into reality through digital innovation. Just a tech geek exploring the next frontier of what's possible.",
+        "id": "4421941038",
+        "location": "Hong Kong",
+        "name": "Steve YANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/794733616324481025/lUuf9DYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 569,
+          "like_count": 529,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1835
+        },
+        "url": "",
+        "username": "stevehongkong",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友（前身为推友）",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909990228821250049/60ODW_Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18310,
+          "following_count": 4412,
+          "like_count": 9977,
+          "listed_count": 141,
+          "media_count": 968,
+          "tweet_count": 56842
+        },
+        "url": "",
+        "username": "cherylnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

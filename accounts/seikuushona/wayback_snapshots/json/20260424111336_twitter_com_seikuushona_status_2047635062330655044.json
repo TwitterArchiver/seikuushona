@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2047594436558029049",
+    "created_at": "2026-04-24T11:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047635062330655044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047635062330655044",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047594436558029049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 他先笨拙地写下这几个字:男大弟弟来。\n接着他又在下面一口气写下:我是真人 有线下嘛？\n他知道自己知道下一句话是什么，但是一时却想不起来。等到他想起来的时候，完全是靠有意识的推理才想起来的，而不是自发想起来的。他写道:有万达广场的吗？\n他什么都接受。X 没有广告机器人。X 从来没有过广告。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2047594428714602496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqESMeaUAAELiQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2047594436558029049",
+        "created_at": "2026-04-24T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047635062330655044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047635062330655044",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047594436558029049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 他先笨拙地写下这几个字:男大弟弟来。\n接着他又在下面一口气写下:我是真人 有线下嘛？\n他知道自己知道下一句话是什么，但是一时却想不起来。等到他想起来的时候，完全是靠有意识的推理才想起来的，而不是自发想起来的。他写道:有万达广场的吗？\n他什么都接受。X 没有广告机器人。X 从来没有过广告。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047594428714602496"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2047594436558029049",
+        "created_at": "2026-04-24T08:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:27:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047593280993690078",
+          "2047594436558029049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F71kdydsAi",
+              "end": 162,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2047594436558029049/photo/1",
+              "media_key": "3_2047594428714602496",
+              "start": 139,
+              "url": "https://t.co/F71kdydsAi"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2047561743032041565",
+              "start": 163,
+              "url": "https://t.co/4LqAqp6pWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047594436558029049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "温斯顿把身子坐直了一些。他打了个嗝，酒气会从胃里泛了上来。\n\n他又定睛看那张纸，发现在无助沉思的同时，他也在写字，像是种自动行为，而且写得也不像刚才那样歪歪斜斜、难以辨认。他的钢笔在光滑的纸上写下了漂亮的印刷体大字，字母全部为大写：\n\n打倒男大弟弟\n打倒男大弟弟\n打倒男大弟弟\n打倒男大弟弟\n打倒男大弟弟\n\n一遍又一遍，写满了半张纸。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1124,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047561743032041565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "温斯顿把身子坐直了一些。他打了个嗝，酒气会从胃里泛了上来。\n\n他又定睛看那张纸，发现在无助沉思的同时，他也在写字，像是种自动行为，而且写得也不像刚才那样歪歪斜斜、难以辨认。他的钢笔在光滑的纸上写下了漂亮的印刷体大字，字母全部为大写：\n\n打倒男大弟弟\n打倒男大弟弟\n打倒男大弟弟 https://t.co/F71kdydsAi https://t.co/4LqAqp6pWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 188,
+          "like_count": 2027,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 572,
+          "like_count": 14970,
+          "listed_count": 5,
+          "media_count": 898,
+          "tweet_count": 4759
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

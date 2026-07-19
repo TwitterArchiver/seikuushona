@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067252478090092544"
+      ],
+      "media_source_tweet_id": [
+        "2067252483504922850"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2067577186077593887",
+    "created_at": "2026-06-18T11:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067577186077593887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1284505320375513088",
+          "start": 3,
+          "username": "pennxd0o0b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zHPVTRmZa",
+          "end": 46,
+          "expanded_url": "https://x.com/pennxd0o0b/status/2067252483504922850/photo/1",
+          "media_key": "3_2067252478090092544",
+          "start": 23,
+          "url": "https://t.co/3zHPVTRmZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067577186077593887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067252483504922850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pennxd0o0b: 端午節吃粽子 https://t.co/3zHPVTRmZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2067252478090092544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBbLRGbIAALr2V.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067252478090092544"
+          ],
+          "media_source_tweet_id": [
+            "2067252483504922850"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2067577186077593887",
+        "created_at": "2026-06-18T11:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067577186077593887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1284505320375513088",
+              "start": 3,
+              "username": "pennxd0o0b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zHPVTRmZa",
+              "end": 46,
+              "expanded_url": "https://x.com/pennxd0o0b/status/2067252483504922850/photo/1",
+              "media_key": "3_2067252478090092544",
+              "start": 23,
+              "url": "https://t.co/3zHPVTRmZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067577186077593887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067252483504922850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pennxd0o0b: 端午節吃粽子 https://t.co/3zHPVTRmZa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067252478090092544"
+          ]
+        },
+        "author_id": "1284505320375513088",
+        "conversation_id": "2067252483504922850",
+        "created_at": "2026-06-17T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067252483504922850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zHPVTRmZa",
+              "end": 30,
+              "expanded_url": "https://x.com/pennxd0o0b/status/2067252483504922850/photo/1",
+              "media_key": "3_2067252478090092544",
+              "start": 7,
+              "url": "https://t.co/3zHPVTRmZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067252483504922850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 48782,
+          "like_count": 3875,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "端午節吃粽子 https://t.co/3zHPVTRmZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 428,
+          "like_count": 7028,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-18T15:09:41.000Z",
+        "description": "🇹🇼/🔞偶爾有/バンドリ/RAS/MyGO!!!!!/跟要楽奈、佐藤ますき玩剪刀石頭布 我只會出剪刀 因為她們是我的拳布🥀",
+        "id": "1284505320375513088",
+        "name": "pennnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015862749021274112/xBAiHEap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 892,
+          "like_count": 28681,
+          "listed_count": 22,
+          "media_count": 84,
+          "tweet_count": 1612
+        },
+        "username": "pennxd0o0b",
+        "verified": false
+      }
+    ]
+  }
+}

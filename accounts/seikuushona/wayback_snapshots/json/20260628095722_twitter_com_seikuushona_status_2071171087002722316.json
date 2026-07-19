@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2071146787587645624",
+    "created_at": "2026-06-28T09:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071171087002722316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817144107174957056",
+          "start": 0,
+          "username": "trydothebetter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071171087002722316",
+    "in_reply_to_user_id": "1817144107174957056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071146787587645624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trydothebetter 我可能是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2071146787587645624",
+        "created_at": "2026-06-28T09:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071171087002722316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817144107174957056",
+              "start": 0,
+              "username": "trydothebetter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071171087002722316",
+        "in_reply_to_user_id": "1817144107174957056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071146787587645624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trydothebetter 我可能是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817144107174957056",
+        "conversation_id": "2071146787587645624",
+        "created_at": "2026-06-28T08:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071146787587645624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071146787587645624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论什么帖子只要我他妈一打开评论区就是一大片的色情账号，推特评论区还有没有人类了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 852,
+          "like_count": 11094,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T10:25:00.000Z",
+        "description": "09年生人丨身高180丨性别男丨音游人丨喜欢可爱的事物丨十分偶尔发福利丨Q群721460654丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/12656805…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1265680561?from=search",
+                "start": 0,
+                "url": "https://t.co/F4f36RgkLU"
+              }
+            ]
+          }
+        },
+        "id": "1817144107174957056",
+        "location": "云南",
+        "name": "永雏塔菲",
+        "pinned_tweet_id": "2065947849309966591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970858405125328896/d6wFXDfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1514,
+          "like_count": 7707,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/F4f36RgkLU",
+        "username": "trydothebetter",
+        "verified": false
+      }
+    ]
+  }
+}

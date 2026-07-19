@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045082102300086752",
+    "created_at": "2026-04-17T10:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045082102300086752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1360974584036560901",
+          "start": 3,
+          "username": "mnkg478056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045082102300086752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044536616472220022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnkg478056: 想像してた理系\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n↓\n↓\n現実の建築学科\n😁😎😉👩👩👩😁😁😎🥸\n😁🤪🤪👩👩👩🥸🤩😁😁\n😁😁😁🥳🥳😁🤩🤓🤓🤓\n現実の情報科学科\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045082102300086752",
+        "created_at": "2026-04-17T10:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045082102300086752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1360974584036560901",
+              "start": 3,
+              "username": "mnkg478056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045082102300086752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044536616472220022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnkg478056: 想像してた理系\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n↓\n↓\n現実の建築学科\n😁😎😉👩👩👩😁😁😎🥸\n😁🤪🤪👩👩👩🥸🤩😁😁\n😁😁😁🥳🥳😁🤩🤓🤓🤓\n現実の情報科学科\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360974584036560901",
+        "conversation_id": "2044536616472220022",
+        "created_at": "2026-04-15T22:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044536616472220022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044536616472220022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2574,
+          "impression_count": 4628328,
+          "like_count": 73596,
+          "quote_count": 885,
+          "reply_count": 118,
+          "retweet_count": 2302
+        },
+        "reply_settings": "everyone",
+        "text": "想像してた理系\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n↓\n↓\n現実の建築学科\n😁😎😉👩👩👩😁😁😎🥸\n😁🤪🤪👩👩👩🥸🤩😁😁\n😁😁😁🥳🥳😁🤩🤓🤓🤓\n現実の情報科学科\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓\n🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 131,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T15:30:43.000Z",
+        "description": "ラ・サール74→阪大地球総合工\n※原神883899915\nスタレ802395784",
+        "id": "1360974584036560901",
+        "name": "なんかご",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033451370494492672/9-yDdpTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 477,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 899,
+          "tweet_count": 2602
+        },
+        "username": "mnkg478056",
+        "verified": false
+      }
+    ]
+  }
+}

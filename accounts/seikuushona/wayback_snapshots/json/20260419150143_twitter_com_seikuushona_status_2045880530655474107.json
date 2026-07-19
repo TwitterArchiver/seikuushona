@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045683832146284545"
+      ],
+      "media_source_tweet_id": [
+        "2045683834620919913"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045880530655474107",
+    "created_at": "2026-04-19T15:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045880530655474107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365444576530563080",
+          "start": 3,
+          "username": "retro_anime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mVB7ggG46t",
+          "end": 71,
+          "expanded_url": "https://x.com/retro_anime/status/2045683834620919913/photo/1",
+          "media_key": "3_2045683832146284545",
+          "start": 48,
+          "url": "https://t.co/mVB7ggG46t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045880530655474107",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045683834620919913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retro_anime: Serial Experiments Lain (1998) https://t.co/mVB7ggG46t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2045683832146284545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGO6m1nW0AEzQTL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045683832146284545"
+          ],
+          "media_source_tweet_id": [
+            "2045683834620919913"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045880530655474107",
+        "created_at": "2026-04-19T15:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045880530655474107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365444576530563080",
+              "start": 3,
+              "username": "retro_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVB7ggG46t",
+              "end": 71,
+              "expanded_url": "https://x.com/retro_anime/status/2045683834620919913/photo/1",
+              "media_key": "3_2045683832146284545",
+              "start": 48,
+              "url": "https://t.co/mVB7ggG46t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045880530655474107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045683834620919913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retro_anime: Serial Experiments Lain (1998) https://t.co/mVB7ggG46t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045683832146284545"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "conversation_id": "2045683834620919913",
+        "created_at": "2026-04-19T02:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045683834620919913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVB7ggG46t",
+              "end": 54,
+              "expanded_url": "https://x.com/retro_anime/status/2045683834620919913/photo/1",
+              "media_key": "3_2045683832146284545",
+              "start": 31,
+              "url": "https://t.co/mVB7ggG46t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045683834620919913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 49695,
+          "like_count": 3220,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 244
+        },
+        "reply_settings": "everyone",
+        "text": "Serial Experiments Lain (1998) https://t.co/mVB7ggG46t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 184,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/retro_animes",
+                "end": 23,
+                "expanded_url": "https://instagram.com/retro_animes",
+                "start": 0,
+                "url": "https://t.co/DNy3LE4aHJ"
+              }
+            ]
+          }
+        },
+        "id": "1365444576530563080",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "2045502738591564199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734456,
+          "following_count": 275,
+          "like_count": 9086,
+          "listed_count": 3068,
+          "media_count": 16053,
+          "tweet_count": 16906
+        },
+        "url": "https://t.co/DNy3LE4aHJ",
+        "username": "retro_anime",
+        "verified": true
+      }
+    ]
+  }
+}

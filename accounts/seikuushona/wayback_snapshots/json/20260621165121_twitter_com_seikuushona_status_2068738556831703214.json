@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2068735416036176281",
+    "created_at": "2026-06-21T16:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068738556831703214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068738556831703214",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068735416036176281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 抱抱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2068735416036176281",
+        "created_at": "2026-06-21T16:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068738556831703214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068738556831703214",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068735416036176281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 抱抱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2068735416036176281",
+        "created_at": "2026-06-21T16:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068735416036176281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068735416036176281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你看到了这篇推文 肯定你稍微阅读一下我写的东西\n\n嗯 我是小霜（霜奈）起的圈名还不错吧？\n\n问题就是…我是男的 但是我不服我是这个性别，所以我正在努力改变我的性别\n\n但是这个过程有好多好多折磨人的事情，包括家长，包括资金，包括各种东西\n\n○我现在已经不是很能撑得住了，时时刻刻的精神崩溃说不定在什么时候就会夺走我的生命让我自杀。\n\n我在这里真心希望有各种大佬，愿意帮我一把的，能让我实现这种心愿的人，能伸出一些援手…帮助我完成这种夙愿和执念…\n\n我不是很想就这样死掉 但是我的精神状态真的好差。 我好希望有人能帮助我 资金上帮助我…让我完成这个执念。成为一个真正的女孩子…\n\n打扰你们了 谢谢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你看到了这篇推文 肯定你稍微阅读一下我写的东西\n\n嗯 我是小霜（霜奈）起的圈名还不错吧？\n\n问题就是…我是男的 但是我不服我是这个性别，所以我正在努力改变我的性别\n\n但是这个过程有好多好多折磨人的事情，包括家长，包括资金，包括各种东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 594,
+          "like_count": 9151,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 直fo是感兴趣的意思 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2068562063065227762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068343508675821568/qmIZj7zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31873,
+          "following_count": 4685,
+          "like_count": 16668,
+          "listed_count": 35,
+          "media_count": 4936,
+          "tweet_count": 36137
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2010751592346030461",
+    "created_at": "2026-06-21T10:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068635626237489287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "256523056",
+          "start": 0,
+          "username": "thedankoe"
+        },
+        {
+          "end": 20,
+          "id": "920321515077414912",
+          "start": 11,
+          "username": "readwise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068635626237489287",
+    "in_reply_to_user_id": "256523056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010751592346030461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thedankoe @readwise save"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2010751592346030461",
+        "created_at": "2026-06-21T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068635626237489287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "256523056",
+              "start": 0,
+              "username": "thedankoe"
+            },
+            {
+              "end": 20,
+              "id": "920321515077414912",
+              "start": 11,
+              "username": "readwise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068635626237489287",
+        "in_reply_to_user_id": "256523056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010751592346030461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thedankoe @readwise save"
+      },
+      {
+        "article": {
+          "title": "How to fix your entire life in 1 day"
+        },
+        "attachments": {},
+        "author_id": "256523056",
+        "conversation_id": "2010751592346030461",
+        "created_at": "2026-01-12T16:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010751592346030461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2010…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2010742786430021632",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2010742786430021632",
+              "url": "https://t.co/7l7Jef99QZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010751592346030461",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 828722,
+          "impression_count": 202001661,
+          "like_count": 317722,
+          "quote_count": 14835,
+          "reply_count": 8841,
+          "retweet_count": 49094
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7l7Jef99QZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 575,
+          "like_count": 8831,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-23T14:25:39.000Z",
+        "description": "building @edendotso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "edendotso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "letters.thedankoe.com",
+                "end": 23,
+                "expanded_url": "https://letters.thedankoe.com",
+                "start": 0,
+                "url": "https://t.co/0lZiiyz0A8"
+              }
+            ]
+          }
+        },
+        "id": "256523056",
+        "location": "the goods:",
+        "name": "DAN KOE",
+        "pinned_tweet_id": "2010751592346030461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845856303174037504/Q7ZZqVFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944446,
+          "following_count": 968,
+          "like_count": 82856,
+          "listed_count": 7159,
+          "media_count": 1287,
+          "tweet_count": 30295
+        },
+        "url": "https://t.co/0lZiiyz0A8",
+        "username": "thedankoe",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-17T16:12:02.000Z",
+        "description": "Save your best highlights from Kindle, Twitter, Pocket, Instapaper, iBooks, and 30+ others.\n\nThen revisit, search, organize, and export them seamlessly.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "readwise.io",
+                "end": 23,
+                "expanded_url": "https://readwise.io",
+                "start": 0,
+                "url": "https://t.co/nrgToNhKqN"
+              }
+            ]
+          }
+        },
+        "id": "920321515077414912",
+        "name": "Readwise",
+        "pinned_tweet_id": "1565438810846117892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1333582244817100801/W9vXWh4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213009,
+          "following_count": 3188,
+          "like_count": 2954,
+          "listed_count": 1534,
+          "media_count": 165,
+          "tweet_count": 587723
+        },
+        "url": "https://t.co/nrgToNhKqN",
+        "username": "readwise",
+        "verified": true
+      }
+    ]
+  }
+}

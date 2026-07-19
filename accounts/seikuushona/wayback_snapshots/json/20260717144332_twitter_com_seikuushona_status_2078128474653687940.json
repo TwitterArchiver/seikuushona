@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078128474653687940",
+    "created_at": "2026-07-17T14:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078128474653687940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "微不足道的自我介绍。",
+          "display_url": "twi.trtt.net",
+          "end": 35,
+          "expanded_url": "http://twi.trtt.net",
+          "images": [
+            {
+              "height": 909,
+              "url": "https://pbs.twimg.com/news_img/2078128311746867200/XvNqQ0o_?format=png&name=orig",
+              "width": 1731
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078128311746867200/XvNqQ0o_?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "青空 緒柰的自介条。",
+          "unwound_url": "http://twi.trtt.net",
+          "url": "https://t.co/Th5WLaBOuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078128474653687940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "写好了自介条（大概）。\nhttps://t.co/Th5WLaBOuN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078128474653687940",
+        "created_at": "2026-07-17T14:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078128474653687940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "微不足道的自我介绍。",
+              "display_url": "twi.trtt.net",
+              "end": 35,
+              "expanded_url": "http://twi.trtt.net",
+              "images": [
+                {
+                  "height": 909,
+                  "url": "https://pbs.twimg.com/news_img/2078128311746867200/XvNqQ0o_?format=png&name=orig",
+                  "width": 1731
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078128311746867200/XvNqQ0o_?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "青空 緒柰的自介条。",
+              "unwound_url": "http://twi.trtt.net",
+              "url": "https://t.co/Th5WLaBOuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078128474653687940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写好了自介条（大概）。\nhttps://t.co/Th5WLaBOuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 1131,
+          "like_count": 15679,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      }
+    ]
+  }
+}

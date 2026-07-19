@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065565491444297728"
+      ],
+      "media_source_tweet_id": [
+        "2065565496154501557"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2065682976806228083",
+    "created_at": "2026-06-13T06:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065682976806228083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1112664669653590016",
+          "start": 3,
+          "username": "wr_ell"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAonGJhPug",
+          "end": 35,
+          "expanded_url": "https://x.com/wr_ell/status/2065565496154501557/photo/1",
+          "media_key": "3_2065565491444297728",
+          "start": 12,
+          "url": "https://t.co/mAonGJhPug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065682976806228083",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065565496154501557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wr_ell: https://t.co/mAonGJhPug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2065565491444297728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpc3uHXsAAoB2b.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065565491444297728"
+          ],
+          "media_source_tweet_id": [
+            "2065565496154501557"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2065682976806228083",
+        "created_at": "2026-06-13T06:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065682976806228083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1112664669653590016",
+              "start": 3,
+              "username": "wr_ell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAonGJhPug",
+              "end": 35,
+              "expanded_url": "https://x.com/wr_ell/status/2065565496154501557/photo/1",
+              "media_key": "3_2065565491444297728",
+              "start": 12,
+              "url": "https://t.co/mAonGJhPug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065682976806228083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065565496154501557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wr_ell: https://t.co/mAonGJhPug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065565491444297728"
+          ]
+        },
+        "author_id": "1112664669653590016",
+        "conversation_id": "2065565496154501557",
+        "created_at": "2026-06-12T22:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065565496154501557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAonGJhPug",
+              "end": 23,
+              "expanded_url": "https://x.com/wr_ell/status/2065565496154501557/photo/1",
+              "media_key": "3_2065565491444297728",
+              "start": 0,
+              "url": "https://t.co/mAonGJhPug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065565496154501557",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2366,
+          "like_count": 299,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mAonGJhPug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 370,
+          "like_count": 5778,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T10:35:04.000Z",
+        "description": "",
+        "id": "1112664669653590016",
+        "location": "トリフネ",
+        "name": "wrell",
+        "pinned_tweet_id": "2058687223847920033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064667816985231360/J_RUPXfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 786,
+          "like_count": 21383,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 4407
+        },
+        "username": "wr_ell",
+        "verified": false
+      }
+    ]
+  }
+}

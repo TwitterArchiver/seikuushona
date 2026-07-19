@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2045108603359781337",
+    "created_at": "2026-04-17T11:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045108603359781337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "260084631",
+          "start": 3,
+          "username": "glevonian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045108603359781337",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 972
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044632575818293444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glevonian: If you have a Chinese SIM card in your phone when your plane lands in Thailand you get a text from the Chinese government li…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044632556491173888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_-eina8AA7St8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2044632556369219584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_-eiKWEAA95lR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2045108603359781337",
+        "created_at": "2026-04-17T11:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045108603359781337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "260084631",
+              "start": 3,
+              "username": "glevonian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045108603359781337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 972
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044632575818293444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glevonian: If you have a Chinese SIM card in your phone when your plane lands in Thailand you get a text from the Chinese government li…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044632556491173888",
+            "3_2044632556369219584"
+          ]
+        },
+        "author_id": "260084631",
+        "conversation_id": "2044632575818293444",
+        "created_at": "2026-04-16T04:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044632575818293444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQPuGmcA4e",
+              "end": 233,
+              "expanded_url": "https://x.com/glevonian/status/2044632575818293444/photo/1",
+              "media_key": "3_2044632556491173888",
+              "start": 210,
+              "url": "https://t.co/gQPuGmcA4e"
+            },
+            {
+              "display_url": "pic.x.com/gQPuGmcA4e",
+              "end": 233,
+              "expanded_url": "https://x.com/glevonian/status/2044632575818293444/photo/1",
+              "media_key": "3_2044632556369219584",
+              "start": 210,
+              "url": "https://t.co/gQPuGmcA4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044632575818293444",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1712,
+          "impression_count": 1864597,
+          "like_count": 30040,
+          "quote_count": 70,
+          "reply_count": 146,
+          "retweet_count": 972
+        },
+        "reply_settings": "everyone",
+        "text": "If you have a Chinese SIM card in your phone when your plane lands in Thailand you get a text from the Chinese government literally begging you not to do anything illegal, stupid, or embarrassing. In Thailand. https://t.co/gQPuGmcA4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 145,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-03T04:59:10.000Z",
+        "description": "Sic transit gloria mundi.",
+        "id": "260084631",
+        "location": "Ottawa, Ontario",
+        "name": "Gulag Gulagovich Gulagov",
+        "pinned_tweet_id": "1966881075868954726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858474403576848384/t6ND-OPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 5312,
+          "like_count": 51912,
+          "listed_count": 98,
+          "media_count": 8216,
+          "tweet_count": 146598
+        },
+        "username": "glevonian",
+        "verified": false
+      }
+    ]
+  }
+}
