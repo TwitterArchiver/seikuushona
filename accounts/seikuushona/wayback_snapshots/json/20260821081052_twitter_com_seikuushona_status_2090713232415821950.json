@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090621565801304107",
+    "created_at": "2026-08-21T08:10:52.000Z",
+    "display_text_range": [
+      26,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090713232415821950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088519536068943872",
+          "start": 0,
+          "username": "yamazaki_neo"
+        },
+        {
+          "end": 25,
+          "id": "1444640763070005251",
+          "start": 14,
+          "username": "hq_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090713232415821950",
+    "in_reply_to_user_id": "2088519536068943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090696584577355936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazaki_neo @hq_chihiro 分裂成两个了，可以查一下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090621565801304107",
+        "created_at": "2026-08-21T08:10:52.000Z",
+        "display_text_range": [
+          26,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090713232415821950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088519536068943872",
+              "start": 0,
+              "username": "yamazaki_neo"
+            },
+            {
+              "end": 25,
+              "id": "1444640763070005251",
+              "start": 14,
+              "username": "hq_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090713232415821950",
+        "in_reply_to_user_id": "2088519536068943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090696584577355936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazaki_neo @hq_chihiro 分裂成两个了，可以查一下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534292110467182592",
+              "name": "2chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534292110467182592",
+              "name": "2chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2090621565801304107",
+        "created_at": "2026-08-21T07:04:43.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090696584577355936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hq_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090696584577355936",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090621565801304107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hq_chihiro 2ch不是没了吗，很喜欢里面的恐怖故事🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090713232415821950",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 2,
+          "like_count": 24096,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "@yamazakiisuzu 的分身，本体已被shadow ban制裁……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090708194574455075",
+        "name": "山崎いすず",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 72,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "我情愿 现在与未来 能充满秋凉的爽快",
+        "id": "1444640763070005251",
+        "is_identity_verified": false,
+        "location": "Northeast China",
+        "most_recent_tweet_id": "2090633043983925391",
+        "name": "hqin",
+        "pinned_tweet_id": "2089054582525894820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444640763070005251/1784726962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072724966878113792/na_s50aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 1066,
+          "like_count": 18073,
+          "listed_count": 8,
+          "media_count": 580,
+          "tweet_count": 8538
+        },
+        "url": "",
+        "username": "hq_chihiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

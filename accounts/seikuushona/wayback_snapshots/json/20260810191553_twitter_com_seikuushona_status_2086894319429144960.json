@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1301079398305558529",
+          "name": "No Man's Sky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1301079398305558529",
+          "name": "No Man's Sky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486271512655003652",
+          "name": "Web3"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899346412994570",
+          "name": "Open world games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541881395164786688",
+          "name": "Adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2086894319429144960",
+    "created_at": "2026-08-10T19:15:53.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086894319429144960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fiona_Coyn3/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Fiona_Coyn3/status/2086858543001739503",
+          "start": 28,
+          "url": "https://t.co/lQqee4e7Xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086894319429144960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086858543001739503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看着像是什么 Web3 诈骗广告一样的风格...... https://t.co/lQqee4e7Xg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2086858533073719296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYCx3haEAA2IeW.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1301079398305558529",
+              "name": "No Man's Sky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301079398305558529",
+              "name": "No Man's Sky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2086894319429144960",
+        "created_at": "2026-08-10T19:15:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086894319429144960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fiona_Coyn3/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Fiona_Coyn3/status/2086858543001739503",
+              "start": 28,
+              "url": "https://t.co/lQqee4e7Xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086894319429144960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086858543001739503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着像是什么 Web3 诈骗广告一样的风格...... https://t.co/lQqee4e7Xg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086858533073719296"
+          ]
+        },
+        "author_id": "1963694775770685440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1301079398305558529",
+              "name": "No Man's Sky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301079398305558529",
+              "name": "No Man's Sky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2086858543001739503",
+        "created_at": "2026-08-10T16:53:43.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086858543001739503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 116,
+              "id": "1963694775770685440",
+              "start": 104,
+              "username": "Fiona_Coyn3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZ34GxhDgh",
+              "end": 190,
+              "expanded_url": "https://x.com/Fiona_Coyn3/status/2086858543001739503/photo/1",
+              "media_key": "3_2086858533073719296",
+              "start": 167,
+              "url": "https://t.co/zZ34GxhDgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086858543001739503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086858533073719296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 328,
+                "start": 323,
+                "tag": "無人深空"
+              },
+              {
+                "end": 339,
+                "start": 329,
+                "tag": "NoMansSky"
+              },
+              {
+                "end": 346,
+                "start": 340,
+                "tag": "Steam"
+              },
+              {
+                "end": 352,
+                "start": 347,
+                "tag": "遊戲抽獎"
+              },
+              {
+                "end": 358,
+                "start": 353,
+                "tag": "免費遊戲"
+              },
+              {
+                "end": 364,
+                "start": 359,
+                "tag": "週末福利"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "id": "1963694775770685440",
+                "start": 104,
+                "username": "Fiona_Coyn3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 190,
+                "expanded_url": "https://x.com/i/chat/group_join/g2061832640454635520/AZ5t1f0quy",
+                "start": 167,
+                "url": "https://t.co/x9hJL1Zleu"
+              }
+            ]
+          },
+          "text": "🎉 簡中中推圈週末福利來襲！免費遊戲送給你！ 🎉\n\n🚀 我們將在本週末抽取一位幸運兒，送出熱門太空探索遊戲 Steam 《無人深空》(No Man's Sky) 遊戲一份！ 🌌\n👇 如何參加：\n1️⃣ 關注 @Fiona_Coyn3 (別忘了這步！)\n2️⃣ 點讚 👍 收藏 ⭐ 並 轉發 🔁 此貼文\n3️⃣ 加入 我們的專屬群組👉 https://t.co/x9hJL1Zleu\n\n⚠️ ⚠️ 重要限制 (請務必閱讀) ⚠️ ⚠️\n此獎品僅適用於 Steam 中國地區 (China Region) 的帳號兌換！\n如果您不在中國地區，您將無法兌換，並且我們將無法為您處理任何售後問題。請謹慎參加。\n📅 本週末開獎，千萬不要錯過！ 祝你好運！\n\n#無人深空 #NoMansSky #Steam #遊戲抽獎 #免費遊戲 #週末福利"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🎉 簡中中推圈週末福利來襲！免費遊戲送給你！ 🎉\n\n🚀 我們將在本週末抽取一位幸運兒，送出熱門太空探索遊戲 Steam 《無人深空》(No Man's Sky) 遊戲一份！ 🌌\n👇 如何參加：\n1️⃣ 關注 @Fiona_Coyn3 (別忘了這步！)\n2️⃣ 點讚 👍 收藏 ⭐ 並 轉發 🔁 此貼文\n3️⃣ 加入 我們的專屬群組👉 https://t.co/zZ34GxhDgh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086894319429144960",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1591,
+          "like_count": 20660,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber\n目前的戀人@7zip33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "7zip33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2086872898560840068",
+        "name": "49 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963694775770685440/1757867556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 78,
+          "like_count": 7817,
+          "listed_count": 7,
+          "media_count": 577,
+          "tweet_count": 4537
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

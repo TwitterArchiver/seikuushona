@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2092120823901692370",
+    "created_at": "2026-08-25T05:24:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092120823901692370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "905734073217318912",
+          "start": 3,
+          "username": "keelan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092120823901692370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091773155572355117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keelan8964: 社交媒體16+年齡限制在有相對完善的cps、健康的教育制度且公眾有一定育兒素養的發達國家當然可以是一個有討論價值的問題。把人家整個兒童保護體系的其中一條政策結果挪用到中國語境就很賤，因爲要是你所支持的未成年人上網限制都不能被歸到一個已存在的健康的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2092120823901692370",
+        "created_at": "2026-08-25T05:24:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092120823901692370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "905734073217318912",
+              "start": 3,
+              "username": "keelan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092120823901692370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091773155572355117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keelan8964: 社交媒體16+年齡限制在有相對完善的cps、健康的教育制度且公眾有一定育兒素養的發達國家當然可以是一個有討論價值的問題。把人家整個兒童保護體系的其中一條政策結果挪用到中國語境就很賤，因爲要是你所支持的未成年人上網限制都不能被歸到一個已存在的健康的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "905734073217318912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2091773155572355117",
+        "created_at": "2026-08-24T06:22:38.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091773155572355117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091773155572355117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "社交媒體16+年齡限制在有相對完善的cps、健康的教育制度且公眾有一定育兒素養的發達國家當然可以是一個有討論價值的問題。把人家整個兒童保護體系的其中一條政策結果挪用到中國語境就很賤，因爲要是你所支持的未成年人上網限制都不能被歸到一個已存在的健康的保障結構裏那很難去講其真正的保護效力。說難聽點你在中國說自己贊同青少年禁網就相當於支持一種新的最直截了當最容易執行的面向兒童的制度性人權剝奪，對人家國家未成年人支持和保護體系的取其糟粕去其精華。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "社交媒體16+年齡限制在有相對完善的cps、健康的教育制度且公眾有一定育兒素養的發達國家當然可以是一個有討論價值的問題。把人家整個兒童保護體系的其中一條政策結果挪用到中國語境就很賤，因爲要是你所支持的未成年人上網限制都不能被歸到一個已存在的健康的保障結構裏那很難去講其真正的保護效力。說"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092120823901692370",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 2058,
+          "like_count": 26007,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-07T10:06:45.000Z",
+        "description": "中學生，queer they/she/it；純生活推噢 ；有幸與你共同見證這個時代。立場是溫和堅定與長久的愛；浪漫願他不要改 所信是模糊仍肯冀待～留低哪種意義，就看世間怎記載。alt acc @896for_ever (banned)；#八九六四",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "八九六四"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "896for_ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keelanlan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keelanlan",
+                "start": 0,
+                "url": "https://t.co/NLLzdUpoff"
+              }
+            ]
+          }
+        },
+        "id": "905734073217318912",
+        "is_identity_verified": false,
+        "location": "自由天安門 ",
+        "most_recent_tweet_id": "2092065335058866192",
+        "name": "蘭其連 Keelan",
+        "pinned_tweet_id": "2067881951411728450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/905734073217318912/1784448515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066147896840364032/id-fwQnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6874,
+          "following_count": 726,
+          "like_count": 7746,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/NLLzdUpoff",
+        "username": "keelan8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

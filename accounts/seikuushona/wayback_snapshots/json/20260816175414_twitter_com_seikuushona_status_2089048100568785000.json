@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089039452123570502",
+    "created_at": "2026-08-16T17:54:14.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089048100568785000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089048100568785000",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089039452123570502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 在空虚中度过人生呢。\n晚安。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2089038790455386112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3BtjMa4AAa36A.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089039452123570502",
+        "created_at": "2026-08-16T17:54:14.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089048100568785000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089048100568785000",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089039452123570502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 在空虚中度过人生呢。\n晚安。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089038790455386112"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "2089039452123570502",
+        "created_at": "2026-08-16T17:19:52.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089039452123570502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxptYFWCnh",
+              "end": 83,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2089039452123570502/photo/1",
+              "media_key": "3_2089038790455386112",
+              "start": 60,
+              "url": "https://t.co/sxptYFWCnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089039452123570502",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089038790455386112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好，天天开心！( &gt; ω &lt; )\n暑假好舒服~\n想知道大家开心嘛——\n不开心也没事，总有一天会开心的~ https://t.co/sxptYFWCnh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089048100568785000",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 0,
+          "like_count": 22266,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我是一个真实的笨蛋\n我会开心，也会伤心emo，也会生气骂人\n感谢大家能够接受所有性格的我\n祝愿讨厌我的，喜欢我的人一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089039452123570502",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847835560175685635/1785271346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 2303,
+          "like_count": 24153,
+          "listed_count": 6,
+          "media_count": 920,
+          "tweet_count": 23148
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

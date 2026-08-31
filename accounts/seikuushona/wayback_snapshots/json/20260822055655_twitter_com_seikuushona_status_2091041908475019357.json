@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090876922591170738",
+    "created_at": "2026-08-22T05:56:55.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091041908475019357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091041908475019357",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090876922591170738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 🟩！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2090876916425494528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRJekCbEAAom_B.jpg",
+        "width": 1336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090876922591170738",
+        "created_at": "2026-08-22T05:56:55.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091041908475019357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091041908475019357",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090876922591170738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 🟩！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090876916425494528"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "2090876922591170738",
+        "created_at": "2026-08-21T19:01:19.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090876922591170738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlZIiQUYIa",
+              "end": 27,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2090876922591170738/photo/1",
+              "media_key": "3_2090876916425494528",
+              "start": 4,
+              "url": "https://t.co/HlZIiQUYIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090876922591170738",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090876916425494528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1231,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺 https://t.co/HlZIiQUYIa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091041908475019357",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 1904,
+          "like_count": 24649,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我是一个真实的笨蛋\n我会开心，也会伤心emo，也会生气骂人\n感谢大家能够接受所有性格的我\n祝愿讨厌我的，喜欢我的人一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090892488311755055",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847835560175685635/1785271346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 2318,
+          "like_count": 24334,
+          "listed_count": 6,
+          "media_count": 928,
+          "tweet_count": 23255
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

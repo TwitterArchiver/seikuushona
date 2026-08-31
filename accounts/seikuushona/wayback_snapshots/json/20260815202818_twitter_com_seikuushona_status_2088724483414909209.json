@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088715429565067739",
+    "created_at": "2026-08-15T20:28:18.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088724483414909209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545782617240653825",
+          "start": 0,
+          "username": "Orange_Chr1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088724483414909209",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088715429565067739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange_Chr1s 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 35,
+        "media_key": "3_2088715084956868608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPybTaPaoAA--GG.png",
+        "width": 86
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088715429565067739",
+        "created_at": "2026-08-15T20:28:18.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088724483414909209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088724483414909209",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088715429565067739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088715084956868608"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088715429565067739",
+        "created_at": "2026-08-15T19:52:19.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088715429565067739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNiZ9GsPu6",
+              "end": 88,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2088715429565067739/photo/1",
+              "media_key": "3_2088715084956868608",
+              "start": 65,
+              "url": "https://t.co/mNiZ9GsPu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088715429565067739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088715084956868608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喵好喵151fo了！🥳\n谢谢大家喵！\n其实我真的没想到我有那么多人关注我喵🥺\n真的很谢谢大家喵\n祝大家生活愉快,越来越好喵！🥰 https://t.co/mNiZ9GsPu6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088724483414909209",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1677,
+          "like_count": 21758,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 126,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2088717545524355436",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 154,
+          "like_count": 7831,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

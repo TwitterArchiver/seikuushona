@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091383482815533082",
+    "created_at": "2026-08-23T15:57:39.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091555477444583703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091555477444583703",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091383482815533082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech R.I.P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2091383410589863936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYWIZ1akAAe2Z5.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091383482815533082",
+        "created_at": "2026-08-23T15:57:39.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091555477444583703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091555477444583703",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091383482815533082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech R.I.P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091383410589863936"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2091383482815533082",
+        "created_at": "2026-08-23T04:34:12.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091383482815533082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWv7pKhFhy",
+              "end": 201,
+              "expanded_url": "https://x.com/landiantech/status/2091383482815533082/photo/1",
+              "media_key": "3_2091383410589863936",
+              "start": 178,
+              "url": "https://t.co/YWv7pKhFhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091383482815533082",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091383410589863936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/126373?x",
+                "end": 255,
+                "expanded_url": "https://ourl.co/126373?x",
+                "start": 232,
+                "url": "https://t.co/nAQzorLLZO"
+              }
+            ]
+          },
+          "text": "🫡🫡🫡 Linux Kernel CIFS/SMB2/SMB3/KSMBD 主要维护者、微软首席软件工程师史蒂夫·弗伦奇因病离世。\n\n在最近的 Linux Kernel 7.3 代码中，有社区成员注意到 CIFS/SMB3 代码维护者发生变化，长期维护者史蒂夫因健康原因卸任，但没想到短短几天后史蒂夫家人就证实史蒂夫已经离世。\n\n现在 CIFS/SMB3 主要维护者已经变更为保罗·阿尔坎塔拉和全南宰，这两名工程师将共同维护 CIFS 和 SMB3。\n\n查看全文：https://t.co/nAQzorLLZO"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 35216,
+          "like_count": 306,
+          "quote_count": 7,
+          "reply_count": 42,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "🫡🫡🫡 Linux Kernel CIFS/SMB2/SMB3/KSMBD 主要维护者、微软首席软件工程师史蒂夫·弗伦奇因病离世。\n\n在最近的 Linux Kernel 7.3 代码中，有社区成员注意到 CIFS/SMB3 代码维护者发生变化，长期维护者史蒂夫因健康原因卸任，但没想到短短几天后史蒂夫家人就证实史蒂夫已经离世。\n\n现在 CIFS/SMB3 https://t.co/YWv7pKhFhy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091555477444583703",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1979,
+          "like_count": 25323,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2091506443816178147",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37352,
+          "following_count": 805,
+          "like_count": 6145,
+          "listed_count": 282,
+          "media_count": 6419,
+          "tweet_count": 17480
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

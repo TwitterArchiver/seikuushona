@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092803716684579195",
+    "created_at": "2026-08-27T05:58:47.000Z",
+    "display_text_range": [
+      14,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092854319792144763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900590967289466880",
+          "start": 0,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092854319792144763",
+    "in_reply_to_user_id": "1900590967289466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092803716684579195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hathawaybk56 我在的那个班级，三十多人的班上，一共只有五个指派性别为男者（笑）。\n同时也是我们年级最少人的班级。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092803716684579195",
+        "created_at": "2026-08-27T05:58:47.000Z",
+        "display_text_range": [
+          14,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092854319792144763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092854319792144763",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092803716684579195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 我在的那个班级，三十多人的班上，一共只有五个指派性别为男者（笑）。\n同时也是我们年级最少人的班级。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900590967289466880",
+        "conversation_id": "2092803716684579195",
+        "created_at": "2026-08-27T02:37:43.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092803716684579195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092803716684579195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們班女生超多\n一共50多個人，感覺女生佔80%\n（文科班）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092854319792144763",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 2179,
+          "like_count": 27319,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "Noa｜07年｜高中生｜常驻大陆东北\n精力过剩，怕麻烦，但不坏，想要互fo\n❤️❤️❤️@lei47076 @yuanren0130 @junrey_vox @qinlin_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "lei47076"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "yuanren0130"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "junrey_vox"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "qinlin_love"
+              }
+            ]
+          }
+        },
+        "id": "1900590967289466880",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092834841838690626",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2087093726254625029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900590967289466880/1785179577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090005365933113344/fWEAmDeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 120,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "hathawaybk56",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

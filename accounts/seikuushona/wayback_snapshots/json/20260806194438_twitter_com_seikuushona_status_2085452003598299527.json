@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2085390005372113115",
+    "created_at": "2026-08-06T19:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085452003598299527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045473176357056512",
+          "start": 0,
+          "username": "AlanGreenywtn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085452003598299527",
+    "in_reply_to_user_id": "2045473176357056512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085390005372113115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlanGreenywtn 恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2085390005372113115",
+        "created_at": "2026-08-06T19:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085452003598299527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045473176357056512",
+              "start": 0,
+              "username": "AlanGreenywtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085452003598299527",
+        "in_reply_to_user_id": "2045473176357056512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085390005372113115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanGreenywtn 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045473176357056512",
+        "conversation_id": "2085390005372113115",
+        "created_at": "2026-08-06T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085390005372113115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085390005372113115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 140,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦 200fo达成 🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1522,
+          "like_count": 19859,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T12:04:19.000Z",
+        "description": "🏳️‍🌈|高中生|欢迎互关 o(^▽^)o| Jazz 爱好者| 学琴 ing| 梦想是环球旅行✈️ |Python/前端学习中～|ENTP|\n可以向我提问喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alangreenywtn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alangreenywtn",
+                "start": 0,
+                "url": "https://t.co/wZ1OHkhK69"
+              }
+            ]
+          }
+        },
+        "id": "2045473176357056512",
+        "name": "コンベア寿司🍣🍣",
+        "pinned_tweet_id": "2084319030710812755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045473980509982720/t_RnsdV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 631,
+          "like_count": 3450,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/wZ1OHkhK69",
+        "username": "AlanGreenywtn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091360429675258027",
+    "created_at": "2026-08-23T17:32:26.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091579331575451977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091579331575451977",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091360429675258027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 跨越长城，走向世界——怎么是这种东西走出来了喂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2091360331255906305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYBJAnaAAEL_iA.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091360429675258027",
+        "created_at": "2026-08-23T17:32:26.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091579331575451977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091579331575451977",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091360429675258027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 跨越长城，走向世界——怎么是这种东西走出来了喂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091360331255906305"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2091360429675258027",
+        "created_at": "2026-08-23T03:02:36.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091360429675258027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2RvtPfARL",
+              "end": 157,
+              "expanded_url": "https://x.com/landiantech/status/2091360429675258027/photo/1",
+              "media_key": "3_2091360331255906305",
+              "start": 134,
+              "url": "https://t.co/n2RvtPfARL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091360429675258027",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091360331255906305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/126370?x",
+                "end": 197,
+                "expanded_url": "https://ourl.co/126370?x",
+                "start": 174,
+                "url": "https://t.co/4pvE3t5dW2"
+              }
+            ]
+          },
+          "text": "📍📍微软开发了纯广告软件：安装后会将你的所有浏览器默认搜索、主页和新标签页都换成必应搜索和必应信息流广告页。\n\n这个广告程序名为 Microsoft Recommended Search Settings，主要功能就是在各个浏览器上安装必应搜索扩展然后接管默认搜索。\n\n不过现阶段这个广告软件还未被静默推送安装，可能是微软还在测试中。\n\n查看全文：https://t.co/4pvE3t5dW2"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8020,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "📍📍微软开发了纯广告软件：安装后会将你的所有浏览器默认搜索、主页和新标签页都换成必应搜索和必应信息流广告页。\n\n这个广告程序名为 Microsoft Recommended Search Settings，主要功能就是在各个浏览器上安装必应搜索扩展然后接管默认搜索。 https://t.co/n2RvtPfARL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091579331575451977",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 2015,
+          "like_count": 25502,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2091576841899528477",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37354,
+          "following_count": 805,
+          "like_count": 6147,
+          "listed_count": 282,
+          "media_count": 6420,
+          "tweet_count": 17483
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

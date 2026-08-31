@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088665606388338730",
+    "created_at": "2026-08-15T20:21:17.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088722721190654222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV_e5m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088722721190654222",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088665606388338730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV_e5m2 抱抱......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2088661185818234881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxqSETXkAEWVxR.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088665606388338730",
+        "created_at": "2026-08-15T20:21:17.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088722721190654222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV_e5m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088722721190654222",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088665606388338730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV_e5m2 抱抱......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088661185818234881"
+          ]
+        },
+        "author_id": "1751235517860196352",
+        "conversation_id": "2088665606388338730",
+        "created_at": "2026-08-15T16:34:20.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088665606388338730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQuQqmarml",
+              "end": 168,
+              "expanded_url": "https://x.com/CynunVIIV_e5m2/status/2088665606388338730/photo/1",
+              "media_key": "3_2088661185818234881",
+              "start": 145,
+              "url": "https://t.co/HQuQqmarml"
+            },
+            {
+              "display_url": "x.com/CynunVIIV_e5m2…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/CynunVIIV_e5m2/status/2087404298028355747",
+              "start": 169,
+              "url": "https://t.co/XL8te58bdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088665606388338730",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088661185818234881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 334,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087404298028355747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们，不是她……\n\n不知道这算不算负能……但纸包不住火，主动说明总比等待事情彻底露馅好些\n\n不，这不是精神科的治疗和药物导致的，我们没有接受mect治疗，即使当时签下的是非自愿住院知情同意书。\n治疗让我们摆脱了她之前思覺失調症，双相，重抑和其它东西带来的无尽痛苦，然而我们也失去了很多…… https://t.co/HQuQqmarml https://t.co/XL8te58bdq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088722721190654222",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1677,
+          "like_count": 21756,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "鱼 | La Creationa es PurE",
+        "id": "1751235517860196352",
+        "is_identity_verified": false,
+        "location": "鱼网",
+        "most_recent_tweet_id": "2088665606388338730",
+        "name": "Cynun IVI_int8_w4a8",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1328,
+          "like_count": 30342,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 5895
+        },
+        "url": "",
+        "username": "CynunVIIV_e5m2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

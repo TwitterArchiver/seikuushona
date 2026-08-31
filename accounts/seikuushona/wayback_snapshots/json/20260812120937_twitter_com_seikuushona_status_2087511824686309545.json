@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087511183071076352"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2087488477701239174",
+    "created_at": "2026-08-12T12:09:37.000Z",
+    "display_text_range": [
+      14,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087511824686309545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "read.xhsd.com/item/413455203…",
+          "end": 72,
+          "expanded_url": "http://read.xhsd.com/item/413455203767011?hiddenBtn=true",
+          "start": 49,
+          "url": "https://t.co/qVCtLIKulg"
+        },
+        {
+          "display_url": "pic.x.com/rDvsfnzT9H",
+          "end": 96,
+          "expanded_url": "https://x.com/seikuushona/status/2087511824686309545/photo/1",
+          "media_key": "3_2087511183071076352",
+          "start": 73,
+          "url": "https://t.co/rDvsfnzT9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087511824686309545",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087511183071076352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087488477701239174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami 由 GPT-5.6 Terra Medium 识别。\nSource: https://t.co/qVCtLIKulg https://t.co/rDvsfnzT9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2087511183071076352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhUXGObYAAxUSY.png",
+        "width": 1597
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2087488228932964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg_e_Zb0AASaUK.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087511183071076352"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2087488477701239174",
+        "created_at": "2026-08-12T12:09:37.000Z",
+        "display_text_range": [
+          14,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087511824686309545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "read.xhsd.com/item/413455203…",
+              "end": 72,
+              "expanded_url": "http://read.xhsd.com/item/413455203767011?hiddenBtn=true",
+              "start": 49,
+              "url": "https://t.co/qVCtLIKulg"
+            },
+            {
+              "display_url": "pic.x.com/rDvsfnzT9H",
+              "end": 96,
+              "expanded_url": "https://x.com/seikuushona/status/2087511824686309545/photo/1",
+              "media_key": "3_2087511183071076352",
+              "start": 73,
+              "url": "https://t.co/rDvsfnzT9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087511824686309545",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087511183071076352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087488477701239174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami 由 GPT-5.6 Terra Medium 识别。\nSource: https://t.co/qVCtLIKulg https://t.co/rDvsfnzT9H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087488228932964352"
+          ]
+        },
+        "author_id": "1752365546916720640",
+        "conversation_id": "2087488477701239174",
+        "created_at": "2026-08-12T10:36:51.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087488477701239174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOcUpGXcyA",
+              "end": 45,
+              "expanded_url": "https://x.com/Yuzumikonami/status/2087488477701239174/photo/1",
+              "media_key": "3_2087488228932964352",
+              "start": 22,
+              "url": "https://t.co/gOcUpGXcyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087488477701239174",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087488228932964352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问：这本书里到底出现了多少个刁酱名字喵？🤔 https://t.co/gOcUpGXcyA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087511824686309545",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1627,
+          "like_count": 20956,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "Q | 11年 | 准高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 没钱暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨|发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJm51t"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "is_identity_verified": false,
+        "location": "坐标南京 | NGL↓",
+        "most_recent_tweet_id": "2087490432058212828",
+        "name": "柚见小南Yuzumikonami🏳️‍⚧️",
+        "pinned_tweet_id": "2073338775724331463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752365546916720640/1783142489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075886100984299520/fQugRAKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 719,
+          "like_count": 10897,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/DwXVwJm51t",
+        "username": "Yuzumikonami",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

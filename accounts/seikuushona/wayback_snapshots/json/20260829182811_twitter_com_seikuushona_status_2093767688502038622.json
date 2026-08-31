@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2093730589577003212",
+    "created_at": "2026-08-29T18:28:11.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T19:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093767688502038622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054072790047969280",
+          "start": 0,
+          "username": "MuYou8951"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093767688502038622",
+    "in_reply_to_user_id": "2054072790047969280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093730589577003212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuYou8951 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2093730589577003212",
+        "created_at": "2026-08-29T18:28:11.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093767688502038622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054072790047969280",
+              "start": 0,
+              "username": "MuYou8951"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093767688502038622",
+        "in_reply_to_user_id": "2054072790047969280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093730589577003212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuYou8951 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054072790047969280",
+        "conversation_id": "2093730589577003212",
+        "created_at": "2026-08-29T16:00:46.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093730589577003212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093730589577003212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "活了这么久才知道自己的生日.生日快乐！😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093767688502038622",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 2254,
+          "like_count": 28160,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T05:35:13.000Z",
+        "description": "あなたは私を不愉快にさせた🙁\nあなたが嫌いです！😭",
+        "id": "2054072790047969280",
+        "is_identity_verified": false,
+        "location": "にほん とうきょう",
+        "most_recent_tweet_id": "2093730589577003212",
+        "name": "ト・ユウ🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054072790047969280/1784998049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081058761570185217/zNZmAv6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "MuYou8951",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080703639912640514"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2080703837271437643",
+    "created_at": "2026-07-24T17:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080703837271437643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7knDpWYdcw",
+          "end": 33,
+          "expanded_url": "https://x.com/seikuushona/status/2080703837271437643/photo/1",
+          "media_key": "3_2080703639912640514",
+          "start": 10,
+          "url": "https://t.co/7knDpWYdcw"
+        },
+        {
+          "display_url": "x.com/qian67068/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/qian67068/status/2080265445781983407",
+          "start": 34,
+          "url": "https://t.co/G85MMxMGja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080703837271437643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080265445781983407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Bingo 了啊。 https://t.co/7knDpWYdcw https://t.co/G85MMxMGja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2080703639912640514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAk77va8AIy_n_.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2080265430535639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6WYymaEAAN0cA.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2080265430606962688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6WYy3aYAAnAAY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080703639912640514"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2080703837271437643",
+        "created_at": "2026-07-24T17:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080703837271437643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7knDpWYdcw",
+              "end": 33,
+              "expanded_url": "https://x.com/seikuushona/status/2080703837271437643/photo/1",
+              "media_key": "3_2080703639912640514",
+              "start": 10,
+              "url": "https://t.co/7knDpWYdcw"
+            },
+            {
+              "display_url": "x.com/qian67068/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/qian67068/status/2080265445781983407",
+              "start": 34,
+              "url": "https://t.co/G85MMxMGja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080703837271437643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080265445781983407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bingo 了啊。 https://t.co/7knDpWYdcw https://t.co/G85MMxMGja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080265430535639040",
+            "3_2080265430606962688"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "conversation_id": "2080265445781983407",
+        "created_at": "2026-07-23T12:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080265445781983407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iu6ld1x76R",
+              "end": 31,
+              "expanded_url": "https://x.com/qian67068/status/2080265445781983407/photo/1",
+              "media_key": "3_2080265430535639040",
+              "start": 8,
+              "url": "https://t.co/iu6ld1x76R"
+            },
+            {
+              "display_url": "pic.x.com/iu6ld1x76R",
+              "end": 31,
+              "expanded_url": "https://x.com/qian67068/status/2080265445781983407/photo/1",
+              "media_key": "3_2080265430606962688",
+              "start": 8,
+              "url": "https://t.co/iu6ld1x76R"
+            },
+            {
+              "display_url": "x.com/lyou93523/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lyou93523/status/2079745767296962656",
+              "start": 32,
+              "url": "https://t.co/ENRHNxLuMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080265445781983407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4372,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079745767296962656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是個小東西喵 https://t.co/iu6ld1x76R https://t.co/ENRHNxLuMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1313,
+          "like_count": 17811,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "无糖MtX💛🤍💜🖤半家長黨 | 泛性恋 | 精神状态不佳 | 称小千就好\n它/it\n简/繁/en\n不ban真人 常发布nsfw，满脑子黄色废料 \n分身@qian68069\n在互联网攻受可切的触手娘\n愛所有人，但不会愛人 \n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2079745966102700096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1195,
+          "like_count": 8245,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      }
+    ]
+  }
+}

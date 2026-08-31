@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076712519339843584"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2076561200138293394",
+    "created_at": "2026-07-13T16:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076712528202301607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9svaRNMQ5",
+          "end": 58,
+          "expanded_url": "https://x.com/seikuushona/status/2076712528202301607/photo/1",
+          "media_key": "3_2076712519339843584",
+          "start": 35,
+          "url": "https://t.co/x9svaRNMQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076712528202301607",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076561200138293394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 出界了。\n所以，其实南美洲装不下一整个南美洲（ https://t.co/x9svaRNMQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1689,
+        "media_key": "3_2076712519339843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH3CI_boAAiULp.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2076561192924160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFtZyKbIAA6YtV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076712519339843584"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2076561200138293394",
+        "created_at": "2026-07-13T16:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076712528202301607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9svaRNMQ5",
+              "end": 58,
+              "expanded_url": "https://x.com/seikuushona/status/2076712528202301607/photo/1",
+              "media_key": "3_2076712519339843584",
+              "start": 35,
+              "url": "https://t.co/x9svaRNMQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076712528202301607",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076561200138293394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 出界了。\n所以，其实南美洲装不下一整个南美洲（ https://t.co/x9svaRNMQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076561192924160000"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2076561200138293394",
+        "created_at": "2026-07-13T06:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076561200138293394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifzyUg90L4",
+              "end": 39,
+              "expanded_url": "https://x.com/45_206MHz/status/2076561200138293394/photo/1",
+              "media_key": "3_2076561192924160000",
+              "start": 16,
+              "url": "https://t.co/ifzyUg90L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076561200138293394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5166,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很多人都没意识到南美到底有多大 https://t.co/ifzyUg90L4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1069,
+          "like_count": 14568,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2073043887845998831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 497,
+          "like_count": 38083,
+          "listed_count": 1,
+          "media_count": 905,
+          "tweet_count": 4790
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2080598206665338898",
+    "created_at": "2026-07-24T16:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080691571188765066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "487312107",
+          "start": 0,
+          "username": "Weixin_WeChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080691571188765066",
+    "in_reply_to_user_id": "487312107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080598206665338898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weixin_WeChat 官号运营竟然用中文回答了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2080598206665338898",
+        "created_at": "2026-07-24T16:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080691571188765066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "487312107",
+              "start": 0,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080691571188765066",
+        "in_reply_to_user_id": "487312107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080598206665338898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weixin_WeChat 官号运营竟然用中文回答了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "487312107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2080598206665338898",
+        "created_at": "2026-07-24T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080598206665338898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaxForAI/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/MaxForAI/status/2080505422696550413",
+              "start": 23,
+              "url": "https://t.co/gQ2FWUWOk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080598206665338898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 72738,
+          "like_count": 251,
+          "quote_count": 11,
+          "reply_count": 57,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080505422696550413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以每次推理其实都是“对方正在输入中……”？ https://t.co/gQ2FWUWOk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 1301,
+          "like_count": 17638,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "location": "Worldwide",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252472,
+          "following_count": 24,
+          "like_count": 569,
+          "listed_count": 731,
+          "media_count": 786,
+          "tweet_count": 3383
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true
+      }
+    ]
+  }
+}

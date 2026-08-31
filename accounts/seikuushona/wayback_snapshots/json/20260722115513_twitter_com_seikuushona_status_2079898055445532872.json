@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079898033937076224"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079883462287519940",
+    "created_at": "2026-07-22T11:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079898055445532872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmu7JeozFL",
+          "end": 57,
+          "expanded_url": "https://x.com/seikuushona/status/2079898055445532872/photo/1",
+          "media_key": "3_2079898033937076224",
+          "start": 34,
+          "url": "https://t.co/nmu7JeozFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079898055445532872",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079897622853435849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 之前安装的浏览器插件里的规则标记的。 https://t.co/nmu7JeozFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1895,
+        "media_key": "3_2079898033937076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1IPfnaUAAyvwb.jpg",
+        "width": 2735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079898033937076224"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079883462287519940",
+        "created_at": "2026-07-22T11:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079898055445532872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmu7JeozFL",
+              "end": 57,
+              "expanded_url": "https://x.com/seikuushona/status/2079898055445532872/photo/1",
+              "media_key": "3_2079898033937076224",
+              "start": 34,
+              "url": "https://t.co/nmu7JeozFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079898055445532872",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079897622853435849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 之前安装的浏览器插件里的规则标记的。 https://t.co/nmu7JeozFL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2079883462287519940",
+        "created_at": "2026-07-22T11:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079897622853435849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684547487460388864",
+              "start": 0,
+              "username": "seikuushona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079897622853435849",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079883462287519940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seikuushona 好奇那橙黄色的一圈是什么喵…截图标记吗还是什么浏览器附加组件…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 1286,
+          "like_count": 17502,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 289,
+          "like_count": 116548,
+          "listed_count": 2,
+          "media_count": 1748,
+          "tweet_count": 18310
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

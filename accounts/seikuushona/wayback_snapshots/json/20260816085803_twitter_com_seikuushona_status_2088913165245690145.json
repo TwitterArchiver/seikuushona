@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088861650434847090",
+    "created_at": "2026-08-16T08:58:03.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088913165245690145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "370743613",
+          "start": 0,
+          "username": "guy_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088913165245690145",
+    "in_reply_to_user_id": "370743613",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088861650434847090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guy_kun Happy Birthday!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2088861499704119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0gd3rakAA8c6X.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088861650434847090",
+        "created_at": "2026-08-16T08:58:03.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088913165245690145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "370743613",
+              "start": 0,
+              "username": "guy_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088913165245690145",
+        "in_reply_to_user_id": "370743613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088861650434847090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guy_kun Happy Birthday!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088861499704119296"
+          ]
+        },
+        "author_id": "370743613",
+        "conversation_id": "2088861650434847090",
+        "created_at": "2026-08-16T05:33:21.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088861650434847090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05VBvD27tS",
+              "end": 34,
+              "expanded_url": "https://x.com/guy_kun/status/2088861650434847090/photo/1",
+              "media_key": "3_2088861499704119296",
+              "start": 11,
+              "url": "https://t.co/05VBvD27tS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088861650434847090",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088861499704119296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6109,
+          "like_count": 502,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Turned 34! https://t.co/05VBvD27tS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088913165245690145",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1674,
+          "like_count": 21825,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2088861650434847090",
+        "name": "Guy",
+        "pinned_tweet_id": "2008088034181595239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370743613/1763868138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26545,
+          "following_count": 1166,
+          "like_count": 57620,
+          "listed_count": 49,
+          "media_count": 6286,
+          "tweet_count": 43682
+        },
+        "url": "",
+        "username": "guy_kun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088668160442654822",
+    "created_at": "2026-08-15T20:19:20.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088722226522779688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088722226522779688",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088668160442654822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088668160442654822",
+        "created_at": "2026-08-15T20:19:20.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088722226522779688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088722226522779688",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088668160442654822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "2088668160442654822",
+        "created_at": "2026-08-15T16:44:29.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088668160442654822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088668160442654822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要抄ID，仅限下午两点喵🥺（在家实在是太无聊了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088722226522779688",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1677,
+          "like_count": 21752,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/16岁🥺/高中生/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo）\nHRT：2026.06.26\n我的猫猫🐱 @mengqing5208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "mengqing5208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freequan20252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freequan20252",
+                "start": 0,
+                "url": "https://t.co/aBNInYwdkc"
+              }
+            ]
+          }
+        },
+        "id": "1867567506581598208",
+        "is_identity_verified": false,
+        "location": "幸福之地",
+        "most_recent_tweet_id": "2088668933071217019",
+        "name": "自由的权😇🏳️‍⚧️",
+        "pinned_tweet_id": "2088264066842177894",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867567506581598208/1780705704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923572385174765570/zUr7IrOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 1397,
+          "like_count": 9275,
+          "listed_count": 8,
+          "media_count": 204,
+          "tweet_count": 7613
+        },
+        "url": "https://t.co/aBNInYwdkc",
+        "username": "freequan2025",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

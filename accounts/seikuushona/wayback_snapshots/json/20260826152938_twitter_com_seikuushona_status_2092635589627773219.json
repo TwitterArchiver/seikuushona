@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092617754327306390",
+    "created_at": "2026-08-26T15:29:38.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092635589627773219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "C103ofsixteen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092635589627773219",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092617754327306390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C103ofsixteen 恭喜喵——！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092617754327306390",
+        "created_at": "2026-08-26T15:29:38.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092635589627773219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "C103ofsixteen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092635589627773219",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092617754327306390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C103ofsixteen 恭喜喵——！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2092617754327306390",
+        "created_at": "2026-08-26T14:18:46.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092617754327306390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092617754327306390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 725,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "1500fo福利喵\n20块钱任选盲盒\n10块钱任选盲盒\n5块钱任选盲盒\n转发就评论什么的就当作参与啦\n还拜托grok\n时间就在明天晚上10点开奖\n♥️♥️♥️♥️♥️🥵🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092635600512057676",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 2132,
+          "like_count": 26975,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️👁️｜男｜可能线下｜波奇｜双性恋｜♥️@aruannie512｜宠物@S34sonSt ｜各方面都不健全｜各方面都史上最倒霉的人 | 蓝v互fo | 老人|30解锁好友位，丢包40%ping670导致的思考延迟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "aruannie512"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "S34sonSt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c103ofsixteen1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c103ofsixteen1",
+                "start": 0,
+                "url": "https://t.co/ZeFZXlKNBF"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092635589632020676",
+        "name": "僧夏猫修🦐🍥",
+        "pinned_tweet_id": "2092617754327306390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092487436739948544/yO_1Xawz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 929,
+          "like_count": 6544,
+          "listed_count": 5,
+          "media_count": 1957,
+          "tweet_count": 5349
+        },
+        "url": "https://t.co/ZeFZXlKNBF",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

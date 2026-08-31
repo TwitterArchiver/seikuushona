@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084175372950831494",
+    "created_at": "2026-08-03T07:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084175372950831494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917261838485708802",
+          "start": 3,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084175372950831494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083882630223659390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiujiudev: 庆祝400fo，抽一个奖吧！\n揪15位推u送一份礼物\n奖品：蜜雪柠檬水一杯（可折现）\n奖品于抽奖结束日统一发出\n后续抽奖会放在每增加100fo，欢迎参加\n开奖时间为：2026年8月5日（UTC+8）12:00分开奖\n转发点赞评论这个帖子就可以参与啦…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083882605259415553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtwMEgaYAEoGK7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2526,
+        "media_key": "3_2083882621080313856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtwM_caIAAYLoZ.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084175372950831494",
+        "created_at": "2026-08-03T07:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084175372950831494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917261838485708802",
+              "start": 3,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084175372950831494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882630223659390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiujiudev: 庆祝400fo，抽一个奖吧！\n揪15位推u送一份礼物\n奖品：蜜雪柠檬水一杯（可折现）\n奖品于抽奖结束日统一发出\n后续抽奖会放在每增加100fo，欢迎参加\n开奖时间为：2026年8月5日（UTC+8）12:00分开奖\n转发点赞评论这个帖子就可以参与啦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083882605259415553",
+            "3_2083882621080313856"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "conversation_id": "2083882630223659390",
+        "created_at": "2026-08-02T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083882630223659390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeH7YXJVn9",
+              "end": 167,
+              "expanded_url": "https://x.com/qiujiudev/status/2083882630223659390/photo/1",
+              "media_key": "3_2083882605259415553",
+              "start": 144,
+              "url": "https://t.co/OeH7YXJVn9"
+            },
+            {
+              "display_url": "pic.x.com/OeH7YXJVn9",
+              "end": 167,
+              "expanded_url": "https://x.com/qiujiudev/status/2083882630223659390/photo/1",
+              "media_key": "3_2083882621080313856",
+              "start": 144,
+              "url": "https://t.co/OeH7YXJVn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083882630223659390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1848,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝400fo，抽一个奖吧！\n揪15位推u送一份礼物\n奖品：蜜雪柠檬水一杯（可折现）\n奖品于抽奖结束日统一发出\n后续抽奖会放在每增加100fo，欢迎参加\n开奖时间为：2026年8月5日（UTC+8）12:00分开奖\n转发点赞评论这个帖子就可以参与啦\n(有没有老师能帮我画个头像啊求帮助) https://t.co/OeH7YXJVn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1409,
+          "like_count": 18958,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2083548515905753559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 458,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

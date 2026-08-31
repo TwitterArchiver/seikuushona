@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091428840036000227",
+    "created_at": "2026-08-23T07:36:09.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091429268563923446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091429268563923446",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091428840036000227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@shizukululu0721 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3901,
+        "media_key": "3_2091428327299129345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQY--5naoAEUFN_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091428840036000227",
+        "created_at": "2026-08-23T07:36:09.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091429268563923446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091429268563923446",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091428840036000227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@shizukululu0721 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091428327299129345"
+          ]
+        },
+        "author_id": "1640917359493005313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091428840036000227",
+        "created_at": "2026-08-23T07:34:26.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091428840036000227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A40P1ZPux",
+              "end": 55,
+              "expanded_url": "https://x.com/shizukululu0721/status/2091428840036000227/photo/1",
+              "media_key": "3_2091428327299129345",
+              "start": 32,
+              "url": "https://t.co/4A40P1ZPux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091428840036000227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091428327299129345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "时隔多日重新400fo啦喵~~\n大家以后一直都是我的好朋友呢😭 https://t.co/4A40P1ZPux"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091429268563923446",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1952,
+          "like_count": 25088,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "成分都在推文里啦🥰｜xnn？｜友跨｜碎碎念✨｜贴贴喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/SiaYlt7VQX"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "SZV",
+        "most_recent_tweet_id": "2091429208417620219",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2091091139982135658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1545,
+          "like_count": 3064,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/SiaYlt7VQX",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

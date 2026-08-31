@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091566975118094826",
+    "created_at": "2026-08-23T16:43:20.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091566975118094826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1232817743432314880",
+          "start": 3,
+          "username": "simbafs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091566975118094826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091356033235169775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simbafs: 正在做開機碟，這時候對於才發現現代的 OS 來說，\ndd if=os.img of=/dev/sda bs=1M\ncp os.img /dev/sda\npv os.img -Yo /dev/sda\ncat os.img &gt; /dev/sda\n沒什麼太大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091566975118094826",
+        "created_at": "2026-08-23T16:43:20.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091566975118094826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1232817743432314880",
+              "start": 3,
+              "username": "simbafs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091566975118094826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091356033235169775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simbafs: 正在做開機碟，這時候對於才發現現代的 OS 來說，\ndd if=os.img of=/dev/sda bs=1M\ncp os.img /dev/sda\npv os.img -Yo /dev/sda\ncat os.img &gt; /dev/sda\n沒什麼太大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232817743432314880",
+        "conversation_id": "2091356033235169775",
+        "created_at": "2026-08-23T02:45:08.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091356033235169775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091356033235169775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1522,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "正在做開機碟，這時候對於才發現現代的 OS 來說，\ndd if=os.img of=/dev/sda bs=1M\ncp os.img /dev/sda\npv os.img -Yo /dev/sda\ncat os.img &gt; /dev/sda\n沒什麼太大的區別，因為我們已經不需要精確控制 blocksize，OS 都把這一切搞定了，習慣用 dd 只是因為習慣了而已"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091566975118094826",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 1997,
+          "like_count": 25362,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-27T00:01:05.000Z",
+        "description": "⟨Taiwan⟩   \n我家貓貓叫花生 @peanutfs_tw \n這是我男朋友 -› @Junter1523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "peanutfs_tw"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Junter1523"
+              }
+            ]
+          }
+        },
+        "id": "1232817743432314880",
+        "is_identity_verified": false,
+        "location": "NYCU",
+        "most_recent_tweet_id": "2091555613377736924",
+        "name": "長條貓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232817743432314880/1716470119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024775987574280192/3pJ3loCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 964,
+          "like_count": 310397,
+          "listed_count": 3,
+          "media_count": 1045,
+          "tweet_count": 10231
+        },
+        "url": "",
+        "username": "simbafs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

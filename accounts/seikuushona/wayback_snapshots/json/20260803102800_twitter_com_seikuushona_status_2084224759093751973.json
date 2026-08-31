@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084136930003030017",
+    "created_at": "2026-08-03T10:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084224759093751973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827009216047153152",
+          "start": 0,
+          "username": "yuanyunwu1112"
+        },
+        {
+          "end": 30,
+          "id": "1918274202580467713",
+          "start": 15,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084224759093751973",
+    "in_reply_to_user_id": "1827009216047153152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084179668798992421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyunwu1112 @CyberKanjousen 豆包付费套餐的受众 be like ："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2196,
+        "media_key": "3_2084179657419788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx-WyCaEAAoTeb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084136930003030017",
+        "created_at": "2026-08-03T10:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084224759093751973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827009216047153152",
+              "start": 0,
+              "username": "yuanyunwu1112"
+            },
+            {
+              "end": 30,
+              "id": "1918274202580467713",
+              "start": 15,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084224759093751973",
+        "in_reply_to_user_id": "1827009216047153152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084179668798992421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyunwu1112 @CyberKanjousen 豆包付费套餐的受众 be like ："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084179657419788288"
+          ]
+        },
+        "author_id": "1827009216047153152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084136930003030017",
+        "created_at": "2026-08-03T07:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084179668798992421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqMI6QeLuT",
+              "end": 39,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2084179668798992421/photo/1",
+              "media_key": "3_2084179657419788288",
+              "start": 16,
+              "url": "https://t.co/MqMI6QeLuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084179668798992421",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6839,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084136930003030017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/MqMI6QeLuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1436,
+          "like_count": 19215,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "欢迎互fo，爱好重叠者可私信扩列喵\n中国人~/INFP/ftx（伪娘喵）/想成为可爱的猫猫！/有双相但是不爆雷/不键政/半个火车迷，喜欢高铁喵/崩坏星穹铁道/原神/崩坏三/明日方舟/明日方舟终末地/maimai（打的比较少）/大一逃学ing",
+        "id": "1827009216047153152",
+        "location": "往世乐土♪",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1960608980331585906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874004709539840/S02oFLb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 883,
+          "like_count": 20238,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "yuanyunwu1112",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12913,
+          "following_count": 879,
+          "like_count": 32428,
+          "listed_count": 22,
+          "media_count": 2408,
+          "tweet_count": 11493
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

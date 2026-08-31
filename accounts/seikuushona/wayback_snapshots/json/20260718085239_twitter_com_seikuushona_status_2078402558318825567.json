@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078345994908123196",
+    "created_at": "2026-07-18T08:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078402558318825567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078402558318825567",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078345994908123196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 最后那两个字是代理断线了吗（（（（（（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078345994908123196",
+        "created_at": "2026-07-18T08:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078402558318825567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078402558318825567",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078345994908123196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 最后那两个字是代理断线了吗（（（（（（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2078345994908123196",
+        "created_at": "2026-07-18T05:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078345994908123196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078345994908123196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际联网\n为什么不能国际"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 0,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | 泛性恋 | 无糖 | 精神状态不佳 | 称小千就好 半家长党💛🤍💜🖤sub 称它/it 愛所有人，但不会愛人，简/繁/en 不ban真人 常发布nsfw，满脑子黄色废料 分身@qian68069\n\n（在互联网攻受可切的触手娘）\n\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 951,
+          "like_count": 6263,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2075
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

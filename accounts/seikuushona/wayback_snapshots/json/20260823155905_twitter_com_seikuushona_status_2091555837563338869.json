@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091555837563338869",
+    "created_at": "2026-08-23T15:59:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091555837563338869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091555837563338869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091217346476298623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @aoim33: 我觉得比起性圧抑，爱压抑更可怕\n\n性压抑只要做就好了\n无论对面是谁都可以做，是美是丑，反正关了灯都一样\n\n但是爱压抑不一样\n因为我想你爱我，所以一遍遍的放下尊严，祈求着你可能不及十分之一的爱\n\n来爱我吧，我想要你爱我，为什么不爱我呢？\n我想要你爱我，爱我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091555837563338869",
+        "created_at": "2026-08-23T15:59:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091555837563338869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091555837563338869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091217346476298623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @aoim33: 我觉得比起性圧抑，爱压抑更可怕\n\n性压抑只要做就好了\n无论对面是谁都可以做，是美是丑，反正关了灯都一样\n\n但是爱压抑不一样\n因为我想你爱我，所以一遍遍的放下尊严，祈求着你可能不及十分之一的爱\n\n来爱我吧，我想要你爱我，为什么不爱我呢？\n我想要你爱我，爱我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2091217346476298623",
+        "created_at": "2026-08-22T17:34:02.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091217346476298623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091217346476298623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得比起性圧抑，爱压抑更可怕\n\n性压抑只要做就好了\n无论对面是谁都可以做，是美是丑，反正关了灯都一样\n\n但是爱压抑不一样\n因为我想你爱我，所以一遍遍的放下尊严，祈求着你可能不及十分之一的爱\n\n来爱我吧，我想要你爱我，为什么不爱我呢？\n我想要你爱我，爱我吧，爱我吧\n\n像明天不复存在一样\n像世界上只剩我们两个人一样\n不要再去看那些人好不好，你只要专心爱我就好了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 26069,
+          "like_count": 505,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 80
+        },
+        "reply_settings": "other",
+        "text": "我觉得比起性圧抑，爱压抑更可怕\n\n性压抑只要做就好了\n无论对面是谁都可以做，是美是丑，反正关了灯都一样\n\n但是爱压抑不一样\n因为我想你爱我，所以一遍遍的放下尊严，祈求着你可能不及十分之一的爱\n\n来爱我吧，我想要你爱我，为什么不爱我呢？\n我想要你爱我，爱我吧，爱我吧\n\n像明天不复存在一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091555837563338869",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1980,
+          "like_count": 25328,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2091553614707995003",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6933,
+          "following_count": 3255,
+          "like_count": 60982,
+          "listed_count": 23,
+          "media_count": 3967,
+          "tweet_count": 15679
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

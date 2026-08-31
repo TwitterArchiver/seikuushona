@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088134834355097988",
+    "created_at": "2026-08-14T05:25:14.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088134834355097988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088134834355097988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087895990334300215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 不存在性别认同障碍这样的疾病，该治疗的是想消灭少数派的社会。——东野圭吾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088134834355097988",
+        "created_at": "2026-08-14T05:25:14.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088134834355097988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088134834355097988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087895990334300215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 不存在性别认同障碍这样的疾病，该治疗的是想消灭少数派的社会。——东野圭吾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2087895990334300215",
+        "created_at": "2026-08-13T13:36:09.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087895990334300215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087895990334300215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5232,
+          "like_count": 197,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "不存在性别认同障碍这样的疾病，该治疗的是想消灭少数派的社会。——东野圭吾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088134834355097988",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1648,
+          "like_count": 21347,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2088108718487462194",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1158,
+          "like_count": 2918,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 10647
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

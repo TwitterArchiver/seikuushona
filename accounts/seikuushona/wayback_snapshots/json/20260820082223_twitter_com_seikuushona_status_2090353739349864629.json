@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090341583401205881",
+    "created_at": "2026-08-20T08:22:23.000Z",
+    "display_text_range": [
+      14,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090353739349864629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090353739349864629",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090341583401205881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 《中华人民共和国网络安全法》的第二十六条，有着对提供信息发布、即时通讯等服务的平台必须要求用户提供真实身份信息这种规定。\n于是平台们都盯上了手机号码，这种对普通人严格的实名关联。\n就这么，现在大陆几乎任何站点都需要手机号码了，甚至有的还会变本加厉的要求直接提供身份信息。\n悲哀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090341583401205881",
+        "created_at": "2026-08-20T08:22:23.000Z",
+        "display_text_range": [
+          14,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090353739349864629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090353739349864629",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090341583401205881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 《中华人民共和国网络安全法》的第二十六条，有着对提供信息发布、即时通讯等服务的平台必须要求用户提供真实身份信息这种规定。\n于是平台们都盯上了手机号码，这种对普通人严格的实名关联。\n就这么，现在大陆几乎任何站点都需要手机号码了，甚至有的还会变本加厉的要求直接提供身份信息。\n悲哀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "2090341583401205881",
+        "created_at": "2026-08-20T07:34:04.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090341583401205881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090341583401205881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大陸的軟件到底對手機號碼有什麼執念？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090353739349864629",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1800,
+          "like_count": 23624,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2090346976663724100",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2090066067116982651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7777,
+          "following_count": 3968,
+          "like_count": 105029,
+          "listed_count": 18,
+          "media_count": 9640,
+          "tweet_count": 105183
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

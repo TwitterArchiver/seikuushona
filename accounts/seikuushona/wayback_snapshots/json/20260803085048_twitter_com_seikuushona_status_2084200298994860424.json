@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084172107626545601",
+    "created_at": "2026-08-03T08:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084200298994860424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084200298994860424",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084172107626545601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 鲨！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_2084172101775413248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx3e_EaUAArB8j.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084172107626545601",
+        "created_at": "2026-08-03T08:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084200298994860424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084200298994860424",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084172107626545601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 鲨！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084172101775413248"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2084172107626545601",
+        "created_at": "2026-08-03T06:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084172107626545601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uHWpJIBS1",
+              "end": 135,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2084172107626545601/photo/1",
+              "media_key": "3_2084172101775413248",
+              "start": 112,
+              "url": "https://t.co/5uHWpJIBS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084172107626545601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 324,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切都完了！我们rm实验室的鲨鱼含量在急剧增加！\n现已发现两只鲨鲨，并且马上将会增加至少两只。这意味着，鲨鱼正在繁殖（或人传人）？！\n不久之后实验室就全都是鲨鱼了？！没有狗雄了，没有飞镖了，没有无人机了，全都是鲨鱼啊😭😭😭 https://t.co/5uHWpJIBS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1426,
+          "like_count": 19127,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 278,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

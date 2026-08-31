@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2080686109978439693",
+    "created_at": "2026-07-24T16:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080696268641468646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080696268641468646",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080686109978439693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo @grok 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2080686098544738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAU-5DaQAA9Zx_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2080686109978439693",
+        "created_at": "2026-07-24T16:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080696268641468646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080696268641468646",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080686109978439693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo @grok 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080686098544738304"
+          ]
+        },
+        "author_id": "1794569354597793792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080686109978439693",
+        "created_at": "2026-07-24T16:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080686109978439693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1720665183188922368",
+              "start": 77,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yI6F5GTTvm",
+              "end": 109,
+              "expanded_url": "https://x.com/lockloveovo/status/2080686109978439693/photo/1",
+              "media_key": "3_2080686098544738304",
+              "start": 86,
+              "url": "https://t.co/yI6F5GTTvm"
+            },
+            {
+              "display_url": "x.com/lockloveovo/st…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/lockloveovo/status/2080681049563279580",
+              "start": 110,
+              "url": "https://t.co/O2vbE0Mc7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686109978439693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080681049563279580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ok百fo了😋\n在此帖子下评论我将随机抽人送出几份小礼（实在没钱了喵见谅喵）\n一等奖：十元红包一份（共一份）\n二等奖：请你一瓶柠檬水（共五份）\n今晚六点让@grok开奖喵 https://t.co/yI6F5GTTvm https://t.co/O2vbE0Mc7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1308,
+          "like_count": 17725,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜准初三｜进步保守主义（建制？)｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人|友跨🏳️‍⚧️\nqq空间（bushi）：https://t.co/lUzu6rW4L0\n老婆🥰@Venti718\n好朋友😋@Wesley10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "Venti718"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Wesley10032"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 90,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 67,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlxkHT"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "location": "你家",
+        "name": "不知道起啥名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 224,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/YnKeIlxkHT",
+        "username": "lockloveovo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8874606,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7218,
+          "media_count": 9182996,
+          "tweet_count": 132182380
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

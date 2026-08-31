@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092264493229420544",
+        "3_2092264493237813248",
+        "3_2092264493237866497"
+      ],
+      "media_source_tweet_id": [
+        "2092264500229738643",
+        "2092264500229738643",
+        "2092264500229738643"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092669612177633303",
+    "created_at": "2026-08-26T17:44:50.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092669612177633303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOfKnopvig",
+          "end": 50,
+          "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+          "media_key": "3_2092264493229420544",
+          "start": 27,
+          "url": "https://t.co/MOfKnopvig"
+        },
+        {
+          "display_url": "pic.x.com/MOfKnopvig",
+          "end": 50,
+          "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+          "media_key": "3_2092264493237813248",
+          "start": 27,
+          "url": "https://t.co/MOfKnopvig"
+        },
+        {
+          "display_url": "pic.x.com/MOfKnopvig",
+          "end": 50,
+          "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+          "media_key": "3_2092264493237866497",
+          "start": 27,
+          "url": "https://t.co/MOfKnopvig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092669612177633303",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092264493229420544"
+      },
+      {
+        "media_key": "3_2092264493237813248"
+      },
+      {
+        "media_key": "3_2092264493237866497"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092264500229738643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: 気体、流体、固体 https://t.co/MOfKnopvig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2092264493229420544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk3eKcaMAABGtF.jpg",
+        "width": 896
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2092264493237813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk3eKeaQAAnX3W.jpg",
+        "width": 896
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2092264493237866497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk3eKebEAEOqeh.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092264493229420544",
+            "3_2092264493237813248",
+            "3_2092264493237866497"
+          ],
+          "media_source_tweet_id": [
+            "2092264500229738643",
+            "2092264500229738643",
+            "2092264500229738643"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092669612177633303",
+        "created_at": "2026-08-26T17:44:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092669612177633303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 50,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493229420544",
+              "start": 27,
+              "url": "https://t.co/MOfKnopvig"
+            },
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 50,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493237813248",
+              "start": 27,
+              "url": "https://t.co/MOfKnopvig"
+            },
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 50,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493237866497",
+              "start": 27,
+              "url": "https://t.co/MOfKnopvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092669612177633303",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092264493229420544"
+          },
+          {
+            "media_key": "3_2092264493237813248"
+          },
+          {
+            "media_key": "3_2092264493237866497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092264500229738643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: 気体、流体、固体 https://t.co/MOfKnopvig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092264493229420544",
+            "3_2092264493237813248",
+            "3_2092264493237866497"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2092264500229738643",
+        "created_at": "2026-08-25T14:55:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092264500229738643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 32,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493229420544",
+              "start": 9,
+              "url": "https://t.co/MOfKnopvig"
+            },
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 32,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493237813248",
+              "start": 9,
+              "url": "https://t.co/MOfKnopvig"
+            },
+            {
+              "display_url": "pic.x.com/MOfKnopvig",
+              "end": 32,
+              "expanded_url": "https://x.com/nzawasaji777/status/2092264500229738643/photo/1",
+              "media_key": "3_2092264493237866497",
+              "start": 9,
+              "url": "https://t.co/MOfKnopvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092264500229738643",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092264493229420544"
+          },
+          {
+            "media_key": "3_2092264493237813248"
+          },
+          {
+            "media_key": "3_2092264493237866497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 845,
+          "impression_count": 151374,
+          "like_count": 6973,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "気体、流体、固体 https://t.co/MOfKnopvig"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092669612177633303",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2136,
+          "like_count": 27005,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね✉️:nzawasaji777@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNsnGn"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "is_identity_verified": false,
+        "location": "ご相談はメール、DMまで",
+        "most_recent_tweet_id": "2092268950549938367",
+        "name": "ん沢　匙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705961363343048704/1776798337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10894,
+          "following_count": 751,
+          "like_count": 7540,
+          "listed_count": 57,
+          "media_count": 335,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/0RQYPNsnGn",
+        "username": "nzawasaji777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

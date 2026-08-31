@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079239301683089530",
+    "created_at": "2026-07-21T10:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079521345860501560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2180953680",
+          "start": 0,
+          "username": "PrinzEugenOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079521345860501560",
+    "in_reply_to_user_id": "2180953680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079239301683089530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrinzEugenOwO 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2079239290362662913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrxHkkaEAECXzN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079239301683089530",
+        "created_at": "2026-07-21T10:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079521345860501560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2180953680",
+              "start": 0,
+              "username": "PrinzEugenOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079521345860501560",
+        "in_reply_to_user_id": "2180953680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079239301683089530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrinzEugenOwO 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079239290362662913"
+          ]
+        },
+        "author_id": "2180953680",
+        "conversation_id": "2079239301683089530",
+        "created_at": "2026-07-20T16:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079239301683089530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EuJOndmFCx",
+              "end": 33,
+              "expanded_url": "https://x.com/PrinzEugenOwO/status/2079239301683089530/photo/1",
+              "media_key": "3_2079239290362662913",
+              "start": 10,
+              "url": "https://t.co/EuJOndmFCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079239301683089530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5365,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 128,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "又浪費了一年壽命😶 https://t.co/EuJOndmFCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 1239,
+          "like_count": 16821,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-07T22:21:26.000Z",
+        "description": "大中華主義蛆我一律B加掛最好祈禱我不要找到你/軍盲/百合豚/東方廚\nAnti CCP👎🇨🇳 \nStandWithUkraine🇺🇦\n逃生艙：@Yukikaze_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Yukikaze_UwU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yuk.en…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yuk.enchenia.com",
+                "start": 0,
+                "url": "https://t.co/VSjZYmpD3p"
+              }
+            ]
+          }
+        },
+        "id": "2180953680",
+        "location": "Taipei City, Taiwan",
+        "name": "幼月",
+        "pinned_tweet_id": "1826534110543618351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639809605592313856/45_OEskC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7519,
+          "following_count": 1060,
+          "like_count": 267636,
+          "listed_count": 28,
+          "media_count": 10580,
+          "tweet_count": 32559
+        },
+        "url": "https://t.co/VSjZYmpD3p",
+        "username": "PrinzEugenOwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089642908534157414",
+    "created_at": "2026-08-18T12:06:56.000Z",
+    "display_text_range": [
+      11,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089685475569385825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032599702454329344",
+          "start": 0,
+          "username": "Zack_1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089685475569385825",
+    "in_reply_to_user_id": "2032599702454329344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089642908534157414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zack_1229 好像大部分都是靠互 Fo 来着……\n我 Fo 的人与 Fo 我的人比例一直都在 4:1 左右，主动 Fo 我的人应该只占十分之一来着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089642908534157414",
+        "created_at": "2026-08-18T12:06:56.000Z",
+        "display_text_range": [
+          11,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089685475569385825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032599702454329344",
+              "start": 0,
+              "username": "Zack_1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089685475569385825",
+        "in_reply_to_user_id": "2032599702454329344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089642908534157414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zack_1229 好像大部分都是靠互 Fo 来着……\n我 Fo 的人与 Fo 我的人比例一直都在 4:1 左右，主动 Fo 我的人应该只占十分之一来着。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032599702454329344",
+        "conversation_id": "2089642908534157414",
+        "created_at": "2026-08-18T09:17:47.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089642908534157414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089642908534157414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是你们哪来那么多fo的啊૮₍ꐦ -᷅ ⤙ -᷄ ₎ა"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089685475569385825",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1759,
+          "like_count": 22956,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T23:29:05.000Z",
+        "description": "音游手殘/ Vocaloid 愛好者\n歡迎交友🫶\n小號…？：@Azl_Kcaz\nTG：https://t.co/1xCYJcgUeX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Azl_Kcaz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zack_Azl",
+                "end": 66,
+                "expanded_url": "http://t.me/Zack_Azl",
+                "start": 43,
+                "url": "https://t.co/1xCYJcgUeX"
+              }
+            ]
+          }
+        },
+        "id": "2032599702454329344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089685478312403365",
+        "name": "Zack",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032599702454329344/1786888346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088987245542010880/cMGCpoVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 57,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "Zack_1229",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

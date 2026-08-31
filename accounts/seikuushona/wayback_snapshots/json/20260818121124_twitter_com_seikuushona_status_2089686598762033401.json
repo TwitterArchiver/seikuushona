@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2089666722332897351",
+    "created_at": "2026-08-18T12:11:24.000Z",
+    "display_text_range": [
+      12,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089686598762033401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089686598762033401",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089666722332897351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 百度这个令人完全摸不着头脑的链接构成更加有着骗到人的可能啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2089666722332897351",
+        "created_at": "2026-08-18T12:11:24.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089686598762033401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089686598762033401",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089666722332897351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 百度这个令人完全摸不着头脑的链接构成更加有着骗到人的可能啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2089666722332897351",
+        "created_at": "2026-08-18T10:52:25.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089666722332897351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "妄想症的治疗方法主要有两方面，包括药物治疗和心理治疗。1.药物治疗：主要是使用抗精神病药物，包括奥氮平、利培酮、阿立哌唑等。如果合并有睡眠障碍，可以加用劳拉西泮、佐匹克隆等药物。在合并躁狂症的时候，可以使用碳酸锂、丙戊酸钠等药物，这些药物使用的时候要注意不要中途停药，减量宜缓慢，在使用之前都要由专业精神科医师",
+              "display_url": "m.baidu.com/bh/m/detail/ar…",
+              "end": 144,
+              "expanded_url": "https://m.baidu.com/bh/m/detail/ar_6750406566749707236",
+              "start": 121,
+              "status": 200,
+              "title": "妄想症怎么治疗-医疗科普-百度健康",
+              "unwound_url": "https://m.baidu.com/bh/m/detail/ar_6750406566749707236",
+              "url": "https://t.co/e3Oxw41WoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089666722332897351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家一个小文案不用谢哦\n明天就七夕了在朋友圈里抽几个宝宝\n奖品有\n一等奖：521r\n二等奖：131.4r\n三等奖：52.1r\n四等奖：13.14小红包\n五等奖：一杯奶茶\n（特等奖：1314r)\n表格填写姓名和序号参与抽奖［邀请你填写表格］ https://t.co/e3Oxw41WoZ\n祝宝宝们七夕快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089686598762033401",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1759,
+          "like_count": 22963,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2089678873017688322",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1286,
+          "like_count": 11087,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 4859
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

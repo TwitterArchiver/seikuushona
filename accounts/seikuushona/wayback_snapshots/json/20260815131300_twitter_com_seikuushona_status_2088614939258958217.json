@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088614929729531904"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088614939258958217",
+    "created_at": "2026-08-15T13:13:00.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088614939258958217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLLznA65RG",
+          "end": 45,
+          "expanded_url": "https://x.com/seikuushona/status/2088614939258958217/photo/1",
+          "media_key": "3_2088614929729531904",
+          "start": 22,
+          "url": "https://t.co/hLLznA65RG"
+        },
+        {
+          "display_url": "x.com/Bomb_Revolutio…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Bomb_Revolution/status/2088541687836791184",
+          "start": 46,
+          "url": "https://t.co/ojKVOzQ7ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088614939258958217",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088614929729531904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088541687836791184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯好奇，这种头像的人怎么追？\n我也不知道。 https://t.co/hLLznA65RG https://t.co/ojKVOzQ7ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2088614929729531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxANm8bMAA9v1q.jpg",
+        "width": 400
+      },
+      {
+        "height": 500,
+        "media_key": "3_2088541682849792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv9mFDbwAArNu2.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614929729531904"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088614939258958217",
+        "created_at": "2026-08-15T13:13:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088614939258958217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLLznA65RG",
+              "end": 45,
+              "expanded_url": "https://x.com/seikuushona/status/2088614939258958217/photo/1",
+              "media_key": "3_2088614929729531904",
+              "start": 22,
+              "url": "https://t.co/hLLznA65RG"
+            },
+            {
+              "display_url": "x.com/Bomb_Revolutio…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Bomb_Revolution/status/2088541687836791184",
+              "start": 46,
+              "url": "https://t.co/ojKVOzQ7ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088614939258958217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614929729531904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088541687836791184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯好奇，这种头像的人怎么追？\n我也不知道。 https://t.co/hLLznA65RG https://t.co/ojKVOzQ7ts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088541682849792000"
+          ]
+        },
+        "author_id": "1940808682998259712",
+        "conversation_id": "2088541687836791184",
+        "created_at": "2026-08-15T08:21:56.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088541687836791184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EH0Kl3R1H",
+              "end": 39,
+              "expanded_url": "https://x.com/Bomb_Revolution/status/2088541687836791184/photo/1",
+              "media_key": "3_2088541682849792000",
+              "start": 16,
+              "url": "https://t.co/5EH0Kl3R1H"
+            },
+            {
+              "display_url": "x.com/LingYu0612/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LingYu0612/status/2088498922532876437",
+              "start": 40,
+              "url": "https://t.co/xednW9DeoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088541687836791184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088541682849792000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088498922532876437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯好奇，这种头像的迷你鲨怎么追 https://t.co/5EH0Kl3R1H https://t.co/xednW9DeoQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088614939258958217",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1662,
+          "like_count": 21575,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T16:23:55.000Z",
+        "description": "自介在主页置顶啦～，欢迎大家来找我喵～\n匿名提问：https://t.co/oOjXVJdUzm\n个人博客：https://t.co/HQ67CBXULg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bombrevolution",
+                "end": 48,
+                "expanded_url": "https://ngl.link/bombrevolution",
+                "start": 25,
+                "url": "https://t.co/oOjXVJdUzm"
+              },
+              {
+                "display_url": "bombrevolution.pages.dev",
+                "end": 77,
+                "expanded_url": "http://bombrevolution.pages.dev",
+                "start": 54,
+                "url": "https://t.co/HQ67CBXULg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bombrevolution.pages.dev",
+                "end": 23,
+                "expanded_url": "http://bombrevolution.pages.dev",
+                "start": 0,
+                "url": "https://t.co/HQ67CBXULg"
+              }
+            ]
+          }
+        },
+        "id": "1940808682998259712",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2088606991933661245",
+        "name": "BombRevolution",
+        "pinned_tweet_id": "2086597308578402412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940808682998259712/1751587648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627387527716864/JjLZtClE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 292,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/HQ67CBXULg",
+        "username": "Bomb_Revolution",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

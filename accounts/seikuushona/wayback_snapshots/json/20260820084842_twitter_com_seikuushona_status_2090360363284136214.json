@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089998069823873024"
+      ],
+      "media_source_tweet_id": [
+        "2089998135728967729"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090360363284136214",
+    "created_at": "2026-08-20T08:48:42.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090360363284136214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "Mai_moku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFAUQ9I9T9",
+          "end": 68,
+          "expanded_url": "https://x.com/Mai_moku/status/2089998135728967729/photo/1",
+          "media_key": "3_2089998069823873024",
+          "start": 45,
+          "url": "https://t.co/rFAUQ9I9T9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090360363284136214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089998069823873024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089998135728967729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mai_moku: 模仿あさひ @ ihasa39老师的画风画的，喜欢老师的画。 https://t.co/rFAUQ9I9T9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_2089998069823873024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEqK9UaoAAGObq.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089998069823873024"
+          ],
+          "media_source_tweet_id": [
+            "2089998135728967729"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090360363284136214",
+        "created_at": "2026-08-20T08:48:42.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090360363284136214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "Mai_moku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFAUQ9I9T9",
+              "end": 68,
+              "expanded_url": "https://x.com/Mai_moku/status/2089998135728967729/photo/1",
+              "media_key": "3_2089998069823873024",
+              "start": 45,
+              "url": "https://t.co/rFAUQ9I9T9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090360363284136214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089998069823873024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089998135728967729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mai_moku: 模仿あさひ @ ihasa39老师的画风画的，喜欢老师的画。 https://t.co/rFAUQ9I9T9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089998069823873024"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2089998135728967729",
+        "created_at": "2026-08-19T08:49:20.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089998135728967729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFAUQ9I9T9",
+              "end": 54,
+              "expanded_url": "https://x.com/Mai_moku/status/2089998135728967729/photo/1",
+              "media_key": "3_2089998069823873024",
+              "start": 31,
+              "url": "https://t.co/rFAUQ9I9T9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089998135728967729",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089998069823873024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 7018,
+          "like_count": 973,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "模仿あさひ @ ihasa39老师的画风画的，喜欢老师的画。 https://t.co/rFAUQ9I9T9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090360363284136214",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1803,
+          "like_count": 23659,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "底层画师，禁止擅自ai学习",
+        "id": "821614513736781825",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2090357799519944706",
+        "name": "芒伊木",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821614513736781825/1773817943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43881,
+          "following_count": 238,
+          "like_count": 789,
+          "listed_count": 136,
+          "media_count": 307,
+          "tweet_count": 559
+        },
+        "url": "",
+        "username": "Mai_moku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

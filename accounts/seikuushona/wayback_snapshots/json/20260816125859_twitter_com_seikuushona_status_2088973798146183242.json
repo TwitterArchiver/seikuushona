@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088972804691566888",
+    "created_at": "2026-08-16T12:58:59.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088973798146183242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088973798146183242",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088972804691566888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley �!码乱🐎!�"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2088971632840699904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2EodlWcAAbVEl.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088972804691566888",
+        "created_at": "2026-08-16T12:58:59.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088973798146183242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088973798146183242",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088972804691566888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley �!码乱🐎!�"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088971632840699904"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2088972804691566888",
+        "created_at": "2026-08-16T12:55:02.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088972804691566888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKxCmAWJOJ",
+              "end": 48,
+              "expanded_url": "https://x.com/auspiceshirley/status/2088972804691566888/photo/1",
+              "media_key": "3_2088971632840699904",
+              "start": 25,
+              "url": "https://t.co/rKxCmAWJOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088972804691566888",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088971632840699904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "%!�乱�?!乱�码�.?�?...II��!� https://t.co/rKxCmAWJOJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088973798146183242",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1694,
+          "like_count": 22130,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088973450048070005",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 615,
+          "like_count": 2382,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

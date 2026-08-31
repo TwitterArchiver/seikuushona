@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092121147630567602",
+    "created_at": "2026-08-25T05:59:56.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092129833354686957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1010322251269300224",
+          "start": 0,
+          "username": "tkcmta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092129833354686957",
+    "in_reply_to_user_id": "1010322251269300224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092121147630567602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkcmta 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2092121136285069312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQi1FsNbsAA9pJg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092121147630567602",
+        "created_at": "2026-08-25T05:59:56.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092129833354686957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1010322251269300224",
+              "start": 0,
+              "username": "tkcmta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092129833354686957",
+        "in_reply_to_user_id": "1010322251269300224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092121147630567602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkcmta 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092121136285069312"
+          ]
+        },
+        "author_id": "1010322251269300224",
+        "conversation_id": "2092121147630567602",
+        "created_at": "2026-08-25T05:25:25.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092121147630567602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuLN5elYb8",
+              "end": 37,
+              "expanded_url": "https://x.com/tkcmta/status/2092121147630567602/photo/1",
+              "media_key": "3_2092121136285069312",
+              "start": 14,
+              "url": "https://t.co/VuLN5elYb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092121147630567602",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092121136285069312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "800fo！\n感谢大家喵） https://t.co/VuLN5elYb8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092129833354686957",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 2072,
+          "like_count": 26099,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-23T00:42:50.000Z",
+        "description": "05MtF / INFJ-T / 小证HRT22.01.27 / 同类互fo喵(忘了请私信提醒喵) / Wolfx Project / #防災 / #EEW / #地震観測 / #プロセカ / ZH、EN、JA / 平时主要玩PJSK喵 / 😈🥰 @realcodestudio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "防災"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "EEW"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "地震観測"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "realcodestudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolfx.jp",
+                "end": 23,
+                "expanded_url": "https://wolfx.jp",
+                "start": 0,
+                "url": "https://t.co/Etun1cXcZX"
+              }
+            ]
+          }
+        },
+        "id": "1010322251269300224",
+        "is_identity_verified": false,
+        "location": "Inazuma",
+        "most_recent_tweet_id": "2092126002818474466",
+        "name": "TenkyuChimata🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2091835403578102266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010322251269300224/1731019726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617528974112083969/kjfqMLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1146,
+          "like_count": 54609,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/Etun1cXcZX",
+        "username": "tkcmta",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

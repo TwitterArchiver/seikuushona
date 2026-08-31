@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084183922217451766",
+    "created_at": "2026-08-03T08:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084193458621988987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1149206523320516608",
+          "start": 0,
+          "username": "ykq315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084193458621988987",
+    "in_reply_to_user_id": "1149206523320516608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084183922217451766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ykq315 IP 不干净而已，大概率不会对账户有什么影响。\n我上一个账户 2022 年那会因为这种原因被封禁过一次，当时用蹩脚英语写的申诉能通过，账户之后也没什么问题。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2084183909605277698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyCOSqbgAIrzI2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084183922217451766",
+        "created_at": "2026-08-03T08:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084193458621988987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1149206523320516608",
+              "start": 0,
+              "username": "ykq315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084193458621988987",
+        "in_reply_to_user_id": "1149206523320516608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084183922217451766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ykq315 IP 不干净而已，大概率不会对账户有什么影响。\n我上一个账户 2022 年那会因为这种原因被封禁过一次，当时用蹩脚英语写的申诉能通过，账户之后也没什么问题。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084183909605277698"
+          ]
+        },
+        "author_id": "1149206523320516608",
+        "conversation_id": "2084183922217451766",
+        "created_at": "2026-08-03T07:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084183922217451766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMBuFcCQ0G",
+              "end": 30,
+              "expanded_url": "https://x.com/ykq315/status/2084183922217451766/photo/1",
+              "media_key": "3_2084183909605277698",
+              "start": 7,
+              "url": "https://t.co/IMBuFcCQ0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183922217451766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又干啥了🥲 https://t.co/IMBuFcCQ0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1418,
+          "like_count": 19060,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-11T06:39:21.000Z",
+        "description": "我不是人类了",
+        "id": "1149206523320516608",
+        "name": "普通猫",
+        "pinned_tweet_id": "1667564947839291393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841992474572820480/0KZ4lXk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 0,
+          "like_count": 150158,
+          "listed_count": 3,
+          "media_count": 1127,
+          "tweet_count": 10449
+        },
+        "url": "",
+        "username": "ykq315",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089900156896612447",
+    "created_at": "2026-08-19T06:18:03.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089960063024890293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679858508467159041",
+          "start": 0,
+          "username": "Amiartisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089960063024890293",
+    "in_reply_to_user_id": "1679858508467159041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089900156896612447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiartisan 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2089900143390883840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDRG47aAAAaHPt.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089900156896612447",
+        "created_at": "2026-08-19T06:18:03.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089960063024890293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679858508467159041",
+              "start": 0,
+              "username": "Amiartisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089960063024890293",
+        "in_reply_to_user_id": "1679858508467159041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089900156896612447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiartisan 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089900143390883840"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "conversation_id": "2089900156896612447",
+        "created_at": "2026-08-19T02:20:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089900156896612447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVxIO0I9do",
+              "end": 41,
+              "expanded_url": "https://x.com/Amiartisan/status/2089900156896612447/photo/1",
+              "media_key": "3_2089900143390883840",
+              "start": 18,
+              "url": "https://t.co/tVxIO0I9do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089900156896612447",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089900143390883840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢呜呜🥺\n另外，今天是我生日（x https://t.co/tVxIO0I9do"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089960063024890293",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1798,
+          "like_count": 23338,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜最好最好的姐姐@WuYueMeow｜试着去成为这个世界美好的那部分吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "WuYueMeow"
+              }
+            ]
+          }
+        },
+        "id": "1679858508467159041",
+        "is_identity_verified": false,
+        "location": "宝宝心里❤️",
+        "most_recent_tweet_id": "2089921899648487778",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679858508467159041/1769603323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 146,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

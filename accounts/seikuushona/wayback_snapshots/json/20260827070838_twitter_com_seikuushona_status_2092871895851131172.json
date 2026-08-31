@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092871895851131172",
+    "created_at": "2026-08-27T07:08:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092871895851131172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1285577648861659137",
+          "start": 3,
+          "username": "vanillaCitron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092871895851131172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092867416548323785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanillaCitron: 为什么在互联网上遇到你支持的观点，你应该评论，而不只是点赞。\n\n因为在当代社媒App的设计中：点赞散发的善意是被折叠的，而恶评散发的仇恨是被展开的。通过点赞传达给内容创作者的支持，其能量是远远不如恶评者散发的恶意多。\n\n因此，通过善意评论来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2092867358524329984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtbxiraUAA87Ws.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1828,
+        "media_key": "3_2092867358520180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtbxiqbAAAYic0.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1802,
+        "media_key": "3_2092867358494961664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtbxikaMAA-feo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092867358520201216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtbxiqbUAA0TiB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092871895851131172",
+        "created_at": "2026-08-27T07:08:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092871895851131172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1285577648861659137",
+              "start": 3,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092871895851131172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092867416548323785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanillaCitron: 为什么在互联网上遇到你支持的观点，你应该评论，而不只是点赞。\n\n因为在当代社媒App的设计中：点赞散发的善意是被折叠的，而恶评散发的仇恨是被展开的。通过点赞传达给内容创作者的支持，其能量是远远不如恶评者散发的恶意多。\n\n因此，通过善意评论来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092867358524329984",
+            "3_2092867358520180736",
+            "3_2092867358494961664",
+            "3_2092867358520201216"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "conversation_id": "2092867416548323785",
+        "created_at": "2026-08-27T06:50:50.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092867416548323785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAOU7knSCI",
+              "end": 167,
+              "expanded_url": "https://x.com/vanillaCitron/status/2092867416548323785/photo/1",
+              "media_key": "3_2092867358524329984",
+              "start": 144,
+              "url": "https://t.co/CAOU7knSCI"
+            },
+            {
+              "display_url": "pic.x.com/CAOU7knSCI",
+              "end": 167,
+              "expanded_url": "https://x.com/vanillaCitron/status/2092867416548323785/photo/1",
+              "media_key": "3_2092867358520180736",
+              "start": 144,
+              "url": "https://t.co/CAOU7knSCI"
+            },
+            {
+              "display_url": "pic.x.com/CAOU7knSCI",
+              "end": 167,
+              "expanded_url": "https://x.com/vanillaCitron/status/2092867416548323785/photo/1",
+              "media_key": "3_2092867358494961664",
+              "start": 144,
+              "url": "https://t.co/CAOU7knSCI"
+            },
+            {
+              "display_url": "pic.x.com/CAOU7knSCI",
+              "end": 167,
+              "expanded_url": "https://x.com/vanillaCitron/status/2092867416548323785/photo/1",
+              "media_key": "3_2092867358520201216",
+              "start": 144,
+              "url": "https://t.co/CAOU7knSCI"
+            },
+            {
+              "display_url": "x.com/vanillacitron/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/vanillacitron/status/2092667653831942325",
+              "start": 168,
+              "url": "https://t.co/QXTHDJ286q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092867416548323785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092867358524329984"
+          },
+          {
+            "media_key": "3_2092867358520180736"
+          },
+          {
+            "media_key": "3_2092867358494961664"
+          },
+          {
+            "media_key": "3_2092867358520201216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092667653831942325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么在互联网上遇到你支持的观点，你应该评论，而不只是点赞。\n\n因为在当代社媒App的设计中：点赞散发的善意是被折叠的，而恶评散发的仇恨是被展开的。通过点赞传达给内容创作者的支持，其能量是远远不如恶评者散发的恶意多。\n\n因此，通过善意评论来稀释恶意，并让创作者感到被支持，是特别必要的。 https://t.co/CAOU7knSCI https://t.co/QXTHDJ286q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092871895851131172",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 2192,
+          "like_count": 27421,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design engineer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "is_identity_verified": false,
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "most_recent_tweet_id": "2092869357139599583",
+        "name": "citron🍢🍋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285577648861659137/1637980528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4946,
+          "following_count": 1205,
+          "like_count": 21069,
+          "listed_count": 24,
+          "media_count": 1029,
+          "tweet_count": 7546
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

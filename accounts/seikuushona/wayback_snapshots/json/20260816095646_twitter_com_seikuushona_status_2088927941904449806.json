@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2088774252908642304"
+      ],
+      "media_source_tweet_id": [
+        "2088774283095056682"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088927941904449806",
+    "created_at": "2026-08-16T09:56:46.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088927941904449806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "755612100022587392",
+          "start": 3,
+          "username": "BaconPal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Id3Q63DEMN",
+          "end": 59,
+          "expanded_url": "https://x.com/BaconPal/status/2088774283095056682/photo/1",
+          "media_key": "16_2088774252908642304",
+          "start": 36,
+          "url": "https://t.co/Id3Q63DEMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088927941904449806",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2088774252908642304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088774283095056682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaconPal: Girls Last Simulation https://t.co/Id3Q63DEMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2088774252908642304",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPzRHcCaAAA_jZU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPzRHcCaAAA_jZU.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088774252908642304"
+          ],
+          "media_source_tweet_id": [
+            "2088774283095056682"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088927941904449806",
+        "created_at": "2026-08-16T09:56:46.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088927941904449806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "755612100022587392",
+              "start": 3,
+              "username": "BaconPal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id3Q63DEMN",
+              "end": 59,
+              "expanded_url": "https://x.com/BaconPal/status/2088774283095056682/photo/1",
+              "media_key": "16_2088774252908642304",
+              "start": 36,
+              "url": "https://t.co/Id3Q63DEMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088927941904449806",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2088774252908642304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088774283095056682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaconPal: Girls Last Simulation https://t.co/Id3Q63DEMN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088774252908642304"
+          ]
+        },
+        "author_id": "755612100022587392",
+        "conversation_id": "2088774283095056682",
+        "created_at": "2026-08-15T23:46:11.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088774283095056682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id3Q63DEMN",
+              "end": 45,
+              "expanded_url": "https://x.com/BaconPal/status/2088774283095056682/photo/1",
+              "media_key": "16_2088774252908642304",
+              "start": 22,
+              "url": "https://t.co/Id3Q63DEMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088774283095056682",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2088774252908642304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 23338,
+          "like_count": 2377,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "Girls Last Simulation https://t.co/Id3Q63DEMN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088927941904449806",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1676,
+          "like_count": 21880,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-20T03:55:38.000Z",
+        "description": "im bacon i draw and make video games, looking for work\n\nCharacter Artist and Animator on @GravityCircuit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "GravityCircuit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baconpal.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://baconpal.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/KQpbkw4zZz"
+              }
+            ]
+          }
+        },
+        "id": "755612100022587392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088774283095056682",
+        "name": "bacon (Certified \"Big Artist\")",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/755612100022587392/1767056835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1280693220540739584/2LFaqHlu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6381,
+          "following_count": 2724,
+          "like_count": 65040,
+          "listed_count": 49,
+          "media_count": 499,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/KQpbkw4zZz",
+        "username": "BaconPal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

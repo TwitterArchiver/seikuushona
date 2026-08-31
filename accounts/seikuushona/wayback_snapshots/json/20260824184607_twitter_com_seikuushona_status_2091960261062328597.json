@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091954938234691827",
+    "created_at": "2026-08-24T18:46:07.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091960261062328597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091960261062328597",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091954938234691827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 哦对了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091954938234691827",
+        "created_at": "2026-08-24T18:46:07.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091960261062328597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091960261062328597",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091954938234691827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 哦对了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091954938234691827",
+        "created_at": "2026-08-24T18:24:58.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091954938234691827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091954938234691827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别让“飞八分钱”，偷走网络交流的温度\n指尖在屏幕划过，“飞八分钱”这类谐音梗常藏在弹幕与评论区里，看似是网友间的戏谑玩闹，实则藏着网络交流里不该有的戾气与低俗，值得我们警惕与反思。\n“飞八分钱”本是恶意谐音的产物，源于对特定个体的攻击性调侃，却逐渐在网络空间蔓延。有人将其当作“玩梗潮流”，随手刷在游戏直播、赛事评论中，以为只是无伤大雅的玩笑，却忽略了背后隐藏的不尊重与攻击性。网络从来不是法外之地，看似轻飘飘的文字，实则可能像细小的尖刺，刺伤他人的内心，更会让原本可以理性交流的空间，变得充斥着低俗与对立——当调侃变成恶意攻击，当玩笑越过尊重的底线，网络交流的温度便会一点点流失。\n真正的网络交流，该是理性包容的，而非用恶意梗制造对立。游戏圈的讨论该聚焦战术与热爱，直播互动该传递善意与温暖，即便有不同观点，也该以尊重为前提理性表达。那些看似“有趣”的恶意谐音梗，本质是对他人的不尊重，更是对网络文明的消耗。我们或许无法杜绝所有低俗玩梗，但可以从自己做起，拒绝传播“飞八分钱”这类带攻击性的内容，用文明的语言传递态度，用包容的心态对待他人，让网络空间回归纯粹与温暖。\n网络的意义，是连接彼此、传递美好，而非滋生戾气。别让“飞八分钱”这样的恶意梗占据交流的舞台，守住尊重的底线，才能让每一次网络互动，都满含温度与善意。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别让“飞八分钱”，偷走网络交流的温度\n指尖在屏幕划过，“飞八分钱”这类谐音梗常藏在弹幕与评论区里，看似是网友间的戏谑玩闹，实则藏着网络交流里不该有的戾气与低俗，值得我们警惕与反思。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091960261062328597",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 2052,
+          "like_count": 25936,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091954938234691827",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24255,
+          "following_count": 10738,
+          "like_count": 155636,
+          "listed_count": 53,
+          "media_count": 6341,
+          "tweet_count": 57792
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

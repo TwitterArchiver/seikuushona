@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092836498852974744",
+    "created_at": "2026-08-27T05:27:23.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092846416813314238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092846416813314238",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092836498852974744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2092836492699963392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQs_s6hbEAAZuIc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092836498852974744",
+        "created_at": "2026-08-27T05:27:23.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092846416813314238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092846416813314238",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092836498852974744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092836492699963392"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "conversation_id": "2092836498852974744",
+        "created_at": "2026-08-27T04:47:59.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092836498852974744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5TIu6xLXF",
+              "end": 35,
+              "expanded_url": "https://x.com/hsgmxz/status/2092836498852974744/photo/1",
+              "media_key": "3_2092836492699963392",
+              "start": 12,
+              "url": "https://t.co/N5TIu6xLXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092836498852974744",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092836492699963392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jlpt n3 合格! https://t.co/N5TIu6xLXF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092846416813314238",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 2172,
+          "like_count": 27240,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|cn/jp|永远14🏳️‍⚧️|🍥2025.7.26|小证含🍥|阻断剂使用中|初音ミク大好き|2011.1.24|同类互fo|社恐|重焦重郁|intp-t|三好跨喵|家长党|提问箱http://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 165,
+                "start": 152,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 148,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 126,
+                "url": "http://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "is_identity_verified": false,
+        "location": "誰もいないセカイ",
+        "most_recent_tweet_id": "2092836498852974744",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2083169326090387860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824818634809806848/1760504944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1236,
+          "like_count": 10552,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

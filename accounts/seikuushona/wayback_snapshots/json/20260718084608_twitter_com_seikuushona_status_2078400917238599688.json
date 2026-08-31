@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078321510473711642",
+    "created_at": "2026-07-18T08:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078400917238599688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299233902066692097",
+          "start": 0,
+          "username": "NekoSukiXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078400917238599688",
+    "in_reply_to_user_id": "1299233902066692097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078321510473711642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoSukiXoX 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2078321496330772480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeuY7XaoAAoD1O.jpg",
+        "width": 4095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078321510473711642",
+        "created_at": "2026-07-18T08:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078400917238599688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299233902066692097",
+              "start": 0,
+              "username": "NekoSukiXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078400917238599688",
+        "in_reply_to_user_id": "1299233902066692097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078321510473711642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoSukiXoX 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078321496330772480"
+          ]
+        },
+        "author_id": "1299233902066692097",
+        "conversation_id": "2078321510473711642",
+        "created_at": "2026-07-18T03:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:28:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078320892984361257",
+          "2078321510473711642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyIo7zcd5s",
+              "end": 32,
+              "expanded_url": "https://x.com/NekoSukiXoX/status/2078321510473711642/photo/1",
+              "media_key": "3_2078321496330772480",
+              "start": 9,
+              "url": "https://t.co/YyIo7zcd5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078321510473711642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就這樣…畢業啦！ https://t.co/YyIo7zcd5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 0,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/不太敢鉴证/已累似/希望25岁前似掉/可互fo喔/匿名提问箱https://t.co/bEwcPWTArv\n恋人@Muchun_offical @NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Muchun_offical"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NekoSukiXoX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 128,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 105,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWU8h3"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 378,
+          "like_count": 382,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/bEwcPWU8h3",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

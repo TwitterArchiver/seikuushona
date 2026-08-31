@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092202311812817129",
+    "created_at": "2026-08-25T12:07:48.000Z",
+    "display_text_range": [
+      78,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092222407553790243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070767316229554176",
+          "start": 0,
+          "username": "Cafwwwww"
+        },
+        {
+          "end": 25,
+          "id": "2053864757329817600",
+          "start": 10,
+          "username": "today_is_foggy"
+        },
+        {
+          "end": 40,
+          "id": "1938537315586244608",
+          "start": 26,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 52,
+          "id": "1515312853779193863",
+          "start": 41,
+          "username": "prFIncesSH"
+        },
+        {
+          "end": 64,
+          "id": "1943361769814261760",
+          "start": 53,
+          "username": "sadsadcatc"
+        },
+        {
+          "end": 77,
+          "id": "1807114644252921856",
+          "start": 65,
+          "username": "Inyuki_1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092222407553790243",
+    "in_reply_to_user_id": "2070767316229554176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092202311812817129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cafwwwww @today_is_foggy @ruoruoruoMing @prFIncesSH @sadsadcatc @Inyuki_1014 未被关注者可私信的功能是不是关闭了呢……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092202303331950593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj-6PBa4AE0rB2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092202311812817129",
+        "created_at": "2026-08-25T12:07:48.000Z",
+        "display_text_range": [
+          78,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092222407553790243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070767316229554176",
+              "start": 0,
+              "username": "Cafwwwww"
+            },
+            {
+              "end": 25,
+              "id": "2053864757329817600",
+              "start": 10,
+              "username": "today_is_foggy"
+            },
+            {
+              "end": 40,
+              "id": "1938537315586244608",
+              "start": 26,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 52,
+              "id": "1515312853779193863",
+              "start": 41,
+              "username": "prFIncesSH"
+            },
+            {
+              "end": 64,
+              "id": "1943361769814261760",
+              "start": 53,
+              "username": "sadsadcatc"
+            },
+            {
+              "end": 77,
+              "id": "1807114644252921856",
+              "start": 65,
+              "username": "Inyuki_1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092222407553790243",
+        "in_reply_to_user_id": "2070767316229554176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092202311812817129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cafwwwww @today_is_foggy @ruoruoruoMing @prFIncesSH @sadsadcatc @Inyuki_1014 未被关注者可私信的功能是不是关闭了呢……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092202303331950593"
+          ]
+        },
+        "author_id": "2070767316229554176",
+        "conversation_id": "2092202311812817129",
+        "created_at": "2026-08-25T10:47:57.000Z",
+        "display_text_range": [
+          0,
+          205
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092202311812817129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "2053864757329817600",
+              "start": 67,
+              "username": "today_is_foggy"
+            },
+            {
+              "end": 115,
+              "id": "1684547487460388864",
+              "start": 103,
+              "username": "seikuushona"
+            },
+            {
+              "end": 131,
+              "id": "1938537315586244608",
+              "start": 117,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 144,
+              "id": "1515312853779193863",
+              "start": 133,
+              "username": "prFIncesSH"
+            },
+            {
+              "end": 170,
+              "id": "1943361769814261760",
+              "start": 159,
+              "username": "sadsadcatc"
+            },
+            {
+              "end": 195,
+              "id": "1807114644252921856",
+              "start": 183,
+              "username": "Inyuki_1014"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zh11hNj4Cl",
+              "end": 229,
+              "expanded_url": "https://x.com/Cafwwwww/status/2092202311812817129/photo/1",
+              "media_key": "3_2092202303331950593",
+              "start": 206,
+              "url": "https://t.co/Zh11hNj4Cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092202311812817129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092202303331950593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖结果公布啦，记得及时给我私信地址～\n\n最终有效参与者共 27 人\n使用公平随机打乱后抽取：\n一等奖（1份）0.36% 40g凝胶\n@today_is_foggy\n二等奖（3份）0.24% 25g凝胶\n•@seikuushona\n•@ruoruoruoMing\n•@prFIncesSH\n三等奖（4份）粉蓝白手环\n•@sadsadcatc\n•@zz_h_dd_\n•@Inyuki_1014\n•@qw_xups https://t.co/Zh11hNj4Cl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092222407553790243",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 2084,
+          "like_count": 26312,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T07:14:17.000Z",
+        "description": "17 / 高三 / 上海 / mtf🏳️‍⚧️ / 全栈开发 / 中抑 / 音游 / 摄影 / 互fo私信喵\n\n有凝胶卖",
+        "id": "2070767316229554176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092202311812817129",
+        "name": "Cafwww🍥",
+        "pinned_tweet_id": "2089523377786740806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070767316229554176/1782556132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070769559909629952/Wx-dX3JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 55,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "Cafwwwww",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2092214493266985220",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2084194549996589385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1780220741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 120,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "08|高三毕业生|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsv9lA"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "TJ",
+        "most_recent_tweet_id": "2092171119524717014",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2090021250399965331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 907,
+          "like_count": 5010,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/1YBPxsv9lA",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-16T12:55:26.000Z",
+        "description": "🏳️‍⚧️She/Her|Nanjing|Where is Taiwan?  |I...need more...love...| 執手相看淚眼，竟無語凝噎",
+        "id": "1515312853779193863",
+        "is_identity_verified": false,
+        "location": "Rusty Lake Hotel",
+        "most_recent_tweet_id": "2092216598497013768",
+        "name": "Magic rain",
+        "pinned_tweet_id": "1607390546489905152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515312853779193863/1786595115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087745432663298048/5hciH4zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 17,
+          "like_count": 618,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "prFIncesSH",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n生产日期2004 mtf 持证含糖\n想要被好好对待\n 总是在一个人在摆弄自己的小东西……\n重度精神病……我不会伤害你的……\n想要想要好多好朋友\n愿世界化作所有人同等幸福的地狱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2092220830306726312",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2091412454064693737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1432,
+          "like_count": 20801,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 7206
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-29T18:12:05.000Z",
+        "description": "ink.脳幹を駆け巡る | 記錄員 | 巴別圖書館 | 流放 | SnowLive | 惡毒惡俗 | 地獄笑話 | MTF | 多意識體 | 混亂.mp3 | 咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/inyuki_1…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/inyuki_1014",
+                "start": 0,
+                "url": "https://t.co/ZkfRXyq6G3"
+              }
+            ]
+          }
+        },
+        "id": "1807114644252921856",
+        "is_identity_verified": false,
+        "location": "吶，我愛你",
+        "most_recent_tweet_id": "2092222181141025000",
+        "name": "墨雪inyuki",
+        "pinned_tweet_id": "2069709301749608677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807114644252921856/1737403916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002733541436878848/wEJt2urF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 707,
+          "like_count": 26508,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 4469
+        },
+        "url": "https://t.co/ZkfRXyq6G3",
+        "username": "Inyuki_1014",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

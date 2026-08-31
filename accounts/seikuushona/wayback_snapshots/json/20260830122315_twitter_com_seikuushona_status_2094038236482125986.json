@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093696780798173184",
+        "3_2093696786523475968"
+      ],
+      "media_source_tweet_id": [
+        "2093696792303165596",
+        "2093696792303165596"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094038236482125986",
+    "created_at": "2026-08-30T12:23:15.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T13:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094038236482125986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1827009216047153152",
+          "start": 3,
+          "username": "yuanyunwu1112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBZGx9WQaz",
+          "end": 128,
+          "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+          "media_key": "3_2093696780798173184",
+          "start": 105,
+          "url": "https://t.co/eBZGx9WQaz"
+        },
+        {
+          "display_url": "pic.x.com/eBZGx9WQaz",
+          "end": 128,
+          "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+          "media_key": "3_2093696786523475968",
+          "start": 105,
+          "url": "https://t.co/eBZGx9WQaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094038236482125986",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093696780798173184"
+      },
+      {
+        "media_key": "3_2093696786523475968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093696792303165596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyunwu1112: 抽奖帖（希望能有人看见🥺🥺🥺）\n自己搓了魔裁物料qwq\n抽五个人送下图任选一or自带图来定制（不限IP）\n点赞+评论+转发即可\n超过20人就开抽\n要求收货地址在国内🥺🥺🥺 https://t.co/eBZGx9WQaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2093696780798173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5OIRbaoAAI-Tf.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2093696786523475968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5OImwb0AA51wo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093696780798173184",
+            "3_2093696786523475968"
+          ],
+          "media_source_tweet_id": [
+            "2093696792303165596",
+            "2093696792303165596"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094038236482125986",
+        "created_at": "2026-08-30T12:23:15.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T13:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094038236482125986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1827009216047153152",
+              "start": 3,
+              "username": "yuanyunwu1112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 128,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696780798173184",
+              "start": 105,
+              "url": "https://t.co/eBZGx9WQaz"
+            },
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 128,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696786523475968",
+              "start": 105,
+              "url": "https://t.co/eBZGx9WQaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094038236482125986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093696780798173184"
+          },
+          {
+            "media_key": "3_2093696786523475968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093696792303165596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyunwu1112: 抽奖帖（希望能有人看见🥺🥺🥺）\n自己搓了魔裁物料qwq\n抽五个人送下图任选一or自带图来定制（不限IP）\n点赞+评论+转发即可\n超过20人就开抽\n要求收货地址在国内🥺🥺🥺 https://t.co/eBZGx9WQaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093696780798173184",
+            "3_2093696786523475968"
+          ]
+        },
+        "author_id": "1827009216047153152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093696792303165596",
+        "created_at": "2026-08-29T13:46:28.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093696792303165596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 109,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696780798173184",
+              "start": 86,
+              "url": "https://t.co/eBZGx9WQaz"
+            },
+            {
+              "display_url": "pic.x.com/eBZGx9WQaz",
+              "end": 109,
+              "expanded_url": "https://x.com/yuanyunwu1112/status/2093696792303165596/photo/1",
+              "media_key": "3_2093696786523475968",
+              "start": 86,
+              "url": "https://t.co/eBZGx9WQaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093696792303165596",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093696780798173184"
+          },
+          {
+            "media_key": "3_2093696786523475968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 541,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖帖（希望能有人看见🥺🥺🥺）\n自己搓了魔裁物料qwq\n抽五个人送下图任选一or自带图来定制（不限IP）\n点赞+评论+转发即可\n超过20人就开抽\n要求收货地址在国内🥺🥺🥺 https://t.co/eBZGx9WQaz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2094038236482125986",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 2270,
+          "like_count": 28434,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "欢迎互fo，爱好重叠者可私信扩列喵\n中国人~/INFP/ftx（伪娘喵）/想成为可爱的猫猫！/不键政/半个火车迷，喜欢高铁喵/魔法少女的魔女裁判/崩坏星穹铁道/原神/崩坏三/明日方舟/明日方舟终末地/maimai（打的比较少）/大一逃学ing\n...\n@CheesPenguin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "CheesPenguin"
+              }
+            ]
+          }
+        },
+        "id": "1827009216047153152",
+        "is_identity_verified": false,
+        "location": "往世乐土♪",
+        "most_recent_tweet_id": "2094018198391971898",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1960608980331585906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827009216047153152/1763020100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874004709539840/S02oFLb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 893,
+          "like_count": 21302,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2033
+        },
+        "url": "",
+        "username": "yuanyunwu1112",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

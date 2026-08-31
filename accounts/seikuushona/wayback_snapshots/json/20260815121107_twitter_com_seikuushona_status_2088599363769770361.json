@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088430323482894436",
+    "created_at": "2026-08-15T12:11:07.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088599363769770361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1558070773864087552",
+          "start": 0,
+          "username": "sukimiku0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088599363769770361",
+    "in_reply_to_user_id": "1558070773864087552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088430323482894436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukimiku0831 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2088430309994041344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuYTU1akAAolR3.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088430323482894436",
+        "created_at": "2026-08-15T12:11:07.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088599363769770361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1558070773864087552",
+              "start": 0,
+              "username": "sukimiku0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088599363769770361",
+        "in_reply_to_user_id": "1558070773864087552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088430323482894436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukimiku0831 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088430309994041344"
+          ]
+        },
+        "author_id": "1558070773864087552",
+        "conversation_id": "2088430323482894436",
+        "created_at": "2026-08-15T00:59:24.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088430323482894436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14oE2A4SaC",
+              "end": 51,
+              "expanded_url": "https://x.com/sukimiku0831/status/2088430323482894436/photo/1",
+              "media_key": "3_2088430309994041344",
+              "start": 28,
+              "url": "https://t.co/14oE2A4SaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088430323482894436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088430309994041344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3486,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次收益到账了，感谢大家的支持，感谢马老板，感谢推特 https://t.co/14oE2A4SaC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088599363769770361",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1653,
+          "like_count": 21429,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-12T12:40:06.000Z",
+        "description": "初音未来一生推！\n欢迎来匿名提问 \n最好的闺蜜 @4rulq\n蓝v互fo，有关必回，没回就是限制了\nMTF/重焦重郁/\n音游玩家，基本都玩，主要舞萌DX，中二节奏，pjsk\n折腾数码产品，米果双持\n二次元，爱看番，买谷，逛展\n爱听主要术曲，jpop ，还有部分摇滚，\n💊&🔪/愿大家都快樂的活着",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 24,
+                "username": "4rulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikusuki0831",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikusuki0831",
+                "start": 0,
+                "url": "https://t.co/2HiZZkQf1B"
+              }
+            ]
+          }
+        },
+        "id": "1558070773864087552",
+        "is_identity_verified": true,
+        "location": "在初音身边",
+        "most_recent_tweet_id": "2088571915116105894",
+        "name": "雨音羽ちゃん 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558070773864087552/1747462894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077510445297197056/2l_d9GNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1396,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 629,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/2HiZZkQf1B",
+        "username": "sukimiku0831",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

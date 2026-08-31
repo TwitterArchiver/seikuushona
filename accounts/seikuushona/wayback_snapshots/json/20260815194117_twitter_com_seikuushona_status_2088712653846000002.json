@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088712402158428160"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2088597488257376641",
+    "created_at": "2026-08-15T19:41:17.000Z",
+    "display_text_range": [
+      12,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088712653846000002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "inline_int"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rp19mbWAP5",
+          "end": 68,
+          "expanded_url": "https://x.com/seikuushona/status/2088712653846000002/photo/1",
+          "media_key": "3_2088712402158428160",
+          "start": 45,
+          "url": "https://t.co/Rp19mbWAP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088712653846000002",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088712402158428160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088597488257376641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inline_int 最后还是用上了 ChatGPT 来找。\n已严肃浪费 token（ https://t.co/Rp19mbWAP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2088712402158428160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyY3QCbIAAX0f7.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2088597475053748224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwwVnNbQAAgGaD.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088712402158428160"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2088597488257376641",
+        "created_at": "2026-08-15T19:41:17.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088712653846000002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp19mbWAP5",
+              "end": 68,
+              "expanded_url": "https://x.com/seikuushona/status/2088712653846000002/photo/1",
+              "media_key": "3_2088712402158428160",
+              "start": 45,
+              "url": "https://t.co/Rp19mbWAP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088712653846000002",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088712402158428160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088597488257376641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 最后还是用上了 ChatGPT 来找。\n已严肃浪费 token（ https://t.co/Rp19mbWAP5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088597475053748224"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2088597488257376641",
+        "created_at": "2026-08-15T12:03:40.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088597488257376641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSZgGJ56gI",
+              "end": 37,
+              "expanded_url": "https://x.com/inline_int/status/2088597488257376641/photo/1",
+              "media_key": "3_2088597475053748224",
+              "start": 14,
+              "url": "https://t.co/rSZgGJ56gI"
+            },
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/inline_int/status/2088596786370015491",
+              "start": 38,
+              "url": "https://t.co/siReJAOYOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088597488257376641",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088597475053748224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1153,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088596786370015491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一张全部在一张图里的！ https://t.co/rSZgGJ56gI https://t.co/siReJAOYOa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088712653846000002",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1673,
+          "like_count": 21713,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑｜坐标上海\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088703401295302905",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088277852286517248/GsnaehDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 1286,
+          "like_count": 2807,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

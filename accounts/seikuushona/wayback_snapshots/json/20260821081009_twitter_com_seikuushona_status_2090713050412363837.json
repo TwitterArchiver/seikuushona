@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090649257531629958",
+    "created_at": "2026-08-21T08:10:09.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090713050412363837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799712296375287808",
+          "start": 0,
+          "username": "Clarrycy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090713050412363837",
+    "in_reply_to_user_id": "1799712296375287808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090649257531629958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clarrycy 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2090649110437408768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQN6SgmbsAAUo4v.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090649257531629958",
+        "created_at": "2026-08-21T08:10:09.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090713050412363837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799712296375287808",
+              "start": 0,
+              "username": "Clarrycy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090713050412363837",
+        "in_reply_to_user_id": "1799712296375287808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090649257531629958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clarrycy 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090649110437408768"
+          ]
+        },
+        "author_id": "1799712296375287808",
+        "conversation_id": "2090649257531629958",
+        "created_at": "2026-08-21T03:56:40.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090649257531629958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9LaEEqHRT",
+              "end": 48,
+              "expanded_url": "https://x.com/Clarrycy/status/2090649257531629958/photo/1",
+              "media_key": "3_2090649110437408768",
+              "start": 25,
+              "url": "https://t.co/P9LaEEqHRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090649257531629958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090649110437408768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2209,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纪念一下，自己做的产品首次赚到 1000 块 🥳 https://t.co/P9LaEEqHRT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090713050412363837",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1,
+          "like_count": 24096,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T07:57:14.000Z",
+        "description": "喜报：如果在说话之前加上 “喜报” 两个字，那么这段话看起来就像是真的喜报一样 🥳 | 里推 @Narrycy_3rd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Narrycy_3rd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clarrycy.com",
+                "end": 23,
+                "expanded_url": "http://clarrycy.com",
+                "start": 0,
+                "url": "https://t.co/ay5RA3Hauq"
+              }
+            ]
+          }
+        },
+        "id": "1799712296375287808",
+        "is_identity_verified": false,
+        "location": "小狗窝",
+        "most_recent_tweet_id": "2090706681588335062",
+        "name": "Clarrycy (探索中)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799712296375287808/1752480038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008409397626892289/aYjQPAlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 697,
+          "like_count": 120316,
+          "listed_count": 15,
+          "media_count": 3524,
+          "tweet_count": 22858
+        },
+        "url": "https://t.co/ay5RA3Hauq",
+        "username": "Clarrycy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

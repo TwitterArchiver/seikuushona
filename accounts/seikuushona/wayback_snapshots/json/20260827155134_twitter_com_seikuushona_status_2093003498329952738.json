@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092990564501279130",
+    "created_at": "2026-08-27T15:51:34.000Z",
+    "display_text_range": [
+      13,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093003498329952738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093003498329952738",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092990564501279130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@revive_myne ……我还真是。\n至少记得点当时被我叫妈妈的那位老师，之后发的这件事相关的朋友圈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092990564501279130",
+        "created_at": "2026-08-27T15:51:34.000Z",
+        "display_text_range": [
+          13,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093003498329952738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093003498329952738",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092990564501279130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@revive_myne ……我还真是。\n至少记得点当时被我叫妈妈的那位老师，之后发的这件事相关的朋友圈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "2092990564501279130",
+        "created_at": "2026-08-27T15:00:11.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092990564501279130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092990564501279130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇幼儿园不小心喊老师妈妈是不是每个人都干过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093003498329952738",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 2215,
+          "like_count": 27646,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "prn：(不使用)/ta/其 | They/any \n｜\nMinecraft 基岩版回归玩家｜enby（neutrois）｜aplatonic｜多意识体\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P （现在转tumblr 了，myne @ yesiamink）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "knimaisey"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "is_identity_verified": false,
+        "location": "SilverLawn",
+        "most_recent_tweet_id": "2092991562057662966",
+        "name": "铭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1760969839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087099355220058113/efZg697b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 196,
+          "like_count": 12413,
+          "listed_count": 3,
+          "media_count": 981,
+          "tweet_count": 5930
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

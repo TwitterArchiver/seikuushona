@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079728413376729301",
+    "created_at": "2026-07-22T05:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079795876235747478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "26640428",
+          "start": 0,
+          "username": "reina93"
+        },
+        {
+          "end": 21,
+          "id": "1663066129923981312",
+          "start": 9,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079795876235747478",
+    "in_reply_to_user_id": "26640428",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079728721754488834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reina93 @Ak1raQ_love Wait what."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079728413376729301",
+        "created_at": "2026-07-22T05:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079795876235747478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "26640428",
+              "start": 0,
+              "username": "reina93"
+            },
+            {
+              "end": 21,
+              "id": "1663066129923981312",
+              "start": 9,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079795876235747478",
+        "in_reply_to_user_id": "26640428",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728721754488834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reina93 @Ak1raQ_love Wait what."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26640428",
+        "conversation_id": "2079728413376729301",
+        "created_at": "2026-07-22T00:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079728721754488834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079728721754488834",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3139,
+          "like_count": 52,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728413376729301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 原来真的是同类喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1253,
+          "like_count": 17018,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-26T00:27:27.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/mVtCDZAYWC"
+              }
+            ]
+          }
+        },
+        "id": "26640428",
+        "name": "银狐VPN全球漫游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078251925842313216/FlDU_PLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 46,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/mVtCDZAYWC",
+        "username": "reina93",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1080,
+          "like_count": 202879,
+          "listed_count": 2,
+          "media_count": 1003,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

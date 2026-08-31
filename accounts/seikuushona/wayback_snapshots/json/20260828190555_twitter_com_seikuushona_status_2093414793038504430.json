@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2093414275205497262",
+    "created_at": "2026-08-28T19:05:55.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093414793038504430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2076319612279607296",
+          "start": 0,
+          "username": "Irosas_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093414793038504430",
+    "in_reply_to_user_id": "2076319612279607296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093414275205497262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_sub 看起来就很疼啊——\n抱抱。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093414275205497262].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093414275205497262",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093414275205497262"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2093414275205497262",
+        "created_at": "2026-08-28T19:05:55.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093414793038504430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2076319612279607296",
+              "start": 0,
+              "username": "Irosas_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093414793038504430",
+        "in_reply_to_user_id": "2076319612279607296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093414275205497262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_sub 看起来就很疼啊——\n抱抱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093414793038504430",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 2239,
+          "like_count": 27881,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T14:58:15.000Z",
+        "description": "锁推原因见小号置顶\n永远缅怀@Irosas_xyn\n防丢@Irosas_MtF\nMtF/双/出厂110512/🍥260430/无证/重抑/休学ing/182cm😭\n互fo寻回ing\nhttps://t.co/CxGAYkvrxM\nhttps://t.co/CEyLCvHlVT\nbs同名\nsteam好友802533462\n群👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Irosas_xyn"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Irosas_MtF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 114,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 91,
+                "url": "https://t.co/CxGAYkvrxM"
+              },
+              {
+                "display_url": "t.me/irosas_xyn",
+                "end": 138,
+                "expanded_url": "http://t.me/irosas_xyn",
+                "start": 115,
+                "url": "https://t.co/CEyLCvHlVT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+Rvty3iDmz-42N…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/+Rvty3iDmz-42NGYx",
+                "start": 0,
+                "url": "https://t.co/5v1DnlD9b7"
+              }
+            ]
+          }
+        },
+        "id": "2076319612279607296",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2091909458914140557",
+        "name": "Irоsаs🍥🏳️‍⚧️2.0",
+        "pinned_tweet_id": "2090347152526741839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076319612279607296/1785325394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090323699866148865/cDOYZwnE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 129,
+          "like_count": 535,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/5v1DnlD9b7",
+        "username": "Irosas_sub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

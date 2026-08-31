@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2075901070916850049",
+    "created_at": "2026-07-11T11:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075901070916850049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "599709877",
+          "start": 3,
+          "username": "pukicho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075901070916850049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1668
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075686841832145099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pukicho: Whats the point of a camera that lies to you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075901070916850049",
+        "created_at": "2026-07-11T11:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075901070916850049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "599709877",
+              "start": 3,
+              "username": "pukicho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075901070916850049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1668
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075686841832145099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pukicho: Whats the point of a camera that lies to you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "599709877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075686841832145099",
+        "created_at": "2026-07-10T21:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075686841832145099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2075444313132351828",
+              "start": 45,
+              "url": "https://t.co/pmN5DW6ZKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075686841832145099",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 881,
+          "impression_count": 654604,
+          "like_count": 46916,
+          "quote_count": 27,
+          "reply_count": 108,
+          "retweet_count": 1668
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075444313132351828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Whats the point of a camera that lies to you https://t.co/pmN5DW6ZKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1036,
+          "like_count": 13393,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-05T01:09:57.000Z",
+        "description": "The most account of all time (artist: IMAGERY/PKCH)",
+        "id": "599709877",
+        "location": "Oregon, USA",
+        "name": "Pukicho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/866045441942487041/xRAnnstd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149553,
+          "following_count": 45,
+          "like_count": 33441,
+          "listed_count": 164,
+          "media_count": 477,
+          "tweet_count": 5959
+        },
+        "url": "",
+        "username": "pukicho",
+        "verified": false
+      }
+    ]
+  }
+}

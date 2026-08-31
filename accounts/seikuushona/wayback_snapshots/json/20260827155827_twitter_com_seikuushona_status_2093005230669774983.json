@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092981957001105834",
+    "created_at": "2026-08-27T15:58:27.000Z",
+    "display_text_range": [
+      10,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093005230669774983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504405808133865474",
+          "start": 0,
+          "username": "kazemio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093005230669774983",
+    "in_reply_to_user_id": "1504405808133865474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092981957001105834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazemio_ 二世同堂（？）\n右边那台……用了修复插件吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092981918962978817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvD91kakAEEbKz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092981918975565824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvD91naoAABa_L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092981957001105834",
+        "created_at": "2026-08-27T15:58:27.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093005230669774983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504405808133865474",
+              "start": 0,
+              "username": "kazemio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093005230669774983",
+        "in_reply_to_user_id": "1504405808133865474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092981957001105834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazemio_ 二世同堂（？）\n右边那台……用了修复插件吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092981918962978817",
+            "3_2092981918975565824"
+          ]
+        },
+        "author_id": "1504405808133865474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092981957001105834",
+        "created_at": "2026-08-27T14:25:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092981957001105834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkNcPtyUcy",
+              "end": 23,
+              "expanded_url": "https://x.com/kazemio_/status/2092981957001105834/photo/1",
+              "media_key": "3_2092981918962978817",
+              "start": 0,
+              "url": "https://t.co/zkNcPtyUcy"
+            },
+            {
+              "display_url": "pic.x.com/zkNcPtyUcy",
+              "end": 23,
+              "expanded_url": "https://x.com/kazemio_/status/2092981957001105834/photo/1",
+              "media_key": "3_2092981918975565824",
+              "start": 0,
+              "url": "https://t.co/zkNcPtyUcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092981957001105834",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092981918962978817"
+          },
+          {
+            "media_key": "3_2092981918975565824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zkNcPtyUcy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093005230669774983",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 2215,
+          "like_count": 27665,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-17T10:34:36.000Z",
+        "description": "https://t.co/iVXttOqHBk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miobyte.net",
+                "end": 23,
+                "expanded_url": "http://miobyte.net",
+                "start": 0,
+                "url": "https://t.co/iVXttOqHBk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0F6-_Zlb9ghmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0F6-_Zlb9ghmODgx",
+                "start": 0,
+                "url": "https://t.co/RaG8cWG1Cf"
+              }
+            ]
+          }
+        },
+        "id": "1504405808133865474",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092981957001105834",
+        "name": "下一个天亮",
+        "pinned_tweet_id": "1925199258170646912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504405808133865474/1773581876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088873655153668096/c-vfZ1R9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 502,
+          "like_count": 3594,
+          "listed_count": 7,
+          "media_count": 297,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/RaG8cWG1Cf",
+        "username": "kazemio_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090705543216427139",
+    "created_at": "2026-08-21T08:30:48.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090718245712175252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "SuHuan2hen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090718245712175252",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090705543216427139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuHuan2hen 是啊，全糖真的甜的过分了。\n三分糖好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090705543216427139",
+        "created_at": "2026-08-21T08:30:48.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090718245712175252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "SuHuan2hen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090718245712175252",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090705543216427139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuHuan2hen 是啊，全糖真的甜的过分了。\n三分糖好喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2090705543216427139",
+        "created_at": "2026-08-21T07:40:19.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090705543216427139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090705543216427139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没喝奶茶了，同事请全组喝了一杯。\n\n接过来才发现是全糖的，好甜啊，喝一口要再喝两口茶压一压才好。\n\n以前不是全糖七分不喝，现在我觉得三分/无糖才算好喝，不然只有甜味。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090718245712175252",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 3,
+          "like_count": 24109,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "恨也迷人",
+        "id": "1295640838182060033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090713645139591344",
+        "name": "今天也要加油努力",
+        "pinned_tweet_id": "2088597307994571217",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 3974,
+          "like_count": 24927,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 3396
+        },
+        "url": "",
+        "username": "SuHuan2hen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

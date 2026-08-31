@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078827051696697389",
+    "created_at": "2026-07-19T15:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078866250495619545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865811054892347392",
+          "start": 0,
+          "username": "YaoieLoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078866250495619545",
+    "in_reply_to_user_id": "1865811054892347392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078827051696697389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoieLoop 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078827042825760768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl6Lm0a8AAJ73G.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078827051696697389",
+        "created_at": "2026-07-19T15:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078866250495619545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865811054892347392",
+              "start": 0,
+              "username": "YaoieLoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078866250495619545",
+        "in_reply_to_user_id": "1865811054892347392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078827051696697389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoieLoop 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078827042825760768"
+          ]
+        },
+        "author_id": "1865811054892347392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078827051696697389",
+        "created_at": "2026-07-19T12:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078827051696697389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TY0n9Xea3j",
+              "end": 65,
+              "expanded_url": "https://x.com/YaoieLoop/status/2078827051696697389/photo/1",
+              "media_key": "3_2078827042825760768",
+              "start": 42,
+              "url": "https://t.co/TY0n9Xea3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078827051696697389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "www...100fo！！\n\n本王爱你们喵！❤️\n\n或许该计划个小活动了喵...🥰 https://t.co/TY0n9Xea3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 1185,
+          "like_count": 16465,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\nNuclear Fusion | Python |\n洛天依 | 全世界最可爱的zaza酱 @Konizaza |\nMinecraft | Left 4 Dead 2 |\nEPL ^ MU | NFL ^ Bengals |\nK-On! | School-Live! |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "Konizaza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoieloop",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoieloop",
+                "start": 0,
+                "url": "https://t.co/a2gEtlY4Jy"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "location": "瓦纳海姆",
+        "name": "yaoie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 138,
+          "like_count": 3668,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/a2gEtlY4Jy",
+        "username": "YaoieLoop",
+        "verified": true
+      }
+    ]
+  }
+}

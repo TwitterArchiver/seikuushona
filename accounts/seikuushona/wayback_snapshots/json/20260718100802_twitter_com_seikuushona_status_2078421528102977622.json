@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078385377090629699",
+    "created_at": "2026-07-18T10:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078421528102977622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078421528102977622",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078385377090629699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078385377090629699",
+        "created_at": "2026-07-18T10:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078421528102977622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078421528102977622",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078385377090629699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2078385377090629699",
+        "created_at": "2026-07-18T07:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:37:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078383693429903729",
+          "2078385377090629699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wesley10032/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/wesley10032/status/2077048655442534740",
+              "start": 59,
+              "url": "https://t.co/nEcQTrup17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078385377090629699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077048655442534740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果出来了\n可以在这条帖子下面留言喵\n（注：不是引用的帖子）\n到500fo的时候\n会把留言粉丝名字一一念出来感谢的喵 https://t.co/nEcQTrup17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 0,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n好基友@lockloveovo @tohuyunzhngyun1\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "tohuyunzhngyun1"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 727,
+          "like_count": 6070,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

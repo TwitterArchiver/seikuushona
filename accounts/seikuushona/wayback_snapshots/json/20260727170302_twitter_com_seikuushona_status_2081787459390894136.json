@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2081773802309169401",
+    "created_at": "2026-07-27T17:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081787459390894136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659190798104297476",
+          "start": 0,
+          "username": "EinMensch_168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081787459390894136",
+    "in_reply_to_user_id": "1659190798104297476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081773802309169401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EinMensch_168 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2081773802309169401",
+        "created_at": "2026-07-27T17:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081787459390894136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081787459390894136",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081773802309169401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2081773802309169401",
+        "created_at": "2026-07-27T16:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081773802309169401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081773802309169401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是7月28号我16岁生日，祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1364,
+          "like_count": 18462,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 373,
+          "like_count": 3363,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2086353813108408576",
+    "created_at": "2026-08-09T08:07:34.000Z",
+    "display_text_range": [
+      12,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086363748131033250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1028139778536079360",
+          "start": 0,
+          "username": "kohakumito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086363748131033250",
+    "in_reply_to_user_id": "1028139778536079360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086353813108408576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohakumito 微博最初的意思就是 Microblog，微型博客。\nTwitter 就属于其中一个微型博客平台。\n现在中国剩下的这个“微博”事实上是新浪微博，是这些年中国的微型博客平台竞争后最后剩下的那个。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_2086353804975616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQ3u01bMAAgjxH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086353813108408576",
+        "created_at": "2026-08-09T08:07:34.000Z",
+        "display_text_range": [
+          12,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086363748131033250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1028139778536079360",
+              "start": 0,
+              "username": "kohakumito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086363748131033250",
+        "in_reply_to_user_id": "1028139778536079360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086353813108408576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohakumito 微博最初的意思就是 Microblog，微型博客。\nTwitter 就属于其中一个微型博客平台。\n现在中国剩下的这个“微博”事实上是新浪微博，是这些年中国的微型博客平台竞争后最后剩下的那个。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086353804975616000"
+          ]
+        },
+        "author_id": "1028139778536079360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086353813108408576",
+        "created_at": "2026-08-09T07:28:06.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086353813108408576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmCLxH2wpC",
+              "end": 53,
+              "expanded_url": "https://x.com/kohakumito/status/2086353813108408576/photo/1",
+              "media_key": "3_2086353804975616000",
+              "start": 30,
+              "url": "https://t.co/hmCLxH2wpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086353813108408576",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086353804975616000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深信服这啥分类标签\n名称：Twitter \n应用类型：微博 https://t.co/hmCLxH2wpC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086363748131033250",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1560,
+          "like_count": 20397,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-11T04:43:19.000Z",
+        "description": "持證含糖MTF🏳️‍⚧️🍥 | 178公分/70kg大隻狐狸🦊| 終身不加入任何政黨 | 同類回fo | 下體人退散 | 喜歡計算機/硬體設計/網路技術 | 喜歡二次元 | 裏帳號@mitokohaku835 | 老公 @Joestar8622 | あなたと結ぶ，たったひとつの誓いが，わたしのすべてです。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "mitokohaku835"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohaku.cat",
+                "end": 23,
+                "expanded_url": "https://www.kohaku.cat",
+                "start": 0,
+                "url": "https://t.co/4JycxaItgf"
+              }
+            ]
+          }
+        },
+        "id": "1028139778536079360",
+        "is_identity_verified": true,
+        "location": "中華民國",
+        "most_recent_tweet_id": "2086353813108408576",
+        "name": "泉戸 こはく🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028139778536079360/1781692940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067193314290348032/DNJNHMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 968,
+          "like_count": 22708,
+          "listed_count": 13,
+          "media_count": 719,
+          "tweet_count": 5379
+        },
+        "url": "https://t.co/4JycxaItgf",
+        "username": "kohakumito",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

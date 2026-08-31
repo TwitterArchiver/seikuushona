@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089640938251640987",
+    "created_at": "2026-08-18T09:09:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089640938251640987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929798380240465921",
+          "start": 3,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089640938251640987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089632484837499066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AacerF59616: 如果你说的所谓「变性手术」是指SRS，那只能说明你在性别肯定医疗方面明显缺乏了解但又充满评论欲望，因为这个可不是什么说做就能做的东西啊，需要有专门的诊断证明，长达数年的观察期，通过伦理审批，需要家属知情并同意……即使不谈手术本身和术后护理所需的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089640938251640987",
+        "created_at": "2026-08-18T09:09:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089640938251640987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929798380240465921",
+              "start": 3,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089640938251640987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089632484837499066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AacerF59616: 如果你说的所谓「变性手术」是指SRS，那只能说明你在性别肯定医疗方面明显缺乏了解但又充满评论欲望，因为这个可不是什么说做就能做的东西啊，需要有专门的诊断证明，长达数年的观察期，通过伦理审批，需要家属知情并同意……即使不谈手术本身和术后护理所需的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2089632484837499066",
+        "created_at": "2026-08-18T08:36:22.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089632484837499066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cvhhhjko6al0/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Cvhhhjko6al0/status/2089492337466720660",
+              "start": 142,
+              "url": "https://t.co/3sloUteRvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089632484837499066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你说的所谓「变性手术」是指SRS，那只能说明你在性别肯定医疗方面明显缺乏了解但又充满评论欲望，因为这个可不是什么说做就能做的东西啊，需要有专门的诊断证明，长达数年的观察期，通过伦理审批，需要家属知情并同意……即使不谈手术本身和术后护理所需的巨额费用，这些前置条件对于大部分国内的跨女而言都是非常难以做到的，而在你这里就是轻描淡写的一句「不如去做变性」，可见其了解程度的浅薄和傲慢。\n\n其次则是所谓「本不符合常理」的谬误，那我想请问，你对「常理」的判断又是基于什么的？它真的是常理吗？又为什么是常理？这些你都没有回答，仅仅是将其进行了唯一化处理，这本身就是建立在大量假定成立的前提下的，那么你又要怎么确定这些假定成立的内容确确实实成立呢？\n\n其三是混淆了次生伤害和直接风险，全然无视社会环境对跨儿们的排斥和压迫对跨性别个体造成的伤害，将一系列复杂社会原因所致的次生伤害简单的与服药建立了关联性，并假定了二者直接存在直接关系，很明显的滑坡谬误。\n\n那么到这里，你可能会说「啊你也是药娘肯定帮着自己所属的群体」，你要这样觉得也无妨，毕竟这只会显得你跟个看了几个药娘刻板印象视频就头脑一热准备上X来「批判」药娘的傻子一样，我言尽于此。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089492337466720660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你说的所谓「变性手术」是指SRS，那只能说明你在性别肯定医疗方面明显缺乏了解但又充满评论欲望，因为这个可不是什么说做就能做的东西啊，需要有专门的诊断证明，长达数年的观察期，通过伦理审批，需要家属知情并同意……即使不谈手术本身和术后护理所需的巨额费用，这些前置条件对于大部分国内的 https://t.co/3sloUteRvX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089640938251640987",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1734,
+          "like_count": 22733,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2089639969916936353",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 873,
+          "like_count": 6317,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091101346816839914",
+    "created_at": "2026-08-22T10:38:09.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091112685488501207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816764930219212802",
+          "start": 0,
+          "username": "xFurina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091112685488501207",
+    "in_reply_to_user_id": "1816764930219212802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091101346816839914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFurina_ ......摸摸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091101346816839914",
+        "created_at": "2026-08-22T10:38:09.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091112685488501207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816764930219212802",
+              "start": 0,
+              "username": "xFurina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091112685488501207",
+        "in_reply_to_user_id": "1816764930219212802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091101346816839914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFurina_ ......摸摸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816764930219212802",
+        "conversation_id": "2091101346816839914",
+        "created_at": "2026-08-22T09:53:06.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091101346816839914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091101346816839914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "由于手机被家人完全控制，我的跨性别身份已暴露。在现实压力与家庭干预下，我不得不做出艰难决定：即日起正式退出跨圈，删除所有相关内容与过往帖子，今后也不再以跨性别身份参与任何相关讨论与活动\n\n但我依然愿意以“友跨”的身份，在力所能及的范围内，继续倾听、理解与支持\n\n感谢大家曾经的陪伴与包容。愿我们各自平安，祝各位不要炸柜"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于手机被家人完全控制，我的跨性别身份已暴露。在现实压力与家庭干预下，我不得不做出艰难决定：即日起正式退出跨圈，删除所有相关内容与过往帖子，今后也不再以跨性别身份参与任何相关讨论与活动\n\n但我依然愿意以“友跨”的身份，在力所能及的范围内，继续倾听、理解与支持"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091112685488501207",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1944,
+          "like_count": 24994,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "10 后友跨｜ 来和我互fo啦～家长反对党\n爱每一个友好的宝宝！朋友：@Kuriyona \n可以和我聊天交友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "is_identity_verified": false,
+        "location": "兰州",
+        "most_recent_tweet_id": "2091101346816839914",
+        "name": "鱼块糯",
+        "pinned_tweet_id": "2072654206415290516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816764930219212802/1731593525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079946819124240384/GDu6AkgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 791,
+          "like_count": 2566,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

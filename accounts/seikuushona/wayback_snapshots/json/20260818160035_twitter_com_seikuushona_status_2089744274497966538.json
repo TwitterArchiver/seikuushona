@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089627697165316370",
+    "created_at": "2026-08-18T16:00:35.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089744274497966538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089744274497966538",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089627697165316370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 恭喜w！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089627697165316370",
+        "created_at": "2026-08-18T16:00:35.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089744274497966538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089744274497966538",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089627697165316370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 恭喜w！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2089627697165316370",
+        "created_at": "2026-08-18T08:17:21.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089627697165316370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089627697165316370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 24460,
+          "like_count": 787,
+          "quote_count": 0,
+          "reply_count": 217,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗小时候猥亵过我的老头死了 开香槟喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089744274497966538",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1766,
+          "like_count": 23041,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "最近在当失德主播｜爱人@qngshu988723424 好妈咪@PP_Konig｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "qngshu988723424"
+              },
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvrGWr"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "is_identity_verified": false,
+        "location": "メジコン",
+        "most_recent_tweet_id": "2089647281385734428",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949348575378644992/1773215594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 410,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2937
+        },
+        "url": "https://t.co/PkWlzvrGWr",
+        "username": "Ace_Purin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

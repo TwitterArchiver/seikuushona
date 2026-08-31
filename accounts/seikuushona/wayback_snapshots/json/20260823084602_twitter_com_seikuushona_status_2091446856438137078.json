@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091446856438137078",
+    "created_at": "2026-08-23T08:46:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091446856438137078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1265957219612258307",
+          "start": 3,
+          "username": "ewind_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091446856438137078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091332064759173549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ewind_dev: 现在回顾我小时候的 Windows 应用，会发现一段被遗忘的 UI 架构发展历史：当年大家其实并不默认「桌面应用 = WebView 套壳」。\n\n为了摆脱 Win32 原生控件的限制，当年如金山腾讯 360 等很多公司都做过自己的 DirectUI…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091446856438137078",
+        "created_at": "2026-08-23T08:46:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091446856438137078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1265957219612258307",
+              "start": 3,
+              "username": "ewind_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091446856438137078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091332064759173549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ewind_dev: 现在回顾我小时候的 Windows 应用，会发现一段被遗忘的 UI 架构发展历史：当年大家其实并不默认「桌面应用 = WebView 套壳」。\n\n为了摆脱 Win32 原生控件的限制，当年如金山腾讯 360 等很多公司都做过自己的 DirectUI…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265957219612258307",
+        "conversation_id": "2091332064759173549",
+        "created_at": "2026-08-23T01:09:53.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091332064759173549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/farsideofmoonv…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/farsideofmoonvy/status/2091191790569156699",
+              "start": 172,
+              "url": "https://t.co/Bd1ehlTOSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091332064759173549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在回顾我小时候的 Windows 应用，会发现一段被遗忘的 UI 架构发展历史：当年大家其实并不默认「桌面应用 = WebView 套壳」。\n\n为了摆脱 Win32 原生控件的限制，当年如金山腾讯 360 等很多公司都做过自己的 DirectUI。这基本等于拿到 DirectUIHWND 之后用 XML 描述界面，自己维护 Element Tree，自己做 Layout、事件分发、Hit Testing，最后直接把整个界面画出来。\n\n这造就了当时 QQ 迅雷之类软件界面的百花齐放，也有一定的安全防逆向考量（不再有标准的 Window 句柄供收发消息）。今天看这套架构其实非常现代。某种程度上已经像是 Flutter 的雏形。\n\n但真正决定历史的并非大家突然发现 Web 的 UI 架构更正确，而是 Chromium 把全世界巨大的工程投入集中到了一套 Runtime 上。什么文本 IME 动画无障碍 GPU 合成……单独一个公司自己的 UI 引擎很难与之竞争。于是 CEF 到 node-webkit 再到 Electron，这套路线最终赢得了工程经济学。\n\n但代价也很明显：为了画一个应用界面，我们逐渐接受了随应用携带一整套浏览器。\n\n有意思的是，这么多年后我在 PocketJS 上又绕回了这个问题。\n\nPocketJS 选择保留 JSX、响应式状态和现代前端的开发体验，但把 DOM、CSS Engine、WebView 全部拿掉。QuickJS 负责业务逻辑和 UI 定义（JS 里最重要的除了业务还有 JSX，这个吊打 XML 的哦），Rust 里布局和绘制，最终直接产生 native pixels。\n\n所以现在再看 DirectUI，我反而觉得它不是一条被证明错误的技术路线。\n\n现在我们可以重新考虑，我们能不能重新拥有自己的 UI Runtime，同时获得现代 Web 开发的生产力，却不必把整个 Web Platform 的技术债务一起带上？\n\n这是二十年前的技术没有很好解答的问题。\n\n但现在 Linux Desktop 正在迎来新的热潮，整个 GUI 体系都有机会被重塑。这个问题也许值得让我们再回答一次！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10361,
+          "like_count": 61,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091191790569156699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在回顾我小时候的 Windows 应用，会发现一段被遗忘的 UI 架构发展历史：当年大家其实并不默认「桌面应用 = WebView 套壳」。\n\n为了摆脱 Win32 原生控件的限制，当年如金山腾讯 360 等很多公司都做过自己的 DirectUI。这基本等于拿到 DirectUIHWND 之后用 XML 描述界面，自己维护 Element https://t.co/Bd1ehlTOSe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091446856438137078",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1964,
+          "like_count": 25147,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-28T10:45:06.000Z",
+        "description": "Creator @pocket_js @sheruapp / ex @lovart_ai / cofounded @AffineOfficial / aka 雪碧 / INTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "pocket_js"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "sheruapp"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "lovart_ai"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "AffineOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/doodlewind",
+                "end": 23,
+                "expanded_url": "https://github.com/doodlewind",
+                "start": 0,
+                "url": "https://t.co/gRTdn1DfOs"
+              }
+            ]
+          }
+        },
+        "id": "1265957219612258307",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091405687272472690",
+        "name": "Yifeng \"Evan\" Wang",
+        "pinned_tweet_id": "2073954581017698454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265957219612258307/1784415435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949275362262913024/r3t_A4R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14467,
+          "following_count": 1535,
+          "like_count": 8854,
+          "listed_count": 115,
+          "media_count": 459,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/gRTdn1DfOs",
+        "username": "ewind_dev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

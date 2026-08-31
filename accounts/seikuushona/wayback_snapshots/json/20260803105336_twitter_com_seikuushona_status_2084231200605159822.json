@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2083948366984273967",
+    "created_at": "2026-08-03T10:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084231200605159822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989988692002578432",
+          "start": 0,
+          "username": "Alex314267"
+        },
+        {
+          "end": 24,
+          "id": "1813226212426457093",
+          "start": 12,
+          "username": "kitasantelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084231200605159822",
+    "in_reply_to_user_id": "1989988692002578432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084132886610120862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex314267 @kitasantelo 关闭很麻烦，麻烦过头了——反正是没法直接在这个页面关闭，也没法完全关闭检测。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2083948366984273967",
+        "created_at": "2026-08-03T10:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084231200605159822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989988692002578432",
+              "start": 0,
+              "username": "Alex314267"
+            },
+            {
+              "end": 24,
+              "id": "1813226212426457093",
+              "start": 12,
+              "username": "kitasantelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231200605159822",
+        "in_reply_to_user_id": "1989988692002578432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084132886610120862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex314267 @kitasantelo 关闭很麻烦，麻烦过头了——反正是没法直接在这个页面关闭，也没法完全关闭检测。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989988692002578432",
+        "conversation_id": "2083948366984273967",
+        "created_at": "2026-08-03T04:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084132886610120862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813226212426457093",
+              "start": 0,
+              "username": "kitasantelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084132886610120862",
+        "in_reply_to_user_id": "1813226212426457093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1294,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948366984273967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitasantelo emmm，又要人家检测，检测拦截又不认……右上角齿轮把这玩意关了不就行了……MDZZ……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1441,
+          "like_count": 19263,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T09:27:40.000Z",
+        "description": "瞧不起那些跪舔一些被殖民地，给狗当狗的。这些东西连狗都不如",
+        "id": "1989988692002578432",
+        "location": "ChengDu",
+        "name": "Alex🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003341982308139009/Xh-1qwH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 98,
+          "like_count": 5229,
+          "listed_count": 7,
+          "media_count": 112,
+          "tweet_count": 2129
+        },
+        "url": "",
+        "username": "Alex314267",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T14:56:47.000Z",
+        "description": "",
+        "id": "1813226212426457093",
+        "name": "kitasan北黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944763295849979904/_E-zH_Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 2813,
+          "like_count": 387,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "kitasantelo",
+        "verified": true
+      }
+    ]
+  }
+}

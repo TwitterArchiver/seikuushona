@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089674537910886646",
+    "created_at": "2026-08-18T11:34:54.000Z",
+    "display_text_range": [
+      17,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089677413668233450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089677413668233450",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089674537910886646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 瑞典人正在对我们的国家进行文化入侵！！1\n为增强文化自信，请尽快更换蒸汽平台（中国）并将原有的 Steam 账户转移于我以减弱瑞典人对大中华的影响（（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2089674100096876545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQADhcCbwAEXDGx.jpg",
+        "width": 1813
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2089674246213840896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQADp8XbsAAENjb.png",
+        "width": 1326
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2089674406021021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQADzPsbwAAdpaq.png",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089674537910886646",
+        "created_at": "2026-08-18T11:34:54.000Z",
+        "display_text_range": [
+          17,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089677413668233450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089677413668233450",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089674537910886646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 瑞典人正在对我们的国家进行文化入侵！！1\n为增强文化自信，请尽快更换蒸汽平台（中国）并将原有的 Steam 账户转移于我以减弱瑞典人对大中华的影响（（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089674100096876545",
+            "3_2089674246213840896",
+            "3_2089674406021021696"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2089674537910886646",
+        "created_at": "2026-08-18T11:23:28.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089674537910886646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzWFCLkHhF",
+              "end": 46,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2089674537910886646/photo/1",
+              "media_key": "3_2089674100096876545",
+              "start": 23,
+              "url": "https://t.co/FzWFCLkHhF"
+            },
+            {
+              "display_url": "pic.x.com/FzWFCLkHhF",
+              "end": 46,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2089674537910886646/photo/1",
+              "media_key": "3_2089674246213840896",
+              "start": 23,
+              "url": "https://t.co/FzWFCLkHhF"
+            },
+            {
+              "display_url": "pic.x.com/FzWFCLkHhF",
+              "end": 46,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2089674537910886646/photo/1",
+              "media_key": "3_2089674406021021696",
+              "start": 23,
+              "url": "https://t.co/FzWFCLkHhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089674537910886646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089674100096876545"
+          },
+          {
+            "media_key": "3_2089674246213840896"
+          },
+          {
+            "media_key": "3_2089674406021021696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的 Steam 游戏时间几乎被瑞典统治了！ https://t.co/FzWFCLkHhF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089677413668233450",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1754,
+          "like_count": 22938,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089674537910886646",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2089346961950548030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12323,
+          "following_count": 5331,
+          "like_count": 100737,
+          "listed_count": 22,
+          "media_count": 2547,
+          "tweet_count": 21639
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

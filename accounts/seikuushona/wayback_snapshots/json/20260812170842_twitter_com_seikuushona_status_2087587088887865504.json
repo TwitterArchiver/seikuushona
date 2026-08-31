@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2087587088887865504",
+    "created_at": "2026-08-12T17:08:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087587088887865504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738207674616217600",
+          "start": 3,
+          "username": "AnoYo_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087587088887865504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087492556531937692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnoYo_1028: 快百fo了搞个抽奖庆祝一下喵♡=•ㅅ＜=)\n感谢大家的支持哇！超级爱你们🥰❤️！\n一等奖 13.14r\n二等奖 8.88r\n三等奖 5.2r\n以上每个奖项名额都是一个qwq 最近没什么米了希望大家不要嫌弃哇QAQ\n参与条件 关注我并且转帖+点赞+…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2087587088887865504",
+        "created_at": "2026-08-12T17:08:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087587088887865504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738207674616217600",
+              "start": 3,
+              "username": "AnoYo_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087587088887865504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492556531937692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnoYo_1028: 快百fo了搞个抽奖庆祝一下喵♡=•ㅅ＜=)\n感谢大家的支持哇！超级爱你们🥰❤️！\n一等奖 13.14r\n二等奖 8.88r\n三等奖 5.2r\n以上每个奖项名额都是一个qwq 最近没什么米了希望大家不要嫌弃哇QAQ\n参与条件 关注我并且转帖+点赞+…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738207674616217600",
+        "conversation_id": "2087492556531937692",
+        "created_at": "2026-08-12T10:53:03.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087492556531937692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087492556531937692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "快百fo了搞个抽奖庆祝一下喵♡=•ㅅ＜=)\n感谢大家的支持哇！超级爱你们🥰❤️！\n一等奖 13.14r\n二等奖 8.88r\n三等奖 5.2r\n以上每个奖项名额都是一个qwq 最近没什么米了希望大家不要嫌弃哇QAQ\n参与条件 关注我并且转帖+点赞+评论这个帖子\n截止时间为三天后也就是8.15中午12点w\n（msk不要炸我号！！！）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087587088887865504",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1643,
+          "like_count": 21211,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T14:40:00.000Z",
+        "description": "可以叫我yuyu。本体是一场雨。\n苦逼复读生，不定时上线喵\n互fo大欢迎——我喜欢交朋友呀都来和我玩🥺\n精神不正常可能会发好多奇怪东西。不要讨厌我好吗…😢\n备用号@anoyo1028 我怕哪天这个老号炸了呜呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "anoyo1028"
+              }
+            ]
+          }
+        },
+        "id": "1738207674616217600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087565616819712070",
+        "name": "yuyu",
+        "pinned_tweet_id": "1962905191277346824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738207674616217600/1785471022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 133,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "AnoYo_1028",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

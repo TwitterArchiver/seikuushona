@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091876810170773766",
+    "created_at": "2026-08-25T16:08:38.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092283015305314692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092283015305314692",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091876810170773766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 「这一刻，他的心比身体更温难。」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2091876796644069376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfW3QHaEAAllKx.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091876810170773766",
+        "created_at": "2026-08-25T16:08:38.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092283015305314692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092283015305314692",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091876810170773766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 「这一刻，他的心比身体更温难。」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091876796644069376"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2091876810170773766",
+        "created_at": "2026-08-24T13:14:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091876810170773766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dviqizFSDZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2091876810170773766/photo/1",
+              "media_key": "3_2091876796644069376",
+              "start": 0,
+              "url": "https://t.co/dviqizFSDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091876810170773766",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091876796644069376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12727,
+          "like_count": 320,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dviqizFSDZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092283015305314692",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 2099,
+          "like_count": 26475,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092256449787506788",
+        "name": "披麻戴孝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429055428374130693/1785878117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092256366031458304/bcbERnq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 332,
+          "like_count": 23151,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 6042
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

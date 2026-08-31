@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092848365323325440",
+        "3_2092848374521475072"
+      ],
+      "media_source_tweet_id": [
+        "2092848383052664874",
+        "2092848383052664874"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092869306245923052",
+    "created_at": "2026-08-27T06:58:20.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092869306245923052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072534840312913920",
+          "start": 3,
+          "username": "mizuame_t2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEXiL8HcCH",
+          "end": 79,
+          "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+          "media_key": "3_2092848365323325440",
+          "start": 56,
+          "url": "https://t.co/hEXiL8HcCH"
+        },
+        {
+          "display_url": "pic.x.com/hEXiL8HcCH",
+          "end": 79,
+          "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+          "media_key": "3_2092848374521475072",
+          "start": 56,
+          "url": "https://t.co/hEXiL8HcCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092869306245923052",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092848365323325440"
+      },
+      {
+        "media_key": "3_2092848374521475072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092848383052664874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuame_t2: 正跟朋友在海边轻奢呢，结果发现号没了，于是摸出了这个上古老号，水母雨堂堂复活😎 https://t.co/hEXiL8HcCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2092848365323325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtKf_fakAAzO5K.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092848374521475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtKghwbMAAE-H6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092848365323325440",
+            "3_2092848374521475072"
+          ],
+          "media_source_tweet_id": [
+            "2092848383052664874",
+            "2092848383052664874"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092869306245923052",
+        "created_at": "2026-08-27T06:58:20.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092869306245923052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072534840312913920",
+              "start": 3,
+              "username": "mizuame_t2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEXiL8HcCH",
+              "end": 79,
+              "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+              "media_key": "3_2092848365323325440",
+              "start": 56,
+              "url": "https://t.co/hEXiL8HcCH"
+            },
+            {
+              "display_url": "pic.x.com/hEXiL8HcCH",
+              "end": 79,
+              "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+              "media_key": "3_2092848374521475072",
+              "start": 56,
+              "url": "https://t.co/hEXiL8HcCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092869306245923052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092848365323325440"
+          },
+          {
+            "media_key": "3_2092848374521475072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092848383052664874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuame_t2: 正跟朋友在海边轻奢呢，结果发现号没了，于是摸出了这个上古老号，水母雨堂堂复活😎 https://t.co/hEXiL8HcCH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092848365323325440",
+            "3_2092848374521475072"
+          ]
+        },
+        "author_id": "1072534840312913920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092848383052664874",
+        "created_at": "2026-08-27T05:35:12.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092848383052664874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEXiL8HcCH",
+              "end": 63,
+              "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+              "media_key": "3_2092848365323325440",
+              "start": 40,
+              "url": "https://t.co/hEXiL8HcCH"
+            },
+            {
+              "display_url": "pic.x.com/hEXiL8HcCH",
+              "end": 63,
+              "expanded_url": "https://x.com/mizuame_t2/status/2092848383052664874/photo/1",
+              "media_key": "3_2092848374521475072",
+              "start": 40,
+              "url": "https://t.co/hEXiL8HcCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092848383052664874",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092848365323325440"
+          },
+          {
+            "media_key": "3_2092848374521475072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "正跟朋友在海边轻奢呢，结果发现号没了，于是摸出了这个上古老号，水母雨堂堂复活😎 https://t.co/hEXiL8HcCH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092869306245923052",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 2189,
+          "like_count": 27398,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2092850169293205844",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

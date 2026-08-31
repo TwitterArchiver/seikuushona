@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2090821761755701362",
+    "created_at": "2026-08-21T15:22:08.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090821761755701362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090821761755701362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090796462682644738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 既然说到外宣了，就爆个料给大家做YouTube节目用\n国安最近几年在沈阳成立了一个新的部门，规模很大，这几年东北地区各大高校的官方公众号都有定向招聘的公告（当然，我发出来可能就没了）。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2090821761755701362",
+        "created_at": "2026-08-21T15:22:08.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090821761755701362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090821761755701362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090796462682644738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 既然说到外宣了，就爆个料给大家做YouTube节目用\n国安最近几年在沈阳成立了一个新的部门，规模很大，这几年东北地区各大高校的官方公众号都有定向招聘的公告（当然，我发出来可能就没了）。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2090796462682644738",
+        "created_at": "2026-08-21T13:41:36.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090796462682644738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/2090783819980800144",
+              "start": 93,
+              "url": "https://t.co/exRbsnaoJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090796462682644738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "既然说到外宣了，就爆个料给大家做YouTube节目用\n国安最近几年在沈阳成立了一个新的部门，规模很大，这几年东北地区各大高校的官方公众号都有定向招聘的公告（当然，我发出来可能就没了）。\n这个部门是专门做对外舆论战的，但和大家想象的那种夸中国好不一样，他们其中一个工作是伪装成不同国家不同阵营的人，在网上诱导各国网民互相吵架。\n比如，在中日交恶期间，他们在内部报告里详细介绍过如何伪装成女权主义者，在社交媒体上煽动欧美左派批评日本社会不够女权。\n（当然，基于当今险恶的舆论环境，我需要强调下我只是如实陈述我看见的，并非代表着女权是什么或者日本没问题。）\n只是从这件事可以看出他们非常熟练抓准不同群体之间的矛盾点并加以挑动对立。\n而至于说中国如何好的那一部分，则是交给另外一波人去做了。\n在大家还忙在网上指认谁收了钱的时候，真正的对外舆论战其实已经发展到这种水平了，而很多人可能自己都没有意识到自己是如何被影响的，就成为枪了。\n所以基于当前这种情况，还在认为谁收了钱才做外宣，就太小看中共了。\n给你送钱，还可能被你录音，不断潜移默化影响你的思想和注意力，才是一本万利。\n之所以说出来，主要是因为最近你们搞的这些针对我的机器人让我冲浪的时候有点烦，所以我觉得有必要送你们几个人进去。你们内部慢慢查吧。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 57865,
+          "like_count": 570,
+          "quote_count": 11,
+          "reply_count": 38,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090783819980800144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然说到外宣了，就爆个料给大家做YouTube节目用\n国安最近几年在沈阳成立了一个新的部门，规模很大，这几年东北地区各大高校的官方公众号都有定向招聘的公告（当然，我发出来可能就没了）。 https://t.co/exRbsnaoJ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090821761755701362",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 1873,
+          "like_count": 24428,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "is_identity_verified": false,
+        "location": "猴管",
+        "most_recent_tweet_id": "2090801998027252024",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586332050528915457/1699195104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254810,
+          "following_count": 769,
+          "like_count": 6191,
+          "listed_count": 1375,
+          "media_count": 1443,
+          "tweet_count": 7541
+        },
+        "url": "",
+        "username": "lilaoshizuikeai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

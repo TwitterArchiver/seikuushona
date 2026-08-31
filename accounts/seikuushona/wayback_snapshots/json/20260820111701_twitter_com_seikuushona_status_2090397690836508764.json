@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090389113233191158",
+    "created_at": "2026-08-20T11:17:01.000Z",
+    "display_text_range": [
+      12,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090397690836508764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "992689094516879360",
+          "start": 0,
+          "username": "libkrb5_so"
+        }
+      ],
+      "urls": [
+        {
+          "description": "GitHub Users Global Ranking",
+          "display_url": "wangchujiang.com/github-rank/",
+          "end": 46,
+          "expanded_url": "https://wangchujiang.com/github-rank/",
+          "start": 23,
+          "status": 200,
+          "title": "GitHub Users Global Ranking",
+          "unwound_url": "https://wangchujiang.com/github-rank/",
+          "url": "https://t.co/skDMt6kRlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090397690836508764",
+    "in_reply_to_user_id": "992689094516879360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090389113233191158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libkrb5_so 找着了排行榜的来源。\nhttps://t.co/skDMt6kRlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2090389106853593088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKN0TxawAAqgUl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090389113233191158",
+        "created_at": "2026-08-20T11:17:01.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090397690836508764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "992689094516879360",
+              "start": 0,
+              "username": "libkrb5_so"
+            }
+          ],
+          "urls": [
+            {
+              "description": "GitHub Users Global Ranking",
+              "display_url": "wangchujiang.com/github-rank/",
+              "end": 46,
+              "expanded_url": "https://wangchujiang.com/github-rank/",
+              "start": 23,
+              "status": 200,
+              "title": "GitHub Users Global Ranking",
+              "unwound_url": "https://wangchujiang.com/github-rank/",
+              "url": "https://t.co/skDMt6kRlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090397690836508764",
+        "in_reply_to_user_id": "992689094516879360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090389113233191158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libkrb5_so 找着了排行榜的来源。\nhttps://t.co/skDMt6kRlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090389106853593088"
+          ]
+        },
+        "author_id": "992689094516879360",
+        "conversation_id": "2090389113233191158",
+        "created_at": "2026-08-20T10:42:56.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090389113233191158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VUx26X7we",
+              "end": 35,
+              "expanded_url": "https://x.com/libkrb5_so/status/2090389113233191158/photo/1",
+              "media_key": "3_2090389106853593088",
+              "start": 12,
+              "url": "https://t.co/2VUx26X7we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090389113233191158",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090389106853593088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 238,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷淘宝看到过最爆的东西 https://t.co/2VUx26X7we"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090397690836508764",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 1822,
+          "like_count": 23850,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-05T08:54:58.000Z",
+        "description": "愿麦子和麦子长在一起",
+        "id": "992689094516879360",
+        "is_identity_verified": false,
+        "location": "/usr/lib",
+        "most_recent_tweet_id": "2090397051444220241",
+        "name": "Junk after end of life.",
+        "pinned_tweet_id": "1648480684019974144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992689094516879360/1723829653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834996577163001858/XuiGNJBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 879,
+          "like_count": 6962,
+          "listed_count": 1,
+          "media_count": 1389,
+          "tweet_count": 5172
+        },
+        "url": "",
+        "username": "libkrb5_so",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

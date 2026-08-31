@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090486760384114688"
+      ],
+      "media_source_tweet_id": [
+        "2090486831137886703"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090867868556796240",
+    "created_at": "2026-08-21T18:25:20.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090867868556796240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1851488048045047808",
+          "start": 3,
+          "username": "cryptoshan484"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "crt.name/v1/search?apex…",
+          "end": 94,
+          "expanded_url": "https://crt.name/v1/search?apex=target.com",
+          "start": 71,
+          "status": 200,
+          "unwound_url": "https://crt.name/v1/search?apex=target.com",
+          "url": "https://t.co/OAAowvtwaT"
+        },
+        {
+          "display_url": "pic.x.com/aNmKdwkFi1",
+          "end": 118,
+          "expanded_url": "https://x.com/cryptoshan484/status/2090486831137886703/photo/1",
+          "media_key": "3_2090486760384114688",
+          "start": 95,
+          "url": "https://t.co/aNmKdwkFi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090867868556796240",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090486760384114688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090486831137886703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptoshan484: To find subdomains you can use this new technique:\n\nhttps://t.co/OAAowvtwaT https://t.co/aNmKdwkFi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2090486760384114688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLmofhaMAAIUo3.png",
+        "width": 419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090486760384114688"
+          ],
+          "media_source_tweet_id": [
+            "2090486831137886703"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090867868556796240",
+        "created_at": "2026-08-21T18:25:20.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090867868556796240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1851488048045047808",
+              "start": 3,
+              "username": "cryptoshan484"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "crt.name/v1/search?apex…",
+              "end": 94,
+              "expanded_url": "https://crt.name/v1/search?apex=target.com",
+              "start": 71,
+              "status": 200,
+              "unwound_url": "https://crt.name/v1/search?apex=target.com",
+              "url": "https://t.co/OAAowvtwaT"
+            },
+            {
+              "display_url": "pic.x.com/aNmKdwkFi1",
+              "end": 118,
+              "expanded_url": "https://x.com/cryptoshan484/status/2090486831137886703/photo/1",
+              "media_key": "3_2090486760384114688",
+              "start": 95,
+              "url": "https://t.co/aNmKdwkFi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090867868556796240",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090486760384114688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090486831137886703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptoshan484: To find subdomains you can use this new technique:\n\nhttps://t.co/OAAowvtwaT https://t.co/aNmKdwkFi1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090486760384114688"
+          ]
+        },
+        "author_id": "1851488048045047808",
+        "conversation_id": "2090486831137886703",
+        "created_at": "2026-08-20T17:11:14.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090486831137886703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "crt.name/v1/search?apex…",
+              "end": 75,
+              "expanded_url": "https://crt.name/v1/search?apex=target.com",
+              "start": 52,
+              "status": 200,
+              "unwound_url": "https://crt.name/v1/search?apex=target.com",
+              "url": "https://t.co/OAAowvtwaT"
+            },
+            {
+              "display_url": "pic.x.com/aNmKdwkFi1",
+              "end": 99,
+              "expanded_url": "https://x.com/cryptoshan484/status/2090486831137886703/photo/1",
+              "media_key": "3_2090486760384114688",
+              "start": 76,
+              "url": "https://t.co/aNmKdwkFi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090486831137886703",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090486760384114688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10277,
+          "impression_count": 3149545,
+          "like_count": 5279,
+          "quote_count": 79,
+          "reply_count": 88,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "To find subdomains you can use this new technique:\n\nhttps://t.co/OAAowvtwaT https://t.co/aNmKdwkFi1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090867868556796240",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1896,
+          "like_count": 24604,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-30T04:55:56.000Z",
+        "description": "https://t.co/dhShQDvF01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "medium.com/@dsmodi484",
+                "end": 23,
+                "expanded_url": "https://medium.com/@dsmodi484",
+                "start": 0,
+                "url": "https://t.co/dhShQDvF01"
+              }
+            ]
+          }
+        },
+        "id": "1851488048045047808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090620299138265409",
+        "name": "cryptoshant🇮🇳",
+        "pinned_tweet_id": "2068029315955269747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851488048045047808/1747505134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867407729155039232/GOWMiWVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 100,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "cryptoshan484",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

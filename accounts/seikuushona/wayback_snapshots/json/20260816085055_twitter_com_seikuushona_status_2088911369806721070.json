@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088911369806721070",
+    "created_at": "2026-08-16T08:50:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088911369806721070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949475832426242048",
+          "start": 3,
+          "username": "Kokokoro__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088911369806721070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088768910963458084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kokokoro__: 再講一個台灣迷惑教育\n我剛學會說話就去上學了\n回家跟家長說我想死，要怎樣才能死\n家長嚇死，跑去質問學校\n發現問題在聖經課\n老師把天堂形容的天花亂墜\n問小朋友想不想去天堂？只要大家當好孩子，死後就可以上天堂\n既然我是好孩子，那就只差死了呢（邏輯\n於…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088911369806721070",
+        "created_at": "2026-08-16T08:50:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088911369806721070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949475832426242048",
+              "start": 3,
+              "username": "Kokokoro__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088911369806721070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088768910963458084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kokokoro__: 再講一個台灣迷惑教育\n我剛學會說話就去上學了\n回家跟家長說我想死，要怎樣才能死\n家長嚇死，跑去質問學校\n發現問題在聖經課\n老師把天堂形容的天花亂墜\n問小朋友想不想去天堂？只要大家當好孩子，死後就可以上天堂\n既然我是好孩子，那就只差死了呢（邏輯\n於…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "949475832426242048",
+        "conversation_id": "2088768910963458084",
+        "created_at": "2026-08-15T23:24:50.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088768910963458084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088768910963458084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 68167,
+          "like_count": 2330,
+          "quote_count": 9,
+          "reply_count": 87,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "再講一個台灣迷惑教育\n我剛學會說話就去上學了\n回家跟家長說我想死，要怎樣才能死\n家長嚇死，跑去質問學校\n發現問題在聖經課\n老師把天堂形容的天花亂墜\n問小朋友想不想去天堂？只要大家當好孩子，死後就可以上天堂\n既然我是好孩子，那就只差死了呢（邏輯\n於是憑我一己之力，聖經課的這段課程被刪掉了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088911369806721070",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1674,
+          "like_count": 21822,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-06T03:00:53.000Z",
+        "description": "卵巢の奴隸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12569298",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12569298",
+                "start": 0,
+                "url": "https://t.co/Iqr637O4hq"
+              }
+            ]
+          }
+        },
+        "id": "949475832426242048",
+        "is_identity_verified": false,
+        "location": "鬼島",
+        "most_recent_tweet_id": "2088910091093512624",
+        "name": "ここころ C107一日目南オ－25a",
+        "pinned_tweet_id": "2064215635861930429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/949475832426242048/1580915598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225002784170201088/30KeAyfN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13590,
+          "following_count": 369,
+          "like_count": 26013,
+          "listed_count": 62,
+          "media_count": 1790,
+          "tweet_count": 14984
+        },
+        "url": "https://t.co/Iqr637O4hq",
+        "username": "Kokokoro__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

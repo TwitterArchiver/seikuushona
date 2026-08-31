@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092839953952862497",
+    "created_at": "2026-08-27T07:36:00.000Z",
+    "display_text_range": [
+      15,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092878784034906217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092878784034906217",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092839953952862497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 毕竟还没有正式对外开放。\n20 USD 的 Early Access 价格注定了它目前作为社交媒体不会有任何作用。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2092838185978216448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtBPeeawAA5PZe.jpg",
+        "width": 2559
+      },
+      {
+        "height": 604,
+        "media_key": "3_2092838187907600384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtBPlqa0AAWiwA.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092839953952862497",
+        "created_at": "2026-08-27T07:36:00.000Z",
+        "display_text_range": [
+          15,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092878784034906217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092878784034906217",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092839953952862497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 毕竟还没有正式对外开放。\n20 USD 的 Early Access 价格注定了它目前作为社交媒体不会有任何作用。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092838185978216448",
+            "3_2092838187907600384"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2092839953952862497",
+        "created_at": "2026-08-27T05:01:42.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092839953952862497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmqQGrylM5",
+              "end": 65,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2092839953952862497/photo/1",
+              "media_key": "3_2092838185978216448",
+              "start": 42,
+              "url": "https://t.co/LmqQGrylM5"
+            },
+            {
+              "display_url": "pic.x.com/LmqQGrylM5",
+              "end": 65,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2092839953952862497/photo/1",
+              "media_key": "3_2092838187907600384",
+              "start": 42,
+              "url": "https://t.co/LmqQGrylM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092839953952862497",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092838185978216448"
+          },
+          {
+            "media_key": "3_2092838187907600384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1720,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "twitter[.]now支持ipv6, h3和ech\n(目前)可以在中国内地裸连 https://t.co/LmqQGrylM5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092878784034906217",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 2197,
+          "like_count": 27502,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "is_identity_verified": true,
+        "location": "1.0.0.1",
+        "most_recent_tweet_id": "2092875927378137335",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672761170040692739/1784391546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1107,
+          "like_count": 12650,
+          "listed_count": 1,
+          "media_count": 558,
+          "tweet_count": 2372
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

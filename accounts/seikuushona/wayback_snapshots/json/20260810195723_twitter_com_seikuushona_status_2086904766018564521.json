@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2086894319429144960",
+    "created_at": "2026-08-10T19:57:23.000Z",
+    "display_text_range": [
+      13,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086904766018564521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963694775770685440",
+          "start": 0,
+          "username": "Fiona_Coyn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086904766018564521",
+    "in_reply_to_user_id": "1963694775770685440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086904138517152117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiona_Coyn3 那就是那些广告都在用 AIGC 给我造成的刻板印象了。\n说实话，如果是纯人工生成的内容，即便观感可能会差，但可信度会更高一些。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2086894319429144960",
+        "created_at": "2026-08-10T19:57:23.000Z",
+        "display_text_range": [
+          13,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086904766018564521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963694775770685440",
+              "start": 0,
+              "username": "Fiona_Coyn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086904766018564521",
+        "in_reply_to_user_id": "1963694775770685440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086904138517152117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiona_Coyn3 那就是那些广告都在用 AIGC 给我造成的刻板印象了。\n说实话，如果是纯人工生成的内容，即便观感可能会差，但可信度会更高一些。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963694775770685440",
+        "conversation_id": "2086894319429144960",
+        "created_at": "2026-08-10T19:54:54.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086904138517152117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684547487460388864",
+              "start": 0,
+              "username": "seikuushona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086904138517152117",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086894319429144960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seikuushona Gemini生成的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086904766018564521",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1598,
+          "like_count": 20713,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber\n目前的戀人@7zip33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "7zip33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2086904138517152117",
+        "name": "49 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963694775770685440/1757867556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 78,
+          "like_count": 7817,
+          "listed_count": 7,
+          "media_count": 577,
+          "tweet_count": 4538
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

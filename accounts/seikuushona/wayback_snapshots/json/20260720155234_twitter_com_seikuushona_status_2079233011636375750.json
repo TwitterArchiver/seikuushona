@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079232988764930048"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079202219996393750",
+    "created_at": "2026-07-20T15:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079233011636375750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RRQtpA2RnV",
+          "end": 63,
+          "expanded_url": "https://x.com/seikuushona/status/2079233011636375750/photo/1",
+          "media_key": "3_2079232988764930048",
+          "start": 40,
+          "url": "https://t.co/RRQtpA2RnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079233011636375750",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079202219996393750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 恭喜！\n最后还是用 codex 帮忙才找到的 www。 https://t.co/RRQtpA2RnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2079232988764930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrrYxSbgAA-Xgh.jpg",
+        "width": 837
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2079202204196417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrPY31WMAA2Cov.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079232988764930048"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079202219996393750",
+        "created_at": "2026-07-20T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079233011636375750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRQtpA2RnV",
+              "end": 63,
+              "expanded_url": "https://x.com/seikuushona/status/2079233011636375750/photo/1",
+              "media_key": "3_2079232988764930048",
+              "start": 40,
+              "url": "https://t.co/RRQtpA2RnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079233011636375750",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079202219996393750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 恭喜！\n最后还是用 codex 帮忙才找到的 www。 https://t.co/RRQtpA2RnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079202204196417536"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2079202219996393750",
+        "created_at": "2026-07-20T13:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079202219996393750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwNGrcgqEq",
+              "end": 121,
+              "expanded_url": "https://x.com/mario_2333/status/2079202219996393750/photo/1",
+              "media_key": "3_2079202204196417536",
+              "start": 98,
+              "url": "https://t.co/GwNGrcgqEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079202219996393750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1307,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4000 关注大感谢~\\(≧▽≦)/~\n\n贴贴每一位陪我一起走到现在的新老推友！所以来做了张大合影，只要有头像都可以找到自己！\n\n因为不知道推特压图会到什么画质所以看不清评论里还有原图链接www https://t.co/GwNGrcgqEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1229,
+          "like_count": 16720,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://telegram.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/P0unqfEJ1Z"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4028,
+          "following_count": 280,
+          "like_count": 56901,
+          "listed_count": 20,
+          "media_count": 1190,
+          "tweet_count": 18888
+        },
+        "url": "https://t.co/P0unqfEJ1Z",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

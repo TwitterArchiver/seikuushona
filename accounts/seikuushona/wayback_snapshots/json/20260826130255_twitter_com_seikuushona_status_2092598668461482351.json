@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092589845583659403",
+    "created_at": "2026-08-26T13:02:55.000Z",
+    "display_text_range": [
+      28,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092598668461482351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088519536068943872",
+          "start": 0,
+          "username": "yamazaki_neo"
+        },
+        {
+          "end": 27,
+          "id": "2004456046295973888",
+          "start": 14,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092598668461482351",
+    "in_reply_to_user_id": "2088519536068943872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092595344605688200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazaki_neo @kohoshitsumu 那不是我——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092589845583659403",
+        "created_at": "2026-08-26T13:02:55.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092598668461482351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088519536068943872",
+              "start": 0,
+              "username": "yamazaki_neo"
+            },
+            {
+              "end": 27,
+              "id": "2004456046295973888",
+              "start": 14,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092598668461482351",
+        "in_reply_to_user_id": "2088519536068943872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092595344605688200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazaki_neo @kohoshitsumu 那不是我——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "conversation_id": "2092589845583659403",
+        "created_at": "2026-08-26T12:49:43.000Z",
+        "display_text_range": [
+          27,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092595344605688200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            },
+            {
+              "end": 26,
+              "id": "1684547487460388864",
+              "start": 14,
+              "username": "seikuushona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092595344605688200",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092592505611276596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu @seikuushona 不会的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092598668461482351",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 2122,
+          "like_count": 26894,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "大山崎：@yamazakiisuzu\n优质汉族男性\n我辱男辱女辱华全都辱了，很舒服啊，很舒服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092595467867902160",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2091825759463854261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 93,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期:𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度:-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜𝗛𝗣:-𝟒𝟎𝟒/𝟎｜陪我玩回𝚏𝚘｜\n\n𝟒𝟎𝟒 此玩家帳號不存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IYAxK"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2092597670716264772",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2082824480762872031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004456046295973888/1784463809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 350,
+          "like_count": 42462,
+          "listed_count": 0,
+          "media_count": 882,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/Qk6Y5IYAxK",
+        "username": "kohoshitsumu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

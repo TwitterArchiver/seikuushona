@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089592740321579151",
+    "created_at": "2026-08-18T10:16:34.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089657700284334456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089657700284334456",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089592740321579151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 恭喜！\n至少好看不是吗 w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_2089577523004973056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-rr6VaIAA_VQp.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089592740321579151",
+        "created_at": "2026-08-18T10:16:34.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089657700284334456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089657700284334456",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089592740321579151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 恭喜！\n至少好看不是吗 w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089577523004973056"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2089592740321579151",
+        "created_at": "2026-08-18T05:58:26.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089592740321579151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MccOZOAdJB",
+              "end": 54,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2089592740321579151/photo/1",
+              "media_key": "3_2089577523004973056",
+              "start": 31,
+              "url": "https://t.co/MccOZOAdJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089592740321579151",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089577523004973056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4397,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "3k fo 大恭喜!\n...不过这样子真的能提高代码质量吗? https://t.co/MccOZOAdJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089657700284334456",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1742,
+          "like_count": 22868,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "is_identity_verified": false,
+        "location": "記錄の地平線",
+        "most_recent_tweet_id": "2089653416419323955",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1742492548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 1349,
+          "like_count": 45750,
+          "listed_count": 9,
+          "media_count": 1898,
+          "tweet_count": 29278
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

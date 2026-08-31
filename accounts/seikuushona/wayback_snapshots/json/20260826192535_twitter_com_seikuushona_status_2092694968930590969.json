@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092694968930590969",
+    "created_at": "2026-08-26T19:25:35.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092694968930590969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RenmLiyi/statu…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/RenmLiyi/status/2092602609362485581",
+          "start": 65,
+          "url": "https://t.co/cRWu8EPBsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092694968930590969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092602609362485581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很奇怪的一点是，大部分对这条内容的反驳者长期以来在其他地方的回复都是内容直接以脏话为主的。\n似乎他们只是找到了一个情绪的发泄口。 https://t.co/cRWu8EPBsZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092694968930590969",
+        "created_at": "2026-08-26T19:25:35.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092694968930590969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RenmLiyi/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/RenmLiyi/status/2092602609362485581",
+              "start": 65,
+              "url": "https://t.co/cRWu8EPBsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092694968930590969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092602609362485581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很奇怪的一点是，大部分对这条内容的反驳者长期以来在其他地方的回复都是内容直接以脏话为主的。\n似乎他们只是找到了一个情绪的发泄口。 https://t.co/cRWu8EPBsZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088316754628079616",
+        "conversation_id": "2092602609362485581",
+        "created_at": "2026-08-26T13:18:35.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092602609362485581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092602609362485581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4212,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中学生键政就是降智的表现？\n我们愿意关心什么，愿意站在怎么样的立场，选择权在我们自己的手上。你们可以指出我们天真的点，但是扯着年龄嘲站位就很可恶了。\n如果你们认为十几岁的孩子只能够念念书打打游戏，那我也无言以对。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092694968930590969",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2157,
+          "like_count": 27104,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T17:28:08.000Z",
+        "description": "本人14，肉身墙内，据说是有文青病的反贼。\n一段时间内我将不看私信评论，这时间我去研究理论知识。\n我是中国人，我爱中国，我爱老百姓，立场你们看得出来。\n好和坏我分得清，如果你要盲目捧中共我认为你还是回内网吧。\n我有问题你可以讲道理，不过晚些等我知识积累到一定程度再回应，相信我一定会给你们满意答复。",
+        "id": "2088316754628079616",
+        "is_identity_verified": false,
+        "location": "The hearts of ordinary people",
+        "most_recent_tweet_id": "2092637889519829103",
+        "name": "不要独裁要民主",
+        "pinned_tweet_id": "2089942281646457242",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088316754628079616/1786730972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088316960539090944/4OjlBEzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 43,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "RenmLiyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

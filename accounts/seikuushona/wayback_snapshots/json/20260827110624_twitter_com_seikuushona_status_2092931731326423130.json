@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092931731326423130",
+    "created_at": "2026-08-27T11:06:24.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092931731326423130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "349336654",
+          "start": 3,
+          "username": "nyaffyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092931731326423130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092902094588248165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaffyy: 大家帮我转帖巡回一下fo号吗🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092931731326423130",
+        "created_at": "2026-08-27T11:06:24.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092931731326423130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "349336654",
+              "start": 3,
+              "username": "nyaffyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092931731326423130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092902094588248165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaffyy: 大家帮我转帖巡回一下fo号吗🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349336654",
+        "conversation_id": "2092902094588248165",
+        "created_at": "2026-08-27T09:08:38.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092902094588248165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092902094588248165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家帮我转帖巡回一下fo号吗🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092931731326423130",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 2208,
+          "like_count": 27592,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-05T23:15:41.000Z",
+        "description": "｜友跨｜二次元｜游戏｜\n我喜欢你们所有人🥺🥺\n第一账户@ffynya被锁\n第二账户@hjynya被锁\n第三账户@lyyynya目前存活\n第四账户@lfynya 生活号\n我又复活了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "ffynya"
+              },
+              {
+                "end": 48,
+                "start": 41,
+                "username": "hjynya"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "lyyynya"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "username": "lfynya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 23,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 0,
+                "url": "https://t.co/wUCKSch7yB"
+              }
+            ]
+          }
+        },
+        "id": "349336654",
+        "is_identity_verified": false,
+        "location": "EARTH",
+        "most_recent_tweet_id": "2092930374624264241",
+        "name": "😄喵喵ffy😄",
+        "pinned_tweet_id": "2092895062309171297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349336654/1787818128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092886991214145536/JdP5vkee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/wUCKSch7yB",
+        "username": "nyaffyy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2093410477527478756",
+    "created_at": "2026-08-28T18:53:44.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T19:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093411729892106674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093411729892106674",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093410477527478756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2093410477527478756",
+        "created_at": "2026-08-28T18:53:44.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093411729892106674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093411729892106674",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093410477527478756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841306675674075136",
+        "conversation_id": "2093410477527478756",
+        "created_at": "2026-08-28T18:48:46.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093410477527478756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093410477527478756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来今天是我的生日吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093411729892106674",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 2239,
+          "like_count": 27874,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "（Premium plus用户）日本語学科 ，底层受剥削家庭。閩台混雜，友跨，系统政治学🌗独立时评人🌗人嫌狗厌理中客🌗百度孙笑川吧/PS吧/中国人口吧🥇黄牌",
+        "id": "1841306675674075136",
+        "is_identity_verified": false,
+        "location": "金門縣",
+        "most_recent_tweet_id": "2093410477527478756",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2092255705990373848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841306675674075136/1777195435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1634,
+          "like_count": 4898,
+          "listed_count": 5,
+          "media_count": 897,
+          "tweet_count": 6583
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

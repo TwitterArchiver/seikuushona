@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086898106956931072",
+        "3_2086898649997750272",
+        "3_2086898716754206720",
+        "3_2086898856881799168"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1942738198360211456",
+          "name": "Grok 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2086874860698169729",
+    "created_at": "2026-08-10T19:37:00.000Z",
+    "display_text_range": [
+      13,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086899637437551077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wQKx3zysql",
+          "end": 114,
+          "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+          "media_key": "3_2086898106956931072",
+          "start": 91,
+          "url": "https://t.co/wQKx3zysql"
+        },
+        {
+          "display_url": "pic.x.com/wQKx3zysql",
+          "end": 114,
+          "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+          "media_key": "3_2086898649997750272",
+          "start": 91,
+          "url": "https://t.co/wQKx3zysql"
+        },
+        {
+          "display_url": "pic.x.com/wQKx3zysql",
+          "end": 114,
+          "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+          "media_key": "3_2086898716754206720",
+          "start": 91,
+          "url": "https://t.co/wQKx3zysql"
+        },
+        {
+          "display_url": "pic.x.com/wQKx3zysql",
+          "end": 114,
+          "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+          "media_key": "3_2086898856881799168",
+          "start": 91,
+          "url": "https://t.co/wQKx3zysql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086899637437551077",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086898106956931072"
+      },
+      {
+        "media_key": "3_2086898649997750272"
+      },
+      {
+        "media_key": "3_2086898716754206720"
+      },
+      {
+        "media_key": "3_2086898856881799168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086874860698169729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 回答皆使用 Grok 4.5 Fast 生成。\n图一为 X 内置 Grok 生成，图二、三、四为网页端 Grok 生成。\n（图三那里被小小的气笑了一下。） https://t.co/wQKx3zysql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2086898106956931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYmxXuaYAAcB7V.jpg",
+        "width": 2015
+      },
+      {
+        "height": 935,
+        "media_key": "3_2086898649997750272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYnQ-tbsAALe79.jpg",
+        "width": 1955
+      },
+      {
+        "height": 885,
+        "media_key": "3_2086898716754206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYnU3ZaYAAqLED.jpg",
+        "width": 2065
+      },
+      {
+        "height": 945,
+        "media_key": "3_2086898856881799168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYndBabwAA288X.jpg",
+        "width": 2020
+      },
+      {
+        "height": 1565,
+        "media_key": "3_2086872412935823360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYPZyCaIAAtTBv.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086898106956931072",
+            "3_2086898649997750272",
+            "3_2086898716754206720",
+            "3_2086898856881799168"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2086874860698169729",
+        "created_at": "2026-08-10T19:37:00.000Z",
+        "display_text_range": [
+          13,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086899637437551077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQKx3zysql",
+              "end": 114,
+              "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+              "media_key": "3_2086898106956931072",
+              "start": 91,
+              "url": "https://t.co/wQKx3zysql"
+            },
+            {
+              "display_url": "pic.x.com/wQKx3zysql",
+              "end": 114,
+              "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+              "media_key": "3_2086898649997750272",
+              "start": 91,
+              "url": "https://t.co/wQKx3zysql"
+            },
+            {
+              "display_url": "pic.x.com/wQKx3zysql",
+              "end": 114,
+              "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+              "media_key": "3_2086898716754206720",
+              "start": 91,
+              "url": "https://t.co/wQKx3zysql"
+            },
+            {
+              "display_url": "pic.x.com/wQKx3zysql",
+              "end": 114,
+              "expanded_url": "https://x.com/seikuushona/status/2086899637437551077/photo/1",
+              "media_key": "3_2086898856881799168",
+              "start": 91,
+              "url": "https://t.co/wQKx3zysql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086899637437551077",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086898106956931072"
+          },
+          {
+            "media_key": "3_2086898649997750272"
+          },
+          {
+            "media_key": "3_2086898716754206720"
+          },
+          {
+            "media_key": "3_2086898856881799168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086874860698169729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 回答皆使用 Grok 4.5 Fast 生成。\n图一为 X 内置 Grok 生成，图二、三、四为网页端 Grok 生成。\n（图三那里被小小的气笑了一下。） https://t.co/wQKx3zysql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086872412935823360"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2086874860698169729",
+        "created_at": "2026-08-10T17:58:33.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:49:53.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086872680264065095",
+          "2086874595576172911",
+          "2086874860698169729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlksnzaNmJ",
+              "end": 117,
+              "expanded_url": "https://x.com/AacerF59616/status/2086874860698169729/photo/1",
+              "media_key": "3_2086872412935823360",
+              "start": 94,
+              "url": "https://t.co/PlksnzaNmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086874860698169729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086872412935823360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气笑了，这逼Grok疑似被老马专门对齐过，构造的这么多个LLM里只有Grok会管我叫男的\n\n二编：实测只有X内置的Grok会这样，网页版的Grok仍然会以叫女孩子为基准，老马咋真搞特调呢 https://t.co/PlksnzaNmJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086899637437551077",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1596,
+          "like_count": 20686,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086882637281656851",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 776,
+          "like_count": 5406,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

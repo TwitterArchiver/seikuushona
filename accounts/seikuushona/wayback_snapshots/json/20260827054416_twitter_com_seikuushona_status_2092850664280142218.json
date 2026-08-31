@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092763115528319129",
+    "created_at": "2026-08-27T05:44:16.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092850664280142218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1351831825136578562",
+          "start": 0,
+          "username": "alphanumuser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092850664280142218",
+    "in_reply_to_user_id": "1351831825136578562",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092763115528319129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alphanumuser Happy birthday!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092763106477043712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQr89RibcAASKKR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092763115528319129",
+        "created_at": "2026-08-27T05:44:16.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092850664280142218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1351831825136578562",
+              "start": 0,
+              "username": "alphanumuser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092850664280142218",
+        "in_reply_to_user_id": "1351831825136578562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092763115528319129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alphanumuser Happy birthday!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092763106477043712"
+          ]
+        },
+        "author_id": "1351831825136578562",
+        "conversation_id": "2092763115528319129",
+        "created_at": "2026-08-26T23:56:23.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092763115528319129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYcrRdKfQ1",
+              "end": 33,
+              "expanded_url": "https://x.com/alphanumuser/status/2092763115528319129/photo/1",
+              "media_key": "3_2092763106477043712",
+              "start": 10,
+              "url": "https://t.co/zYcrRdKfQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092763115528319129",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092763106477043712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "balloons! https://t.co/zYcrRdKfQ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092850664280142218",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 2176,
+          "like_count": 27286,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-20T10:00:18.000Z",
+        "description": "made suisei say hi honey // Cognition 100% // Phigros 17.04 (max!!) // same bday w/ mizuki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alphanumeric.carrd.co",
+                "end": 23,
+                "expanded_url": "https://alphanumeric.carrd.co",
+                "start": 0,
+                "url": "https://t.co/k2VBvd6FMi"
+              }
+            ]
+          }
+        },
+        "id": "1351831825136578562",
+        "is_identity_verified": false,
+        "location": "博麗神社",
+        "most_recent_tweet_id": "2092838401183748513",
+        "name": "alphanum👾☄️✨⚓️😈",
+        "pinned_tweet_id": "2058427717931135052",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351831825136578562/1761491067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996185776246423552/aXs0JQFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 2828,
+          "like_count": 82249,
+          "listed_count": 4,
+          "media_count": 1297,
+          "tweet_count": 24911
+        },
+        "url": "https://t.co/k2VBvd6FMi",
+        "username": "alphanumuser",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

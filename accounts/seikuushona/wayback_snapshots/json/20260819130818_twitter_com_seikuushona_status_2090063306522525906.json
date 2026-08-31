@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089997659755188224"
+      ],
+      "media_source_tweet_id": [
+        "2089997662540157152"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2090063306522525906",
+    "created_at": "2026-08-19T13:08:18.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090063306522525906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1o1OUT9V8p",
+          "end": 54,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2089997662540157152/photo/1",
+          "media_key": "3_2089997659755188224",
+          "start": 31,
+          "url": "https://t.co/1o1OUT9V8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090063306522525906",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089997659755188224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089997662540157152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 有种说不出话的...震惊。 https://t.co/1o1OUT9V8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2089997659755188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEpzFsbEAATCN4.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089997659755188224"
+          ],
+          "media_source_tweet_id": [
+            "2089997662540157152"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2090063306522525906",
+        "created_at": "2026-08-19T13:08:18.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090063306522525906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o1OUT9V8p",
+              "end": 54,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2089997662540157152/photo/1",
+              "media_key": "3_2089997659755188224",
+              "start": 31,
+              "url": "https://t.co/1o1OUT9V8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090063306522525906",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089997659755188224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997662540157152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 有种说不出话的...震惊。 https://t.co/1o1OUT9V8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089997659755188224"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089997662540157152",
+        "created_at": "2026-08-19T08:47:27.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089997662540157152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o1OUT9V8p",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2089997662540157152/photo/1",
+              "media_key": "3_2089997659755188224",
+              "start": 14,
+              "url": "https://t.co/1o1OUT9V8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089997662540157152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089997659755188224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12066,
+          "like_count": 97,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "other",
+        "text": "有种说不出话的...震惊。 https://t.co/1o1OUT9V8p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090063306522525906",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1771,
+          "like_count": 23363,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090060175793357234",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8764,
+          "following_count": 1250,
+          "like_count": 216180,
+          "listed_count": 6,
+          "media_count": 1206,
+          "tweet_count": 8966
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

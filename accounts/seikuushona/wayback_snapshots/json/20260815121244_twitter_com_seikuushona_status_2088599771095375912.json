@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088412393168851386",
+    "created_at": "2026-08-15T12:12:44.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088599771095375912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088599771095375912",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088412393168851386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 米线没了，现在记得注意粿条。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088412393168851386",
+        "created_at": "2026-08-15T12:12:44.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088599771095375912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088599771095375912",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088412393168851386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 米线没了，现在记得注意粿条。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2088412393168851386",
+        "created_at": "2026-08-14T23:48:10.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088412393168851386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088412393168851386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8611,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我老想吃滨寿司了。最近被主播女孩重度依赖折磨的o什么吐什么，然后特别特别想吃滨寿司。。。可惜滨寿司太贵了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088599771095375912",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1653,
+          "like_count": 21432,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "is_identity_verified": true,
+        "location": "「絶え間ない光」が降り注ぐ",
+        "most_recent_tweet_id": "2088413086260863235",
+        "name": "九鸟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286241253621817344/1772419883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 373,
+          "like_count": 5467,
+          "listed_count": 9,
+          "media_count": 568,
+          "tweet_count": 2234
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

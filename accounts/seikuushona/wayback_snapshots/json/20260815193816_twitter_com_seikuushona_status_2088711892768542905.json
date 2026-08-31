@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088708341539426672",
+    "created_at": "2026-08-15T19:38:16.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088711892768542905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040718731052015616",
+          "start": 0,
+          "username": "Qing__Yang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088711892768542905",
+    "in_reply_to_user_id": "2040718731052015616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088708341539426672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qing__Yang__ 晚安。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2156,
+        "media_key": "3_2088708327958323200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyVKGdbIAATOyI.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088708341539426672",
+        "created_at": "2026-08-15T19:38:16.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088711892768542905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040718731052015616",
+              "start": 0,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088711892768542905",
+        "in_reply_to_user_id": "2040718731052015616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088708341539426672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qing__Yang__ 晚安。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088708327958323200"
+          ]
+        },
+        "author_id": "2040718731052015616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088708341539426672",
+        "created_at": "2026-08-15T19:24:09.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088708341539426672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6e230uKS5",
+              "end": 36,
+              "expanded_url": "https://x.com/Qing__Yang__/status/2088708341539426672/photo/1",
+              "media_key": "3_2088708327958323200",
+              "start": 13,
+              "url": "https://t.co/O6e230uKS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088708341539426672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088708327958323200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安哦各位，要好好睡觉哦 https://t.co/O6e230uKS5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088711892768542905",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1673,
+          "like_count": 21712,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T09:10:53.000Z",
+        "description": "cn：清氧⎮MBTI：infp-a-h⎮出生日期2008/04/18⎮生理性别男⎮心理性别女⎮可以当树洞，我很乐意倾听⎮看成分回fo",
+        "id": "2040718731052015616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088709436055650683",
+        "name": "清氧🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040718731052015616/1775442239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069477618345549824/y73YgRue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 180,
+          "like_count": 2488,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "Qing__Yang__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090467865665445889",
+        "3_2090468266242441216"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2090468373562069044",
+    "created_at": "2026-08-20T15:57:53.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090468373562069044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OIntAqCpag",
+          "end": 93,
+          "expanded_url": "https://x.com/seikuushona/status/2090468373562069044/photo/1",
+          "media_key": "3_2090467865665445889",
+          "start": 70,
+          "url": "https://t.co/OIntAqCpag"
+        },
+        {
+          "display_url": "pic.x.com/OIntAqCpag",
+          "end": 93,
+          "expanded_url": "https://x.com/seikuushona/status/2090468373562069044/photo/1",
+          "media_key": "3_2090468266242441216",
+          "start": 70,
+          "url": "https://t.co/OIntAqCpag"
+        },
+        {
+          "display_url": "x.com/thomaslim2019/…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/thomaslim2019/status/2090251013928415440",
+          "start": 94,
+          "url": "https://t.co/DibE7jqmlE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090468373562069044",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090467865665445889"
+      },
+      {
+        "media_key": "3_2090468266242441216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090251013928415440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "调查了一下，至少十四年前就有这个版本的歌词 MV 来流传了，而至少十六年前这个版本的歌词就出现了。\n肯定还有在百度帖吧以外的地方流传过的。 https://t.co/OIntAqCpag https://t.co/DibE7jqmlE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2090467865665445889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLVcrNboAERfr6.jpg",
+        "width": 2725
+      },
+      {
+        "height": 1937,
+        "media_key": "3_2090468266242441216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLVz_ebgAAD1N1.jpg",
+        "width": 2787
+      },
+      {
+        "duration_ms": 66850,
+        "height": 680,
+        "media_key": "13_2090250924711358464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090250924711358464/img/6F5yEpufN7AIqsYA.jpg",
+        "public_metrics": {
+          "view_count": 99832
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090250924711358464/vid/avc1/320x402/0a7S0xJBGbl36B0E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090250924711358464/vid/avc1/480x604/vkOILbSYsxWbstyu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090250924711358464/vid/avc1/540x680/fTaP8mnBgu1716VP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090250924711358464/pl/fYpBvg3bUkL2J9sH.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090467865665445889",
+            "3_2090468266242441216"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2090468373562069044",
+        "created_at": "2026-08-20T15:57:53.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090468373562069044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIntAqCpag",
+              "end": 93,
+              "expanded_url": "https://x.com/seikuushona/status/2090468373562069044/photo/1",
+              "media_key": "3_2090467865665445889",
+              "start": 70,
+              "url": "https://t.co/OIntAqCpag"
+            },
+            {
+              "display_url": "pic.x.com/OIntAqCpag",
+              "end": 93,
+              "expanded_url": "https://x.com/seikuushona/status/2090468373562069044/photo/1",
+              "media_key": "3_2090468266242441216",
+              "start": 70,
+              "url": "https://t.co/OIntAqCpag"
+            },
+            {
+              "display_url": "x.com/thomaslim2019/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/thomaslim2019/status/2090251013928415440",
+              "start": 94,
+              "url": "https://t.co/DibE7jqmlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090468373562069044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090467865665445889"
+          },
+          {
+            "media_key": "3_2090468266242441216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090251013928415440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调查了一下，至少十四年前就有这个版本的歌词 MV 来流传了，而至少十六年前这个版本的歌词就出现了。\n肯定还有在百度帖吧以外的地方流传过的。 https://t.co/OIntAqCpag https://t.co/DibE7jqmlE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090250924711358464"
+          ]
+        },
+        "author_id": "1206932939470041089",
+        "conversation_id": "2090251013928415440",
+        "created_at": "2026-08-20T01:34:11.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090251013928415440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbPEUFfh3u",
+              "end": 32,
+              "expanded_url": "https://x.com/thomaslim2019/status/2090251013928415440/video/1",
+              "media_key": "13_2090250924711358464",
+              "start": 9,
+              "url": "https://t.co/ZbPEUFfh3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090251013928415440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090250924711358464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 157164,
+          "like_count": 1011,
+          "quote_count": 18,
+          "reply_count": 273,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "这……什么鬼啊？ https://t.co/ZbPEUFfh3u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026\n\nhttps://t.co/PkDq9RRU78\n08 / 20 / 2026",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 50,
+                "expanded_url": "http://bsky.app/profile/trtt.net",
+                "start": 27,
+                "url": "https://t.co/PkDq9RRU78"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090468373562069044",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 1845,
+          "like_count": 24082,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-17T13:43:52.000Z",
+        "description": "",
+        "id": "1206932939470041089",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090409920374186368",
+        "name": "老林永生",
+        "pinned_tweet_id": "2090118352866029700",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939535532465242112/nzIQPODp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40020,
+          "following_count": 49,
+          "like_count": 3949,
+          "listed_count": 190,
+          "media_count": 23926,
+          "tweet_count": 47519
+        },
+        "url": "",
+        "username": "thomaslim2019",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

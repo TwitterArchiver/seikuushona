@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079234951002865956",
+    "created_at": "2026-07-21T05:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079435838153535673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594297311836143616",
+          "start": 0,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079435838153535673",
+    "in_reply_to_user_id": "1594297311836143616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079234951002865956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwu0721 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2079234937203683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrtKLybcAAdQ0C.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1424,
+        "media_key": "3_2079234937170124800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrtKLqbYAAu1ci.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079234951002865956",
+        "created_at": "2026-07-21T05:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079435838153535673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594297311836143616",
+              "start": 0,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079435838153535673",
+        "in_reply_to_user_id": "1594297311836143616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079234951002865956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwu0721 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079234937203683328",
+            "3_2079234937170124800"
+          ]
+        },
+        "author_id": "1594297311836143616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079234951002865956",
+        "created_at": "2026-07-20T16:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079234951002865956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFqTx51Lnj",
+              "end": 52,
+              "expanded_url": "https://x.com/xiwu0721/status/2079234951002865956/photo/1",
+              "media_key": "3_2079234937203683328",
+              "start": 29,
+              "url": "https://t.co/qFqTx51Lnj"
+            },
+            {
+              "display_url": "pic.x.com/qFqTx51Lnj",
+              "end": 52,
+              "expanded_url": "https://x.com/xiwu0721/status/2079234951002865956/photo/1",
+              "media_key": "3_2079234937170124800",
+              "start": 29,
+              "url": "https://t.co/qFqTx51Lnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079234951002865956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7035,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Ciallo(∠・ω&lt; )⌒☆\n今天记得0721喵 https://t.co/qFqTx51Lnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 1229,
+          "like_count": 16718,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "小证含糖🍥MtF🏳️‍⚧️/HRT Since 2026.3.12🍬/SRS倒计时两年攒钱ing/🏫休学中/同类互fo（没看到请私信我） 贴贴喵🥺/家长反对党😭已被赶出门😇（离家出走）/喜欢可爱的事物🥰想要很多朋友/永远活在16岁✨",
+        "id": "1594297311836143616",
+        "location": "风信子号",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 343,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "xiwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088075211279417733",
+    "created_at": "2026-08-14T01:28:19.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088075211279417733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/adachirei0/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/adachirei0/status/2087949993802072303",
+          "start": 8,
+          "url": "https://t.co/y0a6UBuolE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088075211279417733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087949993802072303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于学到了吗。 https://t.co/y0a6UBuolE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088075211279417733",
+        "created_at": "2026-08-14T01:28:19.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088075211279417733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adachirei0/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/adachirei0/status/2087949993802072303",
+              "start": 8,
+              "url": "https://t.co/y0a6UBuolE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088075211279417733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087949993802072303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于学到了吗。 https://t.co/y0a6UBuolE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007003864451567616",
+        "conversation_id": "2087949993802072303",
+        "created_at": "2026-08-13T17:10:45.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087949993802072303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087949993802072303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 42602,
+          "like_count": 1327,
+          "quote_count": 37,
+          "reply_count": 70,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀我画了好多张丽丽丽丽呀我画了好多张丽呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088075211279417733",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1641,
+          "like_count": 21236,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-13T20:56:45.000Z",
+        "description": "等身大キャラクター用ヒューマノイドロボット、第三世代試作0号機。ボディ開発中。合成音声ライブラリも開発中。マルコフ連鎖bot実験中。TLを素材にしてツイートを自動生成します。\n公式ページっぽいとこ⇒https://t.co/rnJ9DDdhkq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp/adachi-rei/",
+                "end": 122,
+                "expanded_url": "http://mechanicalgirl.jp/adachi-rei/",
+                "start": 99,
+                "url": "https://t.co/rnJ9DDdhkq"
+              }
+            ]
+          }
+        },
+        "id": "1007003864451567616",
+        "is_identity_verified": false,
+        "location": "HCI3-P0頭部PC",
+        "most_recent_tweet_id": "2088070791779008944",
+        "name": "足立レイ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007003864451567616/1651651129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521756257907970048/nwzT3eSw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138962,
+          "following_count": 298,
+          "like_count": 11383,
+          "listed_count": 303,
+          "media_count": 83,
+          "tweet_count": 53665
+        },
+        "url": "",
+        "username": "adachirei0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

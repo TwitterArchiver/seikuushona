@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2085397118613869010",
+    "created_at": "2026-08-07T05:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085594637826154971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1869924390617657345",
+          "start": 0,
+          "username": "ys97OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085594637826154971",
+    "in_reply_to_user_id": "1869924390617657345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085397118613869010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ys97OvO 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2085397105997410305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDRnnaacAEoFfh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2085397118613869010",
+        "created_at": "2026-08-07T05:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085594637826154971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869924390617657345",
+              "start": 0,
+              "username": "ys97OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085594637826154971",
+        "in_reply_to_user_id": "1869924390617657345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085397118613869010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ys97OvO 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085397105997410305"
+          ]
+        },
+        "author_id": "1869924390617657345",
+        "conversation_id": "2085397118613869010",
+        "created_at": "2026-08-06T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085397118613869010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yc0twiNew",
+              "end": 44,
+              "expanded_url": "https://x.com/ys97OvO/status/2085397118613869010/photo/1",
+              "media_key": "3_2085397105997410305",
+              "start": 21,
+              "url": "https://t.co/3yc0twiNew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085397118613869010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2760,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年22岁了🎉🎉🎉\n生日快乐🎂🎂🎂🎉🎉🎉 https://t.co/3yc0twiNew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1528,
+          "like_count": 19921,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T01:55:15.000Z",
+        "description": "游笙的副账号/よう しぇんです/🇨🇳/舞萌 中二 phi arc/@supernovaArcaea成员/冒泡ing/互fo🉑（尝试互fo找回中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "supernovaArcaea"
+              }
+            ]
+          }
+        },
+        "id": "1869924390617657345",
+        "name": "游笙OωO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991686943017762816/v4mu5OtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 3204,
+          "like_count": 22521,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 4443
+        },
+        "url": "",
+        "username": "ys97OvO",
+        "verified": false
+      }
+    ]
+  }
+}

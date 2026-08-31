@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2089682171028263300",
+    "created_at": "2026-08-18T12:13:51.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089687217497383287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183048952708395009",
+          "start": 0,
+          "username": "KGY_HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089687217497383287",
+    "in_reply_to_user_id": "1183048952708395009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089682171028263300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KGY_HN ......如果可以的话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-18T12:13:51.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089687217497383287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183048952708395009",
+              "start": 0,
+              "username": "KGY_HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089687217497383287",
+        "in_reply_to_user_id": "1183048952708395009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089682171028263300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KGY_HN ......如果可以的话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183048952708395009",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-18T11:53:48.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089682171028263300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089682171028263300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请给我回复！我要画你们的头像！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089687217497383287",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1760,
+          "like_count": 22966,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T15:57:33.000Z",
+        "description": "KGYHN Generates Yet Higher Nonsense/\n輝夜はな🌸 / 叫我花花就好👌 / 已婚女同性恋🏳️‍🌈 / 艦これ⚓️ / 碎碎念💬 / 拙劣画师🎨 / 待就业人员💼 / 世界和平☮️ / 钱钱飞走了💸",
+        "id": "1183048952708395009",
+        "is_identity_verified": false,
+        "location": "Thailand",
+        "most_recent_tweet_id": "2089682925373804901",
+        "name": "🌸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183048952708395009/1786346603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086714967827570688/SRAh-9Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14385,
+          "following_count": 3183,
+          "like_count": 2155,
+          "listed_count": 34,
+          "media_count": 1021,
+          "tweet_count": 12036
+        },
+        "url": "",
+        "username": "KGY_HN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

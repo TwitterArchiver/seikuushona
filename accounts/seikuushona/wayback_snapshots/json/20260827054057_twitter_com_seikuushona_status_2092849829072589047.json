@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092613100549922816"
+      ],
+      "media_source_tweet_id": [
+        "2092613144875241513"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092849829072589047",
+    "created_at": "2026-08-27T05:40:57.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092849829072589047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3274652864",
+          "start": 3,
+          "username": "ShikineXion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwB2wwSwKu",
+          "end": 47,
+          "expanded_url": "https://x.com/ShikineXion/status/2092613144875241513/photo/1",
+          "media_key": "3_2092613100549922816",
+          "start": 24,
+          "url": "https://t.co/zwB2wwSwKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092849829072589047",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092613100549922816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 610
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092613144875241513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShikineXion: ニーゴアイス https://t.co/zwB2wwSwKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2092613100549922816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp0hx6bYAAKmht.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092613100549922816"
+          ],
+          "media_source_tweet_id": [
+            "2092613144875241513"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092849829072589047",
+        "created_at": "2026-08-27T05:40:57.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092849829072589047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3274652864",
+              "start": 3,
+              "username": "ShikineXion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwB2wwSwKu",
+              "end": 47,
+              "expanded_url": "https://x.com/ShikineXion/status/2092613144875241513/photo/1",
+              "media_key": "3_2092613100549922816",
+              "start": 24,
+              "url": "https://t.co/zwB2wwSwKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092849829072589047",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092613100549922816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 610
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092613144875241513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShikineXion: ニーゴアイス https://t.co/zwB2wwSwKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092613100549922816"
+          ]
+        },
+        "author_id": "3274652864",
+        "conversation_id": "2092613144875241513",
+        "created_at": "2026-08-26T14:00:27.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092613144875241513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwB2wwSwKu",
+              "end": 30,
+              "expanded_url": "https://x.com/ShikineXion/status/2092613144875241513/photo/1",
+              "media_key": "3_2092613100549922816",
+              "start": 7,
+              "url": "https://t.co/zwB2wwSwKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092613144875241513",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092613100549922816"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "The translation is majorly incorrect, N25 can also go by \"ニーゴ\", and somehow the translation got jumbled up into the n word, the CORRECT translation would be \"n25 ice\".",
+            "suggestion_id": "2092801796259319925"
+          },
+          {
+            "suggestion": "the translation is wrong it says niigo (abbreviation of nightcord at 25) not the n word",
+            "suggestion_id": "2092813850701709569"
+          },
+          {
+            "suggestion": "the automatic AI translation is misleading and possibly harmful",
+            "suggestion_id": "2092841807533187333"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 178830,
+          "like_count": 6965,
+          "quote_count": 365,
+          "reply_count": 219,
+          "retweet_count": 610
+        },
+        "reply_settings": "everyone",
+        "text": "ニーゴアイス https://t.co/zwB2wwSwKu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092849829072589047",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 2174,
+          "like_count": 27277,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-10T15:18:17.000Z",
+        "description": "イラスト描いてます！奏ちゃん推し!!\nイラストの無断使用、無断転載は止めてください！\nskeb: https://t.co/ldydGGjOpp FANBOX:https://t.co/QBEjGA8OPm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ShikineXion",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@ShikineXion",
+                "start": 49,
+                "url": "https://t.co/ldydGGjOpp"
+              },
+              {
+                "display_url": "shikinexion.fanbox.cc",
+                "end": 103,
+                "expanded_url": "http://shikinexion.fanbox.cc",
+                "start": 80,
+                "url": "https://t.co/QBEjGA8OPm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=35947794",
+                "start": 0,
+                "url": "https://t.co/gz1ke0Fax7"
+              }
+            ]
+          }
+        },
+        "id": "3274652864",
+        "is_identity_verified": false,
+        "location": "☘YUME YUME JUMP！☘",
+        "most_recent_tweet_id": "2092613144875241513",
+        "name": "四季音シオン",
+        "pinned_tweet_id": "1788527711688032329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3274652864/1751029518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005569913222815744/RZK_3GQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11667,
+          "following_count": 304,
+          "like_count": 29916,
+          "listed_count": 36,
+          "media_count": 1818,
+          "tweet_count": 7242
+        },
+        "url": "https://t.co/gz1ke0Fax7",
+        "username": "ShikineXion",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

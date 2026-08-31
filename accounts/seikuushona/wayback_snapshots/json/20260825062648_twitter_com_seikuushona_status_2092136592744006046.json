@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092134064778023322",
+    "created_at": "2026-08-25T06:26:48.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T07:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092136592744006046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793218407640481793",
+          "start": 0,
+          "username": "Tsuk1_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092136592744006046",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092134064778023322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuk1_qwq 抱抱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092134064778023322",
+        "created_at": "2026-08-25T06:26:48.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092136592744006046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092136592744006046",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092134064778023322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 抱抱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2092134064778023322",
+        "created_at": "2026-08-25T06:16:45.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092134064778023322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092134064778023322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像、被抛弃了呐\n之前认识了一位朋友，猫帮肝原神，拉着他陪猫玩MC，寄给他一加10Pro，找他倾诉……\n然后今天早上突然就拒收我的消息了……\n群友说他号好像没了，但是猫登上原神和他发消息……回答是要猫注意照顾自己身体什么什么的，……\n可猫之前还给他过一个QQ小号并且那个号还在，却也拒收消息…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092136592744006046",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 2079,
+          "like_count": 26167,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092134064778023322",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 552,
+          "like_count": 10583,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

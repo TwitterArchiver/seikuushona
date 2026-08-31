@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091389973048262764",
+    "created_at": "2026-08-23T18:13:34.000Z",
+    "display_text_range": [
+      16,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T19:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091589680827691374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091589680827691374",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091389973048262764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 知道被禁时第一时间就在二手书平台买了，不知道现在还有没有。\n大概率没什么了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2091013224330399744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTFcujbkAAhXpL.png",
+        "width": 259
+      },
+      {
+        "height": 2510,
+        "media_key": "3_2091013263731625984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTFfBVakAAzK0F.jpg",
+        "width": 1270
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2091013334460194816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTFjI0a4AAD2Ye.jpg",
+        "width": 1660
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2091013375300096000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTFlg9aUAAhThp.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091389973048262764",
+        "created_at": "2026-08-23T18:13:34.000Z",
+        "display_text_range": [
+          16,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091589680827691374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091589680827691374",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091389973048262764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 知道被禁时第一时间就在二手书平台买了，不知道现在还有没有。\n大概率没什么了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091013224330399744",
+            "3_2091013263731625984",
+            "3_2091013334460194816",
+            "3_2091013375300096000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091389973048262764",
+        "created_at": "2026-08-23T05:00:00.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091389973048262764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vt85aeEmGh",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091389973048262764/photo/1",
+              "media_key": "3_2091013224330399744",
+              "start": 135,
+              "url": "https://t.co/Vt85aeEmGh"
+            },
+            {
+              "display_url": "pic.x.com/Vt85aeEmGh",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091389973048262764/photo/1",
+              "media_key": "3_2091013263731625984",
+              "start": 135,
+              "url": "https://t.co/Vt85aeEmGh"
+            },
+            {
+              "display_url": "pic.x.com/Vt85aeEmGh",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091389973048262764/photo/1",
+              "media_key": "3_2091013334460194816",
+              "start": 135,
+              "url": "https://t.co/Vt85aeEmGh"
+            },
+            {
+              "display_url": "pic.x.com/Vt85aeEmGh",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2091389973048262764/photo/1",
+              "media_key": "3_2091013375300096000",
+              "start": 135,
+              "url": "https://t.co/Vt85aeEmGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091389973048262764",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091013224330399744"
+          },
+          {
+            "media_key": "3_2091013263731625984"
+          },
+          {
+            "media_key": "3_2091013334460194816"
+          },
+          {
+            "media_key": "3_2091013375300096000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "8月21日，一名网友发帖称，自己在闲鱼“隐晦地”出售柴静的《看见》。\n截图显示，商品页面以《看不见的女性》封面作展示，多名买家却准确地用“CJ”\n“柴记者”“一位女记者的书”“是那个吗”以及“还看得见吗”等暗语询问，其中一名买家甚至先拍下付款，再确认“是那个记者么”。\n\n当用户直接发送“有没有柴的《kj》”和“有没有柴静的（看见）”时，闲鱼提示“内容存在不当信息”，消息未能发出。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 366480,
+          "like_count": 960,
+          "quote_count": 6,
+          "reply_count": 168,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "8月21日，一名网友发帖称，自己在闲鱼“隐晦地”出售柴静的《看见》。\n截图显示，商品页面以《看不见的女性》封面作展示，多名买家却准确地用“CJ”\n“柴记者”“一位女记者的书”“是那个吗”以及“还看得见吗”等暗语询问，其中一名买家甚至先拍下付款，再确认“是那个记者么”。 https://t.co/Vt85aeEmGh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091589680827691374",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 2015,
+          "like_count": 25509,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2091586265716265465",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254664,
+          "following_count": 1080,
+          "like_count": 10191,
+          "listed_count": 8886,
+          "media_count": 52561,
+          "tweet_count": 59872
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

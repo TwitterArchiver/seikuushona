@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092820020061753488",
+    "created_at": "2026-08-27T06:55:57.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092868705156034933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979308662117273604",
+          "start": 0,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092868705156034933",
+    "in_reply_to_user_id": "1979308662117273604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092820020061753488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuaizichopstick 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2092820009399857152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQswtdcbsAA6ocx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092820020061753488",
+        "created_at": "2026-08-27T06:55:57.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092868705156034933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979308662117273604",
+              "start": 0,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092868705156034933",
+        "in_reply_to_user_id": "1979308662117273604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092820020061753488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuaizichopstick 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092820009399857152"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2092820020061753488",
+        "created_at": "2026-08-27T03:42:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092820020061753488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEe8p8zt9I",
+              "end": 33,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2092820020061753488/photo/1",
+              "media_key": "3_2092820009399857152",
+              "start": 10,
+              "url": "https://t.co/MEe8p8zt9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092820020061753488",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092820009399857152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo达成！ https://t.co/MEe8p8zt9I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092868705156034933",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 2186,
+          "like_count": 27393,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "生产日期08.12.25 hrt25.12.05 小证26.07.14 家长党 185cm/93kg\n同类可互fo喵！日麻狂热爱好者/各种音游（不玩街机！）/自残自杀倾向严重\n乖妹妹@ScarsTowel616 最爱的老公喵@ovoxiaobai qq1993611645",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "ScarsTowel616"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "ovoxiaobai"
+              }
+            ]
+          }
+        },
+        "id": "1979308662117273604",
+        "is_identity_verified": false,
+        "location": "青岛",
+        "most_recent_tweet_id": "2092867931176853796",
+        "name": "筷子不会用筷子🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085011175755170039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979308662117273604/1780372999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068455916396253184/Cg6de8ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 717,
+          "like_count": 1277,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "kuaizichopstick",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092147247605805310",
+    "created_at": "2026-08-25T12:12:50.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092223676632727588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092223676632727588",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092147247605805310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 一起不死。\n还没有遇到过明确知道是朋友的人呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092147247605805310",
+        "created_at": "2026-08-25T12:12:50.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092223676632727588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092223676632727588",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092147247605805310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 一起不死。\n还没有遇到过明确知道是朋友的人呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2092147247605805310",
+        "created_at": "2026-08-25T07:09:08.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092147247605805310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092147247605805310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1905,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫想建一个全是「一起不死」的楼🥺\n以后一起面基，一起玩🥹\n\n去看还没上映的电影，\n去玩还没玩过的游戏，\n去看还没见过的地方，\n去认识还没认识的人，\n去养还没养过的猫，\n去经历还没经历过的季节。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092223676632727588",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 2084,
+          "like_count": 26322,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2092219855785390274",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 377,
+          "like_count": 10500,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

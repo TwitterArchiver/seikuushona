@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088810215831744556",
+    "created_at": "2026-08-16T07:35:28.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088892385044680814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070767316229554176",
+          "start": 0,
+          "username": "Cafwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088892385044680814",
+    "in_reply_to_user_id": "2070767316229554176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088810215831744556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cafwwwww 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088810210190295040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzx0bWaAAADUmd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088810215831744556",
+        "created_at": "2026-08-16T07:35:28.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088892385044680814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070767316229554176",
+              "start": 0,
+              "username": "Cafwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088892385044680814",
+        "in_reply_to_user_id": "2070767316229554176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088810215831744556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cafwwwww 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088810210190295040"
+          ]
+        },
+        "author_id": "2070767316229554176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088810215831744556",
+        "created_at": "2026-08-16T02:08:58.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088810215831744556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGFLDKyOZp",
+              "end": 49,
+              "expanded_url": "https://x.com/Cafwwwww/status/2088810215831744556/photo/1",
+              "media_key": "3_2088810210190295040",
+              "start": 26,
+              "url": "https://t.co/qGFLDKyOZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088810215831744556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088810210190295040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么快就100fo了诶，200fo的时候办个抽奖吧 https://t.co/qGFLDKyOZp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088892385044680814",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1673,
+          "like_count": 21787,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T07:14:17.000Z",
+        "description": "17 / 高三 / 上海 / mtf🏳️‍⚧️ / 全栈开发 / 中抑 / 音游 / 摄影 / 互fo私信喵\n\n有凝胶卖",
+        "id": "2070767316229554176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088856399141118114",
+        "name": "Cafwww🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070767316229554176/1782556132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070769559909629952/Wx-dX3JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 45,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "Cafwwwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

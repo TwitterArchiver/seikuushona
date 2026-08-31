@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091873131908812978",
+    "created_at": "2026-08-25T17:50:47.000Z",
+    "display_text_range": [
+      19,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092308723905781980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552141503845507076",
+          "start": 0,
+          "username": "yokouokou"
+        },
+        {
+          "end": 18,
+          "id": "2006546407659130880",
+          "start": 11,
+          "username": "h1xhzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092308723905781980",
+    "in_reply_to_user_id": "1552141503845507076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091975533018087930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokouokou @h1xhzi Too late（笑）."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091873131908812978",
+        "created_at": "2026-08-25T17:50:47.000Z",
+        "display_text_range": [
+          19,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092308723905781980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552141503845507076",
+              "start": 0,
+              "username": "yokouokou"
+            },
+            {
+              "end": 18,
+              "id": "2006546407659130880",
+              "start": 11,
+              "username": "h1xhzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092308723905781980",
+        "in_reply_to_user_id": "1552141503845507076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091975533018087930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokouokou @h1xhzi Too late（笑）."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552141503845507076",
+        "conversation_id": "2091873131908812978",
+        "created_at": "2026-08-24T19:46:48.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091975533018087930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2006546407659130880",
+              "start": 0,
+              "username": "h1xhzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091975533018087930",
+        "in_reply_to_user_id": "2006546407659130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 51102,
+          "like_count": 357,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091873131908812978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1xhzi このポストだけは海外に届かないでくれ🙏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092308723905781980",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 2108,
+          "like_count": 26587,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T03:59:31.000Z",
+        "description": "",
+        "id": "1552141503845507076",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092229756435759603",
+        "name": "のーみす",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552141503845507076/1704742637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983694972097589252/TtZX4wiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 676,
+          "like_count": 2720,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "yokouokou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T02:02:10.000Z",
+        "description": "絵の約束、服薬　話しかけてくんな",
+        "id": "2006546407659130880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092298514881724923",
+        "name": "hiz",
+        "pinned_tweet_id": "2072649240690774362",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056194768175304704/IBJq9k0g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 261,
+          "like_count": 18146,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 6051
+        },
+        "url": "",
+        "username": "h1xhzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

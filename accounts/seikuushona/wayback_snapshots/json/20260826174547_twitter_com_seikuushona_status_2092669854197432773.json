@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2092669854197432773",
+    "created_at": "2026-08-26T17:45:47.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092669854197432773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1318958394418458624",
+          "start": 3,
+          "username": "Pr_Sarakiel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092669854197432773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092461219110412498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pr_Sarakiel: 問題是日本専門学校的社會地位和就業環境比你國高多了啊。\n冷知識：\n進擊的巨人的作者（九州分校）\n物語系列和魔法少女小圓的導演\n鋼煉03和高達00動畫的導演\n都是同一所専門学校出身的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2092669854197432773",
+        "created_at": "2026-08-26T17:45:47.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092669854197432773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1318958394418458624",
+              "start": 3,
+              "username": "Pr_Sarakiel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092669854197432773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092461219110412498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pr_Sarakiel: 問題是日本専門学校的社會地位和就業環境比你國高多了啊。\n冷知識：\n進擊的巨人的作者（九州分校）\n物語系列和魔法少女小圓的導演\n鋼煉03和高達00動畫的導演\n都是同一所専門学校出身的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318958394418458624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2092461219110412498",
+        "created_at": "2026-08-26T03:56:45.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092461219110412498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weisuosky/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/weisuosky/status/2091334550714757426",
+              "start": 91,
+              "url": "https://t.co/JQZo0JaQR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092461219110412498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6474,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091334550714757426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "問題是日本専門学校的社會地位和就業環境比你國高多了啊。\n冷知識：\n進擊的巨人的作者（九州分校）\n物語系列和魔法少女小圓的導演\n鋼煉03和高達00動畫的導演\n都是同一所専門学校出身的 https://t.co/JQZo0JaQR1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092669854197432773",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2138,
+          "like_count": 27012,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-21T16:53:06.000Z",
+        "description": "Ti-N ILI 5sp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dota2mods-shiroya.web.app",
+                "end": 23,
+                "expanded_url": "https://dota2mods-shiroya.web.app/",
+                "start": 0,
+                "url": "https://t.co/hlAcXpxxtC"
+              }
+            ]
+          }
+        },
+        "id": "1318958394418458624",
+        "is_identity_verified": false,
+        "location": "Paravada",
+        "most_recent_tweet_id": "2092638555315265932",
+        "name": "サラカエル",
+        "pinned_tweet_id": "1798343351089148297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318958394418458624/1703703865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975985455243067394/jU5oan-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 590,
+          "like_count": 12548,
+          "listed_count": 10,
+          "media_count": 1345,
+          "tweet_count": 17759
+        },
+        "url": "https://t.co/hlAcXpxxtC",
+        "username": "Pr_Sarakiel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

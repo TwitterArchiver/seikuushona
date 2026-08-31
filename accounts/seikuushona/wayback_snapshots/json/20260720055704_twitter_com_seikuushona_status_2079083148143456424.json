@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2078999110502564346",
+    "created_at": "2026-07-20T05:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079083148143456424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079083148143456424",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078999110502564346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2078999110502564346",
+        "created_at": "2026-07-20T05:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079083148143456424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079083148143456424",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078999110502564346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967736228725575681",
+        "conversation_id": "2078999110502564346",
+        "created_at": "2026-07-20T00:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078999110502564346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078999110502564346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我15岁了今天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 1191,
+          "like_count": 16479,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 133,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

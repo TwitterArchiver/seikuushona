@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091940049969692776",
+    "created_at": "2026-08-24T17:25:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091940049969692776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091940049969692776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091819426916266216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 说到墙内开始产生恢复流氓罪的一些思潮苗头了的这件事吧。\n作为丢人法学院校出来的丢人非法学生我是真的觉得「在网上发言的完全就是每隔五年换一批人、这些人根本不知道哪怕五年前发生的事情」。\n\n举个难听的例，现在的在读大学生接近0%被疫情封控在大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091940049969692776",
+        "created_at": "2026-08-24T17:25:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091940049969692776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091940049969692776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091819426916266216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 说到墙内开始产生恢复流氓罪的一些思潮苗头了的这件事吧。\n作为丢人法学院校出来的丢人非法学生我是真的觉得「在网上发言的完全就是每隔五年换一批人、这些人根本不知道哪怕五年前发生的事情」。\n\n举个难听的例，现在的在读大学生接近0%被疫情封控在大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "2091819426916266216",
+        "created_at": "2026-08-24T09:26:30.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091819426916266216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091819426916266216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3817,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "说到墙内开始产生恢复流氓罪的一些思潮苗头了的这件事吧。\n作为丢人法学院校出来的丢人非法学生我是真的觉得「在网上发言的完全就是每隔五年换一批人、这些人根本不知道哪怕五年前发生的事情」。\n\n举个难听的例，现在的在读大学生接近0%被疫情封控在大学校园内过。虽然大家的高中时期也不好过就是了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091940049969692776",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 2037,
+          "like_count": 25802,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "Artefarita eksperimenta kuniklo. Used to be a Kitakari. 以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "is_identity_verified": false,
+        "location": "Ará Orún",
+        "most_recent_tweet_id": "2091854636609392721",
+        "name": "⌘",
+        "pinned_tweet_id": "2082343805421011074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315706812935487489/1707997123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 211,
+          "like_count": 3211,
+          "listed_count": 10,
+          "media_count": 2456,
+          "tweet_count": 22141
+        },
+        "url": "",
+        "username": "maigo_wakatake",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

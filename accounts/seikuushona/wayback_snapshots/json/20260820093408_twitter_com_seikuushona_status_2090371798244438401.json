@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2090367246019207488",
+    "created_at": "2026-08-20T09:34:08.000Z",
+    "display_text_range": [
+      12,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090371798244438401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1353697691407179776",
+          "start": 0,
+          "username": "puffercatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090371798244438401",
+    "in_reply_to_user_id": "1353697691407179776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090367246019207488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffercatt 有试过直接用 Alipay 或者 Wechat 来绑定 App Store 吗？\n不清楚能不能在这种场景下绑定支付。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090367233084026880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ57FoW8AAtYpM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090367233037873154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ57FdWsAIaqEn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2090367246019207488",
+        "created_at": "2026-08-20T09:34:08.000Z",
+        "display_text_range": [
+          12,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090371798244438401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1353697691407179776",
+              "start": 0,
+              "username": "puffercatt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090371798244438401",
+        "in_reply_to_user_id": "1353697691407179776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090367246019207488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffercatt 有试过直接用 Alipay 或者 Wechat 来绑定 App Store 吗？\n不清楚能不能在这种场景下绑定支付。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090367233084026880",
+            "3_2090367233037873154"
+          ]
+        },
+        "author_id": "1353697691407179776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2090367246019207488",
+        "created_at": "2026-08-20T09:16:03.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090367246019207488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juceTFbkmt",
+              "end": 185,
+              "expanded_url": "https://x.com/puffercatt/status/2090367246019207488/photo/1",
+              "media_key": "3_2090367233084026880",
+              "start": 162,
+              "url": "https://t.co/juceTFbkmt"
+            },
+            {
+              "display_url": "pic.x.com/juceTFbkmt",
+              "end": 185,
+              "expanded_url": "https://x.com/puffercatt/status/2090367246019207488/photo/1",
+              "media_key": "3_2090367233037873154",
+              "start": 162,
+              "url": "https://t.co/juceTFbkmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090367246019207488",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090367233084026880"
+          },
+          {
+            "media_key": "3_2090367233037873154"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Free China App Store 10 yuan cause I can’t use it 😭\nCan’t even use a passport, no way for foreigners to make purchases on the Chinese App Store\n\nXMXDRN54Z32CJR34 https://t.co/juceTFbkmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "s@trtt.net\n08 / 19 / 2026",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090371798244438401",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 1808,
+          "like_count": 23743,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T13:34:26.000Z",
+        "description": "He/Him/any | creative chaos | EN/PL/ZH\n@pufferfiat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "pufferfiat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "puffercat.xyz",
+                "end": 23,
+                "expanded_url": "http://puffercat.xyz",
+                "start": 0,
+                "url": "https://t.co/zfonxR3v5t"
+              }
+            ]
+          }
+        },
+        "id": "1353697691407179776",
+        "is_identity_verified": false,
+        "location": "Krakow, Poland",
+        "most_recent_tweet_id": "2090368078286573693",
+        "name": "Casper",
+        "pinned_tweet_id": "1834709801974350276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353697691407179776/1757955977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809761670778220546/Xpit08IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1276,
+          "like_count": 22183,
+          "listed_count": 0,
+          "media_count": 3379,
+          "tweet_count": 14331
+        },
+        "url": "https://t.co/zfonxR3v5t",
+        "username": "puffercatt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

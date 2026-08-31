@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092541910887858644",
+    "created_at": "2026-08-26T09:17:23.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092541910887858644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2092529827584868352",
+          "start": 3,
+          "username": "Bolichara_1"
+        },
+        {
+          "end": 32,
+          "id": "1741500438204362752",
+          "start": 21,
+          "username": "Bolichara0"
+        },
+        {
+          "end": 46,
+          "id": "1819282984425730048",
+          "start": 34,
+          "username": "Bolichara_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092541910887858644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092534767321563628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bolichara_1: 你好我是@Bolichara0 和@Bolichara_0\n我的两个号一个被封了一个鬼ban\n暂时用这个号吧。。\n请来和我交朋友🥺…\n帮我转转口牙。。。我想要互动我不想和个死人一样没人看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Bolichara0].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Bolichara0",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Bolichara0"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092541910887858644",
+        "created_at": "2026-08-26T09:17:23.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092541910887858644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2092529827584868352",
+              "start": 3,
+              "username": "Bolichara_1"
+            },
+            {
+              "end": 32,
+              "id": "1741500438204362752",
+              "start": 21,
+              "username": "Bolichara0"
+            },
+            {
+              "end": 46,
+              "id": "1819282984425730048",
+              "start": 34,
+              "username": "Bolichara_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092541910887858644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092534767321563628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bolichara_1: 你好我是@Bolichara0 和@Bolichara_0\n我的两个号一个被封了一个鬼ban\n暂时用这个号吧。。\n请来和我交朋友🥺…\n帮我转转口牙。。。我想要互动我不想和个死人一样没人看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092529827584868352",
+        "conversation_id": "2092534767321563628",
+        "created_at": "2026-08-26T08:49:00.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092534767321563628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741500438204362752",
+              "start": 4,
+              "username": "Bolichara0"
+            },
+            {
+              "end": 29,
+              "id": "1819282984425730048",
+              "start": 17,
+              "username": "Bolichara_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092534767321563628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是@Bolichara0 和@Bolichara_0\n我的两个号一个被封了一个鬼ban\n暂时用这个号吧。。\n请来和我交朋友🥺…\n帮我转转口牙。。。我想要互动我不想和个死人一样没人看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092541910887858644",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 2121,
+          "like_count": 26776,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T08:37:23.000Z",
+        "description": "msk把我号鬼ban了。搞个小号\n🏳️‍⚧️友跨（？）我有钱了我一定去hrt等我\n请来和我互fo。。。。求你们了跟我互动\n我人很好的哟和我交朋友我会对你们很好的哟😉\n见证。但我不会贴脸。对。魔怔果粉和态度不加\n@ruoruoruoMing 她不告诉我让我写什么。所以我不写了\n可以来给我发匿名消息口牙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bolichara0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bolichara0",
+                "start": 0,
+                "url": "https://t.co/eWmYUUWN8z"
+              }
+            ]
+          }
+        },
+        "id": "2092529827584868352",
+        "is_identity_verified": false,
+        "location": "msk你全家飞光光咯",
+        "most_recent_tweet_id": "2092536218634580408",
+        "name": "事猹不是猹🇨🇳🏳️‍🌈🏳️‍⚧️｜小小号———",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092529827584868352/1787733910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092531999609393153/DwNuOwGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/eWmYUUWN8z",
+        "username": "Bolichara_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T08:04:19.000Z",
+        "description": "新号，补fo｜逃生舱@BLC_Trip_Diary｜坐标天津｜明日方舟/UTDR/崩铁/术力口/地铁/民航/钢4/音游大概就这些哦还有一个BA｜你们好这是我宝子🥰@BlueSky_KissMe｜抱抱最最可爱的姐姐@Yizhikapaiqaq｜臭金山的@AGeSang2008｜想要和大家交朋友，欢迎来fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "BLC_Trip_Diary"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "BlueSky_KissMe"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Yizhikapaiqaq"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bolichara0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bolichara0",
+                "start": 0,
+                "url": "https://t.co/crltyj6nPr"
+              }
+            ]
+          }
+        },
+        "id": "1819282984425730048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092453642305753310",
+        "name": "🏳️‍🌈🏳️‍⚧️🇨🇳事猹不是碴 |想扩列和互fo🥺😭",
+        "pinned_tweet_id": "2091913645286674916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819282984425730048/1774075807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085659160990076929/7ZZWw1Ft_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 202,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/crltyj6nPr",
+        "username": "Bolichara_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

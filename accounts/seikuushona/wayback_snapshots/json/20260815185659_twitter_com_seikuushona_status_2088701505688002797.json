@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2088661424784736610",
+    "created_at": "2026-08-15T18:56:59.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088701505688002797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076670672517189632",
+          "start": 0,
+          "username": "mikumi_huihui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088701505688002797",
+    "in_reply_to_user_id": "2076670672517189632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088661424784736610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikumi_huihui 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2088661424784736610",
+        "created_at": "2026-08-15T18:56:59.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088701505688002797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076670672517189632",
+              "start": 0,
+              "username": "mikumi_huihui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088701505688002797",
+        "in_reply_to_user_id": "2076670672517189632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088661424784736610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076670672517189632",
+        "conversation_id": "2088661424784736610",
+        "created_at": "2026-08-15T16:17:43.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088661424784736610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088661424784736610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 751,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日啦，想要大家祝我生日快乐，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088701505688002797",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1664,
+          "like_count": 21636,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/X4Y02nPcwl"
+              }
+            ]
+          }
+        },
+        "id": "2076670672517189632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088688723441684623",
+        "name": "gtgor🏳️‍⚧️🍥(同类互fo)（糖商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076670672517189632/1786532087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087504855682416641/QZhsmwBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 307,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/X4Y02nPcwl",
+        "username": "mikumi_huihui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

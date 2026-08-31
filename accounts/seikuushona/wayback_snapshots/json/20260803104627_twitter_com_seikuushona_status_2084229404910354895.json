@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084144462893117741",
+    "created_at": "2026-08-03T10:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084229404910354895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084229404910354895",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084144462893117741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 🦅🐟♥🐎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2084144448544342016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxeVWwWgAAfri_.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084144462893117741",
+        "created_at": "2026-08-03T10:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084229404910354895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084229404910354895",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084144462893117741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 🦅🐟♥🐎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084144448544342016"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2084144462893117741",
+        "created_at": "2026-08-03T05:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084144462893117741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRrtMzhOrB",
+              "end": 85,
+              "expanded_url": "https://x.com/auspiceshirley/status/2084144462893117741/photo/1",
+              "media_key": "3_2084144448544342016",
+              "start": 62,
+              "url": "https://t.co/PRrtMzhOrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084144462893117741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 580,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば\n\n桜羽エマ\n\n樱羽艾玛\n\n櫻羽艾瑪\n\nSakuraba Ema\n\n英语艾玛\n\n英语挨骂\n\n瘾与爱麻\n\n樱鱼艾玛 https://t.co/PRrtMzhOrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1439,
+          "like_count": 19233,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 601,
+          "like_count": 2171,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3100
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

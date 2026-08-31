@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2091911397462724847",
+    "created_at": "2026-08-24T16:21:44.000Z",
+    "display_text_range": [
+      14,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091923925907517880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091923925907517880",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091911397462724847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN Bot 更像是有人专门造了个机器来倒瓶子，即便每天清理都总有新的一而再再而三的被倒出；\n真实用户首先只是自己，而不是什么能被量产的物品。因而被封禁的成本要远远高于那些 Bot。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091911397462724847].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091911397462724847",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091911397462724847"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2091911397462724847",
+        "created_at": "2026-08-24T16:21:44.000Z",
+        "display_text_range": [
+          14,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091923925907517880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091923925907517880",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091911397462724847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN Bot 更像是有人专门造了个机器来倒瓶子，即便每天清理都总有新的一而再再而三的被倒出；\n真实用户首先只是自己，而不是什么能被量产的物品。因而被封禁的成本要远远高于那些 Bot。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2091923925907517880",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 2026,
+          "like_count": 25715,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的21y.o.废物技术宅。二次元/电子电路/化学/MIDI/软件/数码产品/摄影/无人机大手子。属性:🏳️‍🌈LGBTQ+友好/トール可愛い🐉/《青空のラプソディ》🎵/大連好き🏝️/Yamaha XG-MIDI🎹/DJI✈️Mavic Air & Air 2S/Fart Fetish 恋屁癖⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "is_identity_verified": true,
+        "location": "500M的天空",
+        "most_recent_tweet_id": "2091866429452898541",
+        "name": "小龙娘トール⚡️🧪🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586762784393437184/1779699263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 864,
+          "like_count": 59615,
+          "listed_count": 4,
+          "media_count": 1535,
+          "tweet_count": 19266
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092923419553915181",
+    "created_at": "2026-08-28T10:37:44.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093286908298489921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574361489468628992",
+          "start": 0,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093286908298489921",
+    "in_reply_to_user_id": "1574361489468628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092923419553915181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@119Calling_ 喝完大脑被安装了 360 画报（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 170,
+        "media_key": "3_2092923414273265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuOwanbEAAsV9C.jpg",
+        "width": 302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092923419553915181",
+        "created_at": "2026-08-28T10:37:44.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093286908298489921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093286908298489921",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092923419553915181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@119Calling_ 喝完大脑被安装了 360 画报（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092923414273265664"
+          ]
+        },
+        "author_id": "1574361489468628992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092923419553915181",
+        "created_at": "2026-08-27T10:33:22.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092923419553915181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jscs5FyFTX",
+              "end": 26,
+              "expanded_url": "https://x.com/119Calling_/status/2092923419553915181/photo/1",
+              "media_key": "3_2092923414273265664",
+              "start": 3,
+              "url": "https://t.co/Jscs5FyFTX"
+            },
+            {
+              "display_url": "x.com/_axer1a/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/_axer1a/status/2092908693394444677",
+              "start": 27,
+              "url": "https://t.co/MJxMUW7nRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092923419553915181",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092923414273265664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11845,
+          "like_count": 354,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092908693394444677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/Jscs5FyFTX https://t.co/MJxMUW7nRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2093286908298489921",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 2229,
+          "like_count": 27802,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 💗 @itzchayoo / 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "itzchayoo"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "asahisuki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakcoe",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nanakcoe",
+                "start": 0,
+                "url": "https://t.co/fENCLe4iC2"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "is_identity_verified": true,
+        "location": "the Observateur, standing",
+        "most_recent_tweet_id": "2093245361024651656",
+        "name": "𝘕⁺",
+        "pinned_tweet_id": "2089744187629724012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574361489468628992/1786214641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086161822340788224/pMwtxcv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 1018,
+          "like_count": 35568,
+          "listed_count": 3,
+          "media_count": 2398,
+          "tweet_count": 13406
+        },
+        "url": "https://t.co/fENCLe4iC2",
+        "username": "119Calling_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

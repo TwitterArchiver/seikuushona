@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2076682933331771610",
+    "created_at": "2026-07-13T16:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076703313895243997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076703313895243997",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076682933331771610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuminaFable2020 GFW：Hallo Dream，窝想和你 PVP。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2076682933331771610",
+        "created_at": "2026-07-13T16:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076703313895243997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076703313895243997",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076682933331771610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuminaFable2020 GFW：Hallo Dream，窝想和你 PVP。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227265979735887874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1390815970919292931",
+              "name": "Dream"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1390815970919292931",
+              "name": "Dream"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390815970919292931",
+              "name": "Dream"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2076682933331771610",
+        "created_at": "2026-07-13T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076682933331771610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/esimuse/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/esimuse/status/2076458066384740609",
+              "start": 21,
+              "url": "https://t.co/2Sp41c36V4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076682933331771610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 586,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076458066384740609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gfw：怎么这么多叫Dream的玩家？？ https://t.co/2Sp41c36V4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me_twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://me_twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/bm8bpeI3fN"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1069,
+          "like_count": 14377,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/bm8bpeI3fN",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "我是大祥子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 358,
+          "like_count": 1475,
+          "listed_count": 5,
+          "media_count": 199,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

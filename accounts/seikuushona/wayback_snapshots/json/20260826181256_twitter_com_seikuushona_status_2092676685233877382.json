@@ -1,0 +1,674 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092539445761425408"
+      ],
+      "media_source_tweet_id": [
+        "2092628139990286633"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2092676685233877382",
+    "created_at": "2026-08-26T18:12:56.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092676685233877382"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "プロセカ"
+        },
+        {
+          "end": 115,
+          "start": 103,
+          "tag": "暁山瑞希誕生祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158668053183266816",
+          "start": 3,
+          "username": "pj_sekai"
+        },
+        {
+          "end": 81,
+          "id": "1074857836360937472",
+          "start": 69,
+          "username": "lobe_saclia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xheuyCwEkB",
+          "end": 139,
+          "expanded_url": "https://x.com/pj_sekai/status/2092628139990286633/photo/1",
+          "media_key": "3_2092539445761425408",
+          "start": 116,
+          "url": "https://t.co/xheuyCwEkB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092676685233877382",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092539445761425408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092628139990286633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pj_sekai: ㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストはSaclia（@lobe_saclia）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2026 https://t.co/xheuyCwEkB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2092539445761425408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoxigcaQAAzIRU.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092539445761425408"
+          ],
+          "media_source_tweet_id": [
+            "2092628139990286633"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2092676685233877382",
+        "created_at": "2026-08-26T18:12:56.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092676685233877382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 115,
+              "start": 103,
+              "tag": "暁山瑞希誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158668053183266816",
+              "start": 3,
+              "username": "pj_sekai"
+            },
+            {
+              "end": 81,
+              "id": "1074857836360937472",
+              "start": 69,
+              "username": "lobe_saclia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xheuyCwEkB",
+              "end": 139,
+              "expanded_url": "https://x.com/pj_sekai/status/2092628139990286633/photo/1",
+              "media_key": "3_2092539445761425408",
+              "start": 116,
+              "url": "https://t.co/xheuyCwEkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092676685233877382",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092539445761425408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092628139990286633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pj_sekai: ㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストはSaclia（@lobe_saclia）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2026 https://t.co/xheuyCwEkB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092539445761425408"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2092628139990286633",
+        "created_at": "2026-08-26T15:00:02.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092628139990286633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 101,
+              "start": 89,
+              "tag": "暁山瑞希誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1074857836360937472",
+              "start": 55,
+              "username": "lobe_saclia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xheuyCwEkB",
+              "end": 125,
+              "expanded_url": "https://x.com/pj_sekai/status/2092628139990286633/photo/1",
+              "media_key": "3_2092539445761425408",
+              "start": 102,
+              "url": "https://t.co/xheuyCwEkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092628139990286633",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092539445761425408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1567,
+          "impression_count": 450081,
+          "like_count": 27182,
+          "quote_count": 1002,
+          "reply_count": 77,
+          "retweet_count": 8584
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストはSaclia（@lobe_saclia）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2026 https://t.co/xheuyCwEkB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092676685233877382",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2145,
+          "like_count": 27051,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092631906009702646",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158668053183266816/1759370271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305789,
+          "following_count": 633,
+          "like_count": 27,
+          "listed_count": 8847,
+          "media_count": 14730,
+          "tweet_count": 19907
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-18T02:44:12.000Z",
+        "description": "六倍利(ロベリア)/Saclia｜イラストレーター｜音楽ゲームが好きな人｜\nお仕事の連絡 :lobesaclia@gmail.com｜中文/EN/日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19920821",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19920821",
+                "start": 0,
+                "url": "https://t.co/9r7aMt3bi6"
+              }
+            ]
+          }
+        },
+        "id": "1074857836360937472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092630134822232541",
+        "name": "Saclia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074857836360937472/1593986497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428552018696708101/w7diCYe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114950,
+          "following_count": 561,
+          "like_count": 800,
+          "listed_count": 855,
+          "media_count": 150,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/9r7aMt3bi6",
+        "username": "lobe_saclia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

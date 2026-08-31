@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2084914380710502869",
+    "created_at": "2026-08-06T19:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085447767758176347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599803203322798081",
+          "start": 0,
+          "username": "sticktech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085447767758176347",
+    "in_reply_to_user_id": "1599803203322798081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084914380710502869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sticktech 粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2084914304458072064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8ag3haoAAuJ37.png",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2084914380710502869",
+        "created_at": "2026-08-06T19:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085447767758176347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599803203322798081",
+              "start": 0,
+              "username": "sticktech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085447767758176347",
+        "in_reply_to_user_id": "1599803203322798081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084914380710502869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sticktech 粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭粘连大笨蛋😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084914304458072064"
+          ]
+        },
+        "author_id": "1599803203322798081",
+        "conversation_id": "2084914380710502869",
+        "created_at": "2026-08-05T08:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084914380710502869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pM7XzRaUj",
+              "end": 29,
+              "expanded_url": "https://x.com/sticktech/status/2084914380710502869/photo/1",
+              "media_key": "3_2084914304458072064",
+              "start": 6,
+              "url": "https://t.co/0pM7XzRaUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084914380710502869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 30776,
+          "like_count": 548,
+          "quote_count": 14,
+          "reply_count": 107,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "新人UP喵 https://t.co/0pM7XzRaUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1513,
+          "like_count": 19793,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T16:29:52.000Z",
+        "description": "一个喜欢敲代码和摄影的学牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ADT_China",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@ADT_China",
+                "start": 0,
+                "url": "https://t.co/1jNjLrkYxZ"
+              }
+            ]
+          }
+        },
+        "id": "1599803203322798081",
+        "location": "杭州",
+        "name": "粘连科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924643051974074368/6Jhv7IOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3258,
+          "following_count": 2599,
+          "like_count": 779,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/1jNjLrkYxZ",
+        "username": "sticktech",
+        "verified": false
+      }
+    ]
+  }
+}

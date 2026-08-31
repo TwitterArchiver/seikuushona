@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086454814196592642"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2086454956123472137",
+    "created_at": "2026-08-09T14:10:00.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086454956123472137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLv3fjybhn",
+          "end": 42,
+          "expanded_url": "https://x.com/seikuushona/status/2086454956123472137/photo/1",
+          "media_key": "3_2086454814196592642",
+          "start": 19,
+          "url": "https://t.co/tLv3fjybhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086454956123472137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086454814196592642"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被机器人嘲讽了。\n回旋镖打中了自己。 https://t.co/tLv3fjybhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2086454814196592642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSTmVgXcAIesau.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086454814196592642"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2086454956123472137",
+        "created_at": "2026-08-09T14:10:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086454956123472137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLv3fjybhn",
+              "end": 42,
+              "expanded_url": "https://x.com/seikuushona/status/2086454956123472137/photo/1",
+              "media_key": "3_2086454814196592642",
+              "start": 19,
+              "url": "https://t.co/tLv3fjybhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086454956123472137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086454814196592642"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被机器人嘲讽了。\n回旋镖打中了自己。 https://t.co/tLv3fjybhn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086454956123472137",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1563,
+          "like_count": 20417,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
