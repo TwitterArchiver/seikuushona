@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2079519576971514240",
+    "created_at": "2026-07-21T11:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079522420835463545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079522420835463545",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079519576971514240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2079519559145644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvwBXJaYAAYdqu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2079519576971514240",
+        "created_at": "2026-07-21T11:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079522420835463545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079522420835463545",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079519576971514240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079519559145644032"
+          ]
+        },
+        "author_id": "1679381806913560578",
+        "conversation_id": "2079519576971514240",
+        "created_at": "2026-07-21T10:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079519576971514240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhJnCrvw94",
+              "end": 29,
+              "expanded_url": "https://x.com/kurazawanaki/status/2079519576971514240/photo/1",
+              "media_key": "3_2079519559145644032",
+              "start": 6,
+              "url": "https://t.co/NhJnCrvw94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079519576971514240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考上大学啦 https://t.co/NhJnCrvw94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 1240,
+          "like_count": 16833,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1300,
+          "like_count": 17244,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

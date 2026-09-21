@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101289593232642048"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2101289923806703752",
+    "created_at": "2026-09-19T12:38:52.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T13:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101289923806703752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMFWvpbO7W",
+          "end": 28,
+          "expanded_url": "https://x.com/seikuushona/status/2101289923806703752/photo/1",
+          "media_key": "3_2101289593232642048",
+          "start": 5,
+          "url": "https://t.co/yMFWvpbO7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101289923806703752",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2101289593232642048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "25 % https://t.co/yMFWvpbO7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2274,
+        "media_key": "3_2101289593232642048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlHwH7bUAAGMpB.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101289593232642048"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2101289923806703752",
+        "created_at": "2026-09-19T12:38:52.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101289923806703752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMFWvpbO7W",
+              "end": 28,
+              "expanded_url": "https://x.com/seikuushona/status/2101289923806703752/photo/1",
+              "media_key": "3_2101289593232642048",
+              "start": 5,
+              "url": "https://t.co/yMFWvpbO7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101289923806703752",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2101289593232642048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "25 % https://t.co/yMFWvpbO7W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2101289923806703752",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 2452,
+          "like_count": 30285,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098410812646068515",
+    "created_at": "2026-09-11T14:07:50.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098413211569791369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068562506818437120",
+          "start": 0,
+          "username": "YvesLys67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098413211569791369",
+    "in_reply_to_user_id": "2068562506818437120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098410812646068515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YvesLys67 抱抱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098410812646068515",
+        "created_at": "2026-09-11T14:07:50.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098413211569791369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068562506818437120",
+              "start": 0,
+              "username": "YvesLys67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098413211569791369",
+        "in_reply_to_user_id": "2068562506818437120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098410812646068515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YvesLys67 抱抱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068562506818437120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "2098410812646068515",
+        "created_at": "2026-09-11T13:58:18.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098410812646068515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098410812646068515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我未来还想逃…不然活下去就没方向了，可是太难了太难了…\n\n我绝不会认可明年直到一辈子都会被家里囚禁控制下去！\n\n在学校我一直冥想…宣泄出的负面情绪都是混混乱乱的…根本没法写明白啊，只能无聊的坐着发呆循环美好与极端痛苦的一切做精神食粮，所以给大家没什么能明了说出来的…\n对不起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098413211569791369",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2361,
+          "like_count": 29413,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T05:19:58.000Z",
+        "description": "172/52/非二元/無證含糖/Mtf /🏳️‍⚧🍥/郭楠/鱼/INFP-T/时刻不开心或沉默寡言对不起呀😿\n子非鱼喵，安知鱼之乐喵？\n想找好朋友互fo喵，屿屿会珍惜的🥹",
+        "id": "2068562506818437120",
+        "is_identity_verified": false,
+        "location": "根本没有这个地方",
+        "most_recent_tweet_id": "2098413054518325713",
+        "name": "蒸鱼酱",
+        "pinned_tweet_id": "2093913283204198432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068562506818437120/1788619060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079079519852658688/F01cweEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 425,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "YvesLys67",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

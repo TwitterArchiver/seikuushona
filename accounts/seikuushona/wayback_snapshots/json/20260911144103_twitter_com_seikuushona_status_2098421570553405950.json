@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2098421565679661513",
+    "created_at": "2026-09-11T14:41:03.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098421570553405950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ainukugi/statu…",
+          "end": 64,
+          "expanded_url": "https://x.com/ainukugi/status/1568943587651633156",
+          "start": 41,
+          "url": "https://t.co/PUEMCWF5RK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098421570553405950",
+    "in_reply_to_user_id": "1684547487460388864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1568943587651633156",
+        "type": "quoted"
+      },
+      {
+        "id": "2098421568116519229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你不知道月島水希是谁的话。\n顺带，《蘑菇的拟态日常》是神作。\n（3 / 3）\nhttps://t.co/PUEMCWF5RK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1568943563664400384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FcYB28jaIAAo9fc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098421565679661513",
+        "created_at": "2026-09-11T14:41:03.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098421570553405950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ainukugi/statu…",
+              "end": 64,
+              "expanded_url": "https://x.com/ainukugi/status/1568943587651633156",
+              "start": 41,
+              "url": "https://t.co/PUEMCWF5RK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098421570553405950",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1568943587651633156",
+            "type": "quoted"
+          },
+          {
+            "id": "2098421568116519229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你不知道月島水希是谁的话。\n顺带，《蘑菇的拟态日常》是神作。\n（3 / 3）\nhttps://t.co/PUEMCWF5RK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098421565679661513",
+        "created_at": "2026-09-11T14:41:03.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098421568116519229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098421568116519229",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098421565679661513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4. 李文亚长期尝试推翻旧物理理论，月島水希则因证明理论而间接的导致原有的物理体系被推翻。\n（真的编不下去了......）\n5. 两人都没有同时出现过。\n数字论证：水希 = みずき = 329 = (11-4)*(51-4)，文亚的笔画有 10 笔，-11/4+51/4。\nQ.E.D.\n（下续 2 / 3）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1568943563664400384"
+          ]
+        },
+        "author_id": "1402136918146510853",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1568943587651633156",
+        "created_at": "2022-09-11T12:44:35.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2022-09-11T13:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1568943587651633156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ju2TYaeWbK",
+              "end": 169,
+              "expanded_url": "https://x.com/ainukugi/status/1568943587651633156/photo/1",
+              "media_key": "3_1568943563664400384",
+              "start": 146,
+              "url": "https://t.co/ju2TYaeWbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1568943587651633156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1568943563664400384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 0,
+          "like_count": 320,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "シメジシミュレーション に登場するしじまの姉\n彼女の本名は連載開始から4年経った現在に至るまで作中では明かされていない\nしかし2017年5月にTwitterへ上げられたイラストには、「月島水希」と読み取れる本名らしきものが描かれている\n現在の物語に関連するかは不明だが、納得のいく名前である https://t.co/ju2TYaeWbK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098421570553405950",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2364,
+          "like_count": 29430,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-08T05:34:49.000Z",
+        "description": "締結装置\n\nつくみず作品Discordサーバー 誰でも自由に入れます\nhttps://t.co/FuDoogiVyU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MuVbGZP5YY",
+                "end": 58,
+                "expanded_url": "http://discord.gg/MuVbGZP5YY",
+                "start": 35,
+                "url": "https://t.co/FuDoogiVyU"
+              }
+            ]
+          }
+        },
+        "id": "1402136918146510853",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095033652120019322",
+        "name": "犬釘",
+        "pinned_tweet_id": "1402152042278264853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402136918146510853/1623131981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403731487917187073/q-K7ov2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 8,
+          "like_count": 4591,
+          "listed_count": 15,
+          "media_count": 217,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "ainukugi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

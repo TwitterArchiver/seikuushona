@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098821222691930521",
+    "created_at": "2026-09-12T17:09:08.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098821222691930521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1862933126466666496",
+          "start": 3,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098821222691930521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098797923308106123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moremoreagain: 如果有一个人\n在我的视角里，向来都我单方面把他当做我的好朋友，而并不认为他也会把我当做他的好朋友\n那么\n某种程度上\n这是不是同时意味着实际上我也并没有把他当做我的好朋友……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098821222691930521",
+        "created_at": "2026-09-12T17:09:08.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098821222691930521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1862933126466666496",
+              "start": 3,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098821222691930521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098797923308106123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moremoreagain: 如果有一个人\n在我的视角里，向来都我单方面把他当做我的好朋友，而并不认为他也会把我当做他的好朋友\n那么\n某种程度上\n这是不是同时意味着实际上我也并没有把他当做我的好朋友……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2098797923308106123",
+        "created_at": "2026-09-12T15:36:33.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098797923308106123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098797923308106123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一个人\n在我的视角里，向来都我单方面把他当做我的好朋友，而并不认为他也会把我当做他的好朋友\n那么\n某种程度上\n这是不是同时意味着实际上我也并没有把他当做我的好朋友……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098821222691930521",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2404,
+          "like_count": 29779,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜审判我的一个就够｜中正平和｜最尊重零糖饮料之人｜没关系我不在乎｜\n\n置顶里有个码，感兴趣可以扫一下试试（？",
+        "id": "1862933126466666496",
+        "is_identity_verified": false,
+        "location": "上阙",
+        "most_recent_tweet_id": "2098798859497685038",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1128,
+          "like_count": 80429,
+          "listed_count": 4,
+          "media_count": 1811,
+          "tweet_count": 40318
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

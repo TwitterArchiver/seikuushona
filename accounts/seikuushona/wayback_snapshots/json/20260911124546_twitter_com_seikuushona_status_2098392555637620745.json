@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098392555637620745",
+    "created_at": "2026-09-11T12:45:46.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098392555637620745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413448007362650115",
+          "start": 3,
+          "username": "Yayoi_no_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098392555637620745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098005053764440477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yayoi_no_yume: 我不太懂，如果要适配到这个程度，和重新写一个app有什么区别？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098392555637620745",
+        "created_at": "2026-09-11T12:45:46.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098392555637620745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413448007362650115",
+              "start": 3,
+              "username": "Yayoi_no_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098392555637620745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098005053764440477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yayoi_no_yume: 我不太懂，如果要适配到这个程度，和重新写一个app有什么区别？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413448007362650115",
+        "conversation_id": "2098005053764440477",
+        "created_at": "2026-09-10T11:05:58.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098005053764440477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Limichange2/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Limichange2/status/2098004173057102268",
+              "start": 32,
+              "url": "https://t.co/QgOCambsnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098005053764440477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19229,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098004173057102268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不太懂，如果要适配到这个程度，和重新写一个app有什么区别？ https://t.co/QgOCambsnL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098392555637620745",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2348,
+          "like_count": 29293,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yayoi.love",
+                "end": 23,
+                "expanded_url": "http://blog.yayoi.love",
+                "start": 0,
+                "url": "https://t.co/5m3BySZ4lO"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "is_identity_verified": false,
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "most_recent_tweet_id": "2098390729907421351",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1918326235861794892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413448007362650115/1696754274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995478435255447552/upWdfDFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4644,
+          "following_count": 4069,
+          "like_count": 19095,
+          "listed_count": 34,
+          "media_count": 4623,
+          "tweet_count": 25644
+        },
+        "url": "https://t.co/5m3BySZ4lO",
+        "username": "Yayoi_no_yume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

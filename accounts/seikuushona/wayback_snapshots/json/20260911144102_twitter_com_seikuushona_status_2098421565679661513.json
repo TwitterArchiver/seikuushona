@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098421565679661513",
+    "created_at": "2026-09-11T14:41:02.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098421565679661513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098421565679661513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对李文亚即为月島水希的论证。\n1. 二者提出的理论在我们所处的现实来看都是荒谬无比的，且二者都坚信其提出的理论。\n2. 二者都未取得大学文凭（李文亚未上大学，水希大学辍学）。\n3. 二者的研究都被阻拦过（李文亚被“恶势力”阻拦导致研究“失败”，水希改变现实的行为被园丁阻拦）。\n（下续 1 / 2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098421565679661513",
+        "created_at": "2026-09-11T14:41:02.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098421565679661513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098421565679661513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对李文亚即为月島水希的论证。\n1. 二者提出的理论在我们所处的现实来看都是荒谬无比的，且二者都坚信其提出的理论。\n2. 二者都未取得大学文凭（李文亚未上大学，水希大学辍学）。\n3. 二者的研究都被阻拦过（李文亚被“恶势力”阻拦导致研究“失败”，水希改变现实的行为被园丁阻拦）。\n（下续 1 / 2）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098421570553405950",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2364,
+          "like_count": 29430,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

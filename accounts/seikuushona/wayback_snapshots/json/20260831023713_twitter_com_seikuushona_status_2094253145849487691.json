@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2094091789481517381",
+    "created_at": "2026-08-31T02:37:13.000Z",
+    "display_text_range": [
+      9,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094253145849487691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060984372313182208",
+          "start": 0,
+          "username": "memor6u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/wiki/%e5%85%ad…",
+          "end": 58,
+          "expanded_url": "https://zh.wikipedia.org/wiki/%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6",
+          "start": 35,
+          "status": 200,
+          "title": "六四事件 - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/wiki/%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6",
+          "url": "https://t.co/17QFTm6A3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094253145849487691",
+    "in_reply_to_user_id": "2060984372313182208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094092318576156672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memor6u 像是 Wikipedia 上的内容应该可以参考。\n\nhttps://t.co/17QFTm6A3r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2094091789481517381",
+        "created_at": "2026-08-31T02:37:13.000Z",
+        "display_text_range": [
+          9,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094253145849487691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060984372313182208",
+              "start": 0,
+              "username": "memor6u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/wiki/%e5%85%ad…",
+              "end": 58,
+              "expanded_url": "https://zh.wikipedia.org/wiki/%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6",
+              "start": 35,
+              "status": 200,
+              "title": "六四事件 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/%e5%85%ad%e5%9b%9b%e4%ba%8b%e4%bb%b6",
+              "url": "https://t.co/17QFTm6A3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094253145849487691",
+        "in_reply_to_user_id": "2060984372313182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094092318576156672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memor6u 像是 Wikipedia 上的内容应该可以参考。\n\nhttps://t.co/17QFTm6A3r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060984372313182208",
+        "conversation_id": "2094091789481517381",
+        "created_at": "2026-08-30T15:58:09.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094092318576156672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094092318576156672",
+        "in_reply_to_user_id": "2060984372313182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094091789481517381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底哪里可以看到完完全全客观的报道"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2094253145849487691",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 2300,
+          "like_count": 28839,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T07:23:13.000Z",
+        "description": "",
+        "id": "2060984372313182208",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2094100419316498816",
+        "name": "Memo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060984372313182208/1784907126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078453380482039808/A6gejxAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "memor6u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

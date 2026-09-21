@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098058561062346760",
+        "3_2098058588761554953"
+      ],
+      "media_source_tweet_id": [
+        "2098194307895206341",
+        "2098194307895206341"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098392805160976650",
+    "created_at": "2026-09-11T12:46:45.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098392805160976650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8E1WUGYS8",
+          "end": 73,
+          "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+          "media_key": "3_2098058561062346760",
+          "start": 50,
+          "url": "https://t.co/c8E1WUGYS8"
+        },
+        {
+          "display_url": "pic.x.com/c8E1WUGYS8",
+          "end": 73,
+          "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+          "media_key": "3_2098058588761554953",
+          "start": 50,
+          "url": "https://t.co/c8E1WUGYS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098392805160976650",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098058561062346760"
+      },
+      {
+        "media_key": "3_2098058588761554953"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098194307895206341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 教室的希沃白板把我的课件和谐了……喂！这是教材原图啊，你告诉我哪里违规 https://t.co/c8E1WUGYS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2098058561062346760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3NJTIWoAgDt5C.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2098058588761554953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3NK6UXAAkrttE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098058561062346760",
+            "3_2098058588761554953"
+          ],
+          "media_source_tweet_id": [
+            "2098194307895206341",
+            "2098194307895206341"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098392805160976650",
+        "created_at": "2026-09-11T12:46:45.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098392805160976650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8E1WUGYS8",
+              "end": 73,
+              "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+              "media_key": "3_2098058561062346760",
+              "start": 50,
+              "url": "https://t.co/c8E1WUGYS8"
+            },
+            {
+              "display_url": "pic.x.com/c8E1WUGYS8",
+              "end": 73,
+              "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+              "media_key": "3_2098058588761554953",
+              "start": 50,
+              "url": "https://t.co/c8E1WUGYS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098392805160976650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098058561062346760"
+          },
+          {
+            "media_key": "3_2098058588761554953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098194307895206341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 教室的希沃白板把我的课件和谐了……喂！这是教材原图啊，你告诉我哪里违规 https://t.co/c8E1WUGYS8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098058561062346760",
+            "3_2098058588761554953"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2098194307895206341",
+        "created_at": "2026-09-10T23:38:00.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098194307895206341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8E1WUGYS8",
+              "end": 59,
+              "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+              "media_key": "3_2098058561062346760",
+              "start": 36,
+              "url": "https://t.co/c8E1WUGYS8"
+            },
+            {
+              "display_url": "pic.x.com/c8E1WUGYS8",
+              "end": 59,
+              "expanded_url": "https://x.com/YongQuan/status/2098194307895206341/photo/1",
+              "media_key": "3_2098058588761554953",
+              "start": 36,
+              "url": "https://t.co/c8E1WUGYS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098194307895206341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098058561062346760"
+          },
+          {
+            "media_key": "3_2098058588761554953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 76076,
+          "like_count": 435,
+          "quote_count": 2,
+          "reply_count": 90,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "教室的希沃白板把我的课件和谐了……喂！这是教材原图啊，你告诉我哪里违规 https://t.co/c8E1WUGYS8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098392805160976650",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2349,
+          "like_count": 29301,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2098389595670855726",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12039,
+          "following_count": 4887,
+          "like_count": 54464,
+          "listed_count": 42,
+          "media_count": 6484,
+          "tweet_count": 17712
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

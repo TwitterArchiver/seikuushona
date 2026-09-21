@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098350124179267979",
+    "created_at": "2026-09-11T12:59:31.000Z",
+    "display_text_range": [
+      16,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098396017209319553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098396017209319553",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098350124179267979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@auspiceshirley 因为总会有受众的。\n用着每天免费 10 分钟，IP 几乎被所有数据库标记滥用的代理服务，又或是自带代理服务的浏览器，还有本来就是从其他地方的广告里得来的提供商购买服务的。\n由于认知基础不够，于是便完全不会考虑你所提到的要素们——翻墙就是要找不用花钱的服务。隐私是什么？我又没有做违法的事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098350124179267979",
+        "created_at": "2026-09-11T12:59:31.000Z",
+        "display_text_range": [
+          16,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098396017209319553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098396017209319553",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098350124179267979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@auspiceshirley 因为总会有受众的。\n用着每天免费 10 分钟，IP 几乎被所有数据库标记滥用的代理服务，又或是自带代理服务的浏览器，还有本来就是从其他地方的广告里得来的提供商购买服务的。\n由于认知基础不够，于是便完全不会考虑你所提到的要素们——翻墙就是要找不用花钱的服务。隐私是什么？我又没有做违法的事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2098350124179267979",
+        "created_at": "2026-09-11T09:57:09.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098350124179267979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098350124179267979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在 𝕏 上发 VPN 广告的，似乎有一个悖论：\n\n1. 我看大部分的广告都是简体中文了，那么我就默认面向中国大陆的用户，那么问题来了，在没有 VPN 的前提下，他们怎么看到广告？\n\n2. 如果看到了广告，那么肯定是已经解决了网络问的，那么问题又来了，既然我已经有 VPN 或者其他东西了，为什么还要用你的？\n\n那就只剩下最后一种可能了：留着换梯子/机场。\n\n哦，天啦，想那种来路不明、听都没听过的，送我我也不敢用啊。还有价格特别低、流量特别大、甚至免费的——那我问你，开过服务器的都知道，这恐怕填不了成本吧？\n\n如果你非要用 VPN 的话，我建议你用  Proton VPN、NordVPN、ExpressVPN、Surfshark 这类声誉好的国际大厂而不是来路不明的东西。如果有能力的话，建议你自建代理，把数据 100% 掌握在自己手上，前提是用 AWS、Vultr、Oracle、Azure、Google 这类可信的、除了支付无需实名云服务商提供的机器。\n\n最佳的方法是自己搞一个 SIM 卡或者 eSIM 这条唯一合法合规的途径，走国际漫游，比如像我这样的，走 csl. 的网络（可恶，居然没有 IPv6）。\n\n所以你们看到我说我的网络出了问题、有些服务无法使用的时候，不要叫我换节点，我从哪儿给你搞那些东西啊。当然，温馨提示，SIM 卡可不一定要插在手机上哦。\n\n如果你执意要用那些便宜甚至免费的机场什么的，那我也没法说什么了，你去用吧。不过我还是要提醒你，你的隐私数据可值钱了。\n\n对了，家宽是什么？拿你家里的路由器转发流量？还有我发现给你发电话卡的运营商的网络一检测出来基本上全是那什么家宽。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "在 𝕏 上发 VPN 广告的，似乎有一个悖论：\n\n1. 我看大部分的广告都是简体中文了，那么我就默认面向中国大陆的用户，那么问题来了，在没有 VPN 的前提下，他们怎么看到广告？\n\n2. 如果看到了广告，那么肯定是已经解决了网络问的，那么问题又来了，既然我已经有 VPN 或者其他东西了，为什么还要用你的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098396017209319553",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2349,
+          "like_count": 29325,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIhFZ"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098395306681610519",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2093970945753153613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 661,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/1qfE6dIhFZ",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096267768547233792"
+      ],
+      "media_source_tweet_id": [
+        "2096268571274096808"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2096458807144743230",
+    "created_at": "2026-09-06T04:41:44.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096458807144743230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779439814573756416",
+          "start": 3,
+          "username": "kuurikona"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZqxrnb2qT",
+          "end": 109,
+          "expanded_url": "https://x.com/kuurikona/status/2096268571274096808/photo/1",
+          "media_key": "3_2096267768547233792",
+          "start": 86,
+          "url": "https://t.co/GZqxrnb2qT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096458807144743230",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096267768547233792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 863
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096268571274096808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuurikona: here is my character IBM-tan! More computer girls to come soon (/≧▽≦)/ https://t.co/GZqxrnb2qT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2096267768547233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwbdJb0AAB4z3.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096267768547233792"
+          ],
+          "media_source_tweet_id": [
+            "2096268571274096808"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2096458807144743230",
+        "created_at": "2026-09-06T04:41:44.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096458807144743230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779439814573756416",
+              "start": 3,
+              "username": "kuurikona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZqxrnb2qT",
+              "end": 109,
+              "expanded_url": "https://x.com/kuurikona/status/2096268571274096808/photo/1",
+              "media_key": "3_2096267768547233792",
+              "start": 86,
+              "url": "https://t.co/GZqxrnb2qT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096458807144743230",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096267768547233792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 863
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096268571274096808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuurikona: here is my character IBM-tan! More computer girls to come soon (/≧▽≦)/ https://t.co/GZqxrnb2qT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096267768547233792"
+          ]
+        },
+        "author_id": "1779439814573756416",
+        "conversation_id": "2096268571274096808",
+        "created_at": "2026-09-05T16:05:48.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096268571274096808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZqxrnb2qT",
+              "end": 94,
+              "expanded_url": "https://x.com/kuurikona/status/2096268571274096808/photo/1",
+              "media_key": "3_2096267768547233792",
+              "start": 71,
+              "url": "https://t.co/GZqxrnb2qT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096268571274096808",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096267768547233792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1181,
+          "impression_count": 65629,
+          "like_count": 6164,
+          "quote_count": 25,
+          "reply_count": 69,
+          "retweet_count": 863
+        },
+        "reply_settings": "everyone",
+        "text": "here is my character IBM-tan! More computer girls to come soon (/≧▽≦)/ https://t.co/GZqxrnb2qT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2096458807144743230",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 2332,
+          "like_count": 29248,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-14T09:21:38.000Z",
+        "description": "(変態)天才少女 (；ω；) \notaku/cosplay, (amateur) art, occasional tech?poster 🇦🇺\nhttps://t.co/jR6gOa4CG8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kuurikona",
+                "end": 95,
+                "expanded_url": "http://ko-fi.com/kuurikona",
+                "start": 72,
+                "url": "https://t.co/jR6gOa4CG8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/celeb17",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/celeb17",
+                "start": 0,
+                "url": "https://t.co/KI1NTL2dVc"
+              }
+            ]
+          }
+        },
+        "id": "1779439814573756416",
+        "is_identity_verified": false,
+        "location": "■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ",
+        "most_recent_tweet_id": "2096457987074466295",
+        "name": "kuuri",
+        "pinned_tweet_id": "2055881321466191995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779439814573756416/1785152019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289403817996288/RaOTg94c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15290,
+          "following_count": 1321,
+          "like_count": 110119,
+          "listed_count": 25,
+          "media_count": 504,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/KI1NTL2dVc",
+        "username": "kuurikona",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2092163358027837735",
+    "created_at": "2026-08-25T10:28:15.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092197354447499353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813261726391148546",
+          "start": 0,
+          "username": "CuteOmega123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092197354447499353",
+    "in_reply_to_user_id": "1813261726391148546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092163358027837735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteOmega123 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2092163312884592640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjbcsSXMAAXDEN.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2092163358027837735",
+        "created_at": "2026-08-25T10:28:15.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092197354447499353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813261726391148546",
+              "start": 0,
+              "username": "CuteOmega123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092197354447499353",
+        "in_reply_to_user_id": "1813261726391148546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092163358027837735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteOmega123 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092163312884592640"
+          ]
+        },
+        "author_id": "1813261726391148546",
+        "conversation_id": "2092163358027837735",
+        "created_at": "2026-08-25T08:13:09.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092163358027837735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQENc3IqHH",
+              "end": 51,
+              "expanded_url": "https://x.com/CuteOmega123/status/2092163358027837735/photo/1",
+              "media_key": "3_2092163312884592640",
+              "start": 28,
+              "url": "https://t.co/oQENc3IqHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092163358027837735",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092163312884592640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千里皖江潮信来\n今日方知我是我\n庆祝突破400fo！🎉 https://t.co/oQENc3IqHH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2092197354447499353",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 2082,
+          "like_count": 26210,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，半个程序员与非专业运维，务实的激进自由主义者，dev-sidecar唯一活跃维护者，BFO无审查聊天服务器创建者，药娘云技术支持。欢迎同类互fo。164/62；无证含糖；HRT:2026.07.03。自由，独立，进步。",
+        "id": "1813261726391148546",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092165955405398440",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2069426260850167864",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083160063359995904/ZLX5KYG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1057,
+          "like_count": 21721,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "CuteOmega123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

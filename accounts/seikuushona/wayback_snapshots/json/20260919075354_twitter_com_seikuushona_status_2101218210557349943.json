@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2101218210557349943",
+    "created_at": "2026-09-19T07:53:54.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101218210557349943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "IshikiFumei514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101218210557349943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101001249294577706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IshikiFumei514: 调休是全世界最傻逼的制度有无懂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2101218210557349943",
+        "created_at": "2026-09-19T07:53:54.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101218210557349943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "IshikiFumei514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101218210557349943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101001249294577706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IshikiFumei514: 调休是全世界最傻逼的制度有无懂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2101001249294577706",
+        "created_at": "2026-09-18T17:31:47.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101001249294577706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101001249294577706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3748,
+          "like_count": 275,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "调休是全世界最傻逼的制度有无懂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2101218210557349943",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 2454,
+          "like_count": 30247,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "只是路边的小石子。成分：梗图转发/键政(站中间串两边)/音游(Arcara+Maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2101212307913146867",
+        "name": "意識不明",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099530538042462208/TQKzFJF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 897,
+          "like_count": 15857,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 5012
+        },
+        "url": "",
+        "username": "IshikiFumei514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

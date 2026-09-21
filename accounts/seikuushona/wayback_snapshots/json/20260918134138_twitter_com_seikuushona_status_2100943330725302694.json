@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2100917629389312036",
+    "created_at": "2026-09-18T13:41:38.000Z",
+    "display_text_range": [
+      7,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100943330725302694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3302809349",
+          "start": 0,
+          "username": "elpwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100943330725302694",
+    "in_reply_to_user_id": "3302809349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100917629389312036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elpwc 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3299,
+        "media_key": "3_2100917617217421313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf1cRSawAEIhE7.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2100917629389312036",
+        "created_at": "2026-09-18T13:41:38.000Z",
+        "display_text_range": [
+          7,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100943330725302694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3302809349",
+              "start": 0,
+              "username": "elpwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100943330725302694",
+        "in_reply_to_user_id": "3302809349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100917629389312036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elpwc 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100917617217421313"
+          ]
+        },
+        "author_id": "3302809349",
+        "conversation_id": "2100917629389312036",
+        "created_at": "2026-09-18T11:59:30.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100917629389312036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kukonEwohl",
+              "end": 29,
+              "expanded_url": "https://x.com/elpwc/status/2100917629389312036/photo/1",
+              "media_key": "3_2100917617217421313",
+              "start": 6,
+              "url": "https://t.co/kukonEwohl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100917629389312036",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100917617217421313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ファッ!? https://t.co/kukonEwohl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2100943330725302694",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 2433,
+          "like_count": 30044,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-29T13:31:42.000Z",
+        "description": "雑多・旅行と聖地巡礼、趣味で地理/鉄道系サイト開発をやってる就活に迫られる20代・\n語学 / ラブライブ / ゆるキャン△ / ブルアカ ・\nmaimaiDX全国都道府県行脚43/47 / 駅メモ / リプDMお気軽に / ヲタ芸垢→@elpwc_w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "elpwc_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elpwc.com",
+                "end": 23,
+                "expanded_url": "https://www.elpwc.com/",
+                "start": 0,
+                "url": "https://t.co/ZVaEZZWpzd"
+              }
+            ]
+          }
+        },
+        "id": "3302809349",
+        "is_identity_verified": false,
+        "location": "?",
+        "most_recent_tweet_id": "2100933163770130872",
+        "name": "うに",
+        "pinned_tweet_id": "1941055887369711859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302809349/1747118109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451875383121379333/l4Lyqu9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 2054,
+          "like_count": 134408,
+          "listed_count": 11,
+          "media_count": 6773,
+          "tweet_count": 33166
+        },
+        "url": "https://t.co/ZVaEZZWpzd",
+        "username": "elpwc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

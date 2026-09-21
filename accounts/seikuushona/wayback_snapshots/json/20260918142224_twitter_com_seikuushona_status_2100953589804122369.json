@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2100943274173444486",
+    "created_at": "2026-09-18T14:22:24.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100953589804122369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948364171160227840",
+          "start": 0,
+          "username": "Mak1287267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100953589804122369",
+    "in_reply_to_user_id": "1948364171160227840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100943274173444486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mak1287267 抱抱。\n还好我们宿舍都是光明正大的互相用刁酱开玩笑来着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2100943274173444486",
+        "created_at": "2026-09-18T14:22:24.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100953589804122369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948364171160227840",
+              "start": 0,
+              "username": "Mak1287267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100953589804122369",
+        "in_reply_to_user_id": "1948364171160227840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100943274173444486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mak1287267 抱抱。\n还好我们宿舍都是光明正大的互相用刁酱开玩笑来着。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948364171160227840",
+        "conversation_id": "2100943274173444486",
+        "created_at": "2026-09-18T13:41:24.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100943274173444486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100943274173444486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说刁酱坏话被小粉红舍友告到年级组去了🥰对不起🥺我以后再也不玩包子梗了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2100953589804122369",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 2433,
+          "like_count": 30054,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二(文)\n大号@mmrnadna2\n🔑号@lhnjanwoainimen\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你@Mark67358226\n永远最好最可爱的妹妹🥰永远爱你@XiyangMinzhiXiy\n最香草的入@YaoieLoop😻😍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 41,
+                "start": 25,
+                "username": "lhnjanwoainimen"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "XiyangMinzhiXiy"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "YaoieLoop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "is_identity_verified": false,
+        "location": "Utopia😽",
+        "most_recent_tweet_id": "2100949403468964123",
+        "name": "断桥边看雨(开学淡推😭)",
+        "pinned_tweet_id": "2089993523873599505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948364171160227840/1784988765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 515,
+          "like_count": 8549,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

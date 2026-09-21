@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094096133715107840"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2094096152643932329",
+    "created_at": "2026-08-30T16:13:23.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094096152643932329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/epQdvN9jAd",
+          "end": 44,
+          "expanded_url": "https://x.com/seikuushona/status/2094096152643932329/photo/1",
+          "media_key": "3_2094096133715107840",
+          "start": 21,
+          "url": "https://t.co/epQdvN9jAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094096152643932329",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094096133715107840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "600 Fo 感谢。\n在开学前最后一天。 https://t.co/epQdvN9jAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2094096133715107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-5Vq-boAAA1CZ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094096133715107840"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2094096152643932329",
+        "created_at": "2026-08-30T16:13:23.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094096152643932329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epQdvN9jAd",
+              "end": 44,
+              "expanded_url": "https://x.com/seikuushona/status/2094096152643932329/photo/1",
+              "media_key": "3_2094096133715107840",
+              "start": 21,
+              "url": "https://t.co/epQdvN9jAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094096152643932329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094096133715107840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "600 Fo 感谢。\n在开学前最后一天。 https://t.co/epQdvN9jAd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2094096152643932329",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 2284,
+          "like_count": 28631,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

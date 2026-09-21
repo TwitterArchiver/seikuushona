@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098748451374948838",
+    "created_at": "2026-09-12T12:49:59.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098756004079092079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098756004079092079",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098748451374948838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 大家都是值得被看见的呢。\n摸摸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098748451374948838",
+        "created_at": "2026-09-12T12:49:59.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098756004079092079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098756004079092079",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098748451374948838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 大家都是值得被看见的呢。\n摸摸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2098748451374948838",
+        "created_at": "2026-09-12T12:19:58.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098748451374948838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098748451374948838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！每天什么都不干居然96fo了诶，快100fo了🥰有点受宠若惊的感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098756004079092079",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 2394,
+          "like_count": 29707,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098748542097764808",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 589,
+          "like_count": 3960,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1020
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

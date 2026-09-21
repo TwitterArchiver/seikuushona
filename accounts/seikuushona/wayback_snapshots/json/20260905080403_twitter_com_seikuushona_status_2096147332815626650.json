@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095834629479772160"
+      ],
+      "media_source_tweet_id": [
+        "2095834646370222496"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2096147332815626650",
+    "created_at": "2026-09-05T08:04:03.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096147332815626650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIhzGHkT0g",
+          "end": 43,
+          "expanded_url": "https://x.com/maigo_wakatake/status/2095834646370222496/photo/1",
+          "media_key": "3_2095834629479772160",
+          "start": 20,
+          "url": "https://t.co/WIhzGHkT0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096147332815626650",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095834629479772160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095834646370222496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: https://t.co/WIhzGHkT0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2095834629479772160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXmfcYasAAkjJQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095834629479772160"
+          ],
+          "media_source_tweet_id": [
+            "2095834646370222496"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2096147332815626650",
+        "created_at": "2026-09-05T08:04:03.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096147332815626650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIhzGHkT0g",
+              "end": 43,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2095834646370222496/photo/1",
+              "media_key": "3_2095834629479772160",
+              "start": 20,
+              "url": "https://t.co/WIhzGHkT0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096147332815626650",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095834629479772160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095834646370222496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: https://t.co/WIhzGHkT0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095834629479772160"
+          ]
+        },
+        "author_id": "1315706812935487489",
+        "conversation_id": "2095834646370222496",
+        "created_at": "2026-09-04T11:21:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095834646370222496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIhzGHkT0g",
+              "end": 23,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2095834646370222496/photo/1",
+              "media_key": "3_2095834629479772160",
+              "start": 0,
+              "url": "https://t.co/WIhzGHkT0g"
+            },
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/2095804033495712092",
+              "start": 24,
+              "url": "https://t.co/qtuzGJC15F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095834646370222496",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095834629479772160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20606,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095804033495712092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WIhzGHkT0g https://t.co/qtuzGJC15F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2096147332815626650",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 2313,
+          "like_count": 29128,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "Artefarita eksperimenta kuniklo. Used to be a Kitakari. 以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "is_identity_verified": false,
+        "location": "Ará Orún",
+        "most_recent_tweet_id": "2096113759089828183",
+        "name": "⌘",
+        "pinned_tweet_id": "2082343805421011074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315706812935487489/1707997123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 211,
+          "like_count": 3221,
+          "listed_count": 10,
+          "media_count": 2477,
+          "tweet_count": 22213
+        },
+        "url": "",
+        "username": "maigo_wakatake",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

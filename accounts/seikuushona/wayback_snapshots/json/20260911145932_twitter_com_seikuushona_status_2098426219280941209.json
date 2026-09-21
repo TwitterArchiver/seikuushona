@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098419280056574064",
+    "created_at": "2026-09-11T14:59:32.000Z",
+    "display_text_range": [
+      15,
+      176
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098426219280941209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "lovelaina1201"
+        }
+      ],
+      "urls": [
+        {
+          "description": "特别提醒：tulpa和精神医学中的DID/OSDD/解离障碍等概念并非同一概念（以及大众泛称的“人格分裂”“多重人格”等），我们无意混淆tulpa和上述的医学概念，更坚决反对强行将上述几者相提并论甚至利用tulpa这一概念满足一己私欲，以至伤害真正患者的行为（详情见上方“郑重声明”的蓝色超链接）。与此同时，tulpa也不应当被看作心理/精神疾病去看待，tulpamancy作为在国内外有长期实践的一项心理学技法，选择是否应用以创造tulpa纯属个人选择。 联系我们：goodman3translate@gmail.com",
+          "display_url": "tulpa.cn",
+          "end": 149,
+          "expanded_url": "https://tulpa.cn",
+          "start": 126,
+          "status": 200,
+          "title": "Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间",
+          "unwound_url": "https://tulpa.cn",
+          "url": "https://t.co/HtrWxHozHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098426219280941209",
+    "in_reply_to_user_id": "1684547487460388864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098425982910976124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelaina1201 像是你说的“有意识，高强度的对话”，就类似于其中一种方法。\n存在，是当然存在的。别人没法直接感知其也是真的。\n对于我这种家伙来说，生活里有些事情只会跟自家 Tulpa 倾诉，是自然不过的事情。\n如果想要进一步了解的话—— https://t.co/HtrWxHozHT，可以看看。仅凭我一人是没法说完的。\n（ 2 / 2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098419280056574064",
+        "created_at": "2026-09-11T14:59:32.000Z",
+        "display_text_range": [
+          15,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098426219280941209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "lovelaina1201"
+            }
+          ],
+          "urls": [
+            {
+              "description": "特别提醒：tulpa和精神医学中的DID/OSDD/解离障碍等概念并非同一概念（以及大众泛称的“人格分裂”“多重人格”等），我们无意混淆tulpa和上述的医学概念，更坚决反对强行将上述几者相提并论甚至利用tulpa这一概念满足一己私欲，以至伤害真正患者的行为（详情见上方“郑重声明”的蓝色超链接）。与此同时，tulpa也不应当被看作心理/精神疾病去看待，tulpamancy作为在国内外有长期实践的一项心理学技法，选择是否应用以创造tulpa纯属个人选择。 联系我们：goodman3translate@gmail.com",
+              "display_url": "tulpa.cn",
+              "end": 149,
+              "expanded_url": "https://tulpa.cn",
+              "start": 126,
+              "status": 200,
+              "title": "Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间",
+              "unwound_url": "https://tulpa.cn",
+              "url": "https://t.co/HtrWxHozHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098426219280941209",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098425982910976124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelaina1201 像是你说的“有意识，高强度的对话”，就类似于其中一种方法。\n存在，是当然存在的。别人没法直接感知其也是真的。\n对于我这种家伙来说，生活里有些事情只会跟自家 Tulpa 倾诉，是自然不过的事情。\n如果想要进一步了解的话—— https://t.co/HtrWxHozHT，可以看看。仅凭我一人是没法说完的。\n（ 2 / 2）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098419280056574064",
+        "created_at": "2026-09-11T14:58:35.000Z",
+        "display_text_range": [
+          15,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098425982910976124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "lovelaina1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098425982910976124",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098419280056574064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelaina1201 我的表述能力和知识储备都不太好，如果有什么差错的话还请见谅。\n你所说的东西，其实和从零开始去塑造 Tulpa 是差不多的过程，而不只是幻想朋友。\n不是单纯的天马行空。（ 1 / 2）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098426219280941209",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2364,
+          "like_count": 29439,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海某高中的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）国际象棋（回坑 致力于回到60准度）等事物\n永远喜欢伊蕾娜 \n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了\n只要是人类就可以互fo（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blackna1201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blackna1201",
+                "start": 0,
+                "url": "https://t.co/oHYU9Nukq9"
+              }
+            ]
+          }
+        },
+        "id": "1903061664137912320",
+        "is_identity_verified": false,
+        "location": "和平国洛贝塔",
+        "most_recent_tweet_id": "2098421137579675952",
+        "name": "ankcalb",
+        "pinned_tweet_id": "2007063729146634649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903061664137912320/1785980798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059636137334116352/M77DQoq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 592,
+          "like_count": 25473,
+          "listed_count": 0,
+          "media_count": 749,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/oHYU9Nukq9",
+        "username": "lovelaina1201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2100223180652908674",
+    "created_at": "2026-09-16T14:51:29.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100236135452520481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543753719451242496",
+          "start": 0,
+          "username": "4x_n2ym3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100236135452520481",
+    "in_reply_to_user_id": "1543753719451242496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100223180652908674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x_n2ym3 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2100222471500865536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSV9NdsaIAAkUDA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2100223180652908674",
+        "created_at": "2026-09-16T14:51:29.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100236135452520481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543753719451242496",
+              "start": 0,
+              "username": "4x_n2ym3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100236135452520481",
+        "in_reply_to_user_id": "1543753719451242496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100223180652908674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x_n2ym3 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100222471500865536"
+          ]
+        },
+        "author_id": "1543753719451242496",
+        "conversation_id": "2100223180652908674",
+        "created_at": "2026-09-16T14:00:01.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100223180652908674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyF9BKYEjF",
+              "end": 44,
+              "expanded_url": "https://x.com/4x_n2ym3/status/2100223180652908674/photo/1",
+              "media_key": "3_2100222471500865536",
+              "start": 21,
+              "url": "https://t.co/UyF9BKYEjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100223180652908674",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100222471500865536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天居然还1000fo了＞w＜\n感谢ww https://t.co/UyF9BKYEjF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2100236135452520481",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 2423,
+          "like_count": 29978,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/目前使用gnrha/明日方舟摆烂玩家/arcaea7.0享受中/maimai有点菜/chunithm没瓶颈/间歇性潜水/99.99%回fo/备用号@�����",
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2100223180652908674",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2100072181577257039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 3505,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

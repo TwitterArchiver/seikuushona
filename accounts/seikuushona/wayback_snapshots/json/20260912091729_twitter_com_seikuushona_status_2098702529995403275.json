@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098700860368830527",
+    "created_at": "2026-09-12T09:17:29.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098702529995403275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089299881433448448",
+          "start": 0,
+          "username": "tingzi_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098702529995403275",
+    "in_reply_to_user_id": "2089299881433448448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098700860368830527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingzi_love 摸摸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098700860368830527",
+        "created_at": "2026-09-12T09:17:29.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098702529995403275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089299881433448448",
+              "start": 0,
+              "username": "tingzi_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098702529995403275",
+        "in_reply_to_user_id": "2089299881433448448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098700860368830527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingzi_love 摸摸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089299881433448448",
+        "conversation_id": "2098700860368830527",
+        "created_at": "2026-09-12T09:10:51.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098700860368830527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098700860368830527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kill me，now……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098702529995403275",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2374,
+          "like_count": 29555,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T10:35:55.000Z",
+        "description": "我爱我遇见的每个人\n另一个我:@qinlin_love\nhttps://t.co/USUYiZ7VbZ\n嗯，我是小町子，听起来像女生的名字，不过戏访嘛别在意\n林檎被自欺欺人者气走了，但我还在，生活依旧\n我想回来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "qinlin_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qinlin52771",
+                "end": 51,
+                "expanded_url": "https://ngl.link/qinlin52771",
+                "start": 28,
+                "url": "https://t.co/USUYiZ7VbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "不想做这个可以放pbl页面设计吗.com",
+                "end": 23,
+                "expanded_url": "http://xn--pbl-628d7es0ct4ew3koka601is4jm89i0kag40c6q1ay0d.com",
+                "start": 0,
+                "url": "https://t.co/w4d1vcFtPw"
+              }
+            ]
+          }
+        },
+        "id": "2089299881433448448",
+        "is_identity_verified": false,
+        "location": "某店前台打瞌睡，被迫看店，有小蛋糕趁我睡着放桌上谢谢",
+        "most_recent_tweet_id": "2098700860368830527",
+        "name": "林檎k",
+        "pinned_tweet_id": "2089376990805778819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089299881433448448/1788595627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096152007619014656/zmYAyND4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 61,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/w4d1vcFtPw",
+        "username": "tingzi_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

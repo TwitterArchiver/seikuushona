@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098419280056574064",
+    "created_at": "2026-09-11T14:58:35.000Z",
+    "display_text_range": [
+      15,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098425982910976124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "lovelaina1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098425982910976124",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098419280056574064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelaina1201 我的表述能力和知识储备都不太好，如果有什么差错的话还请见谅。\n你所说的东西，其实和从零开始去塑造 Tulpa 是差不多的过程，而不只是幻想朋友。\n不是单纯的天马行空。（ 1 / 2）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_2098419271215005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8VNZKawAAg3ul.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098419280056574064",
+        "created_at": "2026-09-11T14:58:35.000Z",
+        "display_text_range": [
+          15,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098425982910976124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "lovelaina1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098425982910976124",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098419280056574064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelaina1201 我的表述能力和知识储备都不太好，如果有什么差错的话还请见谅。\n你所说的东西，其实和从零开始去塑造 Tulpa 是差不多的过程，而不只是幻想朋友。\n不是单纯的天马行空。（ 1 / 2）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098419271215005696"
+          ]
+        },
+        "author_id": "1903061664137912320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098419280056574064",
+        "created_at": "2026-09-11T14:31:57.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098419280056574064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvSQlgdVTf",
+              "end": 82,
+              "expanded_url": "https://x.com/lovelaina1201/status/2098419280056574064/photo/1",
+              "media_key": "3_2098419271215005696",
+              "start": 59,
+              "url": "https://t.co/HvSQlgdVTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098419280056574064",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098419271215005696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇奇怪怪的思考以及碎碎念一则\n请不要喷我qwq 我想的这些东西完全没有依据 只是单纯的心情不好就开始乱想了而已qwq https://t.co/HvSQlgdVTf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098425982910976124",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2364,
+          "like_count": 29439,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海某高中的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）国际象棋（回坑 致力于回到60准度）等事物\n永远喜欢伊蕾娜 \n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了\n只要是人类就可以互fo（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blackna1201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blackna1201",
+                "start": 0,
+                "url": "https://t.co/oHYU9Nukq9"
+              }
+            ]
+          }
+        },
+        "id": "1903061664137912320",
+        "is_identity_verified": false,
+        "location": "和平国洛贝塔",
+        "most_recent_tweet_id": "2098421137579675952",
+        "name": "ankcalb",
+        "pinned_tweet_id": "2007063729146634649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903061664137912320/1785980798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059636137334116352/M77DQoq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 592,
+          "like_count": 25473,
+          "listed_count": 0,
+          "media_count": 749,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/oHYU9Nukq9",
+        "username": "lovelaina1201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

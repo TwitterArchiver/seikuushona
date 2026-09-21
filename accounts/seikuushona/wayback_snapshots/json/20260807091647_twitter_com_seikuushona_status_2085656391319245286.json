@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2085610420690419994",
+    "created_at": "2026-08-07T09:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085656391319245286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085656391319245286",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085610420690419994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji 少年，你太年輕了。你以為這個推特上真的有那麼多人回覆你的帖子？其實都是我一個人回的，不然我再換個ID發同樣的話給你看。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2085610414570983425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTnzxb0AEA-ZS.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2085610420690419994",
+        "created_at": "2026-08-07T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085656391319245286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085656391319245286",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085610420690419994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 少年，你太年輕了。你以為這個推特上真的有那麼多人回覆你的帖子？其實都是我一個人回的，不然我再換個ID發同樣的話給你看。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085610414570983425"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2085610420690419994",
+        "created_at": "2026-08-07T06:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085610420690419994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngjjpwYjG2",
+              "end": 45,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2085610420690419994/photo/1",
+              "media_key": "3_2085610414570983425",
+              "start": 22,
+              "url": "https://t.co/ngjjpwYjG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085610420690419994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1185,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是星野藤，也是花火\n\n愚者千面，游戏人间 https://t.co/ngjjpwYjG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1532,
+          "like_count": 19971,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1171,
+          "like_count": 1945,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098701591268499512",
+    "created_at": "2026-09-12T09:41:46.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098708641540870417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720575392371949568",
+          "start": 0,
+          "username": "k4sum1_toki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098708641540870417",
+    "in_reply_to_user_id": "1720575392371949568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098701591268499512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4sum1_toki 或许......也就只能把目光仅仅放在当下了吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098701591268499512",
+        "created_at": "2026-09-12T09:41:46.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098708641540870417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720575392371949568",
+              "start": 0,
+              "username": "k4sum1_toki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098708641540870417",
+        "in_reply_to_user_id": "1720575392371949568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098701591268499512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4sum1_toki 或许......也就只能把目光仅仅放在当下了吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720575392371949568",
+        "conversation_id": "2098701591268499512",
+        "created_at": "2026-09-12T09:13:46.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098701591268499512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098701591268499512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住院多久了呢……一周多了？\n终于可以回家了\n但 为什么还是感觉心里\n很难受 特别难受\n怎么办？我该\n我该怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098708641540870417",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2382,
+          "like_count": 29621,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T22:55:27.000Z",
+        "description": "Vibecoder | AI Artist | 随机写诗中 | 07 | OD不行 | INFP | Peace & Love | 灵魂的旅者 | 抑郁治疗中 | 精神失常 | 实际白狐 | MtX | 实际心理性别存疑 偏女 | 泛性恋\n愿望是将自己的温柔分给每一个人 愿世人真诚相待",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k4sum1_toki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k4sum1_toki",
+                "start": 0,
+                "url": "https://t.co/3TyEOPiQYT"
+              }
+            ]
+          }
+        },
+        "id": "1720575392371949568",
+        "is_identity_verified": false,
+        "location": "永昼事务所 ELA",
+        "most_recent_tweet_id": "2098701591268499512",
+        "name": "時越·霞|Tokikoshi Kasumi",
+        "pinned_tweet_id": "2087457877149794401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720575392371949568/1788138784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094088853871329280/mqNd3x5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 290,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/3TyEOPiQYT",
+        "username": "k4sum1_toki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

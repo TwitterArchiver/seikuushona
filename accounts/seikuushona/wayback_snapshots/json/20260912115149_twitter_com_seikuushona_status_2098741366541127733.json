@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098616738648887418",
+    "created_at": "2026-09-12T11:51:49.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098741366541127733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098741366541127733",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098616738648887418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint 那帮选史政地的都在做什么："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2098616723155124224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_Iym9bAAAKR0N.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098616738648887418",
+        "created_at": "2026-09-12T11:51:49.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098741366541127733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098741366541127733",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098616738648887418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint 那帮选史政地的都在做什么："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098616723155124224"
+          ]
+        },
+        "author_id": "1790006276162048000",
+        "conversation_id": "2098616738648887418",
+        "created_at": "2026-09-12T03:36:35.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098616738648887418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pk7snR5UxH",
+              "end": 31,
+              "expanded_url": "https://x.com/iCosint/status/2098616738648887418/photo/1",
+              "media_key": "3_2098616723155124224",
+              "start": 8,
+              "url": "https://t.co/pk7snR5UxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098616738648887418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098616723155124224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 10143,
+          "like_count": 606,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "条条大路通罗马 https://t.co/pk7snR5UxH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098741366541127733",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 2387,
+          "like_count": 29670,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "🎂 08/06\n🎮 GTAV Minecraft RFS \n💻 OIer(已退役)\n🗺️ 浙江 Native",
+        "id": "1790006276162048000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098728009385845020",
+        "name": "氯化铵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1786600030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088471262914064384/-Hi973kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 632,
+          "like_count": 34541,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 7639
+        },
+        "url": "",
+        "username": "iCosint",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

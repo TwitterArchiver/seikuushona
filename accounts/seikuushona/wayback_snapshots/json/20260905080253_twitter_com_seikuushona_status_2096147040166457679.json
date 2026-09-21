@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2096147040166457679",
+    "created_at": "2026-09-05T08:02:53.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096147040166457679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "20484009",
+          "start": 3,
+          "username": "riverleaf88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096147040166457679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095813846355382333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riverleaf88: 现在的内存价格让树莓派的价格变得十分可笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2096147040166457679",
+        "created_at": "2026-09-05T08:02:53.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096147040166457679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "20484009",
+              "start": 3,
+              "username": "riverleaf88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096147040166457679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095813846355382333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riverleaf88: 现在的内存价格让树莓派的价格变得十分可笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20484009",
+        "conversation_id": "2095813846355382333",
+        "created_at": "2026-09-04T09:58:53.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095813846355382333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095813846355382333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 39189,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在的内存价格让树莓派的价格变得十分可笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2096147040166457679",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 2313,
+          "like_count": 29125,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-02-10T01:28:58.000Z",
+        "description": "AI developer and startup founder, former search engine product manager, and father to a son.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lishun.me",
+                "end": 23,
+                "expanded_url": "https://blog.lishun.me",
+                "start": 0,
+                "url": "https://t.co/9oPAY4QfuZ"
+              }
+            ]
+          }
+        },
+        "id": "20484009",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2096089061878571153",
+        "name": "River Leaf",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20484009/1784292996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26029,
+          "following_count": 1310,
+          "like_count": 24544,
+          "listed_count": 229,
+          "media_count": 1810,
+          "tweet_count": 28820
+        },
+        "url": "https://t.co/9oPAY4QfuZ",
+        "username": "riverleaf88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

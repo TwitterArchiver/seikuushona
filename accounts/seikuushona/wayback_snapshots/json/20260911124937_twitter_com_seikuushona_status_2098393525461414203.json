@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098369692054520296",
+    "created_at": "2026-09-11T12:49:37.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098393525461414203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098393525461414203",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098369692054520296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C 团。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098369692054520296",
+        "created_at": "2026-09-11T12:49:37.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098393525461414203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098393525461414203",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098369692054520296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C 团。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886560923518779396",
+        "conversation_id": "2098369692054520296",
+        "created_at": "2026-09-11T11:14:55.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098369692054520296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rippin_C/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Rippin_C/status/2098077685616717984",
+              "start": 31,
+              "url": "https://t.co/NAijY1Sbpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098369692054520296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098077685616717984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缩成一团但是不想锁推\n所以我其实想让所有人看我缩成一团（？） https://t.co/NAijY1Sbpv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098393525461414203",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2349,
+          "like_count": 29316,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物；非键政非涩涩日常推；希望做一个少年感&包容&温柔&可爱&冷静的人。喜欢的游戏和番剧挂在我的个人网页上！主包没有雷点只有可能踩雷，包容性远超常人，又没有脾气，所以怎样和我互动都没关系啦。好朋友 @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "bin_x_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "void-island.com",
+                "end": 23,
+                "expanded_url": "http://void-island.com",
+                "start": 0,
+                "url": "https://t.co/ikZ6E4LJ1K"
+              }
+            ]
+          }
+        },
+        "id": "886560923518779396",
+        "is_identity_verified": false,
+        "location": "拉格朗日点L3",
+        "most_recent_tweet_id": "2098379426463731934",
+        "name": "涟漪Rippin",
+        "pinned_tweet_id": "2095158235758289228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886560923518779396/1702083200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066895100060545024/RTyHfyUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1067,
+          "like_count": 26147,
+          "listed_count": 7,
+          "media_count": 793,
+          "tweet_count": 5496
+        },
+        "url": "https://t.co/ikZ6E4LJ1K",
+        "username": "Rippin_C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

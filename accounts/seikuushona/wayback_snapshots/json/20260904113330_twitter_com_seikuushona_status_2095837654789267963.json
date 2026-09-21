@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2095836351216423198",
+    "created_at": "2026-09-04T11:33:30.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095837654789267963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689704132242980870",
+          "start": 0,
+          "username": "LuochancyOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095837654789267963",
+    "in_reply_to_user_id": "1689704132242980870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095836351216423198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuochancyOWO 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2095836345549897728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXoDVPawAAYpzY.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2095836351216423198",
+        "created_at": "2026-09-04T11:33:30.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095837654789267963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689704132242980870",
+              "start": 0,
+              "username": "LuochancyOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095837654789267963",
+        "in_reply_to_user_id": "1689704132242980870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095836351216423198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuochancyOWO 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095836345549897728"
+          ]
+        },
+        "author_id": "1689704132242980870",
+        "conversation_id": "2095836351216423198",
+        "created_at": "2026-09-04T11:28:19.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095836351216423198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwqH4ECvX7",
+              "end": 36,
+              "expanded_url": "https://x.com/LuochancyOWO/status/2095836351216423198/photo/1",
+              "media_key": "3_2095836345549897728",
+              "start": 13,
+              "url": "https://t.co/zwqH4ECvX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095836351216423198",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095836345549897728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1k fo了诶！\n芜湖！ https://t.co/zwqH4ECvX7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2095837654789267963",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 2302,
+          "like_count": 28884,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://www.luochancy.com",
+                "start": 0,
+                "url": "https://t.co/TekbKnSnGD"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "is_identity_verified": false,
+        "location": "一个没有人打扰的地方",
+        "most_recent_tweet_id": "2095836470204608814",
+        "name": "洛寒兮",
+        "pinned_tweet_id": "2033243890741133630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689704132242980870/1775996605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304874708996096/X16O06E7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1371,
+          "like_count": 4199,
+          "listed_count": 3,
+          "media_count": 905,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/TekbKnSnGD",
+        "username": "LuochancyOWO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

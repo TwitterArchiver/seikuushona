@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2101211600493613095",
+    "created_at": "2026-09-19T07:55:51.000Z",
+    "display_text_range": [
+      10,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101218701026717983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/waylybaye/stat…",
+          "end": 55,
+          "expanded_url": "https://x.com/waylybaye/status/2087400859240161392",
+          "start": 32,
+          "url": "https://t.co/odvk5cv5lI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101218701026717983",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087400859240161392",
+        "type": "quoted"
+      },
+      {
+        "id": "2101211600493613095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza iOS 端或许可以试试 DAMA 这个软件。https://t.co/odvk5cv5lI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2087400419337306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfvnzKaAAAXb87.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2087400439214178304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfvo9NbAAAQ9Ln.png",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2101211600493613095",
+        "created_at": "2026-09-19T07:55:51.000Z",
+        "display_text_range": [
+          10,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101218701026717983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/waylybaye/stat…",
+              "end": 55,
+              "expanded_url": "https://x.com/waylybaye/status/2087400859240161392",
+              "start": 32,
+              "url": "https://t.co/odvk5cv5lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101218701026717983",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087400859240161392",
+            "type": "quoted"
+          },
+          {
+            "id": "2101211600493613095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza iOS 端或许可以试试 DAMA 这个软件。https://t.co/odvk5cv5lI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2101211600493613095",
+        "created_at": "2026-09-19T07:27:38.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101211600493613095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101211600493613095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔…\n真的就是\n窝现在是完全不敢发有关国内平台的任何截图\n生怕有隐藏水印…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087400419337306112",
+            "3_2087400439214178304"
+          ]
+        },
+        "author_id": "24124203",
+        "conversation_id": "2087400859240161392",
+        "created_at": "2026-08-12T04:48:41.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087400859240161392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qJDOuJzIs",
+              "end": 165,
+              "expanded_url": "https://x.com/waylybaye/status/2087400859240161392/photo/1",
+              "media_key": "3_2087400419337306112",
+              "start": 142,
+              "url": "https://t.co/6qJDOuJzIs"
+            },
+            {
+              "display_url": "pic.x.com/6qJDOuJzIs",
+              "end": 165,
+              "expanded_url": "https://x.com/waylybaye/status/2087400859240161392/photo/1",
+              "media_key": "3_2087400439214178304",
+              "start": 142,
+              "url": "https://t.co/6qJDOuJzIs"
+            },
+            {
+              "display_url": "x.com/x41932/status/…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/x41932/status/2087388886884590004",
+              "start": 166,
+              "url": "https://t.co/6pWebl09fN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087400859240161392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087400419337306112"
+          },
+          {
+            "media_key": "3_2087400439214178304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 83626,
+          "like_count": 415,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087388886884590004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的有的，这个功能也有好几年了，但是我从未宣传过该功能，所以大多数用户不知道。我把这个功能当作纯彩蛋了，从未书面提到过它的作用。\n\nDAMA 的「压缩相似颜色」能清理掉绝大多数 App 截图里用盲水印藏的私人信息。曾经我以为这个彩蛋没人用还去掉了，没想到立马有用户来反馈又加回来了。 https://t.co/6qJDOuJzIs https://t.co/6pWebl09fN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2101218701026717983",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 2454,
+          "like_count": 30249,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜不见证｜？Tzaza｜08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n我喜欢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbeFnU"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2101217578312192498",
+        "name": "❤️Konizaza❤️",
+        "pinned_tweet_id": "2097346029851214293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1915,
+          "like_count": 10580,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 4531
+        },
+        "url": "https://t.co/UxxyJbeFnU",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-13T04:05:00.000Z",
+        "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+        "id": "24124203",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2101199863241396401",
+        "name": "Baye",
+        "pinned_tweet_id": "1817766319745597450",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162626,
+          "following_count": 555,
+          "like_count": 22140,
+          "listed_count": 1338,
+          "media_count": 793,
+          "tweet_count": 15171
+        },
+        "url": "",
+        "username": "waylybaye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

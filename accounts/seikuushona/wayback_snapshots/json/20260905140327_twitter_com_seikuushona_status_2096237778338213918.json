@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2096237778338213918",
+    "created_at": "2026-09-05T14:03:27.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096237778338213918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hoshino_Iroha1…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Hoshino_Iroha10/status/2096119929808224530",
+          "start": 49,
+          "url": "https://t.co/pMHvxGRE7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096237778338213918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096119929808224530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特引用都可以九层嵌套了。\n其实理论上几层都可以，但第七层的转发记录全部不知为何被 X 隐藏了。 https://t.co/pMHvxGRE7p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2096237778338213918",
+        "created_at": "2026-09-05T14:03:27.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096237778338213918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hoshino_Iroha1…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Hoshino_Iroha10/status/2096119929808224530",
+              "start": 49,
+              "url": "https://t.co/pMHvxGRE7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096237778338213918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096119929808224530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特引用都可以九层嵌套了。\n其实理论上几层都可以，但第七层的转发记录全部不知为何被 X 隐藏了。 https://t.co/pMHvxGRE7p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800905994186432512",
+        "conversation_id": "2096119929808224530",
+        "created_at": "2026-09-05T06:15:09.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096119929808224530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2096085263906914668",
+              "start": 17,
+              "url": "https://t.co/5mksWKrX6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096119929808224530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096085263906914668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗\n推特引用都可以八层嵌套了 https://t.co/5mksWKrX6j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2096237778338213918",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 2333,
+          "like_count": 29213,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です 低强度刷推  跨性别友好🏳️‍⚧️ | ADHD | BMI22.8 | 数码收集癖 | 业余摄影 航拍 | 89648964 | 正體中文🇹🇼 简体中文🇨🇳 日本語🇯🇵正在学 | 不会打音游\n📬 https://t.co/PvmynagsX5\n\n『人生、二十七で死ねるならロックンロールは僕を救った』",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 127,
+                "expanded_url": "http://ngl.link/hoshino_iroha10",
+                "start": 104,
+                "url": "https://t.co/PvmynagsX5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoshino_iroha10",
+                "start": 0,
+                "url": "https://t.co/AQCy4BsVsT"
+              }
+            ]
+          }
+        },
+        "id": "1800905994186432512",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2096234115477483977",
+        "name": "星野いろは",
+        "pinned_tweet_id": "2088527200287088975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800905994186432512/1780323920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1415,
+          "like_count": 76289,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 4209
+        },
+        "url": "https://t.co/AQCy4BsVsT",
+        "username": "Hoshino_Iroha10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

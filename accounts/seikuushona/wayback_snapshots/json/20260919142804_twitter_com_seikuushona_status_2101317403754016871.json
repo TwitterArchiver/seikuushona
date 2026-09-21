@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2101311371661242534",
+    "created_at": "2026-09-19T14:28:04.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101317403754016871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939124060090478592",
+          "start": 0,
+          "username": "KananosaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101317403754016871",
+    "in_reply_to_user_id": "1939124060090478592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101311371661242534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KananosaK 抱抱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "neko cry",
+        "height": 200,
+        "media_key": "3_2101311363293577217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlbjTubAAEdX5x.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2101311371661242534",
+        "created_at": "2026-09-19T14:28:04.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101317403754016871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939124060090478592",
+              "start": 0,
+              "username": "KananosaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101317403754016871",
+        "in_reply_to_user_id": "1939124060090478592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101311371661242534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KananosaK 抱抱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101311363293577217"
+          ]
+        },
+        "author_id": "1939124060090478592",
+        "conversation_id": "2101311371661242534",
+        "created_at": "2026-09-19T14:04:06.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101311371661242534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsScVV9JHJ",
+              "end": 40,
+              "expanded_url": "https://x.com/KananosaK/status/2101311371661242534/photo/1",
+              "media_key": "3_2101311363293577217",
+              "start": 17,
+              "url": "https://t.co/hsScVV9JHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101311371661242534",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "neko cry",
+            "media_key": "3_2101311363293577217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨今天做了好多事...好累... https://t.co/hsScVV9JHJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2101317403754016871",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 2454,
+          "like_count": 30346,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T00:49:44.000Z",
+        "description": "Kananosa On X!",
+        "id": "1939124060090478592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101311371661242534",
+        "name": "Kananosa",
+        "pinned_tweet_id": "2087015949207748808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939124060090478592/1787498743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091534658014183424/pw69Baxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 75,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "KananosaK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

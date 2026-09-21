@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098381439242772615",
+    "created_at": "2026-09-11T12:01:35.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098381439242772615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "430306392",
+          "start": 3,
+          "username": "TutaPrivacy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098381439242772615",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098340732528418997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TutaPrivacy: \"I have nothing to hide.\"\n\nFalse.\n\nYou have medical history\n\nYou have financial behavior\n\nYou have location patterns\n\nYou…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098381439242772615",
+        "created_at": "2026-09-11T12:01:35.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098381439242772615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "430306392",
+              "start": 3,
+              "username": "TutaPrivacy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098381439242772615",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098340732528418997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TutaPrivacy: \"I have nothing to hide.\"\n\nFalse.\n\nYou have medical history\n\nYou have financial behavior\n\nYou have location patterns\n\nYou…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "430306392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1195376898001403904",
+              "name": "Data Privacy and Protection"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1195376898001403904",
+              "name": "Data Privacy and Protection"
+            }
+          }
+        ],
+        "conversation_id": "2098340732528418997",
+        "created_at": "2026-09-11T09:19:50.000Z",
+        "display_text_range": [
+          0,
+          248
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098340732528418997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098340732528418997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 18264,
+          "like_count": 1524,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "\"I have nothing to hide.\"\n\nFalse.\n\nYou have medical history\n\nYou have financial behavior\n\nYou have location patterns\n\nYou have political views\n\nYou have relationship data\n\nPrivacy was never about hiding crimes. It was always about owning your life."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "https://t.co/1YAey0UQ9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/trtt.n…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/trtt.net",
+                "start": 0,
+                "url": "https://t.co/1YAey0UQ9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098381439242772615",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2343,
+          "like_count": 29230,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-07T00:46:19.000Z",
+        "description": "Tuta is secure email, calendar & drive service with quantum-safe encryption. Open-source & forever free. Visit us 👉  https://t.co/KgiAsFMp6x Need help? @TutaSupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 164,
+                "start": 152,
+                "username": "TutaSupport"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tuta.com",
+                "end": 140,
+                "expanded_url": "http://tuta.com",
+                "start": 117,
+                "url": "https://t.co/KgiAsFMp6x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tuta.com",
+                "end": 23,
+                "expanded_url": "https://tuta.com",
+                "start": 0,
+                "url": "https://t.co/jrmtjvXcHi"
+              }
+            ]
+          }
+        },
+        "id": "430306392",
+        "is_identity_verified": false,
+        "location": "Hanover (Germany)",
+        "most_recent_tweet_id": "2098340732528418997",
+        "name": "Tuta",
+        "pinned_tweet_id": "1965414434215436388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430306392/1777538147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067186966106345472/RNhO9An2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123945,
+          "following_count": 25562,
+          "like_count": 4180,
+          "listed_count": 1054,
+          "media_count": 2191,
+          "tweet_count": 15594
+        },
+        "url": "https://t.co/jrmtjvXcHi",
+        "username": "TutaPrivacy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

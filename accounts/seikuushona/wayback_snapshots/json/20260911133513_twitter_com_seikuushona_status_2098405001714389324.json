@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2098330194121794008",
+    "created_at": "2026-09-11T13:35:13.000Z",
+    "display_text_range": [
+      37,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098405001714389324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2944069290",
+          "start": 0,
+          "username": "Entropy4AGI"
+        },
+        {
+          "end": 24,
+          "id": "2827770396",
+          "start": 13,
+          "username": "pinkandpig"
+        },
+        {
+          "end": 36,
+          "id": "825399047556960257",
+          "start": 25,
+          "username": "SimonJP404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098405001714389324",
+    "in_reply_to_user_id": "2944069290",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098386659368751596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy4AGI @pinkandpig @SimonJP404 Average AGI related content creator's knowledge:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2098330194121794008",
+        "created_at": "2026-09-11T13:35:13.000Z",
+        "display_text_range": [
+          37,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098405001714389324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2944069290",
+              "start": 0,
+              "username": "Entropy4AGI"
+            },
+            {
+              "end": 24,
+              "id": "2827770396",
+              "start": 13,
+              "username": "pinkandpig"
+            },
+            {
+              "end": 36,
+              "id": "825399047556960257",
+              "start": 25,
+              "username": "SimonJP404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098405001714389324",
+        "in_reply_to_user_id": "2944069290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098386659368751596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy4AGI @pinkandpig @SimonJP404 Average AGI related content creator's knowledge:"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2944069290",
+        "conversation_id": "2098330194121794008",
+        "created_at": "2026-09-11T12:22:20.000Z",
+        "display_text_range": [
+          24,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098386659368751596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2827770396",
+              "start": 0,
+              "username": "pinkandpig"
+            },
+            {
+              "end": 23,
+              "id": "825399047556960257",
+              "start": 12,
+              "username": "SimonJP404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098386659368751596",
+        "in_reply_to_user_id": "2827770396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 658,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098351382537675133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkandpig @SimonJP404 你是畜生吗，不知道南京大屠杀在哪天？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2098405001714389324",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 2357,
+          "like_count": 29373,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-26T16:23:30.000Z",
+        "description": "AI/ML researcher, builder, learner",
+        "id": "2944069290",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098388984225223079",
+        "name": "Entropy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2944069290/1479612096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063808164588294144/xAbOS_j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 1331,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "Entropy4AGI",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-23T10:12:32.000Z",
+        "description": "",
+        "id": "2827770396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098380035715674386",
+        "name": "TonyMaya",
+        "pinned_tweet_id": "1594568705911844864",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611282311835963392/1jkuO_s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 917,
+          "like_count": 1733,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 2531
+        },
+        "url": "",
+        "username": "pinkandpig",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-28T17:44:02.000Z",
+        "description": "📷 Photographer | Writer | 🗼Live in Tokyo | Crypto | Digital Media | ✍️ https://t.co/1wDezdZIPK | 🌏全日本制霸| 📧 商务联系DM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "SONG.AL",
+                "end": 94,
+                "expanded_url": "http://SONG.AL",
+                "start": 71,
+                "url": "https://t.co/1wDezdZIPK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AppDoDo",
+                "end": 23,
+                "expanded_url": "https://t.me/AppDoDo",
+                "start": 0,
+                "url": "https://t.co/WM1LaBY0cs"
+              }
+            ]
+          }
+        },
+        "id": "825399047556960257",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2098397936350875720",
+        "name": "Simon",
+        "pinned_tweet_id": "1961092807910883587",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825399047556960257/1619959343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359332433112436736/Ua21bLy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10665,
+          "following_count": 718,
+          "like_count": 818,
+          "listed_count": 64,
+          "media_count": 1525,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/WM1LaBY0cs",
+        "username": "SimonJP404",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
