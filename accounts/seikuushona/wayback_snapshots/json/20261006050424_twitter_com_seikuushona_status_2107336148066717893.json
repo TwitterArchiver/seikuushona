@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107300526375497728",
+        "3_2107300912196931584"
+      ],
+      "media_source_tweet_id": [
+        "2107301588205551990",
+        "2107301588205551990"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107336148066717893",
+    "created_at": "2026-10-06T05:04:24.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107336148066717893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035898194366963712",
+          "start": 3,
+          "username": "Brosianes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAaG0BYSRy",
+          "end": 65,
+          "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+          "media_key": "3_2107300526375497728",
+          "start": 42,
+          "url": "https://t.co/iAaG0BYSRy"
+        },
+        {
+          "display_url": "pic.x.com/iAaG0BYSRy",
+          "end": 65,
+          "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+          "media_key": "3_2107300912196931584",
+          "start": 42,
+          "url": "https://t.co/iAaG0BYSRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107336148066717893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107300526375497728"
+      },
+      {
+        "media_key": "3_2107300912196931584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107301588205551990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brosianes: 感谢大家....！\n转发此贴抽Dario内裤一条（？ https://t.co/iAaG0BYSRy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2107300526375497728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6iqe2a8AAsl2S.jpg",
+        "width": 1192
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2107300912196931584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6jA8Ja0AAEypf.jpg",
+        "width": 1714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107300526375497728",
+            "3_2107300912196931584"
+          ],
+          "media_source_tweet_id": [
+            "2107301588205551990",
+            "2107301588205551990"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107336148066717893",
+        "created_at": "2026-10-06T05:04:24.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107336148066717893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035898194366963712",
+              "start": 3,
+              "username": "Brosianes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAaG0BYSRy",
+              "end": 65,
+              "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+              "media_key": "3_2107300526375497728",
+              "start": 42,
+              "url": "https://t.co/iAaG0BYSRy"
+            },
+            {
+              "display_url": "pic.x.com/iAaG0BYSRy",
+              "end": 65,
+              "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+              "media_key": "3_2107300912196931584",
+              "start": 42,
+              "url": "https://t.co/iAaG0BYSRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107336148066717893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107300526375497728"
+          },
+          {
+            "media_key": "3_2107300912196931584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107301588205551990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brosianes: 感谢大家....！\n转发此贴抽Dario内裤一条（？ https://t.co/iAaG0BYSRy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107300526375497728",
+            "3_2107300912196931584"
+          ]
+        },
+        "author_id": "2035898194366963712",
+        "conversation_id": "2107301588205551990",
+        "created_at": "2026-10-06T02:47:05.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107301588205551990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAaG0BYSRy",
+              "end": 50,
+              "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+              "media_key": "3_2107300526375497728",
+              "start": 27,
+              "url": "https://t.co/iAaG0BYSRy"
+            },
+            {
+              "display_url": "pic.x.com/iAaG0BYSRy",
+              "end": 50,
+              "expanded_url": "https://x.com/Brosianes/status/2107301588205551990/photo/1",
+              "media_key": "3_2107300912196931584",
+              "start": 27,
+              "url": "https://t.co/iAaG0BYSRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107301588205551990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107300526375497728"
+          },
+          {
+            "media_key": "3_2107300912196931584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 654,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大家....！\n转发此贴抽Dario内裤一条（？ https://t.co/iAaG0BYSRy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107336148066717893",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 2770,
+          "like_count": 34448,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "🎵一起逛美食街🍛进奶茶店🥤全部都尝一遍✨！\n· 史诗款大啥子 / 复古款能工智人 / 绝对清水的日常推\n· 喜欢这个世界上的好多东西💕传说级的大胃袋🍖世界上最不会Coding的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/brosianes",
+                "end": 23,
+                "expanded_url": "https://ngl.link/brosianes",
+                "start": 0,
+                "url": "https://t.co/Axg5pA6Ats"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With GGGUA",
+        "most_recent_tweet_id": "2107335655579930877",
+        "name": "Ambrosia✨",
+        "pinned_tweet_id": "2105239578944909697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1790600084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104552260714065920/SvCooZg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 280,
+          "like_count": 5844,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/Axg5pA6Ats",
+        "username": "Brosianes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

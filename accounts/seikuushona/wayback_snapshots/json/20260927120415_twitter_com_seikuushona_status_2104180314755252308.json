@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103770321740505088"
+      ],
+      "media_source_tweet_id": [
+        "2103770378107851128"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Search",
+          "id": "1013834759431077889",
+          "name": "Google Search"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2104180314755252308",
+    "created_at": "2026-09-27T12:04:15.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104180314755252308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "981153022213419008",
+          "start": 3,
+          "username": "tehmondspartan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lEizs74pPH",
+          "end": 81,
+          "expanded_url": "https://x.com/tehmondspartan/status/2103770378107851128/photo/1",
+          "media_key": "3_2103770321740505088",
+          "start": 58,
+          "url": "https://t.co/lEizs74pPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104180314755252308",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "alt_text": "The \"Google Search\" button as shown here is no longer present, in place of it are three new buttons related to A/I",
+        "media_key": "3_2103770321740505088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 940
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103770378107851128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tehmondspartan: \"Google Search\" button, RIP 1999-2026 https://t.co/lEizs74pPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "The \"Google Search\" button as shown here is no longer present, in place of it are three new buttons related to A/I",
+        "height": 278,
+        "media_key": "3_2103770321740505088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIX9hxaIAA-nj0.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103770321740505088"
+          ],
+          "media_source_tweet_id": [
+            "2103770378107851128"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Search",
+              "id": "1013834759431077889",
+              "name": "Google Search"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2104180314755252308",
+        "created_at": "2026-09-27T12:04:15.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104180314755252308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "981153022213419008",
+              "start": 3,
+              "username": "tehmondspartan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEizs74pPH",
+              "end": 81,
+              "expanded_url": "https://x.com/tehmondspartan/status/2103770378107851128/photo/1",
+              "media_key": "3_2103770321740505088",
+              "start": 58,
+              "url": "https://t.co/lEizs74pPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104180314755252308",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "The \"Google Search\" button as shown here is no longer present, in place of it are three new buttons related to A/I",
+            "media_key": "3_2103770321740505088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 940
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103770378107851128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tehmondspartan: \"Google Search\" button, RIP 1999-2026 https://t.co/lEizs74pPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103770321740505088"
+          ]
+        },
+        "author_id": "981153022213419008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Search",
+              "id": "1013834759431077889",
+              "name": "Google Search"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2103770378107851128",
+        "created_at": "2026-09-26T08:55:18.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103770378107851128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEizs74pPH",
+              "end": 61,
+              "expanded_url": "https://x.com/tehmondspartan/status/2103770378107851128/photo/1",
+              "media_key": "3_2103770321740505088",
+              "start": 38,
+              "url": "https://t.co/lEizs74pPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103770378107851128",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "The \"Google Search\" button as shown here is no longer present, in place of it are three new buttons related to A/I",
+            "media_key": "3_2103770321740505088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1274,
+          "impression_count": 5236609,
+          "like_count": 20566,
+          "quote_count": 191,
+          "reply_count": 159,
+          "retweet_count": 940
+        },
+        "reply_settings": "everyone",
+        "text": "\"Google Search\" button, RIP 1999-2026 https://t.co/lEizs74pPH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "Formerly 青空 しょな .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2104180314755252308",
+        "name": "浅川 きよ",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 2541,
+          "like_count": 31803,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-03T12:54:44.000Z",
+        "description": "Some guy who likes to do cool stuff / 23 / he/him / 🇮🇩\n(NO AI)",
+        "id": "981153022213419008",
+        "is_identity_verified": false,
+        "location": "MAP01 - Entryway",
+        "most_recent_tweet_id": "2104014631958364585",
+        "name": "MondySpartan",
+        "pinned_tweet_id": "1851304532967641510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981153022213419008/1743614395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007461315980525568/2cJvzg0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7715,
+          "following_count": 549,
+          "like_count": 13797,
+          "listed_count": 28,
+          "media_count": 1048,
+          "tweet_count": 22089
+        },
+        "url": "",
+        "username": "tehmondspartan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

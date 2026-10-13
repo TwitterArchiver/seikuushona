@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105184747903472026",
+    "created_at": "2026-09-30T06:35:30.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105184747903472026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942422285044047873",
+          "start": 3,
+          "username": "Hakonootoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105184747903472026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105163498951213412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakonootoko: 日本的外国人就业方针，让我觉得特别傻逼的一点是：\n日本人似乎认为，拿永驻技人国签证的外国人，都来自比较富裕的国家，他们不缺基础条件，目的就是拿身份留日本，跟日本人抢福利。所以把它们砍了；…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105184747903472026",
+        "created_at": "2026-09-30T06:35:30.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105184747903472026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942422285044047873",
+              "start": 3,
+              "username": "Hakonootoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105184747903472026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105163498951213412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakonootoko: 日本的外国人就业方针，让我觉得特别傻逼的一点是：\n日本人似乎认为，拿永驻技人国签证的外国人，都来自比较富裕的国家，他们不缺基础条件，目的就是拿身份留日本，跟日本人抢福利。所以把它们砍了；…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942422285044047873",
+        "conversation_id": "2105163498951213412",
+        "created_at": "2026-09-30T05:11:04.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105163498951213412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuebanzhu/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/yuebanzhu/status/2105103794984104397",
+              "start": 94,
+              "url": "https://t.co/cP2KMj6R9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105163498951213412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本的外国人就业方针，让我觉得特别傻逼的一点是：\n日本人似乎认为，拿永驻技人国签证的外国人，都来自比较富裕的国家，他们不缺基础条件，目的就是拿身份留日本，跟日本人抢福利。所以把它们砍了；\n而拿特定技能签证的东南亚人，本来在东南亚就工资低、生活环境恶劣，所以只要能来到发达国家日本工作就满足了，不会奢求留在日本生活。所以扩大引进。\n我觉得这就是傲慢陈腐的老人政治不愿睁眼看世界导致的。\n你看人家东南亚人润美国拿绿卡的少吗？谁背井离乡就是为了进城喝口汤，晚上再回村儿吹牛逼啊？\n人家只是出身不好，又不是人格上矮你一头，凭什么给你当耗材用。而且，最重要的是，你日本现在有这个资格挑三拣四吗？\n每次看日本人写的政治新闻，那居高临下的叙事，就给我一种感觉：日本的经济泡沫虽然在30多年前就爆了，但是它永远活在日本人的脑子里，而且还在不断地膨胀。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4511,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105103794984104397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本的外国人就业方针，让我觉得特别傻逼的一点是：\n日本人似乎认为，拿永驻技人国签证的外国人，都来自比较富裕的国家，他们不缺基础条件，目的就是拿身份留日本，跟日本人抢福利。所以把它们砍了； https://t.co/cP2KMj6R9q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "Formerly 青空 しょな .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105184747903472026",
+        "name": "浅川 きよ",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 2544,
+          "like_count": 31827,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "is_identity_verified": false,
+        "location": "女权市出生・防失联小号👉",
+        "most_recent_tweet_id": "2105184103243096381",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942422285044047873/1751983537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4630,
+          "following_count": 1082,
+          "like_count": 55822,
+          "listed_count": 58,
+          "media_count": 538,
+          "tweet_count": 37401
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

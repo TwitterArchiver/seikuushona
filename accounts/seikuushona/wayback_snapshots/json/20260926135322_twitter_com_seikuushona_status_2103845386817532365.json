@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2103845386817532365",
+    "created_at": "2026-09-26T13:53:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103845386817532365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239771839464783872",
+          "start": 3,
+          "username": "LinearUncle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103845386817532365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103689404133089484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinearUncle: 这周帮其他团队电话面试了几个应聘垂直业务 agent 研发的候选人，基本上我开头一个问题就能初筛掉 90% 的面试者：\n\n/goal 命令是如何实现的？\n\n真正做过 harness 的人才知道 goal 有多难搞：完成判断、验收标准、状态持久化…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2103845386817532365",
+        "created_at": "2026-09-26T13:53:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103845386817532365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239771839464783872",
+              "start": 3,
+              "username": "LinearUncle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103845386817532365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103689404133089484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinearUncle: 这周帮其他团队电话面试了几个应聘垂直业务 agent 研发的候选人，基本上我开头一个问题就能初筛掉 90% 的面试者：\n\n/goal 命令是如何实现的？\n\n真正做过 harness 的人才知道 goal 有多难搞：完成判断、验收标准、状态持久化…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239771839464783872",
+        "conversation_id": "2103689404133089484",
+        "created_at": "2026-09-26T03:33:33.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103689404133089484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103689404133089484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 62287,
+          "like_count": 465,
+          "quote_count": 3,
+          "reply_count": 68,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "这周帮其他团队电话面试了几个应聘垂直业务 agent 研发的候选人，基本上我开头一个问题就能初筛掉 90% 的面试者：\n\n/goal 命令是如何实现的？\n\n真正做过 harness 的人才知道 goal 有多难搞：完成判断、验收标准、状态持久化、异常兜底、预算控制、上下文压缩不丢任务、缓存命中不被打乱。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2103845386817532365",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 2503,
+          "like_count": 31043,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-17T04:33:41.000Z",
+        "description": "服务器技术专家，曾就职于阿里云 ，有赞，外企，在线教育等；\n👑 AI coding - 职业工程师\n💻 只分享硬核AI编程工具，技巧等",
+        "id": "1239771839464783872",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2103841444058509723",
+        "name": "LinearUncle",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906323582759874560/6Elwf5WN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14225,
+          "following_count": 1428,
+          "like_count": 32370,
+          "listed_count": 211,
+          "media_count": 1705,
+          "tweet_count": 8906
+        },
+        "url": "",
+        "username": "LinearUncle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

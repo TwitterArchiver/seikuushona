@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107842347803545662",
+    "created_at": "2026-10-07T15:53:25.000Z",
+    "display_text_range": [
+      92,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T16:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107861866437611648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        },
+        {
+          "end": 23,
+          "id": "1557541453253038080",
+          "start": 11,
+          "username": "KawawaDiana"
+        },
+        {
+          "end": 31,
+          "id": "1900168705847500800",
+          "start": 24,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 43,
+          "id": "905734073217318912",
+          "start": 32,
+          "username": "keelan8964"
+        },
+        {
+          "end": 58,
+          "id": "3369446833",
+          "start": 44,
+          "username": "miaoxiaozhong"
+        },
+        {
+          "end": 69,
+          "id": "1344658586656329730",
+          "start": 59,
+          "username": "IkkyuZwei"
+        },
+        {
+          "end": 79,
+          "id": "193648759",
+          "start": 70,
+          "username": "ripo0079"
+        },
+        {
+          "end": 91,
+          "id": "1813768883540725760",
+          "start": 80,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107861866437611648",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107842347803545662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji @KawawaDiana @wxb_NB @keelan8964 @miaoxiaozhong @IkkyuZwei @ripo0079 @ye_and_yae 看起来越塞越多了呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2107839713705136128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCNDULbEAAKlAj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107842347803545662",
+        "created_at": "2026-10-07T15:53:25.000Z",
+        "display_text_range": [
+          92,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107861866437611648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            },
+            {
+              "end": 23,
+              "id": "1557541453253038080",
+              "start": 11,
+              "username": "KawawaDiana"
+            },
+            {
+              "end": 31,
+              "id": "1900168705847500800",
+              "start": 24,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 43,
+              "id": "905734073217318912",
+              "start": 32,
+              "username": "keelan8964"
+            },
+            {
+              "end": 58,
+              "id": "3369446833",
+              "start": 44,
+              "username": "miaoxiaozhong"
+            },
+            {
+              "end": 69,
+              "id": "1344658586656329730",
+              "start": 59,
+              "username": "IkkyuZwei"
+            },
+            {
+              "end": 79,
+              "id": "193648759",
+              "start": 70,
+              "username": "ripo0079"
+            },
+            {
+              "end": 91,
+              "id": "1813768883540725760",
+              "start": 80,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107861866437611648",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107842347803545662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji @KawawaDiana @wxb_NB @keelan8964 @miaoxiaozhong @IkkyuZwei @ripo0079 @ye_and_yae 看起来越塞越多了呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107839713705136128"
+          ]
+        },
+        "author_id": "4313176880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107842347803545662",
+        "created_at": "2026-10-07T14:35:52.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107842347803545662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1557541453253038080",
+              "start": 26,
+              "username": "KawawaDiana"
+            },
+            {
+              "end": 51,
+              "id": "1900168705847500800",
+              "start": 44,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 67,
+              "id": "905734073217318912",
+              "start": 56,
+              "username": "keelan8964"
+            },
+            {
+              "end": 90,
+              "id": "3369446833",
+              "start": 76,
+              "username": "miaoxiaozhong"
+            },
+            {
+              "end": 106,
+              "id": "1344658586656329730",
+              "start": 96,
+              "username": "IkkyuZwei"
+            },
+            {
+              "end": 122,
+              "id": "193648759",
+              "start": 113,
+              "username": "ripo0079"
+            },
+            {
+              "end": 140,
+              "id": "1813768883540725760",
+              "start": 129,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzH0DFmrS5",
+              "end": 169,
+              "expanded_url": "https://x.com/fake_fuji/status/2107842347803545662/photo/1",
+              "media_key": "3_2107839713705136128",
+              "start": 146,
+              "url": "https://t.co/IzH0DFmrS5"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2107645906309042242",
+              "start": 170,
+              "url": "https://t.co/CCMbepqcmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107842347803545662",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107839713705136128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "1557541453253038080",
+                "start": 26,
+                "username": "KawawaDiana"
+              },
+              {
+                "end": 51,
+                "id": "1900168705847500800",
+                "start": 44,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 67,
+                "id": "905734073217318912",
+                "start": 56,
+                "username": "keelan8964"
+              },
+              {
+                "end": 90,
+                "id": "3369446833",
+                "start": 76,
+                "username": "miaoxiaozhong"
+              },
+              {
+                "end": 106,
+                "id": "1344658586656329730",
+                "start": 96,
+                "username": "IkkyuZwei"
+              },
+              {
+                "end": 122,
+                "id": "193648759",
+                "start": 113,
+                "username": "ripo0079"
+              },
+              {
+                "end": 140,
+                "id": "1813768883540725760",
+                "start": 129,
+                "username": "ye_and_yae"
+              },
+              {
+                "end": 160,
+                "id": "193648759",
+                "start": 151,
+                "username": "ripo0079"
+              }
+            ]
+          },
+          "text": "再加入几位新朋友，在中间一行，从左到右依次为：\n\n（@KawawaDiana ）小蓝\n（@wxb_NB）草莓\n（@keelan8964）keelan\n（@miaoxiaozhong）小钟喵\n（@IkkyuZwei）一休芝诺\n（@ripo0079）莉珀小姐\n（@ye_and_yae）爱晔小姐\n\n没等到（@ripo0079）给我发oc图，我用ai给莉珀小姐设计了oc，参考的她的头像，希望会喜欢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 840,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107645906309042242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加入几位新朋友，在中间一行，从左到右依次为：\n\n（@KawawaDiana ）小蓝\n（@wxb_NB）草莓\n（@keelan8964）keelan\n（@miaoxiaozhong）小钟喵\n（@IkkyuZwei）一休芝诺\n（@ripo0079）莉珀小姐\n（@ye_and_yae）爱晔小姐 https://t.co/IzH0DFmrS5 https://t.co/CCMbepqcmH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107861866437611648",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 2856,
+          "like_count": 35371,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2107860693655695654",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3502,
+          "following_count": 994,
+          "like_count": 2841,
+          "listed_count": 3,
+          "media_count": 434,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "小蓝(Alan) 美留读本中\n简中/English/Español/C/Python\nDemSoc 🌹 /mlm / 在中国算是半个建制左\n#中推名人评分\n欢迎友好交流",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "中推名人评分"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "is_identity_verified": false,
+        "location": "Boston Metropolitan Area ",
+        "most_recent_tweet_id": "2107823630608380044",
+        "name": "蓝蓝然然🫐浪浪(📚🐻🤚🏻 Di Alan Chan)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557541453253038080/1768626535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106796915526381568/fk2yyTPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 831,
+          "like_count": 10779,
+          "listed_count": 8,
+          "media_count": 1448,
+          "tweet_count": 5821
+        },
+        "url": "",
+        "username": "KawawaDiana",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 我的世界里才是家 / 梗图爱好者 / 编程全靠AI / 作业写不完 / 梗图收不停",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "is_identity_verified": false,
+        "location": "我喜欢你，请和我生小草莓！",
+        "most_recent_tweet_id": "2107812897305116872",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900168705847500800/1771642631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 531,
+          "like_count": 13057,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-07T10:06:45.000Z",
+        "description": "中學生，queer they/she/it ；純生活推噢 ；有幸與你共同見證這個時代。立場是溫和堅定與長久的愛；浪漫願他不要改 所信是模糊仍肯冀待～留低哪種意義，就看世間怎記載。alt acc @896for_ever (banned)；#八九六四",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "八九六四"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "896for_ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keelanlan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keelanlan",
+                "start": 0,
+                "url": "https://t.co/NLLzdUpoff"
+              }
+            ]
+          }
+        },
+        "id": "905734073217318912",
+        "is_identity_verified": false,
+        "location": "自由天安門 / 🏳️‍🌈🏳️‍⚧️",
+        "most_recent_tweet_id": "2107845725463957822",
+        "name": "蘭其連 Keelan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/905734073217318912/1784448515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066147896840364032/id-fwQnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6959,
+          "following_count": 790,
+          "like_count": 9259,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/NLLzdUpoff",
+        "username": "keelan8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-28T10:11:27.000Z",
+        "description": "是貓貓 | 享受每一個抱抱｜不論國籍，種族，政治立場，我都會給予必要的尊重｜喵～🐱",
+        "id": "3369446833",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2107848611249967147",
+        "name": "小鍾喵喵喵",
+        "pinned_tweet_id": "1689115232348798976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3369446833/1680165603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102042110006587393/fCUQzsz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 10,
+          "like_count": 697,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "miaoxiaozhong",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T14:56:15.000Z",
+        "description": "令 和 時 代 ノ 零 和 遊 戯 🎮\n前世 → (☠️)@IkkyuZeno\n\n無性愛Cis♂ (maybe Non-binary)│He/Him/His│你/他\n友🏳️‍🌈🏳️‍⚧️⚧🍥│社会人│左下│真・香港人🎗️\nゲーム│ガジェット│政治│哲学│他\n#StandWithUkraine🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 129,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "IkkyuZeno"
+              }
+            ]
+          }
+        },
+        "id": "1344658586656329730",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2107799093552861451",
+        "name": "川和・一休芝諾【鍵政垢🎗️】",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344658586656329730/1771253709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106217491253084160/f0jxOf5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 844,
+          "like_count": 13114,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1728
+        },
+        "url": "",
+        "username": "IkkyuZwei",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "is_identity_verified": true,
+        "location": "東側",
+        "most_recent_tweet_id": "2107839538169331913",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193648759/1701241565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14545,
+          "following_count": 1461,
+          "like_count": 77570,
+          "listed_count": 143,
+          "media_count": 4717,
+          "tweet_count": 56189
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126 ║不会编程的机器人学习者\n170/55 ║ 没出版过作品的小说家\n不可爱的男娘 ║退圈的正化副吧\n不会画画的画家 ║可爱男娘一只\n没有知识的星舰爱好者 ║175/75\n不会说日语的日语学习者 ║0708\n爱晔最最最好的朋友@yena_official0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "yena_official0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2107846089995153682",
+        "name": "🚀爱晔&禾木白🍥",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1576,
+          "like_count": 15203,
+          "listed_count": 2,
+          "media_count": 817,
+          "tweet_count": 6314
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

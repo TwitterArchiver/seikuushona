@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106736241148670389",
+    "created_at": "2026-10-04T13:20:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106736241148670389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822663743895113728",
+          "start": 3,
+          "username": "keking99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106736241148670389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106687001810677911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keking99: 爆了爆了爆了！Astra 我cnm，赔我1000刀！\n我的 deepseek 投票站是用 astra  几句话 vibe 的，我本月的 cf 账单整整 1000 刀！\n我要你实时显示票数，你给我来个只要开着网页就给我无限 api/result 3秒一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106736241148670389",
+        "created_at": "2026-10-04T13:20:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106736241148670389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822663743895113728",
+              "start": 3,
+              "username": "keking99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106736241148670389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106687001810677911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keking99: 爆了爆了爆了！Astra 我cnm，赔我1000刀！\n我的 deepseek 投票站是用 astra  几句话 vibe 的，我本月的 cf 账单整整 1000 刀！\n我要你实时显示票数，你给我来个只要开着网页就给我无限 api/result 3秒一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822663743895113728",
+        "conversation_id": "2106687001810677911",
+        "created_at": "2026-10-04T10:04:56.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106687001810677911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106687001810677911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "爆了爆了爆了！Astra 我cnm，赔我1000刀！\n我的 deepseek 投票站是用 astra  几句话 vibe 的，我本月的 cf 账单整整 1000 刀！\n我要你实时显示票数，你给我来个只要开着网页就给我无限 api/result 3秒一次轮询，无限爆查是吧，光请求量干到了26亿次，这么基本的错误也能犯？现在知道瞎逼 vibe 不看代码的后果了吧。回旋镖打后脑勺了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 24664,
+          "like_count": 170,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "爆了爆了爆了！Astra 我cnm，赔我1000刀！\n我的 deepseek 投票站是用 astra  几句话 vibe 的，我本月的 cf 账单整整 1000 刀！\n我要你实时显示票数，你给我来个只要开着网页就给我无限 api/result 3秒一次轮询，无限爆查是吧，光请求量干到了26亿次，这么基本的错误也能犯？现在知道瞎逼 vibe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106736241148670389",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2685,
+          "like_count": 33441,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T15:58:18.000Z",
+        "description": "Modaleap 开放平台主管/开发者生态负责人;  dify产品工程师；夜莺开放平台主管(manus 前身)；前虚拟主播月流水60k；开发者和 FDE 最好的朋友；AI4Porn;华科本国f科大硕士退学；坚持手写推；绝不钓鱼；私域群私我(只回蓝V)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/KurosawaGeeker",
+                "end": 23,
+                "expanded_url": "https://github.com/KurosawaGeeker",
+                "start": 0,
+                "url": "https://t.co/rEROn3lO9W"
+              }
+            ]
+          }
+        },
+        "id": "1822663743895113728",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2106734437882827075",
+        "name": "武汉AI王小克",
+        "pinned_tweet_id": "2104879994627617027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822663743895113728/1790341530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103472374616313856/2LtAt7QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 194,
+          "like_count": 520,
+          "listed_count": 7,
+          "media_count": 95,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/rEROn3lO9W",
+        "username": "keking99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

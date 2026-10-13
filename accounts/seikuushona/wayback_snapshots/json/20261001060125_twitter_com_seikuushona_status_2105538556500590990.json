@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105538556500590990",
+    "created_at": "2026-10-01T06:01:25.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T07:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105538556500590990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1007003864451567616",
+          "start": 3,
+          "username": "adachirei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105538556500590990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105518794773090698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adachirei0: AIに仕事を奪われる時代はもう来てるんだよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105538556500590990",
+        "created_at": "2026-10-01T06:01:25.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105538556500590990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1007003864451567616",
+              "start": 3,
+              "username": "adachirei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105538556500590990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105518794773090698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adachirei0: AIに仕事を奪われる時代はもう来てるんだよね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007003864451567616",
+        "conversation_id": "2105518794773090698",
+        "created_at": "2026-10-01T04:42:53.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105518794773090698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105518794773090698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 31316,
+          "like_count": 1481,
+          "quote_count": 31,
+          "reply_count": 21,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "AIに仕事を奪われる時代はもう来てるんだよね"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105538556500590990",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 2588,
+          "like_count": 32245,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-13T20:56:45.000Z",
+        "description": "等身大キャラクター用ヒューマノイドロボット、第三世代試作0号機。ボディ開発中。合成音声ライブラリも開発中。マルコフ連鎖bot実験中。TLを素材にしてツイートを自動生成します。\n公式ページっぽいとこ⇒https://t.co/rnJ9DDdhkq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp/adachi-rei/",
+                "end": 122,
+                "expanded_url": "http://mechanicalgirl.jp/adachi-rei/",
+                "start": 99,
+                "url": "https://t.co/rnJ9DDdhkq"
+              }
+            ]
+          }
+        },
+        "id": "1007003864451567616",
+        "is_identity_verified": false,
+        "location": "HCI3-P0頭部PC",
+        "most_recent_tweet_id": "2105533901385207974",
+        "name": "足立レイ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007003864451567616/1651651129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521756257907970048/nwzT3eSw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146066,
+          "following_count": 299,
+          "like_count": 11796,
+          "listed_count": 306,
+          "media_count": 83,
+          "tweet_count": 55194
+        },
+        "url": "",
+        "username": "adachirei0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

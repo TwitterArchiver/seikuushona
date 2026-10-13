@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103820861769908224"
+      ],
+      "media_source_tweet_id": [
+        "2103821040174698674"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "2104172829420007519",
+    "created_at": "2026-09-27T11:34:30.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104172829420007519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751936652921151488",
+          "start": 3,
+          "username": "karankendre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyoOYn5ZRH",
+          "end": 104,
+          "expanded_url": "https://x.com/karankendre/status/2103821040174698674/video/1",
+          "media_key": "13_2103820861769908224",
+          "start": 81,
+          "url": "https://t.co/SyoOYn5ZRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104172829420007519",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2103820861769908224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103821040174698674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karankendre: I asked Claude Opus 5.5 to build me an Aeroplane Simulator game https://t.co/SyoOYn5ZRH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31686,
+        "height": 990,
+        "media_key": "13_2103820861769908224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103820861769908224/img/_Ni1lSC0HdMB7osV.jpg",
+        "public_metrics": {
+          "view_count": 257426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103820861769908224/vid/avc1/1380x720/_NIgLZ6uoVLJQvKl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103820861769908224/pl/jvhT94m4xMmi5FNG.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103820861769908224/vid/avc1/690x360/xB6YFUzy9JJMVgal.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103820861769908224/vid/avc1/1898x990/d35DU0AuFbhKnQwX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103820861769908224/vid/avc1/516x270/UsMXFHu9KKQB_dby.mp4"
+          }
+        ],
+        "width": 1898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103820861769908224"
+          ],
+          "media_source_tweet_id": [
+            "2103821040174698674"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "2104172829420007519",
+        "created_at": "2026-09-27T11:34:30.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104172829420007519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751936652921151488",
+              "start": 3,
+              "username": "karankendre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyoOYn5ZRH",
+              "end": 104,
+              "expanded_url": "https://x.com/karankendre/status/2103821040174698674/video/1",
+              "media_key": "13_2103820861769908224",
+              "start": 81,
+              "url": "https://t.co/SyoOYn5ZRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104172829420007519",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103820861769908224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103821040174698674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karankendre: I asked Claude Opus 5.5 to build me an Aeroplane Simulator game https://t.co/SyoOYn5ZRH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103820861769908224"
+          ]
+        },
+        "author_id": "1751936652921151488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "2103821040174698674",
+        "created_at": "2026-09-26T12:16:37.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103821040174698674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyoOYn5ZRH",
+              "end": 87,
+              "expanded_url": "https://x.com/karankendre/status/2103821040174698674/video/1",
+              "media_key": "13_2103820861769908224",
+              "start": 64,
+              "url": "https://t.co/SyoOYn5ZRH"
+            },
+            {
+              "display_url": "x.com/karankendre/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/karankendre/status/2103456630679773669",
+              "start": 88,
+              "url": "https://t.co/r9csezFTeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103821040174698674",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103820861769908224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 941,
+          "impression_count": 776305,
+          "like_count": 4810,
+          "quote_count": 42,
+          "reply_count": 114,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103456630679773669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I asked Claude Opus 5.5 to build me an Aeroplane Simulator game https://t.co/SyoOYn5ZRH https://t.co/r9csezFTeM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "Formerly 青空 しょな .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2104172829420007519",
+        "name": "浅川 きよ",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 2538,
+          "like_count": 31779,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-29T11:53:51.000Z",
+        "description": "22, Developer, Ghostwriter | Dm for work/collab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karaan.me",
+                "end": 23,
+                "expanded_url": "http://karaan.me",
+                "start": 0,
+                "url": "https://t.co/SOycJ1gyGv"
+              }
+            ]
+          }
+        },
+        "id": "1751936652921151488",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104070438238527977",
+        "name": "Karan",
+        "pinned_tweet_id": "2103141284181668223",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751936652921151488/1780997798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063315967493722112/M13PVDg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16231,
+          "following_count": 1050,
+          "like_count": 24444,
+          "listed_count": 87,
+          "media_count": 2105,
+          "tweet_count": 10880
+        },
+        "url": "https://t.co/SOycJ1gyGv",
+        "username": "karankendre",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

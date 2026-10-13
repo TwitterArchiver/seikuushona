@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106674664655503852",
+    "created_at": "2026-10-04T13:38:20.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106740707411296543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "123617511",
+          "start": 0,
+          "username": "fexisnpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106740707411296543",
+    "in_reply_to_user_id": "123617511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106674664655503852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fexisnpc 揉揉你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2106674653695713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxpb5baIAA5-Km.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106674664655503852",
+        "created_at": "2026-10-04T13:38:20.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106740707411296543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "123617511",
+              "start": 0,
+              "username": "fexisnpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106740707411296543",
+        "in_reply_to_user_id": "123617511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106674664655503852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fexisnpc 揉揉你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106674653695713280"
+          ]
+        },
+        "author_id": "123617511",
+        "conversation_id": "2106674664655503852",
+        "created_at": "2026-10-04T09:15:54.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106674664655503852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kqm48PSik",
+              "end": 100,
+              "expanded_url": "https://x.com/fexisnpc/status/2106674664655503852/photo/1",
+              "media_key": "3_2106674653695713280",
+              "start": 77,
+              "url": "https://t.co/9kqm48PSik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106674664655503852",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106674653695713280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为啥整个国庆假期情绪都很差\n脑子里被各种实际不应该存在的负面情绪反复填充\n强行给自己找点儿事儿干吧，但愿这样能好一些，至少别把坏情绪传染给其他人😿 https://t.co/9kqm48PSik"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106740707411296543",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 2689,
+          "like_count": 33494,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-16T17:30:58.000Z",
+        "description": "OC设定来自夢夢 @Yayoi_no_yume\n本体是老年肥宅胶佬 aka. 入土二次元\n不要被推文的假象欺骗了实际是超级班味儿老登\n学院路某校基础医学PhD，已退圈——目前不从事科研\n老婆@Kirashmily33\n中医黑，华为黑，厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Yayoi_no_yume"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Kirashmily33"
+              }
+            ]
+          }
+        },
+        "id": "123617511",
+        "is_identity_verified": false,
+        "location": "Sanctuary",
+        "most_recent_tweet_id": "2106725980580856088",
+        "name": "MonoFevc",
+        "pinned_tweet_id": "2004123312579059745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123617511/1754891970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061290249788272640/4JxrrbLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1207,
+          "like_count": 38052,
+          "listed_count": 8,
+          "media_count": 3955,
+          "tweet_count": 21649
+        },
+        "url": "",
+        "username": "fexisnpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

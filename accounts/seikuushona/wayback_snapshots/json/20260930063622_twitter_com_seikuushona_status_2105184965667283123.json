@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105184965667283123",
+    "created_at": "2026-09-30T06:36:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105184965667283123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980120831415234560",
+          "start": 3,
+          "username": "nobita_3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105184965667283123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104944923300737442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nobita_3D: 据我的职场观察，日本人普遍对软件、数据和系统本身缺乏客观的认识，很难认可软件应有的价值。\n\n我倒不认为日本公司是舍不得为软件花钱，很可能是大多数企业根本都不知道自己要买什么服务。\n\n因此从结果上看，个人感觉日本企业普遍没有SaaS文化，尤其是在传统…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105184965667283123",
+        "created_at": "2026-09-30T06:36:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105184965667283123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980120831415234560",
+              "start": 3,
+              "username": "nobita_3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105184965667283123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104944923300737442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nobita_3D: 据我的职场观察，日本人普遍对软件、数据和系统本身缺乏客观的认识，很难认可软件应有的价值。\n\n我倒不认为日本公司是舍不得为软件花钱，很可能是大多数企业根本都不知道自己要买什么服务。\n\n因此从结果上看，个人感觉日本企业普遍没有SaaS文化，尤其是在传统…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980120831415234560",
+        "conversation_id": "2104944923300737442",
+        "created_at": "2026-09-29T14:42:32.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104944923300737442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AllegrettoJP/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/AllegrettoJP/status/2104822679652209018",
+              "start": 140,
+              "url": "https://t.co/I5dN0WklSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104944923300737442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "据我的职场观察，日本人普遍对软件、数据和系统本身缺乏客观的认识，很难认可软件应有的价值。\n\n我倒不认为日本公司是舍不得为软件花钱，很可能是大多数企业根本都不知道自己要买什么服务。\n\n因此从结果上看，个人感觉日本企业普遍没有SaaS文化，尤其是在传统制造业里，这点和美国非常不同。\n\n而且我当初作为外国人入职时明显感到，同样作为是工程师，只要不是IT专业，很多人对现代软件开发的基本概念都不懂。\n\n身边的日本同事可能非常了解机械、电气、材料、生产工艺或者设备设计，但可能甚至连python是什么都不知道，更谈不上数据结构化。\n\n这就导致大部分人可能甚至听都没听说过class、instance、library、API、database、backend，更加不知道软件系统能够把多少重复性的工程工作自动化。\n\n结果就是公司可能并不是不愿意花钱开发软件，而是自己连软件需求都没有能力准确描述。\n\n比如一个电气工程师如果不知道python可以批量处理Excel，不知道数据库可以管理设备参数，不知道API可以让不同系统交换数据，不知道后台程序可以自动检查设计条件、追踪revision，甚至不知道很多规则性的判断本身就可以抽象成程序，那在面对低效率重复工作时，这个电气工程师想到的只可能是继续增加Excel、增加人工确认步骤，或者要求别人做一个看起来像软件的表单。（所以大手企业里有很多xlsm的macro，这就又增加了维护成本）\n\n做工程的不懂软件，无法准确提出需求，于是把开发外包给SIer或者外部软件公司。\n\n外面的软件工程师虽然懂程序，又不懂发电厂、电力系统、机械设计这些专业知识以及实际的workflow。\n\n公司员工说不清楚自己真正需要什么，外边的软件公司也不知道为什么这个工程流程必须要这样设计。最后做出来的系统四不像，根本没有符合实际的workflow，这就导致软件不好用。\n\n这又反过来强化传统行业对软件无用的刻板印象，于是企业更加不愿意为软件和内部开发能力投资。这是个恶性循环。\n\n日本肯定有很优秀的软件公司和工程师，但在我看来，在日本既懂工程，又能把工程数据抽象成数据结构、算法、数据库和软件系统的人太少了。\n\n这也是我到日本之后感受很强烈的地方。\n\n而且我的本科并不是计算机专业，而是机械工程。\n\n我不知道其他的大学怎么样，但至少在华科，即便是机械工程，python也是作为必修课计入学分的。\n\n当年我也不懂为什么要学这个，我以为只是为了让我们学习Numpy这些数学工具当研究室工具人。\n\n但我现在知道了，其实从这一点上来看，中国的本科教育可能是非常成功的。python课程的设计目的可能只是至少让工程师理解计算机可以做什么，能够自己写一些程序解决工程问题。\n\n我认为这种基础教育非常重要。所以我之前有质疑过日本的本科基础教育。。\n\n工程师并不需要会开发大型软件，但至少应该知道什么事情可以自动化、什么问题适合用数据库解决、什么工作可以写脚本处理、什么时候应该调用API，以及一个软件系统大致是怎样组成的。\n\n只有具备这些基本认知，才有可能提出好的软件需求。否则就跟现在日本一样，天天喊DX，结果就只是买几个极其难用的系统、增加几个网页界面、把Excel上传到云端，然后继续用和二十年前几乎相同的方法。\n\n这并不是真正的软件化，纯粹浪费时间罢了。\n\n日本更需要解决的问题可能是把python等纳入本科基础教育。（但我没在日本读本科，不是很懂日本本科教育到底学不学这些）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 949,
+          "impression_count": 406592,
+          "like_count": 2263,
+          "quote_count": 150,
+          "reply_count": 66,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104822679652209018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据我的职场观察，日本人普遍对软件、数据和系统本身缺乏客观的认识，很难认可软件应有的价值。\n\n我倒不认为日本公司是舍不得为软件花钱，很可能是大多数企业根本都不知道自己要买什么服务。\n\n因此从结果上看，个人感觉日本企业普遍没有SaaS文化，尤其是在传统制造业里，这点和美国非常不同。 https://t.co/I5dN0WklSc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "Formerly 青空 しょな .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105184965667283123",
+        "name": "浅川 きよ",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 2544,
+          "like_count": 31829,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T03:56:21.000Z",
+        "description": "3d community： https://t.co/24J94k1m8i\nNobot 開発：https://t.co/Gac6xT7726",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dp3dpJWv7T",
+                "end": 37,
+                "expanded_url": "https://discord.gg/dp3dpJWv7T",
+                "start": 14,
+                "url": "https://t.co/24J94k1m8i"
+              },
+              {
+                "display_url": "discord.com/invite/Vzb7m5x…",
+                "end": 70,
+                "expanded_url": "https://discord.com/invite/Vzb7m5xamm",
+                "start": 47,
+                "url": "https://t.co/Gac6xT7726"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nobitaorz.org",
+                "end": 23,
+                "expanded_url": "https://www.nobitaorz.org",
+                "start": 0,
+                "url": "https://t.co/sLpvbFrzgO"
+              }
+            ]
+          }
+        },
+        "id": "1980120831415234560",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104946332566008163",
+        "name": "のび太",
+        "pinned_tweet_id": "2101368339033706924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980120831415234560/1762005893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073279092909293568/GD_FsBZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7413,
+          "following_count": 552,
+          "like_count": 9001,
+          "listed_count": 25,
+          "media_count": 493,
+          "tweet_count": 2951
+        },
+        "url": "https://t.co/sLpvbFrzgO",
+        "username": "nobita_3D",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

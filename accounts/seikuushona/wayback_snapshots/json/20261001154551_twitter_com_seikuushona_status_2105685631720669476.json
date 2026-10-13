@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105685631720669476",
+    "created_at": "2026-10-01T15:45:51.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105685631720669476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1605171476881371136",
+          "start": 3,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105685631720669476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105495804731691028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haku_dabai: 感觉推上有些搞计算机有关的人一股味\n缺乏基本的常识和对这个世界基本的认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105685631720669476",
+        "created_at": "2026-10-01T15:45:51.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105685631720669476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1605171476881371136",
+              "start": 3,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105685631720669476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105495804731691028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haku_dabai: 感觉推上有些搞计算机有关的人一股味\n缺乏基本的常识和对这个世界基本的认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605171476881371136",
+        "conversation_id": "2105495804731691028",
+        "created_at": "2026-10-01T03:11:32.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105495804731691028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105495804731691028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19024,
+          "like_count": 240,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推上有些搞计算机有关的人一股味\n缺乏基本的常识和对这个世界基本的认识"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105685631720669476",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 2605,
+          "like_count": 32505,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "一句话没法介绍我",
+        "id": "1605171476881371136",
+        "is_identity_verified": false,
+        "location": "距你3.2km",
+        "most_recent_tweet_id": "2105651649629012369",
+        "name": "haku-大白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605171476881371136/1730541111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018329763514085376/DRsKluvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1546,
+          "like_count": 21718,
+          "listed_count": 10,
+          "media_count": 1293,
+          "tweet_count": 18409
+        },
+        "url": "",
+        "username": "haku_dabai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

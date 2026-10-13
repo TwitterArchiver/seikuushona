@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105527991715721532",
+    "created_at": "2026-10-01T05:19:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105527991715721532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560671619218960384",
+          "start": 3,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105527991715721532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105313954956501393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silsrc: 今天又调了一天内核 LRU 里的 Tier 设计，拜托了毁天灭地的 Opus，AGI 守门人 Astra，美国豆包，以及蓝色大肥鱼一起进行了大量比对分析，讨论以及头脑风暴来看我目前的设计还有哪里可以改进的，经过十几亿 Token 的讨论后，得出的结论是：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105527991715721532",
+        "created_at": "2026-10-01T05:19:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105527991715721532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560671619218960384",
+              "start": 3,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105527991715721532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105313954956501393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silsrc: 今天又调了一天内核 LRU 里的 Tier 设计，拜托了毁天灭地的 Opus，AGI 守门人 Astra，美国豆包，以及蓝色大肥鱼一起进行了大量比对分析，讨论以及头脑风暴来看我目前的设计还有哪里可以改进的，经过十几亿 Token 的讨论后，得出的结论是：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560671619218960384",
+        "conversation_id": "2105313954956501393",
+        "created_at": "2026-09-30T15:08:56.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105313954956501393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105313954956501393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 22053,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天又调了一天内核 LRU 里的 Tier 设计，拜托了毁天灭地的 Opus，AGI 守门人 Astra，美国豆包，以及蓝色大肥鱼一起进行了大量比对分析，讨论以及头脑风暴来看我目前的设计还有哪里可以改进的，经过十几亿 Token 的讨论后，得出的结论是：维持原状（所以你们都是来吃白饭的吗😭）…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105527991715721532",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 2576,
+          "like_count": 32181,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，不擅长写代码，假装是计算机科学家，Linux Kernel Hacker。",
+        "id": "1560671619218960384",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2105313954956501393",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560671619218960384/1681217189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11697,
+          "following_count": 596,
+          "like_count": 33724,
+          "listed_count": 74,
+          "media_count": 330,
+          "tweet_count": 4545
+        },
+        "url": "",
+        "username": "silsrc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

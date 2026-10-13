@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106566928177467392"
+      ],
+      "media_source_tweet_id": [
+        "2106566938495418396"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107137131143713090",
+    "created_at": "2026-10-05T15:53:35.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107137131143713090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "中推小剧场"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1805486587666644992",
+          "start": 3,
+          "username": "Akebono__Yohira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4BHNlWnEHT",
+          "end": 51,
+          "expanded_url": "https://x.com/Akebono__Yohira/status/2106566938495418396/photo/1",
+          "media_key": "3_2106566928177467392",
+          "start": 28,
+          "url": "https://t.co/4BHNlWnEHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107137131143713090",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106566928177467392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106566938495418396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akebono__Yohira: #中推小剧场 https://t.co/4BHNlWnEHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2106566928177467392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwHdcmakAAMi9q.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106566928177467392"
+          ],
+          "media_source_tweet_id": [
+            "2106566938495418396"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107137131143713090",
+        "created_at": "2026-10-05T15:53:35.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107137131143713090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "中推小剧场"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1805486587666644992",
+              "start": 3,
+              "username": "Akebono__Yohira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BHNlWnEHT",
+              "end": 51,
+              "expanded_url": "https://x.com/Akebono__Yohira/status/2106566938495418396/photo/1",
+              "media_key": "3_2106566928177467392",
+              "start": 28,
+              "url": "https://t.co/4BHNlWnEHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107137131143713090",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106566928177467392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106566938495418396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akebono__Yohira: #中推小剧场 https://t.co/4BHNlWnEHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106566928177467392"
+          ]
+        },
+        "author_id": "1805486587666644992",
+        "conversation_id": "2106566938495418396",
+        "created_at": "2026-10-04T02:07:50.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106566938495418396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "中推小剧场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BHNlWnEHT",
+              "end": 30,
+              "expanded_url": "https://x.com/Akebono__Yohira/status/2106566938495418396/photo/1",
+              "media_key": "3_2106566928177467392",
+              "start": 7,
+              "url": "https://t.co/4BHNlWnEHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106566938495418396",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106566928177467392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 32221,
+          "like_count": 749,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "#中推小剧场 https://t.co/4BHNlWnEHT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107137131143713090",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 2764,
+          "like_count": 34347,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "曾几何时，我们都长成别扭的大人。\n⬆︎ 親友🏠@IzayoiMarin @aromaticer\n⥣  摯愛❤️‍🩹@DurantRaym93677\n⮑待避階@Akebono6sqrt249\n⮑地下室@OshimaKamome",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "aromaticer"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "OshimaKamome"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "is_identity_verified": false,
+        "location": "知床半島",
+        "most_recent_tweet_id": "2107121227550839153",
+        "name": "✿ YOHIRA ⍜",
+        "pinned_tweet_id": "2105257316828565545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1784786651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105512899552976896/7nasWQXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 3365,
+          "like_count": 30262,
+          "listed_count": 3,
+          "media_count": 1055,
+          "tweet_count": 6261
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

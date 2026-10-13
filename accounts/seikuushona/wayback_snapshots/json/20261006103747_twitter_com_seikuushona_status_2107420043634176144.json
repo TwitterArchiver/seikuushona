@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107420043634176144",
+    "created_at": "2026-10-06T10:37:47.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107420043634176144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755853048277331968",
+          "start": 3,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107420043634176144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107270308629762070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaodeisu: 以前的推文很有趣追逐流量后感觉失去了自己的部分和思想只剩下互联网热门文案的空壳我有点想取关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107420043634176144",
+        "created_at": "2026-10-06T10:37:47.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107420043634176144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755853048277331968",
+              "start": 3,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107420043634176144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107270308629762070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaodeisu: 以前的推文很有趣追逐流量后感觉失去了自己的部分和思想只剩下互联网热门文案的空壳我有点想取关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755853048277331968",
+        "conversation_id": "2107270308629762070",
+        "created_at": "2026-10-06T00:42:47.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107270308629762070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107270308629762070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前的推文很有趣追逐流量后感觉失去了自己的部分和思想只剩下互联网热门文案的空壳我有点想取关了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107420058511462511",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 2785,
+          "like_count": 34596,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "(｡･ω･｡)需要回fo请DM默认不回除非你很经常和我玩\n社交能力有限不闲聊非必要私信禁止｜误ban致歉\n@ice_cakiiiirkk只过熟人( ˙꒳˙ )つ)`꒳˙ )\n請不要注意我的垃圾｜⬇️提问箱｜书签禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "ice_cakiiiirkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iceee_r_kkeca",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iceee_r_kkeca",
+                "start": 0,
+                "url": "https://t.co/f2NVo3zv4Y"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2107419558953070723",
+        "name": "ポストトゥルース",
+        "pinned_tweet_id": "2106635492255211960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1788331110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105197674832244736/PkwO5dmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 157,
+          "like_count": 7222,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4626
+        },
+        "url": "https://t.co/f2NVo3zv4Y",
+        "username": "miaodeisu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

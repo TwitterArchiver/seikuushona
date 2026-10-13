@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106974380404425073",
+    "created_at": "2026-10-05T05:06:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106974380404425073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "756779273155858432",
+          "start": 3,
+          "username": "ScarletKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106974380404425073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106860506594324742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScarletKc: 今天才知道 SQLite 是开源但不接受外部贡献的，基本不合 PR，代码一直由很小的核心团队自己维护。\n\n所以 Turso 想给它加东西，先是 fork 了一个 C 版的 libSQL，后来干脆用 Rust 从头重写了一个兼容 SQLite 的数据…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106974380404425073",
+        "created_at": "2026-10-05T05:06:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106974380404425073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "756779273155858432",
+              "start": 3,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106974380404425073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106860506594324742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScarletKc: 今天才知道 SQLite 是开源但不接受外部贡献的，基本不合 PR，代码一直由很小的核心团队自己维护。\n\n所以 Turso 想给它加东西，先是 fork 了一个 C 版的 libSQL，后来干脆用 Rust 从头重写了一个兼容 SQLite 的数据…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2106860506594324742",
+        "created_at": "2026-10-04T21:34:23.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T22:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106860506594324742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106860506594324742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天才知道 SQLite 是开源但不接受外部贡献的，基本不合 PR，代码一直由很小的核心团队自己维护。\n\n所以 Turso 想给它加东西，先是 fork 了一个 C 版的 libSQL，后来干脆用 Rust 从头重写了一个兼容 SQLite 的数据库（原名 Limbo）。他们想要的异步 I/O、并发写入、向量搜索、更好的 WASM 支持，SQLite 官方都不打算做。\n\n好玩的是，用 Rust 重写更安全这个理由放在 SQLite 身上其实说服力不大。SQLite 的测试代码量是源码的几百倍，分支覆盖率做到航空软件级别的 100%，最完整的那套测试还是闭源的。我感觉 Turso 真正想要的是能自由加功能。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 46440,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天才知道 SQLite 是开源但不接受外部贡献的，基本不合 PR，代码一直由很小的核心团队自己维护。\n\n所以 Turso 想给它加东西，先是 fork 了一个 C 版的 libSQL，后来干脆用 Rust 从头重写了一个兼容 SQLite 的数据库（原名 Limbo）。他们想要的异步 I/O、并发写入、向量搜索、更好的 WASM 支持，SQLite"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106974380404425073",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 2715,
+          "like_count": 33865,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106957165760242165",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6295,
+          "following_count": 968,
+          "like_count": 108678,
+          "listed_count": 28,
+          "media_count": 426,
+          "tweet_count": 13010
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

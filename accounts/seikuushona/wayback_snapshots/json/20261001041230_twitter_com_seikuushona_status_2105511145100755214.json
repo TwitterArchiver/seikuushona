@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105241466977316864",
+        "3_2105241932612128768",
+        "3_2105242079727439872",
+        "3_2105243525243895809"
+      ],
+      "media_source_tweet_id": [
+        "2105243536950210603",
+        "2105243536950210603",
+        "2105243536950210603",
+        "2105243536950210603"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105511145100755214",
+    "created_at": "2026-10-01T04:12:30.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105511145100755214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4313176880",
+          "start": 3,
+          "username": "fake_fuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4a6d97eDd",
+          "end": 114,
+          "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+          "media_key": "3_2105241466977316864",
+          "start": 91,
+          "url": "https://t.co/x4a6d97eDd"
+        },
+        {
+          "display_url": "pic.x.com/x4a6d97eDd",
+          "end": 114,
+          "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+          "media_key": "3_2105241932612128768",
+          "start": 91,
+          "url": "https://t.co/x4a6d97eDd"
+        },
+        {
+          "display_url": "pic.x.com/x4a6d97eDd",
+          "end": 114,
+          "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+          "media_key": "3_2105242079727439872",
+          "start": 91,
+          "url": "https://t.co/x4a6d97eDd"
+        },
+        {
+          "display_url": "pic.x.com/x4a6d97eDd",
+          "end": 114,
+          "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+          "media_key": "3_2105243525243895809",
+          "start": 91,
+          "url": "https://t.co/x4a6d97eDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105511145100755214",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105241466977316864"
+      },
+      {
+        "media_key": "3_2105241932612128768"
+      },
+      {
+        "media_key": "3_2105242079727439872"
+      },
+      {
+        "media_key": "3_2105243525243895809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105243536950210603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fake_fuji: 这次国庆我要回家一趟，和家人去一趟山西五台山还愿 \n\n 去年休学期间，我因为暴露了学校的名字，被警察找了，抑郁症加重，那段时间我每天想的是自c自s，… https://t.co/x4a6d97eDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2105241466977316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdR9c2a8AA2QDE.jpg",
+        "width": 1154
+      },
+      {
+        "height": 678,
+        "media_key": "3_2105241932612128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdSYjeaUAAIj8b.png",
+        "width": 826
+      },
+      {
+        "height": 710,
+        "media_key": "3_2105242079727439872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdShHhb0AAwOWg.png",
+        "width": 840
+      },
+      {
+        "height": 858,
+        "media_key": "3_2105243525243895809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdT1QfagAEcyfa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105241466977316864",
+            "3_2105241932612128768",
+            "3_2105242079727439872",
+            "3_2105243525243895809"
+          ],
+          "media_source_tweet_id": [
+            "2105243536950210603",
+            "2105243536950210603",
+            "2105243536950210603",
+            "2105243536950210603"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105511145100755214",
+        "created_at": "2026-10-01T04:12:30.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105511145100755214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4313176880",
+              "start": 3,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 114,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105241466977316864",
+              "start": 91,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 114,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105241932612128768",
+              "start": 91,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 114,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105242079727439872",
+              "start": 91,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 114,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105243525243895809",
+              "start": 91,
+              "url": "https://t.co/x4a6d97eDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105511145100755214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105241466977316864"
+          },
+          {
+            "media_key": "3_2105241932612128768"
+          },
+          {
+            "media_key": "3_2105242079727439872"
+          },
+          {
+            "media_key": "3_2105243525243895809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105243536950210603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fake_fuji: 这次国庆我要回家一趟，和家人去一趟山西五台山还愿 \n\n 去年休学期间，我因为暴露了学校的名字，被警察找了，抑郁症加重，那段时间我每天想的是自c自s，… https://t.co/x4a6d97eDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105241466977316864",
+            "3_2105241932612128768",
+            "3_2105242079727439872",
+            "3_2105243525243895809"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2105243536950210603",
+        "created_at": "2026-09-30T10:29:07.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105243536950210603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 98,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105241466977316864",
+              "start": 75,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 98,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105241932612128768",
+              "start": 75,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 98,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105242079727439872",
+              "start": 75,
+              "url": "https://t.co/x4a6d97eDd"
+            },
+            {
+              "display_url": "pic.x.com/x4a6d97eDd",
+              "end": 98,
+              "expanded_url": "https://x.com/fake_fuji/status/2105243536950210603/photo/1",
+              "media_key": "3_2105243525243895809",
+              "start": 75,
+              "url": "https://t.co/x4a6d97eDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105243536950210603",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105241466977316864"
+          },
+          {
+            "media_key": "3_2105241932612128768"
+          },
+          {
+            "media_key": "3_2105242079727439872"
+          },
+          {
+            "media_key": "3_2105243525243895809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这次国庆我要回家一趟，和家人去一趟山西五台山还愿 \n\n 去年休学期间，我因为暴露了学校的名字，被警察找了，抑郁症加重，那段时间我每天想的是自c自s，\n\n因为我见识到太多的社会上黑暗的东西（大多来自李老师的新闻），算是政治性抑郁吧。与此同时，中日关系恶化，每天都会看到两边相互仇恨的言论，我觉得这个世界都乱套了......  更严重的是，我和家人关系越来越糟，至于分歧点？婚育、政治、人情世故......  \n\n我们一家人在2025.9.28去了一趟五台山，我在文殊院（主管智慧）那里叩问  我问佛：佛为何让我知道那么多，让我有如此敏锐的洞察力？这些东西给我带来了无尽的痛苦，让我成为了一个异类，这是为何？我问着问着就哭了  \n\n佛不语，天地间只有风在呼啸  我带着失望回家，继续打工赚钱，不过怨气少了很多  2026.1.31，春节前一周，我遭遇了车祸，脊椎压缩性骨折，终日只能在床上躺着，甚至不能翻身  我的社交圈，只剩下推特了。万念俱灰之下，我写了自己的经历，全盘托出：我被警察找、打工、车祸.....顺便也告诉大家我的愿望，想完成第一次出国旅行  \n\n慢慢地，我的社交圈变广了，我试着发了几个梗图，写了几篇心理类文章，流量很高，达到了推特收益标准，于是顺理成章的开启收益化  \n\n那时，上天似乎对我有什么眷顾，我赚到了很多钱，也认识了很多朋友，比如环状线、aoim、江灵夏草......  \n\n于此同时，我需要家人照顾，爸妈他们对我照料的无微不至，我们交流多了起来，他们理解了我，给我出了医药费，带我做康复训练，我们每天讨论的是我白天看过的电视剧，讨论猫猫狗狗，不再讨论那虚无缥缈的政治  \n\n他们见我推特越做越大，渐渐成为了自己的事业，经常劝我：不要太拼，你能找到自己所爱，我们很欣慰  \n\n慢慢地，我明白了，上天不会给予我什么，而是会保佑我不会向更糟糕的转变  我所得到的一切，就是上天给我的回答  \n\n如今，大号虽然被封了，但是我想要的已经得到了：友情、亲情、爱情、被理解、被爱  \n\n因此我还是要回五台山那边还愿，感谢文殊给我的运势；同时也感谢自己，从来不放弃希望  \n\n而所谓的溃烂世界，它已经不会再左右我的情绪了，世界烂就烂吧，我要活出自己的精彩，各种荒唐的事每天都在发生，我还是想尽自己一份力改变这个世界\n\n顺便在这里公布一下我前世的推特收益吧\n\n另外我在国外旅行期间也在不断地散播善心，算是改变世界做出的努力吧\n\n图三那位小哥，我送给了他一个来自中国的乌萨奇挂件"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8080,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这次国庆我要回家一趟，和家人去一趟山西五台山还愿 \n\n 去年休学期间，我因为暴露了学校的名字，被警察找了，抑郁症加重，那段时间我每天想的是自c自s， https://t.co/x4a6d97eDd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105511145100755214",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 2559,
+          "like_count": 32024,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2105371902386806922",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 852,
+          "like_count": 2488,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

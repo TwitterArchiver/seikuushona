@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107401922412183800",
+    "created_at": "2026-10-06T10:34:11.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107419137878421522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720575392371949568",
+          "start": 0,
+          "username": "k4sum1_toki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107419137878421522",
+    "in_reply_to_user_id": "1720575392371949568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107401922412183800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4sum1_toki 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2107401784117596160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7-wdVakAArYUE.png",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107401922412183800",
+        "created_at": "2026-10-06T10:34:11.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107419137878421522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720575392371949568",
+              "start": 0,
+              "username": "k4sum1_toki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107419137878421522",
+        "in_reply_to_user_id": "1720575392371949568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107401922412183800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4sum1_toki 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107401784117596160"
+          ]
+        },
+        "author_id": "1720575392371949568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107401922412183800",
+        "created_at": "2026-10-06T09:25:46.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107401922412183800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUndgYEJY0",
+              "end": 50,
+              "expanded_url": "https://x.com/k4sum1_toki/status/2107401922412183800/photo/1",
+              "media_key": "3_2107401784117596160",
+              "start": 27,
+              "url": "https://t.co/pUndgYEJY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107401922412183800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107401784117596160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "300fo纪念~现在脑子里很混乱 纪念文案就先不写啦 https://t.co/pUndgYEJY0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107419137878421522",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 2785,
+          "like_count": 34585,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T22:55:27.000Z",
+        "description": "Vibecoder | AI Artist | 07 | OD | INFP | P & L | 灵魂旅者 | 抑郁治疗中 | 实际白狐 | MtF 大概 | 泛性恋 | HRT 2026.09.27 无证含糖\n愿望是将自己的温柔分给每一个人 愿世人真诚相待\n欢迎私聊了解AI绘图技术细节 消除技术偏见\n愿黑星照常升起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k4sum1_toki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k4sum1_toki",
+                "start": 0,
+                "url": "https://t.co/3TyEOPjoOr"
+              }
+            ]
+          }
+        },
+        "id": "1720575392371949568",
+        "is_identity_verified": false,
+        "location": "永昼事务所 ELA",
+        "most_recent_tweet_id": "2107401922412183800",
+        "name": "時越·霞|Tokikoshi Kasumi",
+        "pinned_tweet_id": "2106091655296335873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720575392371949568/1788138784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094088853871329280/mqNd3x5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 390,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/3TyEOPjoOr",
+        "username": "k4sum1_toki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

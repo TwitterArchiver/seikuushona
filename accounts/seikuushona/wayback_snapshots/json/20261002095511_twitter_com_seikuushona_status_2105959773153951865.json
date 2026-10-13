@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105959773153951865",
+    "created_at": "2026-10-02T09:55:11.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105959773153951865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542921685699297280",
+          "start": 3,
+          "username": "Irons_BH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105959773153951865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105675809440813488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Irons_BH: 我发自内心的真诚的敬佩所有出cos去漫展的人\n我很难想象在不遵守能量守恒定律的情况下一个人类怎么做到七点起来换衣服拿装备戴假毛找妆娘然后游场一整天只靠一杯大杯肯德基可乐撑下来的\nsalute"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105959773153951865",
+        "created_at": "2026-10-02T09:55:11.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105959773153951865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542921685699297280",
+              "start": 3,
+              "username": "Irons_BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105959773153951865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105675809440813488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Irons_BH: 我发自内心的真诚的敬佩所有出cos去漫展的人\n我很难想象在不遵守能量守恒定律的情况下一个人类怎么做到七点起来换衣服拿装备戴假毛找妆娘然后游场一整天只靠一杯大杯肯德基可乐撑下来的\nsalute"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542921685699297280",
+        "conversation_id": "2105675809440813488",
+        "created_at": "2026-10-01T15:06:49.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105675809440813488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105675809440813488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12649,
+          "like_count": 397,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我发自内心的真诚的敬佩所有出cos去漫展的人\n我很难想象在不遵守能量守恒定律的情况下一个人类怎么做到七点起来换衣服拿装备戴假毛找妆娘然后游场一整天只靠一杯大杯肯德基可乐撑下来的\nsalute"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105959773153951865",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 2611,
+          "like_count": 32602,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-01T17:22:59.000Z",
+        "description": "我不知道这方世界 还有多少的时间\n留给我多少良夜\n在你身边",
+        "id": "1542921685699297280",
+        "is_identity_verified": false,
+        "location": "麦拉芬蒙河丨Malevelon Creek",
+        "most_recent_tweet_id": "2105921542248943734",
+        "name": "Gwyndolin_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542921685699297280/1713366683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774446779091853312/tf-zhw4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 883,
+          "like_count": 14531,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "Irons_BH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

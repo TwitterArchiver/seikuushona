@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106245513188364487",
+    "created_at": "2026-10-03T05:03:49.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106248836973035691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080270067426832384",
+          "start": 0,
+          "username": "chubailuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106248836973035691",
+    "in_reply_to_user_id": "2080270067426832384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106245513188364487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chubailuo 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 515,
+        "media_key": "3_2106245505198272512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrjIKsbMAAPbBT.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106245513188364487",
+        "created_at": "2026-10-03T05:03:49.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106248836973035691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080270067426832384",
+              "start": 0,
+              "username": "chubailuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106248836973035691",
+        "in_reply_to_user_id": "2080270067426832384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106245513188364487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chubailuo 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106245505198272512"
+          ]
+        },
+        "author_id": "2080270067426832384",
+        "conversation_id": "2106245513188364487",
+        "created_at": "2026-10-03T04:50:37.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106245513188364487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZXVGexea2",
+              "end": 33,
+              "expanded_url": "https://x.com/chubailuo/status/2106245513188364487/photo/1",
+              "media_key": "3_2106245505198272512",
+              "start": 10,
+              "url": "https://t.co/iZXVGexea2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106245513188364487",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106245505198272512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝300fo🥳🎊 https://t.co/iZXVGexea2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106248836973035691",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 2669,
+          "like_count": 33194,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T12:36:02.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n（人类社会已经没救了，目前最喜欢🇦🇶）\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2080270067426832384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106245513188364487",
+        "name": "初白洛🇦🇶",
+        "pinned_tweet_id": "2106035744540426576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080270067426832384/1790348189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105347660807049216/dKxy1NTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 390,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "chubailuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

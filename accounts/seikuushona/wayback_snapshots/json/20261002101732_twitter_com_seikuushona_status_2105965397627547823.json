@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105965397627547823",
+    "created_at": "2026-10-02T10:17:32.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105965397627547823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1482030767358496768",
+          "start": 3,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105965397627547823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105938264104587332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tcdwww: 我知道原 po 或许并不针对任何具体的人，但看到这种话还是会比较难过。\n求求大家不要再制造这种行业对立了。搞计算机的人当然也有各种各样的人。为什么我不能只是发自真心地喜欢我在做的东西呢？\n我会 Build in…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105965397627547823",
+        "created_at": "2026-10-02T10:17:32.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105965397627547823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1482030767358496768",
+              "start": 3,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105965397627547823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105938264104587332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tcdwww: 我知道原 po 或许并不针对任何具体的人，但看到这种话还是会比较难过。\n求求大家不要再制造这种行业对立了。搞计算机的人当然也有各种各样的人。为什么我不能只是发自真心地喜欢我在做的东西呢？\n我会 Build in…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2105938264104587332",
+        "created_at": "2026-10-02T08:29:43.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:28:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105937994519839012",
+          "2105938264104587332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haku_dabai/sta…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/haku_dabai/status/2105495804731691028",
+              "start": 106,
+              "url": "https://t.co/gg0iimQNPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105938264104587332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我知道原 po 或许并不针对任何具体的人，但看到这种话还是会比较难过。\n求求大家不要再制造这种行业对立了。搞计算机的人当然也有各种各样的人。为什么我不能只是发自真心地喜欢我在做的东西呢？\n我会 Build in Public、会天天讲塑料碗的技术细节，只是因为我真的喜欢它，也喜欢把自己想要的东西一点点做出来。\n塑料碗本身甚至不是一个为做而做的开源*项目。\n*虽然严格意义上来说是 source available，因为开源许可证没有确定（"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1051,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105495804731691028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道原 po 或许并不针对任何具体的人，但看到这种话还是会比较难过。\n求求大家不要再制造这种行业对立了。搞计算机的人当然也有各种各样的人。为什么我不能只是发自真心地喜欢我在做的东西呢？\n我会 Build in https://t.co/gg0iimQNPJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105965397627547823",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 2616,
+          "like_count": 32658,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "无业游民，寻找前端（优势的全栈）工作中 ➡️ https://t.co/PJzvjsrjw4\nAvatar illustration by @KGY_HN\naka. 陶瓷大碗/吐槽大王 | 非垂类帐号 | 不迎合任何人 | 关注 ≠ 完全赞同其立场 | 蓝标是陌生人送的，碗本质上是一般推油",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 70,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "resume.tcdw.net",
+                "end": 46,
+                "expanded_url": "http://resume.tcdw.net",
+                "start": 23,
+                "url": "https://t.co/PJzvjsrjw4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "im.tcdw.net",
+                "end": 23,
+                "expanded_url": "https://im.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/Zwe61cBpLj"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2105960338583863641",
+        "name": "碗",
+        "pinned_tweet_id": "2098002008607498397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482030767358496768/1787632331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092098683156475904/Vxd4l4M__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 649,
+          "like_count": 113723,
+          "listed_count": 15,
+          "media_count": 1307,
+          "tweet_count": 15043
+        },
+        "url": "https://t.co/Zwe61cBpLj",
+        "username": "tcdwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

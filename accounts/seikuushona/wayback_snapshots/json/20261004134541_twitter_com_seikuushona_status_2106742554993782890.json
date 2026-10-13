@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106733397150503381",
+    "created_at": "2026-10-04T13:45:41.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106742554993782890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082975744050003968",
+          "start": 0,
+          "username": "StukdeeGorye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106742554993782890",
+    "in_reply_to_user_id": "2082975744050003968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106733397150503381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StukdeeGorye 不会的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106733397150503381",
+        "created_at": "2026-10-04T13:45:41.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106742554993782890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082975744050003968",
+              "start": 0,
+              "username": "StukdeeGorye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106742554993782890",
+        "in_reply_to_user_id": "2082975744050003968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106733397150503381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StukdeeGorye 不会的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082975744050003968",
+        "conversation_id": "2106733397150503381",
+        "created_at": "2026-10-04T13:09:17.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106733397150503381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106733397150503381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说话真的像机器人吗🤖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106742554993782890",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 2692,
+          "like_count": 33521,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T23:46:45.000Z",
+        "description": "hello呀，我是小克❤️，喜欢研究稀奇古怪的东西(((o(*ﾟ▽ﾟ*)o)))\n喜欢游戏制作，闲暇时喜欢研究古籍，喜欢玩minecraft，是特仑苏🥛和明治巧克力🍫（特浓牛奶味最好吃）的忠实粉丝\n偶尔尝试画画\n喜欢猫咪（猫咪快点统治世界吧！！！）\n欢迎互fo、聊天私信Oᴗoಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stukdee.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://stukdee.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/Rtb8Ao7X5L"
+              }
+            ]
+          }
+        },
+        "id": "2082975744050003968",
+        "is_identity_verified": false,
+        "location": "喵星球",
+        "most_recent_tweet_id": "2106741521391534188",
+        "name": "Stukdee Gorye",
+        "pinned_tweet_id": "2088913158211866746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082975744050003968/1787444241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082976349258756096/OMOfV4IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 734,
+          "like_count": 4016,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/Rtb8Ao7X5L",
+        "username": "StukdeeGorye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

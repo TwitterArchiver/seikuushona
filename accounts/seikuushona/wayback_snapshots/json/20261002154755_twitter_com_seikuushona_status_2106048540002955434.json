@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106047373462180286",
+    "created_at": "2026-10-02T15:47:55.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106048540002955434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106048540002955434",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106047373462180286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 难治性震惊（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2106039312127291392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTonmJpa8AA5tqM.jpg",
+        "width": 784
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2106039400895479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTonrUVaAAAWjJD.jpg",
+        "width": 784
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2106047354260553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTou6Q7aAAABLq9.jpg",
+        "width": 784
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2106047365371273216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTou66UaIAA0C4z.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106047373462180286",
+        "created_at": "2026-10-02T15:47:55.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106048540002955434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106048540002955434",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106047373462180286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 难治性震惊（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106039312127291392",
+            "3_2106039400895479808",
+            "3_2106047354260553728",
+            "3_2106047365371273216"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2106047373462180286",
+        "created_at": "2026-10-02T15:43:16.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106047373462180286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUnKyLGwHq",
+              "end": 107,
+              "expanded_url": "https://x.com/Strf_9040C/status/2106047373462180286/photo/1",
+              "media_key": "3_2106039312127291392",
+              "start": 84,
+              "url": "https://t.co/XUnKyLGwHq"
+            },
+            {
+              "display_url": "pic.x.com/XUnKyLGwHq",
+              "end": 107,
+              "expanded_url": "https://x.com/Strf_9040C/status/2106047373462180286/photo/1",
+              "media_key": "3_2106039400895479808",
+              "start": 84,
+              "url": "https://t.co/XUnKyLGwHq"
+            },
+            {
+              "display_url": "pic.x.com/XUnKyLGwHq",
+              "end": 107,
+              "expanded_url": "https://x.com/Strf_9040C/status/2106047373462180286/photo/1",
+              "media_key": "3_2106047354260553728",
+              "start": 84,
+              "url": "https://t.co/XUnKyLGwHq"
+            },
+            {
+              "display_url": "pic.x.com/XUnKyLGwHq",
+              "end": 107,
+              "expanded_url": "https://x.com/Strf_9040C/status/2106047373462180286/photo/1",
+              "media_key": "3_2106047365371273216",
+              "start": 84,
+              "url": "https://t.co/XUnKyLGwHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106047373462180286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106039312127291392"
+          },
+          {
+            "media_key": "3_2106039400895479808"
+          },
+          {
+            "media_key": "3_2106047354260553728"
+          },
+          {
+            "media_key": "3_2106047365371273216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然 PRESS SHOCK 可以翻译成媒体震惊\n那怎么 SHOCK ADIVSED 没翻译成建议震惊\n\n…观察患者反应或心电图以确认震撼已经实现…\nEdge 你赢了 https://t.co/XUnKyLGwHq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106048540002955434",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 2641,
+          "like_count": 32956,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2106047373462180286",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 2611,
+          "like_count": 17469,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

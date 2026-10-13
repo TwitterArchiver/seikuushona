@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106844718231588864"
+      ],
+      "media_source_tweet_id": [
+        "2106844732190306696"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107350042302669126",
+    "created_at": "2026-10-06T05:59:37.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107350042302669126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394995461170335750",
+          "start": 3,
+          "username": "homosapiensego"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yQopGcoNZj",
+          "end": 59,
+          "expanded_url": "https://x.com/homosapiensego/status/2106844732190306696/photo/1",
+          "media_key": "3_2106844718231588864",
+          "start": 36,
+          "url": "https://t.co/yQopGcoNZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107350042302669126",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106844718231588864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106844732190306696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homosapiensego: 打开推特气笑了，什么共产党开会 https://t.co/yQopGcoNZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106844718231588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0EG9MaEAA7mJG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106844718231588864"
+          ],
+          "media_source_tweet_id": [
+            "2106844732190306696"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107350042302669126",
+        "created_at": "2026-10-06T05:59:37.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107350042302669126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394995461170335750",
+              "start": 3,
+              "username": "homosapiensego"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQopGcoNZj",
+              "end": 59,
+              "expanded_url": "https://x.com/homosapiensego/status/2106844732190306696/photo/1",
+              "media_key": "3_2106844718231588864",
+              "start": 36,
+              "url": "https://t.co/yQopGcoNZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107350042302669126",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106844718231588864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106844732190306696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homosapiensego: 打开推特气笑了，什么共产党开会 https://t.co/yQopGcoNZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106844718231588864"
+          ]
+        },
+        "author_id": "1394995461170335750",
+        "conversation_id": "2106844732190306696",
+        "created_at": "2026-10-04T20:31:42.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T21:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106844732190306696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQopGcoNZj",
+              "end": 39,
+              "expanded_url": "https://x.com/homosapiensego/status/2106844732190306696/photo/1",
+              "media_key": "3_2106844718231588864",
+              "start": 16,
+              "url": "https://t.co/yQopGcoNZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106844732190306696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106844718231588864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 53152,
+          "like_count": 699,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "打开推特气笑了，什么共产党开会 https://t.co/yQopGcoNZj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107350042302669126",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 2783,
+          "like_count": 34530,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-19T12:37:02.000Z",
+        "description": "He/Him｜20yo｜:3｜小瘤｜可以叫我波拿｜小号：@Leon0157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Leon0157"
+              }
+            ]
+          }
+        },
+        "id": "1394995461170335750",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107100219943051473",
+        "name": "Bonaventure🏳️‍🌈🌹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394995461170335750/1637840162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027797538536050688/ajA2U0Jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4402,
+          "like_count": 206475,
+          "listed_count": 11,
+          "media_count": 439,
+          "tweet_count": 6670
+        },
+        "url": "",
+        "username": "homosapiensego",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

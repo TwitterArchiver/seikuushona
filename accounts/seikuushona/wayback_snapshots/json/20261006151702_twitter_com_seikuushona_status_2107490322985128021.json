@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107486428649476577",
+    "created_at": "2026-10-06T15:17:02.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T16:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107490322985128021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075854702588432384",
+          "start": 0,
+          "username": "hhmylord66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107490322985128021",
+    "in_reply_to_user_id": "2075854702588432384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107486428649476577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhmylord66 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3626,
+        "media_key": "3_2107486404536328192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9LuA9aYAAqz0Y.jpg",
+        "width": 3074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107486428649476577",
+        "created_at": "2026-10-06T15:17:02.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107490322985128021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075854702588432384",
+              "start": 0,
+              "username": "hhmylord66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107490322985128021",
+        "in_reply_to_user_id": "2075854702588432384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107486428649476577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhmylord66 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107486404536328192"
+          ]
+        },
+        "author_id": "2075854702588432384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107486428649476577",
+        "created_at": "2026-10-06T15:01:34.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107486428649476577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEFvyAmeYM",
+              "end": 37,
+              "expanded_url": "https://x.com/hhmylord66/status/2107486428649476577/photo/1",
+              "media_key": "3_2107486404536328192",
+              "start": 14,
+              "url": "https://t.co/ZEFvyAmeYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107486428649476577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107486404536328192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "309fo了喂，谢谢大家喵 https://t.co/ZEFvyAmeYM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107490322985128021",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 2796,
+          "like_count": 34753,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T08:09:13.000Z",
+        "description": "09 🇨🇳 高二 互fo\n高二｜科技爱好者｜分享生活\n玩点galgame｜cs2｜Minecraft｜钢4\n大号@hhanakin\n政治号@hhinworld\n好朋友@judeza5a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "hhanakin"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "hhinworld"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "judeza5a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Ihc47n_EhOoyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Ihc47n_EhOoyMmI1",
+                "start": 0,
+                "url": "https://t.co/esbP7PDxAH"
+              }
+            ]
+          }
+        },
+        "id": "2075854702588432384",
+        "is_identity_verified": false,
+        "location": "科洛桑",
+        "most_recent_tweet_id": "2107488980929581472",
+        "name": "𝒉𝒉",
+        "pinned_tweet_id": "2106378848942313897",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075854702588432384/1790933874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084296763431886848/-wwEGKlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 491,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/esbP7PDxAH",
+        "username": "hhmylord66",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

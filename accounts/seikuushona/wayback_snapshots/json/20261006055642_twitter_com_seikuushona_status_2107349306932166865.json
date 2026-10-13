@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107267408012664936",
+    "created_at": "2026-10-06T05:56:42.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107349306932166865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065362383850328065",
+          "start": 0,
+          "username": "Amlia1117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107349306932166865",
+    "in_reply_to_user_id": "2065362383850328065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107267408012664936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amlia1117 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2107267402706931712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6EibkbUAA5Yau.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107267408012664936",
+        "created_at": "2026-10-06T05:56:42.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107349306932166865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065362383850328065",
+              "start": 0,
+              "username": "Amlia1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107349306932166865",
+        "in_reply_to_user_id": "2065362383850328065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107267408012664936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amlia1117 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107267402706931712"
+          ]
+        },
+        "author_id": "2065362383850328065",
+        "conversation_id": "2107267408012664936",
+        "created_at": "2026-10-06T00:31:15.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107267408012664936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k52Qx8jdhT",
+              "end": 109,
+              "expanded_url": "https://x.com/Amlia1117/status/2107267408012664936/photo/1",
+              "media_key": "3_2107267402706931712",
+              "start": 86,
+              "url": "https://t.co/k52Qx8jdhT"
+            },
+            {
+              "display_url": "x.com/amlia1117/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/amlia1117/status/2106953162779402249",
+              "start": 110,
+              "url": "https://t.co/pi4YiWzFbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107267408012664936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107267402706931712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1314,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106953162779402249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然也要破300fo了，那就再抽2个10r和两个5r吧\n点赞此贴参与抽奖，不需要转帖，本身就是给关注我这么久的粉丝一个小小的福利而已\n这一条的开奖时间跟下面这一条时间同一 https://t.co/k52Qx8jdhT https://t.co/pi4YiWzFbo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107349306932166865",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 2781,
+          "like_count": 34511,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T09:16:27.000Z",
+        "description": "可以叫我阿米或者米米/天蝎INFJ-A或ISFJ-A/只是一个喜欢发臭猫照片的小女孩/我只是一个巧克力，人吃了没事，狗吃了会死。口出善言积善德。不卡泡不聊h，如果有这种想法的人，请你离我远一点/喜欢发一堆无关紧要的话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amlia1117/gas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amlia1117/gas",
+                "start": 0,
+                "url": "https://t.co/bRhizhsFYD"
+              }
+            ]
+          }
+        },
+        "id": "2065362383850328065",
+        "is_identity_verified": false,
+        "location": "v我49.9吃麦当劳！",
+        "most_recent_tweet_id": "2107349278591213572",
+        "name": "Amlia🐰",
+        "pinned_tweet_id": "2106953162779402249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065362383850328065/1784562776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106390942744023040/UuG4Nis8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 133,
+          "like_count": 8841,
+          "listed_count": 1,
+          "media_count": 581,
+          "tweet_count": 5465
+        },
+        "url": "https://t.co/bRhizhsFYD",
+        "username": "Amlia1117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

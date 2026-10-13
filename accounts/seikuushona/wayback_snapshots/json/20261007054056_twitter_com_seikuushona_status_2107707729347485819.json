@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107707729347485819",
+    "created_at": "2026-10-07T05:40:56.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107707729347485819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085457755243167744",
+          "start": 3,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107707729347485819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107703687779086421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HR3EOO: 自我意识是一个物理定律，当一个东西复杂到某一程度的时候，就会“涌现”出意识。\n那我把自己破坏，我的意识会消失吗？\n在“涌现论”的框架下，答案是：会消失\n\n“涌现”自我意识，就像水分子原本没有“湿”的概念，可如果它们聚在一起就有了“湿”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107707729347485819",
+        "created_at": "2026-10-07T05:40:56.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107707729347485819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085457755243167744",
+              "start": 3,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107707729347485819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107703687779086421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HR3EOO: 自我意识是一个物理定律，当一个东西复杂到某一程度的时候，就会“涌现”出意识。\n那我把自己破坏，我的意识会消失吗？\n在“涌现论”的框架下，答案是：会消失\n\n“涌现”自我意识，就像水分子原本没有“湿”的概念，可如果它们聚在一起就有了“湿”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085457755243167744",
+        "conversation_id": "2107703687779086421",
+        "created_at": "2026-10-07T05:24:53.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107703687779086421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107703687779086421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自我意识是一个物理定律，当一个东西复杂到某一程度的时候，就会“涌现”出意识。\n那我把自己破坏，我的意识会消失吗？\n在“涌现论”的框架下，答案是：会消失\n\n“涌现”自我意识，就像水分子原本没有“湿”的概念，可如果它们聚在一起就有了“湿”\n\n我们由多个部分组成，最重要的就是大脑部分，如果把大脑的神经元连接大规模破坏（严重的脑损伤），那自我意识就会消失。\n\n损坏大脑可以通过死亡来解决，死亡的方式有很多，我会选择疼痛感最轻的那一类，大脑部分优先损坏，可以通过斩首、缺氧、摔爆，破坏大脑可以使自我意识消散。\n\n好比一台电脑硬盘砸碎，里面的操作系统就不会继续运行。因为我们把组成的重要部分破坏了，所以就也不存在“涌现”，把“涌现”的条件破坏了没有了，就不会“涌现”，自我意识也不会出现。\n\n所以，斩首可能是无痛的最佳死亡方式，因为我们要求无痛，斩首直接切断头与身体的连接，这样单独的大脑就会缺少心脏泵血，不能被给予氧气和葡萄糖，几十秒内意识就会消散。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自我意识是一个物理定律，当一个东西复杂到某一程度的时候，就会“涌现”出意识。\n那我把自己破坏，我的意识会消失吗？\n在“涌现论”的框架下，答案是：会消失\n\n“涌现”自我意识，就像水分子原本没有“湿”的概念，可如果它们聚在一起就有了“湿”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107707729347485819",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2835,
+          "like_count": 35070,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n防炸号: @FNXEOO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "FNXEOO"
+              }
+            ]
+          }
+        },
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2107703687779086421",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2106051480398799352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 220,
+          "like_count": 7694,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

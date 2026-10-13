@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2104044992109162706",
+    "created_at": "2026-09-27T04:22:20.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104064071679312008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032599702454329344",
+          "start": 0,
+          "username": "Zack_1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104064071679312008",
+    "in_reply_to_user_id": "2032599702454329344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104044992109162706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zack_1229 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3788,
+        "media_key": "3_2104044886706233344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMRrT-aIAALR_e.jpg",
+        "width": 3513
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2104044992109162706",
+        "created_at": "2026-09-27T04:22:20.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104064071679312008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032599702454329344",
+              "start": 0,
+              "username": "Zack_1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104064071679312008",
+        "in_reply_to_user_id": "2032599702454329344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104044992109162706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zack_1229 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104044886706233344"
+          ]
+        },
+        "author_id": "2032599702454329344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104044992109162706",
+        "created_at": "2026-09-27T03:06:32.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104044992109162706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IN7rBB0Ws7",
+              "end": 49,
+              "expanded_url": "https://x.com/Zack_1229/status/2104044992109162706/photo/1",
+              "media_key": "3_2104044886706233344",
+              "start": 26,
+              "url": "https://t.co/IN7rBB0Ws7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104044992109162706",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104044886706233344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好快就200fo了哦😯（就過了兩天漲了30個左右） https://t.co/IN7rBB0Ws7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2104064071679312008",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 2528,
+          "like_count": 31599,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T23:29:05.000Z",
+        "description": "男😃選擇性互fo\n音游手殘/ Vocaloid 愛好者\n歡迎交友🫶\n體育課是我的一生勁敵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zack47785",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zack47785",
+                "start": 0,
+                "url": "https://t.co/r83gI6d6Xm"
+              }
+            ]
+          }
+        },
+        "id": "2032599702454329344",
+        "is_identity_verified": false,
+        "location": "True Home，True World",
+        "most_recent_tweet_id": "2104062018567430285",
+        "name": "Zack",
+        "pinned_tweet_id": "2098057450108665997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032599702454329344/1788700942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096589824719495168/K7BEN3P4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 229,
+          "like_count": 4818,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/r83gI6d6Xm",
+        "username": "Zack_1229",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

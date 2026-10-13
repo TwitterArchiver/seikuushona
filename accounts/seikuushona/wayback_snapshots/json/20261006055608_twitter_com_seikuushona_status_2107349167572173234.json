@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      }
+    ],
+    "conversation_id": "2107349167572173234",
+    "created_at": "2026-10-06T05:56:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107349167572173234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "23276463",
+          "start": 3,
+          "username": "ortegaalfredo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107349167572173234",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107218272416587958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ortegaalfredo: Imagine the amount of Java crashes this poor LLM must have in its training set that it decided 'NullPointerException' de…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 193,
+        "media_key": "3_2107217558084395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT5XNF4WIAA59n1.png",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "2107349167572173234",
+        "created_at": "2026-10-06T05:56:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107349167572173234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "23276463",
+              "start": 3,
+              "username": "ortegaalfredo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107349167572173234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107218272416587958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ortegaalfredo: Imagine the amount of Java crashes this poor LLM must have in its training set that it decided 'NullPointerException' de…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107217558084395008"
+          ]
+        },
+        "author_id": "23276463",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          }
+        ],
+        "conversation_id": "2107218272416587958",
+        "created_at": "2026-10-05T21:16:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T22:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107218272416587958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bStIf2HWqP",
+              "end": 164,
+              "expanded_url": "https://x.com/ortegaalfredo/status/2107218272416587958/photo/1",
+              "media_key": "3_2107217558084395008",
+              "start": 141,
+              "url": "https://t.co/bStIf2HWqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107218272416587958",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2107217558084395008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 125377,
+          "like_count": 5109,
+          "quote_count": 19,
+          "reply_count": 30,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine the amount of Java crashes this poor LLM must have in its training set that it decided 'NullPointerException' deserves its own token https://t.co/bStIf2HWqP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107349167572173234",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 2781,
+          "like_count": 34510,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-08T04:34:21.000Z",
+        "description": "Software Developer - Security researcher - Cybergaucho - @xy@mastodon.social\nAI-related:\n  https://t.co/hhQltrgzKS\n  https://t.co/ibyCcAp6zv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "neuroengine.ai",
+                "end": 114,
+                "expanded_url": "http://neuroengine.ai",
+                "start": 91,
+                "url": "https://t.co/hhQltrgzKS"
+              },
+              {
+                "display_url": "discord.gg/raeft3whmn",
+                "end": 140,
+                "expanded_url": "http://discord.gg/raeft3whmn",
+                "start": 117,
+                "url": "https://t.co/ibyCcAp6zv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ortegaalfredo",
+                "end": 23,
+                "expanded_url": "https://github.com/ortegaalfredo",
+                "start": 0,
+                "url": "https://t.co/8uxe6woZxw"
+              }
+            ]
+          }
+        },
+        "id": "23276463",
+        "is_identity_verified": false,
+        "location": "Chiba City",
+        "most_recent_tweet_id": "2107283395499659446",
+        "name": "AIfredo 0rtega",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23276463/1763579873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625193865530470401/IbNanJ42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8955,
+          "following_count": 1179,
+          "like_count": 6378,
+          "listed_count": 177,
+          "media_count": 675,
+          "tweet_count": 9403
+        },
+        "url": "https://t.co/8uxe6woZxw",
+        "username": "ortegaalfredo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

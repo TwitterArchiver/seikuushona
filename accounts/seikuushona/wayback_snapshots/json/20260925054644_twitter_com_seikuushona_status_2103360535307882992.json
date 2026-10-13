@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2103360535307882992",
+    "created_at": "2026-09-25T05:46:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103360535307882992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427141496407420929",
+          "start": 3,
+          "username": "__soragoto__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103360535307882992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103003893919859009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__soragoto__: 面试官：看你简历上写做过 IM，那简单问一下设计思路，多端同时在线，聊天记录还得同步，怎么设计？ \n候选人：长连接、心跳、路由、推送队列、消息归档…… balabala……\n面试官：用户太多了，消息存不下呢？ \n候选人：那就不存了啊。聊天记录…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2103360535307882992",
+        "created_at": "2026-09-25T05:46:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103360535307882992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427141496407420929",
+              "start": 3,
+              "username": "__soragoto__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103360535307882992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103003893919859009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__soragoto__: 面试官：看你简历上写做过 IM，那简单问一下设计思路，多端同时在线，聊天记录还得同步，怎么设计？ \n候选人：长连接、心跳、路由、推送队列、消息归档…… balabala……\n面试官：用户太多了，消息存不下呢？ \n候选人：那就不存了啊。聊天记录…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427141496407420929",
+        "conversation_id": "2103003893919859009",
+        "created_at": "2026-09-24T06:09:34.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:08:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103003620916502782",
+          "2103003893919859009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103003893919859009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "面试官：看你简历上写做过 IM，那简单问一下设计思路，多端同时在线，聊天记录还得同步，怎么设计？ \n候选人：长连接、心跳、路由、推送队列、消息归档…… balabala……\n面试官：用户太多了，消息存不下呢？ \n候选人：那就不存了啊。聊天记录放本地，服务端只管队列和分发。 \n面试官：那多端同步怎么办？ \n候选人：把第二台设备登录做复杂一点，尽量别让用户登录。 \n面试官：用户真登上了呢？ \n候选人：那就想办法从第一台设备那边 P2P 搬一点聊天记录过去……\n面试官：你tm到底在哪做 IM 的？你给我滚出去！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 171236,
+          "like_count": 816,
+          "quote_count": 9,
+          "reply_count": 71,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "面试官：看你简历上写做过 IM，那简单问一下设计思路，多端同时在线，聊天记录还得同步，怎么设计？ \n候选人：长连接、心跳、路由、推送队列、消息归档…… balabala……\n面试官：用户太多了，消息存不下呢？ \n候选人：那就不存了啊。聊天记录放本地，服务端只管队列和分发。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2103360535307882992",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 2462,
+          "like_count": 30521,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/在尝试写些小段子/想要变得可爱/如果你有什么装逼小故事或者技术冷知识，或许你可以投稿给我 soragoto@soragoto.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2103359909303841243",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 296,
+          "like_count": 642,
+          "listed_count": 13,
+          "media_count": 274,
+          "tweet_count": 3845
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107467480163922190",
+    "created_at": "2026-10-06T14:05:35.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107472341416775781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395755728950812676",
+          "start": 0,
+          "username": "shikoch1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107472341416775781",
+    "in_reply_to_user_id": "1395755728950812676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107467480163922190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@shikoch1n 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107467480163922190",
+        "created_at": "2026-10-06T14:05:35.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107472341416775781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395755728950812676",
+              "start": 0,
+              "username": "shikoch1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107472341416775781",
+        "in_reply_to_user_id": "1395755728950812676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107467480163922190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@shikoch1n 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395755728950812676",
+        "conversation_id": "2107467480163922190",
+        "created_at": "2026-10-06T13:46:16.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107467480163922190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107467480163922190",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "If you are in my network you can reply me"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107472341416775781",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 2786,
+          "like_count": 34647,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T14:58:02.000Z",
+        "description": "Writer/Vibe Coder/社民/不喜欢MBTI/音游/Pronoun 随意/无性恋\nany DM are welcome\n我喜欢你们，互关🥺\nXKO0C027475a78E05966069823379E0D008895674a0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shikoch.in",
+                "end": 23,
+                "expanded_url": "http://shikoch.in",
+                "start": 0,
+                "url": "https://t.co/PLpx9havtB"
+              }
+            ]
+          }
+        },
+        "id": "1395755728950812676",
+        "is_identity_verified": false,
+        "location": "Prohibited",
+        "most_recent_tweet_id": "2107467480163922190",
+        "name": "西宮 缄",
+        "pinned_tweet_id": "2106734726098944289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395755728950812676/1790448175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103918254725201920/de5KCyp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 370,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/PLpx9havtB",
+        "username": "shikoch1n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

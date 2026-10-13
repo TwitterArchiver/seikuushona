@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105601038770487321",
+    "created_at": "2026-10-01T10:36:23.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105607755398795428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822663743895113728",
+          "start": 0,
+          "username": "keking99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105607755398795428",
+    "in_reply_to_user_id": "1822663743895113728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105601038770487321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keking99 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105601031803719681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiY-4NbUAEy_79.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105601038770487321",
+        "created_at": "2026-10-01T10:36:23.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105607755398795428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822663743895113728",
+              "start": 0,
+              "username": "keking99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105607755398795428",
+        "in_reply_to_user_id": "1822663743895113728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105601038770487321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keking99 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105601031803719681"
+          ]
+        },
+        "author_id": "1822663743895113728",
+        "conversation_id": "2105601038770487321",
+        "created_at": "2026-10-01T10:09:42.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105601038770487321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvPtHv7qbr",
+              "end": 43,
+              "expanded_url": "https://x.com/keking99/status/2105601038770487321/photo/1",
+              "media_key": "3_2105601031803719681",
+              "start": 20,
+              "url": "https://t.co/YvPtHv7qbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105601038770487321",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105601031803719681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝色是男生的颜色，因此浅浅做个蓝色美甲 https://t.co/YvPtHv7qbr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105607755398795428",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 2592,
+          "like_count": 32337,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T15:58:18.000Z",
+        "description": "Modaleap 开放平台主管/开发者生态负责人;  dify产品工程师；夜莺开放平台主管(manus 前身)；前虚拟主播月流水60k；开发者和 FDE 最好的朋友；AI4Porn;华科本国f科大硕士退学；坚持手写推；绝不钓鱼；私域群私我(只回蓝V)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/KurosawaGeeker",
+                "end": 23,
+                "expanded_url": "https://github.com/KurosawaGeeker",
+                "start": 0,
+                "url": "https://t.co/rEROn3lO9W"
+              }
+            ]
+          }
+        },
+        "id": "1822663743895113728",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2105601038770487321",
+        "name": "武汉AI王小克",
+        "pinned_tweet_id": "2104879994627617027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822663743895113728/1790341530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103472374616313856/2LtAt7QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 186,
+          "like_count": 441,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/rEROn3lO9W",
+        "username": "keking99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106980783932215478",
+    "created_at": "2026-10-05T05:32:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106980783932215478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1075572945831878656",
+          "start": 3,
+          "username": "kk_shinkai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106980783932215478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106686972228161682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kk_shinkai: 如果你发现我说话有一股 AI 味，请可怜可怜我。在 LLM 流行之前，我就一直是这样的措辞风格，那时候大家虽然觉得有些怪异，但没人会怀疑我是机器人。后来 GPT-3.5 发布了，我的文章开始被各种 AI 检测工具报警，当时我更多的是愤怒。直到今天…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106980783932215478",
+        "created_at": "2026-10-05T05:32:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106980783932215478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1075572945831878656",
+              "start": 3,
+              "username": "kk_shinkai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106980783932215478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106686972228161682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kk_shinkai: 如果你发现我说话有一股 AI 味，请可怜可怜我。在 LLM 流行之前，我就一直是这样的措辞风格，那时候大家虽然觉得有些怪异，但没人会怀疑我是机器人。后来 GPT-3.5 发布了，我的文章开始被各种 AI 检测工具报警，当时我更多的是愤怒。直到今天…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1075572945831878656",
+        "conversation_id": "2106686972228161682",
+        "created_at": "2026-10-04T10:04:49.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106686972228161682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106686972228161682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你发现我说话有一股 AI 味，请可怜可怜我。在 LLM 流行之前，我就一直是这样的措辞风格，那时候大家虽然觉得有些怪异，但没人会怀疑我是机器人。后来 GPT-3.5 发布了，我的文章开始被各种 AI 检测工具报警，当时我更多的是愤怒。直到今天，我自己打完一段话之后，发现自己正试图把它传给 Claude，让他帮我去除 AI 味。那一刻我知道，我彻底完蛋了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 83415,
+          "like_count": 1627,
+          "quote_count": 11,
+          "reply_count": 92,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "如果你发现我说话有一股 AI 味，请可怜可怜我。在 LLM 流行之前，我就一直是这样的措辞风格，那时候大家虽然觉得有些怪异，但没人会怀疑我是机器人。后来 GPT-3.5 发布了，我的文章开始被各种 AI 检测工具报警，当时我更多的是愤怒。直到今天，我自己打完一段话之后，发现自己正试图把它传给"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106980783932215478",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 2722,
+          "like_count": 33935,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-20T02:05:48.000Z",
+        "description": "",
+        "id": "1075572945831878656",
+        "is_identity_verified": false,
+        "location": "Peking",
+        "most_recent_tweet_id": "2106867630355476501",
+        "name": "Kagurazaka Shinkai",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075572945831878656/1741264807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897628211196112896/0HMnr3hL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3561,
+          "following_count": 749,
+          "like_count": 1969,
+          "listed_count": 34,
+          "media_count": 96,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "kk_shinkai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105878408668586405",
+    "created_at": "2026-10-02T04:31:52.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105878408668586405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "46585371",
+          "start": 3,
+          "username": "m0d8ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105878408668586405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105524670170821088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m0d8ye: 我一直不太明白大模型的知识提取（\nextraction）不叫萃取而要叫蒸馏\n（distilation），是因为当年写论文的同学看了绝命毒师以后觉得蒸馏更高级？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105878408668586405",
+        "created_at": "2026-10-02T04:31:52.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105878408668586405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "46585371",
+              "start": 3,
+              "username": "m0d8ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105878408668586405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105524670170821088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m0d8ye: 我一直不太明白大模型的知识提取（\nextraction）不叫萃取而要叫蒸馏\n（distilation），是因为当年写论文的同学看了绝命毒师以后觉得蒸馏更高级？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46585371",
+        "conversation_id": "2105524670170821088",
+        "created_at": "2026-10-01T05:06:14.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105524670170821088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105524670170821088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 27242,
+          "like_count": 132,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我一直不太明白大模型的知识提取（\nextraction）不叫萃取而要叫蒸馏\n（distilation），是因为当年写论文的同学看了绝命毒师以后觉得蒸馏更高级？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105878408668586405",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 2610,
+          "like_count": 32586,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-12T04:58:38.000Z",
+        "description": "Open source developer: https://t.co/fHv2kscvIb Views are my own.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "madeye.github.io",
+                "end": 46,
+                "expanded_url": "https://madeye.github.io/",
+                "start": 23,
+                "url": "https://t.co/fHv2kscvIb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/madeye",
+                "end": 23,
+                "expanded_url": "https://github.com/madeye",
+                "start": 0,
+                "url": "https://t.co/v2E8btNxqk"
+              }
+            ]
+          }
+        },
+        "id": "46585371",
+        "is_identity_verified": false,
+        "location": "Shanghai, China",
+        "most_recent_tweet_id": "2105865457869947181",
+        "name": "Max Lv",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46585371/1408074235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649917814/bio_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20431,
+          "following_count": 417,
+          "like_count": 2122,
+          "listed_count": 182,
+          "media_count": 309,
+          "tweet_count": 6935
+        },
+        "url": "https://t.co/v2E8btNxqk",
+        "username": "m0d8ye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

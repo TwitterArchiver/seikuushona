@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2106063044388536505",
+    "created_at": "2026-10-03T05:10:40.000Z",
+    "display_text_range": [
+      43,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106250560043385331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1852208408151109632",
+          "start": 0,
+          "username": "Q1naUxU"
+        },
+        {
+          "end": 25,
+          "id": "2018340197587726336",
+          "start": 9,
+          "username": "LoongAndJingwei"
+        },
+        {
+          "end": 42,
+          "id": "1674980995983118336",
+          "start": 26,
+          "username": "KozakuraMari233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106250560043385331",
+    "in_reply_to_user_id": "1852208408151109632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106094621013262804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q1naUxU @LoongAndJingwei @KozakuraMari233 是的，感觉现在的 X，相比 2021 至 2023 年之间的 Twitter 要水了不少——越来越多只为引起关注的 bait 和只为盈利而发布的无价值内容了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106063044388536505",
+        "created_at": "2026-10-03T05:10:40.000Z",
+        "display_text_range": [
+          43,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106250560043385331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1852208408151109632",
+              "start": 0,
+              "username": "Q1naUxU"
+            },
+            {
+              "end": 25,
+              "id": "2018340197587726336",
+              "start": 9,
+              "username": "LoongAndJingwei"
+            },
+            {
+              "end": 42,
+              "id": "1674980995983118336",
+              "start": 26,
+              "username": "KozakuraMari233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106250560043385331",
+        "in_reply_to_user_id": "1852208408151109632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106094621013262804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q1naUxU @LoongAndJingwei @KozakuraMari233 是的，感觉现在的 X，相比 2021 至 2023 年之间的 Twitter 要水了不少——越来越多只为引起关注的 bait 和只为盈利而发布的无价值内容了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852208408151109632",
+        "conversation_id": "2106063044388536505",
+        "created_at": "2026-10-02T18:51:01.000Z",
+        "display_text_range": [
+          34,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106094621013262804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018340197587726336",
+              "start": 0,
+              "username": "LoongAndJingwei"
+            },
+            {
+              "end": 33,
+              "id": "1674980995983118336",
+              "start": 17,
+              "username": "KozakuraMari233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106094621013262804",
+        "in_reply_to_user_id": "2018340197587726336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106091544566796550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoongAndJingwei @KozakuraMari233 那时候还没有经常看x，以前居然不是这样的吗😢😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106250560043385331",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 2671,
+          "like_count": 33220,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-01T04:38:00.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/?tx 中性认同💜/他 They\n温良路过/可愛い服装爱好/pjsk25時厨🎀\n不o不割不键政 欢迎友跨人士交友🍃",
+        "id": "1852208408151109632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106094621013262804",
+        "name": "Qx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852208408151109632/1790888699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105765935307259904/f6csDuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 46,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Q1naUxU",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T15:07:09.000Z",
+        "description": "为啥龙烧鸟意难平中……\n此号暂时用来码点陈诀陈游戏日常和终末地相关\n雷男管/男干员 和 MOD的自行避雷\n被1.4版北部禁区后半段编剧强插ML洗脑看不起小陈的也别来，出门左转不送",
+        "id": "2018340197587726336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106230743928320128",
+        "name": "一剑斩断烧鸟泪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018340197587726336/1788891795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101375113497317376/L1sa2ZUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "LoongAndJingwei",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-01T03:19:43.000Z",
+        "description": "愛よ！",
+        "id": "1674980995983118336",
+        "is_identity_verified": false,
+        "location": "in a daze",
+        "most_recent_tweet_id": "2106188975769854388",
+        "name": "迷人的マリー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674980995983118336/1783098470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073091242712539136/Xnyt6N49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 549,
+          "like_count": 17047,
+          "listed_count": 1,
+          "media_count": 541,
+          "tweet_count": 4999
+        },
+        "url": "",
+        "username": "KozakuraMari233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106027662141775872"
+      ],
+      "media_source_tweet_id": [
+        "2106032455438446815"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106032700696170500",
+    "created_at": "2026-10-02T14:44:58.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106032700696170500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sATjqtzEim",
+          "end": 68,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2106032455438446815/photo/1",
+          "media_key": "3_2106027662141775872",
+          "start": 45,
+          "url": "https://t.co/sATjqtzEim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106032700696170500",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106027662141775872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106032455438446815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 两种选择，两种结局：\n\n⬅️不登校　　　登校➡️ https://t.co/sATjqtzEim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1475,
+        "media_key": "3_2106027662141775872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTodACEbYAABUYG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106027662141775872"
+          ],
+          "media_source_tweet_id": [
+            "2106032455438446815"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106032700696170500",
+        "created_at": "2026-10-02T14:44:58.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106032700696170500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sATjqtzEim",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2106032455438446815/photo/1",
+              "media_key": "3_2106027662141775872",
+              "start": 45,
+              "url": "https://t.co/sATjqtzEim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106032700696170500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106027662141775872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106032455438446815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 两种选择，两种结局：\n\n⬅️不登校　　　登校➡️ https://t.co/sATjqtzEim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106027662141775872"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2106032455438446815",
+        "created_at": "2026-10-02T14:44:00.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106032455438446815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sATjqtzEim",
+              "end": 48,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2106032455438446815/photo/1",
+              "media_key": "3_2106027662141775872",
+              "start": 25,
+              "url": "https://t.co/sATjqtzEim"
+            },
+            {
+              "display_url": "x.com/nihonkanjousen…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/nihonkanjousen/status/2105992391484440675",
+              "start": 49,
+              "url": "https://t.co/Rr7aZDKoK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106032455438446815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106027662141775872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105992391484440675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两种选择，两种结局：\n\n⬅️不登校　　　登校➡️ https://t.co/sATjqtzEim https://t.co/Rr7aZDKoK0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106032700696170500",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 2640,
+          "like_count": 32839,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106032455438446815",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104975397016219648/zuGLMOkY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21703,
+          "following_count": 895,
+          "like_count": 37168,
+          "listed_count": 33,
+          "media_count": 3398,
+          "tweet_count": 14436
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

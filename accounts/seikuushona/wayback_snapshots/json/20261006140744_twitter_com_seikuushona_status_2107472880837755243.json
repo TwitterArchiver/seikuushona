@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107472880837755243",
+    "created_at": "2026-10-06T14:07:44.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107472880837755243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1075572945831878656",
+          "start": 3,
+          "username": "kk_shinkai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107472880837755243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107401923116867854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kk_shinkai: 经过两天的观察，我有充分的理由怀疑这个账号是 Astra…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107472880837755243",
+        "created_at": "2026-10-06T14:07:44.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107472880837755243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1075572945831878656",
+              "start": 3,
+              "username": "kk_shinkai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107472880837755243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107401923116867854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kk_shinkai: 经过两天的观察，我有充分的理由怀疑这个账号是 Astra…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1075572945831878656",
+        "conversation_id": "2107401923116867854",
+        "created_at": "2026-10-06T09:25:46.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107401923116867854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2106845241357824205",
+              "start": 29,
+              "url": "https://t.co/txSSTNcsZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107401923116867854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经过两天的观察，我有充分的理由怀疑这个账号是 Astra 而不是真人在运营。先是以一条模糊到难以产生有效判断的提示词开始，完全不遵照常识去理解对方的真正意图，在背地里进行大量莫名其妙的工作，并且定期就会停下来向你报告一个你既没有要求也不知道和最终目标有什么关联的任务已经阶段性完成。当你发现你要的东西、它声称的东西、实际存在的东西这三者没有任何两者之间能对上号的时候，它就开始胡言乱语，不断吐出一些看起来像是无意义随机字符串的东西。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 28513,
+          "like_count": 323,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106845241357824205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过两天的观察，我有充分的理由怀疑这个账号是 Astra https://t.co/txSSTNcsZf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107472880837755243",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 2786,
+          "like_count": 34657,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-20T02:05:48.000Z",
+        "description": "",
+        "id": "1075572945831878656",
+        "is_identity_verified": false,
+        "location": "Peking",
+        "most_recent_tweet_id": "2107401923116867854",
+        "name": "Kagurazaka Shinkai",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075572945831878656/1741264807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897628211196112896/0HMnr3hL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 749,
+          "like_count": 1969,
+          "listed_count": 34,
+          "media_count": 96,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "kk_shinkai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

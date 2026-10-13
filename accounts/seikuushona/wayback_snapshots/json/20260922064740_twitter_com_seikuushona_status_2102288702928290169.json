@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2102288702928290169",
+    "created_at": "2026-09-22T06:47:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102288702928290169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008360423771316224",
+          "start": 3,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102288702928290169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102047871969406988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Konizaza: 窝真的感觉外网的环境更好…\n窝在墙内发一些很正常的阐述我个人观点，没有什么对立极端的言论，仅仅就事论事，结果总是有莫名其妙的人跳出来用非常趾高气昂，嘲讽轻蔑的语气，“高屋建瓴”，带着一股爹味来批评我，还不忘附上几句人身攻击，隔着屏幕都能感觉到屏幕那边…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2102288702928290169",
+        "created_at": "2026-09-22T06:47:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102288702928290169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008360423771316224",
+              "start": 3,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102288702928290169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102047871969406988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Konizaza: 窝真的感觉外网的环境更好…\n窝在墙内发一些很正常的阐述我个人观点，没有什么对立极端的言论，仅仅就事论事，结果总是有莫名其妙的人跳出来用非常趾高气昂，嘲讽轻蔑的语气，“高屋建瓴”，带着一股爹味来批评我，还不忘附上几句人身攻击，隔着屏幕都能感觉到屏幕那边…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2102047871969406988",
+        "created_at": "2026-09-21T14:50:41.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102047871969406988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102047871969406988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窝真的感觉外网的环境更好…\n窝在墙内发一些很正常的阐述我个人观点，没有什么对立极端的言论，仅仅就事论事，结果总是有莫名其妙的人跳出来用非常趾高气昂，嘲讽轻蔑的语气，“高屋建瓴”，带着一股爹味来批评我，还不忘附上几句人身攻击，隔着屏幕都能感觉到屏幕那边的人是一幅什么样的嘴脸\n给人的感觉就是为了嘲讽而攻击别人，全都是戾气的宣泄，没有理性讨论的态度\n\n反观墙外，只要我没有触碰什么红线，或者是在某些骂战已经成为常态的圈子里面发评论，基本上很少会出现这种事情\n就算有意见不合，也都是很礼貌地讨论，不会动不动放出什么刻薄的语气来伤人\n\n窝说这些当然不是说墙内的人就是比墙外素质低，墙外当然也有这种人，但是那些人都基本上只在特定的一个地方攻击，很少牵连到正常理性讨论的人\n\n窝的感觉就是，至少那些不是特别友好的人不会莫名其妙的出现在我的社交圈里面来跳脸。\n但是墙内的确会这样，不管在哪里\n小说的讨论圈，某些游戏的讨论圈，或者是其他什么的\n明明是很和谐的讨论，就总是会插进来一些恶心的人和疯狗一样见人就咬，完全不知道他们内心到底有什么混乱的想法…\n\n为什么呢…\n是巧合吗，还是说因为墙内人多呢\n\n总之，以上都是由窝的个人感受，不具有决定性，欢迎大家理性讨论"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2327,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "窝真的感觉外网的环境更好…\n窝在墙内发一些很正常的阐述我个人观点，没有什么对立极端的言论，仅仅就事论事，结果总是有莫名其妙的人跳出来用非常趾高气昂，嘲讽轻蔑的语气，“高屋建瓴”，带着一股爹味来批评我，还不忘附上几句人身攻击，隔着屏幕都能感觉到屏幕那边的人是一幅什么样的嘴脸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2102288702928290169",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 2457,
+          "like_count": 30424,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜不见证｜？Tzaza｜08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n赞助（solana）：\n2BgaBDBo6jrSjmsGBva1EVFFbySPC4A5LZMrn6fgA9GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2102068881821200691",
+        "name": "❤️Konizaza❤️",
+        "pinned_tweet_id": "2101339237555871914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1947,
+          "like_count": 10682,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106281806282793113",
+    "created_at": "2026-10-03T07:14:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106281806282793113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "286418121",
+          "start": 3,
+          "username": "CyberHono"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can contact @bd_premium_bot right away.",
+          "display_url": "t.me/bd_premium_bot",
+          "end": 71,
+          "expanded_url": "https://t.me/bd_premium_bot",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 48,
+          "status": 200,
+          "title": "bdpremiumbot",
+          "unwound_url": "https://t.me/bd_premium_bot",
+          "url": "https://t.co/CNijjQ0rkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106281806282793113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106250708232417288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberHono: 如果想要低价蓝 V 的话可以试试我的 Telegram Bot\n\nhttps://t.co/CNijjQ0rkJ\n\n输入 X Username 就可以开了，可以赠礼的话，会返回一条官方 Stripe 链接自己支付即可，支持各种信用卡\n\n会用 @ne…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106281806282793113",
+        "created_at": "2026-10-03T07:14:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106281806282793113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "286418121",
+              "start": 3,
+              "username": "CyberHono"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @bd_premium_bot right away.",
+              "display_url": "t.me/bd_premium_bot",
+              "end": 71,
+              "expanded_url": "https://t.me/bd_premium_bot",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "bdpremiumbot",
+              "unwound_url": "https://t.me/bd_premium_bot",
+              "url": "https://t.co/CNijjQ0rkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106281806282793113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106250708232417288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberHono: 如果想要低价蓝 V 的话可以试试我的 Telegram Bot\n\nhttps://t.co/CNijjQ0rkJ\n\n输入 X Username 就可以开了，可以赠礼的话，会返回一条官方 Stripe 链接自己支付即可，支持各种信用卡\n\n会用 @ne…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "286418121",
+        "conversation_id": "2106250708232417288",
+        "created_at": "2026-10-03T05:11:15.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:10:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106250566561304954",
+          "2106250708232417288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 131,
+              "id": "1012829251",
+              "start": 121,
+              "username": "nekoko_14"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @bd_premium_bot right away.",
+              "display_url": "t.me/bd_premium_bot",
+              "end": 56,
+              "expanded_url": "https://t.me/bd_premium_bot",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106250571993001984/eJ-gBG0t?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "bdpremiumbot",
+              "unwound_url": "https://t.me/bd_premium_bot",
+              "url": "https://t.co/CNijjQ0rkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106250708232417288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 796,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果想要低价蓝 V 的话可以试试我的 Telegram Bot\n\nhttps://t.co/CNijjQ0rkJ\n\n输入 X Username 就可以开了，可以赠礼的话，会返回一条官方 Stripe 链接自己支付即可，支持各种信用卡\n\n会用 @nekoko_14 赠礼送出\n\n3mo = 300 BDT / $2.4\n6mo = 600 BDT / $4.8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106281806282793113",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 2672,
+          "like_count": 33254,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEaFaV 🏎️  https://t.co/JHy2gX2Ml7  ☎️  https://t.co/zZGI0xvTGU  📟 https://t.co/09eUmxlkeN\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)\nalt: @ieb233\n\navatar by @KGY_HN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 162,
+                "start": 155,
+                "username": "ieb233"
+              },
+              {
+                "end": 181,
+                "start": 174,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEaFaV"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX2Ml7"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xvTGU"
+              },
+              {
+                "display_url": "n.lpa.ee",
+                "end": 110,
+                "expanded_url": "http://n.lpa.ee",
+                "start": 87,
+                "url": "https://t.co/09eUmxlkeN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlmQf"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "is_identity_verified": true,
+        "location": "Fukuoka",
+        "most_recent_tweet_id": "2106277033475260493",
+        "name": "ieb",
+        "pinned_tweet_id": "2056327506102489437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286418121/1483897736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090434400106516480/uRdBU7_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 587,
+          "like_count": 5086,
+          "listed_count": 9,
+          "media_count": 452,
+          "tweet_count": 5058
+        },
+        "url": "https://t.co/i6C0PXlmQf",
+        "username": "CyberHono",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

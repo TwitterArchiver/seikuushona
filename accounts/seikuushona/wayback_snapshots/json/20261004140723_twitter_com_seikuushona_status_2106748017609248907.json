@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106748017609248907",
+    "created_at": "2026-10-04T14:07:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106748017609248907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755853048277331968",
+          "start": 3,
+          "username": "miaodeisu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A quiet place to begin something.",
+          "display_url": "footgear-chill-antler.ngrok-free.dev",
+          "end": 116,
+          "expanded_url": "https://footgear-chill-antler.ngrok-free.dev",
+          "start": 93,
+          "status": 200,
+          "title": "Ariadne — Find your way",
+          "unwound_url": "https://footgear-chill-antler.ngrok-free.dev",
+          "url": "https://t.co/1SxcNixNfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106748017609248907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106398716043362466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaodeisu: 最近做了一个叫 Ariadne 的小东西！\n大概是用来把脑袋里乱七八糟的「我想做这个！」慢慢整理成真正可以开始推进的项目ww\n\n想玩 uu请看链接直达ww\nhttps://t.co/1SxcNixNfo\n\n现在终于做到了可以拿出来玩的程度！但是我自…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2106388853313703936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtlgICbEAAZcm6.jpg",
+        "width": 2559
+      },
+      {
+        "height": 1341,
+        "media_key": "3_2106388916190449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtljyRaEAAtweJ.jpg",
+        "width": 2559
+      },
+      {
+        "height": 1341,
+        "media_key": "3_2106390936435752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtnZYRbAAAR7zI.jpg",
+        "width": 2559
+      },
+      {
+        "height": 1305,
+        "media_key": "3_2106391082187825153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtnh3PbIAE6-rm.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106748017609248907",
+        "created_at": "2026-10-04T14:07:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106748017609248907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755853048277331968",
+              "start": 3,
+              "username": "miaodeisu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A quiet place to begin something.",
+              "display_url": "footgear-chill-antler.ngrok-free.dev",
+              "end": 116,
+              "expanded_url": "https://footgear-chill-antler.ngrok-free.dev",
+              "start": 93,
+              "status": 200,
+              "title": "Ariadne — Find your way",
+              "unwound_url": "https://footgear-chill-antler.ngrok-free.dev",
+              "url": "https://t.co/1SxcNixNfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106748017609248907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106398716043362466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaodeisu: 最近做了一个叫 Ariadne 的小东西！\n大概是用来把脑袋里乱七八糟的「我想做这个！」慢慢整理成真正可以开始推进的项目ww\n\n想玩 uu请看链接直达ww\nhttps://t.co/1SxcNixNfo\n\n现在终于做到了可以拿出来玩的程度！但是我自…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106388853313703936",
+            "3_2106388916190449664",
+            "3_2106390936435752960",
+            "3_2106391082187825153"
+          ]
+        },
+        "author_id": "1755853048277331968",
+        "conversation_id": "2106398716043362466",
+        "created_at": "2026-10-03T14:59:23.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:34:45.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106392514911682900",
+          "2106398597562659306",
+          "2106398716043362466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A quiet place to begin something.",
+              "display_url": "footgear-chill-antler.ngrok-free.dev",
+              "end": 101,
+              "expanded_url": "https://footgear-chill-antler.ngrok-free.dev",
+              "start": 78,
+              "status": 200,
+              "title": "Ariadne — Find your way",
+              "unwound_url": "https://footgear-chill-antler.ngrok-free.dev",
+              "url": "https://t.co/1SxcNixNfo"
+            },
+            {
+              "display_url": "pic.x.com/UyfgBdIb9B",
+              "end": 168,
+              "expanded_url": "https://x.com/miaodeisu/status/2106398716043362466/photo/1",
+              "media_key": "3_2106388853313703936",
+              "start": 145,
+              "url": "https://t.co/UyfgBdIb9B"
+            },
+            {
+              "display_url": "pic.x.com/UyfgBdIb9B",
+              "end": 168,
+              "expanded_url": "https://x.com/miaodeisu/status/2106398716043362466/photo/1",
+              "media_key": "3_2106388916190449664",
+              "start": 145,
+              "url": "https://t.co/UyfgBdIb9B"
+            },
+            {
+              "display_url": "pic.x.com/UyfgBdIb9B",
+              "end": 168,
+              "expanded_url": "https://x.com/miaodeisu/status/2106398716043362466/photo/1",
+              "media_key": "3_2106390936435752960",
+              "start": 145,
+              "url": "https://t.co/UyfgBdIb9B"
+            },
+            {
+              "display_url": "pic.x.com/UyfgBdIb9B",
+              "end": 168,
+              "expanded_url": "https://x.com/miaodeisu/status/2106398716043362466/photo/1",
+              "media_key": "3_2106391082187825153",
+              "start": 145,
+              "url": "https://t.co/UyfgBdIb9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106398716043362466",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106388853313703936"
+          },
+          {
+            "media_key": "3_2106388916190449664"
+          },
+          {
+            "media_key": "3_2106390936435752960"
+          },
+          {
+            "media_key": "3_2106391082187825153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "footgear-chill-antler.ngrok-free.dev",
+                "end": 101,
+                "expanded_url": "https://footgear-chill-antler.ngrok-free.dev",
+                "start": 78,
+                "url": "https://t.co/0ASPqTkrF4"
+              }
+            ]
+          },
+          "text": "最近做了一个叫 Ariadne 的小东西！\n大概是用来把脑袋里乱七八糟的「我想做这个！」慢慢整理成真正可以开始推进的项目ww\n\n想玩 uu请看链接直达ww\nhttps://t.co/0ASPqTkrF4\n\n现在终于做到了可以拿出来玩的程度！但是我自己看太久已经完全不知道哪里好用哪里难用了 TT所以想找几个朋友随便进去玩玩，不用认真测试也不用写反馈！点两下就跑也完全可以🥺🥺\n\n如果刚好发现哪里看不懂、哪里用着很怪、UI 哪里很丑，请敬请反馈！全部的意见我都会认真倾听的！\n\n以及也很想借这个机会认识一些技术方面的朋友！\n前端 / 后端 / AI / UI / 产品什么方向都可以( ´▽｀)或者只是平时喜欢自己做点奇怪的小项目也很好。可以一起聊聊最近在做什么、交换一些奇怪的 idea，偶尔互相看看对方做出来的东西 www\n\n我身边能聊这些的人实在太少了🥺我很的很想交到技术方面的朋友🥺DM或者在帖子下评论都可以呀！请来和我玩！\n\n（顺带一提目前事件记录界面的一些功能还没有完善还在雏形阶段（其实整个项目都是）(x)）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 481,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "最近做了一个叫 Ariadne 的小东西！\n大概是用来把脑袋里乱七八糟的「我想做这个！」慢慢整理成真正可以开始推进的项目ww\n\n想玩 uu请看链接直达ww\nhttps://t.co/1SxcNixNfo\n\n现在终于做到了可以拿出来玩的程度！但是我自己看太久已经完全不知道哪里好用哪里难用了 https://t.co/UyfgBdIb9B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106748017609248907",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 2696,
+          "like_count": 33624,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "(｡･ω･｡) DM查成分回fo ｜谢谢你喜欢我\n社交能力有限不闲聊非必要私信禁止｜误ban致歉\n@ice_cakiiiirkk只过熟人\n請不要注意我的垃圾｜⬇️提问箱｜书签禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "ice_cakiiiirkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iceee_r_kkeca",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iceee_r_kkeca",
+                "start": 0,
+                "url": "https://t.co/f2NVo3zv4Y"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2106747695448932700",
+        "name": "ポストトゥルース",
+        "pinned_tweet_id": "2106635492255211960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1788331110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105197674832244736/PkwO5dmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 147,
+          "like_count": 6680,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4342
+        },
+        "url": "https://t.co/f2NVo3zv4Y",
+        "username": "miaodeisu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

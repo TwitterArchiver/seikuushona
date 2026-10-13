@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106038215778160671",
+    "created_at": "2026-10-02T15:10:38.000Z",
+    "display_text_range": [
+      13,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106039157453926824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919396050336657408",
+          "start": 0,
+          "username": "Chiwa_Yuki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106039157453926824",
+    "in_reply_to_user_id": "1919396050336657408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106038215778160671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiwa_Yuki2 感觉上就是普通的小牌子洗面奶，不过有了个比较吸引人的名字来着。\n反正我是不太会去买的啦。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2106038208463306752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToml6LbAAAVOxP.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106038215778160671",
+        "created_at": "2026-10-02T15:10:38.000Z",
+        "display_text_range": [
+          13,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106039157453926824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919396050336657408",
+              "start": 0,
+              "username": "Chiwa_Yuki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106039157453926824",
+        "in_reply_to_user_id": "1919396050336657408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106038215778160671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiwa_Yuki2 感觉上就是普通的小牌子洗面奶，不过有了个比较吸引人的名字来着。\n反正我是不太会去买的啦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106038208463306752"
+          ]
+        },
+        "author_id": "1919396050336657408",
+        "conversation_id": "2106038215778160671",
+        "created_at": "2026-10-02T15:06:53.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106038215778160671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kTqKwFT7a",
+              "end": 40,
+              "expanded_url": "https://x.com/Chiwa_Yuki2/status/2106038215778160671/photo/1",
+              "media_key": "3_2106038208463306752",
+              "start": 17,
+              "url": "https://t.co/8kTqKwFT7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106038215778160671",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106038208463306752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正好没洗面奶了，高低买个尝尝咸淡 https://t.co/8kTqKwFT7a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106039157453926824",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 2640,
+          "like_count": 32915,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-05T14:17:54.000Z",
+        "description": "普通男大\n目前在学习rust和pytorch，嵌入式\n正在努力活的更好\n互 fo 请 私信🐱\ntg ：https://t.co/wvljF2QGG6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/basayuki",
+                "end": 74,
+                "expanded_url": "http://t.me/basayuki",
+                "start": 51,
+                "url": "https://t.co/wvljF2QGG6"
+              }
+            ]
+          }
+        },
+        "id": "1919396050336657408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106038215778160671",
+        "name": "ちわゆき",
+        "pinned_tweet_id": "2099176020217917580",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919396050336657408/1788822739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097100683958988800/GiPBIMFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 1431,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "Chiwa_Yuki2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

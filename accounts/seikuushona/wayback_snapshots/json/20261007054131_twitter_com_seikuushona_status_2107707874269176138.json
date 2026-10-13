@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107707874269176138",
+    "created_at": "2026-10-07T05:41:31.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107707874269176138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "756779273155858432",
+          "start": 3,
+          "username": "ScarletKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107707874269176138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107671006638969338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScarletKc: Anthropic 把 Claude 的网安能力正式拆成了三档，想用得先申请\n\n默认模型会挡掉大部分网安工作，普通用户只剩代码审查、修已知漏洞、扫自己的代码这些。要做恶意软件分析和漏洞验证，得申请 Defense…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107707874269176138",
+        "created_at": "2026-10-07T05:41:31.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107707874269176138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "756779273155858432",
+              "start": 3,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107707874269176138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107671006638969338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScarletKc: Anthropic 把 Claude 的网安能力正式拆成了三档，想用得先申请\n\n默认模型会挡掉大部分网安工作，普通用户只剩代码审查、修已知漏洞、扫自己的代码这些。要做恶意软件分析和漏洞验证，得申请 Defense…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2107671006638969338",
+        "created_at": "2026-10-07T03:15:01.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107671006638969338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107671006638969338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic 把 Claude 的网安能力正式拆成了三档，想用得先申请\n\n默认模型会挡掉大部分网安工作，普通用户只剩代码审查、修已知漏洞、扫自己的代码这些。要做恶意软件分析和漏洞验证，得申请 Defense 档，个人研究者还要拿得出过往的漏洞报告。渗透测试和红队那一档只给组织，个人直接没资格。最高一档干脆和美国政府一起审\n\n同一篇公告里还在说，Glasswing 的合作方几个月找出了 12.9 万个漏洞。能力确实强，所以要先证明你是好人才给你用\n\n我是真的不喜欢这套逻辑。默认把每个用户当嫌疑人，被挡在外面的是独立研究者和小团队，谁有资格当防守方，现在由 Anthropic 和政府说了算"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4047,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic 把 Claude 的网安能力正式拆成了三档，想用得先申请\n\n默认模型会挡掉大部分网安工作，普通用户只剩代码审查、修已知漏洞、扫自己的代码这些。要做恶意软件分析和漏洞验证，得申请 Defense"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107707874269176138",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2835,
+          "like_count": 35073,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107705085975507023",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6449,
+          "following_count": 970,
+          "like_count": 109711,
+          "listed_count": 28,
+          "media_count": 442,
+          "tweet_count": 13323
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

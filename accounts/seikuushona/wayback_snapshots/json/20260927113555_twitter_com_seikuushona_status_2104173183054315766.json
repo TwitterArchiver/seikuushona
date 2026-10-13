@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104137545756053505"
+      ],
+      "media_source_tweet_id": [
+        "2104137551162360004"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2104173183054315766",
+    "created_at": "2026-09-27T11:35:55.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104173183054315766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083406819964420096",
+          "start": 3,
+          "username": "OukaroMF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bSgKZzoQDI",
+          "end": 44,
+          "expanded_url": "https://x.com/OukaroMF/status/2104137551162360004/photo/1",
+          "media_key": "3_2104137545756053505",
+          "start": 21,
+          "url": "https://t.co/bSgKZzoQDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104173183054315766",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104137545756053505"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104137551162360004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OukaroMF: 最伟大的汇率 https://t.co/bSgKZzoQDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2104137545756053505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNl8x1aEAEZhzb.jpg",
+        "width": 314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104137545756053505"
+          ],
+          "media_source_tweet_id": [
+            "2104137551162360004"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2104173183054315766",
+        "created_at": "2026-09-27T11:35:55.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104173183054315766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083406819964420096",
+              "start": 3,
+              "username": "OukaroMF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSgKZzoQDI",
+              "end": 44,
+              "expanded_url": "https://x.com/OukaroMF/status/2104137551162360004/photo/1",
+              "media_key": "3_2104137545756053505",
+              "start": 21,
+              "url": "https://t.co/bSgKZzoQDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104173183054315766",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104137545756053505"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104137551162360004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OukaroMF: 最伟大的汇率 https://t.co/bSgKZzoQDI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104137545756053505"
+          ]
+        },
+        "author_id": "2083406819964420096",
+        "conversation_id": "2104137551162360004",
+        "created_at": "2026-09-27T09:14:19.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104137551162360004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSgKZzoQDI",
+              "end": 30,
+              "expanded_url": "https://x.com/OukaroMF/status/2104137551162360004/photo/1",
+              "media_key": "3_2104137545756053505",
+              "start": 7,
+              "url": "https://t.co/bSgKZzoQDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104137551162360004",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104137545756053505"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最伟大的汇率 https://t.co/bSgKZzoQDI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "Formerly 青空 しょな .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeJ8lc"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2104173183054315766",
+        "name": "浅川 きよ",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 2539,
+          "like_count": 31783,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/0dfMAeJ8lc",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:18:41.000Z",
+        "description": "✒️Member/Junior-Designer of https://t.co/3SSh9WcTze\nAuDHD CG/MG 电子高速宏波炉 算是美工 但不是开发者 来自深圳 现居广州 性别已被占用 🍥HRT230609 🌭RLE250326 ❌NeverSRS\n banner by @kangaroo_sande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 144,
+                "username": "kangaroo_sande"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SukiSU.org",
+                "end": 51,
+                "expanded_url": "http://SukiSU.org",
+                "start": 28,
+                "url": "https://t.co/3SSh9WcTze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro/MF",
+                "end": 23,
+                "expanded_url": "http://ouka.ro/MF",
+                "start": 0,
+                "url": "https://t.co/GsQxfQb72s"
+              }
+            ]
+          }
+        },
+        "id": "2083406819964420096",
+        "is_identity_verified": true,
+        "location": "八目鳗穴",
+        "most_recent_tweet_id": "2104169988693356920",
+        "name": "OukaroMF",
+        "pinned_tweet_id": "2088972032776266216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083406819964420096/1785674814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083434459630882816/NZ4BOxV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1549,
+          "like_count": 12529,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 12200
+        },
+        "url": "https://t.co/GsQxfQb72s",
+        "username": "OukaroMF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

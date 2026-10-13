@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105487268572205058",
+    "created_at": "2026-10-01T02:37:37.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105487268572205058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902420673",
+          "start": 3,
+          "username": "ZacharyZhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "dots.ai",
+          "end": 41,
+          "expanded_url": "https://dots.ai",
+          "start": 18,
+          "status": 200,
+          "title": "点点",
+          "unwound_url": "https://dots.ai",
+          "url": "https://t.co/pGa1DMM40I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105487268572205058",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105061381347434751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZacharyZhang: https://t.co/pGa1DMM40I，小红书。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105487268572205058",
+        "created_at": "2026-10-01T02:37:37.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105487268572205058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902420673",
+              "start": 3,
+              "username": "ZacharyZhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "dots.ai",
+              "end": 41,
+              "expanded_url": "https://dots.ai",
+              "start": 18,
+              "status": 200,
+              "title": "点点",
+              "unwound_url": "https://dots.ai",
+              "url": "https://t.co/pGa1DMM40I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105487268572205058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105061381347434751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZacharyZhang: https://t.co/pGa1DMM40I，小红书。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902420673",
+        "conversation_id": "2105061381347434751",
+        "created_at": "2026-09-29T22:25:18.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:25:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105061324455579656",
+          "2105061381347434751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dots.ai",
+              "end": 23,
+              "expanded_url": "https://dots.ai",
+              "start": 0,
+              "status": 200,
+              "title": "点点",
+              "unwound_url": "https://dots.ai",
+              "url": "https://t.co/pGa1DMM40I"
+            },
+            {
+              "display_url": "x.com/math_fournity/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/math_fournity/status/2105042540466729082",
+              "start": 29,
+              "url": "https://t.co/xLRxtGufJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105061381347434751",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16509,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105042540466729082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pGa1DMM40I，小红书。 https://t.co/xLRxtGufJ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105487268572205058",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 2557,
+          "like_count": 31950,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-25T01:16:52.000Z",
+        "description": "我只想有点活人感\n💜NYU Alumni\n创业者，AI产品经理，摄影师，乐队主唱/节奏吉他，美食博主\nAlways Open For Opportunity\n如果你有任何创业想法，有兴趣可以和我聊聊，我会给你最中肯的建议，是否值得创业。如果连我都过不去，那就不要浪费时间了。\n目前，我更加关注政府和企业AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zacharyzhang.com",
+                "end": 23,
+                "expanded_url": "https://zacharyzhang.com",
+                "start": 0,
+                "url": "https://t.co/NDEf2PTbpi"
+              }
+            ]
+          }
+        },
+        "id": "1902420673",
+        "is_identity_verified": true,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2105485855917838414",
+        "name": "雷电芽衣",
+        "pinned_tweet_id": "2096810959461368119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902420673/1757185845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056395323581329408/ht0svjIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2933,
+          "following_count": 2481,
+          "like_count": 3499,
+          "listed_count": 16,
+          "media_count": 441,
+          "tweet_count": 7256
+        },
+        "url": "https://t.co/NDEf2PTbpi",
+        "username": "ZacharyZhang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

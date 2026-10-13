@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105597415890034688"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105597829452562588",
+    "created_at": "2026-10-01T09:56:57.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105597829452562588"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "接力推文"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 90,
+          "id": "2008360423771316224",
+          "start": 81,
+          "username": "Konizaza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOGpgOZuBr",
+          "end": 117,
+          "expanded_url": "https://x.com/seikuushona/status/2105597829452562588/photo/1",
+          "media_key": "3_2105597415890034688",
+          "start": 94,
+          "url": "https://t.co/dOGpgOZuBr"
+        },
+        {
+          "display_url": "x.com/xdaxcj/status/…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/xdaxcj/status/2105569834419314753",
+          "start": 118,
+          "url": "https://t.co/Z7Gfx0ksjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105597829452562588",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105597415890034688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105569834419314753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#接力推文\n于是这一棒交到了一个什么都不会写的人手里。\n你面前的这个社交苦手花了 10 分钟都不知道下一棒到底应该传给谁，也不知道应该传给谁。\n所以......\n@Konizaza（丢） https://t.co/dOGpgOZuBr https://t.co/Z7Gfx0ksjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1837,
+        "media_key": "3_2105597415890034688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiVsZ4bIAASG_W.png",
+        "width": 1805
+      },
+      {
+        "height": 1688,
+        "media_key": "3_2105569820104175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh8mHkXsAAXx78.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105597415890034688"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105597829452562588",
+        "created_at": "2026-10-01T09:56:57.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105597829452562588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "接力推文"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "2008360423771316224",
+              "start": 81,
+              "username": "Konizaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOGpgOZuBr",
+              "end": 117,
+              "expanded_url": "https://x.com/seikuushona/status/2105597829452562588/photo/1",
+              "media_key": "3_2105597415890034688",
+              "start": 94,
+              "url": "https://t.co/dOGpgOZuBr"
+            },
+            {
+              "display_url": "x.com/xdaxcj/status/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/xdaxcj/status/2105569834419314753",
+              "start": 118,
+              "url": "https://t.co/Z7Gfx0ksjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105597829452562588",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105597415890034688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105569834419314753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#接力推文\n于是这一棒交到了一个什么都不会写的人手里。\n你面前的这个社交苦手花了 10 分钟都不知道下一棒到底应该传给谁，也不知道应该传给谁。\n所以......\n@Konizaza（丢） https://t.co/dOGpgOZuBr https://t.co/Z7Gfx0ksjt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105569820104175616"
+          ]
+        },
+        "author_id": "1024526324080287744",
+        "conversation_id": "2105569834419314753",
+        "created_at": "2026-10-01T08:05:42.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105569834419314753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "接力推文"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1684547487460388864",
+              "start": 16,
+              "username": "seikuushona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sfInadPda",
+              "end": 68,
+              "expanded_url": "https://x.com/xdaxcj/status/2105569834419314753/photo/1",
+              "media_key": "3_2105569820104175616",
+              "start": 45,
+              "url": "https://t.co/9sfInadPda"
+            },
+            {
+              "display_url": "x.com/hathawaybk56/s…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/hathawaybk56/status/2105547824696119751",
+              "start": 69,
+              "url": "https://t.co/kBgdDGsi5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105569834419314753",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105569820104175616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105547824696119751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#接力推文 \n我只擅長寫童話w\n@seikuushona 剛互fo的小孩子，就交給你吧！ https://t.co/9sfInadPda https://t.co/kBgdDGsi5Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105597829452562588",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 2590,
+          "like_count": 32299,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-01T05:24:45.000Z",
+        "description": "他日桥头见，岂妒庾郎衰颜",
+        "id": "1024526324080287744",
+        "is_identity_verified": false,
+        "location": "殿堂",
+        "most_recent_tweet_id": "2105591740334047565",
+        "name": "シンシン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024526324080287744/1787589319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104239414138318848/ak-M0QgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 64,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "xdaxcj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜不见证｜？Tzaza｜08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbeFnU"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2105596758328004665",
+        "name": "❤️Konizaza❤️",
+        "pinned_tweet_id": "2101339237555871914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 2024,
+          "like_count": 11449,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/UxxyJbeFnU",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

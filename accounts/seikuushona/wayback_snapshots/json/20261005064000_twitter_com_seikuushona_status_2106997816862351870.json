@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2106974755706581250",
+    "created_at": "2026-10-05T06:40:00.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106997816862351870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711617562319224832",
+          "start": 0,
+          "username": "kamiatyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106997816862351870",
+    "in_reply_to_user_id": "1711617562319224832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106974755706581250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamiatyo 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2106974737658417152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT16XFTaEAAUPU0.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2106974755706581250",
+        "created_at": "2026-10-05T06:40:00.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106997816862351870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711617562319224832",
+              "start": 0,
+              "username": "kamiatyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106997816862351870",
+        "in_reply_to_user_id": "1711617562319224832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106974755706581250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamiatyo 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106974737658417152"
+          ]
+        },
+        "author_id": "1711617562319224832",
+        "conversation_id": "2106974755706581250",
+        "created_at": "2026-10-05T05:08:22.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106974755706581250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QygXmMyFG",
+              "end": 76,
+              "expanded_url": "https://x.com/kamiatyo/status/2106974755706581250/photo/1",
+              "media_key": "3_2106974737658417152",
+              "start": 53,
+              "url": "https://t.co/9QygXmMyFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106974755706581250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106974737658417152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you everybody!\n哇，居然300跟隨者了呢！\nCongratulations 🎉 https://t.co/9QygXmMyFG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106997816862351870",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 2737,
+          "like_count": 34068,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-10T05:40:50.000Z",
+        "description": "「私はあなたが大嫌い。あなたは、存在そのものが間違っている」\n| 2011/10/23 | China🇨🇳 | Linguistics | Arknights | ACG |\nI usually post in English.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamiatyo.pages.dev",
+                "end": 23,
+                "expanded_url": "https://kamiatyo.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/uNq6loWdqE"
+              }
+            ]
+          }
+        },
+        "id": "1711617562319224832",
+        "is_identity_verified": false,
+        "location": "Qwerty, A.S.D.F.",
+        "most_recent_tweet_id": "2106982291348328614",
+        "name": "카ミㄚちょ",
+        "pinned_tweet_id": "2105655089541316657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711617562319224832/1788534913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084952031513772032/Lnq5tooO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 943,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/uNq6loWdqE",
+        "username": "kamiatyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106358497801629697"
+      ],
+      "media_source_tweet_id": [
+        "2106359514391871540"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jack Dorsey",
+          "id": "1037336866519842816",
+          "name": "Jack Dorsey"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jack Dorsey",
+          "id": "1037336866519842816",
+          "name": "Jack Dorsey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2106738334102126682",
+    "created_at": "2026-10-04T13:28:54.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106738334102126682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "12",
+          "start": 3,
+          "username": "jack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oHHiwquec",
+          "end": 99,
+          "expanded_url": "https://x.com/jack/status/2106359514391871540/photo/1",
+          "media_key": "3_2106358497801629697",
+          "start": 76,
+          "url": "https://t.co/9oHHiwquec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106738334102126682",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106358497801629697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106359514391871540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jack: government of India officially removes bitchat from the App Store https://t.co/9oHHiwquec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2106358497801629697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtJ5M8XcAEehhg.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106358497801629697"
+          ],
+          "media_source_tweet_id": [
+            "2106359514391871540"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jack Dorsey",
+              "id": "1037336866519842816",
+              "name": "Jack Dorsey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jack Dorsey",
+              "id": "1037336866519842816",
+              "name": "Jack Dorsey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2106738334102126682",
+        "created_at": "2026-10-04T13:28:54.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106738334102126682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "12",
+              "start": 3,
+              "username": "jack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oHHiwquec",
+              "end": 99,
+              "expanded_url": "https://x.com/jack/status/2106359514391871540/photo/1",
+              "media_key": "3_2106358497801629697",
+              "start": 76,
+              "url": "https://t.co/9oHHiwquec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106738334102126682",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106358497801629697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106359514391871540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jack: government of India officially removes bitchat from the App Store https://t.co/9oHHiwquec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106358497801629697"
+          ]
+        },
+        "author_id": "12",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jack Dorsey",
+              "id": "1037336866519842816",
+              "name": "Jack Dorsey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2106359514391871540",
+        "created_at": "2026-10-03T12:23:37.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106359514391871540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oHHiwquec",
+              "end": 89,
+              "expanded_url": "https://x.com/jack/status/2106359514391871540/photo/1",
+              "media_key": "3_2106358497801629697",
+              "start": 66,
+              "url": "https://t.co/9oHHiwquec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106359514391871540",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106358497801629697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1234,
+          "impression_count": 1272098,
+          "like_count": 12775,
+          "quote_count": 609,
+          "reply_count": 1538,
+          "retweet_count": 2201
+        },
+        "reply_settings": "everyone",
+        "text": "government of India officially removes bitchat from the App Store https://t.co/9oHHiwquec"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106738334102126682",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2688,
+          "like_count": 33486,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1285655593592791040/HtwPZgej_bigger.jpg",
+          "description": "Square",
+          "url": "https://twitter.com/Square",
+          "user_id": [
+            "93017945"
+          ]
+        },
+        "created_at": "2006-03-21T20:50:14.000Z",
+        "description": "no state is the best state",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "primal.net/jack",
+                "end": 23,
+                "expanded_url": "http://primal.net/jack",
+                "start": 0,
+                "url": "https://t.co/ZEpOg6rn5L"
+              }
+            ]
+          }
+        },
+        "id": "12",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106461619748327565",
+        "name": "jack",
+        "pinned_tweet_id": "1833951636005552366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1742427520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12452875,
+          "following_count": 3,
+          "like_count": 40678,
+          "listed_count": 33145,
+          "media_count": 2976,
+          "tweet_count": 31008
+        },
+        "url": "https://t.co/ZEpOg6rn5L",
+        "username": "jack",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2103864760941031894",
+    "created_at": "2026-09-26T15:10:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103864760941031894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035898194366963712",
+          "start": 3,
+          "username": "ApplerinQAQ"
+        },
+        {
+          "end": 28,
+          "id": "1649754190514618368",
+          "start": 17,
+          "username": "798145343h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103864760941031894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103835478713938423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ApplerinQAQ: @798145343h 有一个传播学理论的意思是，现代人在经过了大数据精准推荐之后，慢慢被塑造了认知，认为凡是出现在自己面前+自己反感的就都是错误的。\n\n这个情况在以前以电视和收音机为主要传播媒介的时候并不存在，因为我们无法左右电视播出什么，遇…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2103864760941031894",
+        "created_at": "2026-09-26T15:10:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103864760941031894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035898194366963712",
+              "start": 3,
+              "username": "ApplerinQAQ"
+            },
+            {
+              "end": 28,
+              "id": "1649754190514618368",
+              "start": 17,
+              "username": "798145343h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103864760941031894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103835478713938423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ApplerinQAQ: @798145343h 有一个传播学理论的意思是，现代人在经过了大数据精准推荐之后，慢慢被塑造了认知，认为凡是出现在自己面前+自己反感的就都是错误的。\n\n这个情况在以前以电视和收音机为主要传播媒介的时候并不存在，因为我们无法左右电视播出什么，遇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035898194366963712",
+        "conversation_id": "2103830191080714250",
+        "created_at": "2026-09-26T13:14:00.000Z",
+        "display_text_range": [
+          12,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103835478713938423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649754190514618368",
+              "start": 0,
+              "username": "798145343h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103835478713938423",
+        "in_reply_to_user_id": "1649754190514618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 366,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103834631783264393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@798145343h 有一个传播学理论的意思是，现代人在经过了大数据精准推荐之后，慢慢被塑造了认知，认为凡是出现在自己面前+自己反感的就都是错误的。\n\n这个情况在以前以电视和收音机为主要传播媒介的时候并不存在，因为我们无法左右电视播出什么，遇到不喜欢的第一反应是换台。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2103864760941031894",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 2509,
+          "like_count": 31191,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "🎶 Maybe I just want to fly. Wanna live I don't want to die.\n💕ENTP-T / Maybe She or Her or u like ~ / Monitoring Al\n🕊️Peace & Love...No Politics Please!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/peerin00",
+                "end": 23,
+                "expanded_url": "https://t.me/peerin00",
+                "start": 0,
+                "url": "https://t.co/x4cTdVCd7E"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2103861276506206632",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2101230269445615842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 192,
+          "like_count": 3327,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/x4cTdVCd7E",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-22T12:37:10.000Z",
+        "description": "钢板喵\n🐱大学牲|日常|有趣的段子分享\n💡互fo达人，不涉政涉黄的我都会回关！\n💰哈气猫小店：https://t.co/CRDz3yL94o\n有便宜好用的ai工具和蓝牌会员喔！欢迎大家光顾！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wzyp.cn/shop/GangBan",
+                "end": 70,
+                "expanded_url": "https://wzyp.cn/shop/GangBan",
+                "start": 47,
+                "url": "https://t.co/CRDz3yL94o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "haqimao-ai-shop.app.workbuddy.host",
+                "end": 23,
+                "expanded_url": "https://haqimao-ai-shop.app.workbuddy.host/",
+                "start": 0,
+                "url": "https://t.co/8l42yq0lJ2"
+              }
+            ]
+          }
+        },
+        "id": "1649754190514618368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103863651073773726",
+        "name": "Gangban",
+        "pinned_tweet_id": "2099771141065720027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649754190514618368/1751789054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035385678150914048/Iwo2e10s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 3870,
+          "like_count": 25701,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 9554
+        },
+        "url": "https://t.co/8l42yq0lJ2",
+        "username": "798145343h",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

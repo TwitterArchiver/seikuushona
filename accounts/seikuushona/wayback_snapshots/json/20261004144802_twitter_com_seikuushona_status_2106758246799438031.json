@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106758104629354496"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2106671428762485176",
+    "created_at": "2026-10-04T14:48:02.000Z",
+    "display_text_range": [
+      14,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106758246799438031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054197521690611712",
+          "start": 0,
+          "username": "AnnaYanamimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qDufHaG6W4",
+          "end": 110,
+          "expanded_url": "https://x.com/seikuushona/status/2106758246799438031/photo/1",
+          "media_key": "3_2106758104629354496",
+          "start": 87,
+          "url": "https://t.co/qDufHaG6W4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106758246799438031",
+    "in_reply_to_user_id": "2054197521690611712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106758104629354496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106671428762485176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnnaYanamimi 这种图片大概率是用 Twinote 制作的，一个专门模仿 Twitter 的记事本类软件。\n最主要的辨别方法是字体与字号的不同，以及日期的翻译。 https://t.co/qDufHaG6W4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2106758104629354496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy1VYYboAAbsEU.jpg",
+        "width": 1596
+      },
+      {
+        "height": 949,
+        "media_key": "3_2106671406230757376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxme3rbYAA9xTB.jpg",
+        "width": 848
+      },
+      {
+        "height": 3939,
+        "media_key": "3_2106671417626701824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxmfiIbsAARflQ.jpg",
+        "width": 1852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106758104629354496"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106671428762485176",
+        "created_at": "2026-10-04T14:48:02.000Z",
+        "display_text_range": [
+          14,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106758246799438031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "AnnaYanamimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDufHaG6W4",
+              "end": 110,
+              "expanded_url": "https://x.com/seikuushona/status/2106758246799438031/photo/1",
+              "media_key": "3_2106758104629354496",
+              "start": 87,
+              "url": "https://t.co/qDufHaG6W4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106758246799438031",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106758104629354496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106671428762485176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnaYanamimi 这种图片大概率是用 Twinote 制作的，一个专门模仿 Twitter 的记事本类软件。\n最主要的辨别方法是字体与字号的不同，以及日期的翻译。 https://t.co/qDufHaG6W4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106671406230757376",
+            "3_2106671417626701824"
+          ]
+        },
+        "author_id": "2054197521690611712",
+        "conversation_id": "2106671428762485176",
+        "created_at": "2026-10-04T09:03:03.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106671428762485176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzEPALlk1W",
+              "end": 159,
+              "expanded_url": "https://x.com/AnnaYanamimi/status/2106671428762485176/photo/1",
+              "media_key": "3_2106671406230757376",
+              "start": 136,
+              "url": "https://t.co/uzEPALlk1W"
+            },
+            {
+              "display_url": "pic.x.com/uzEPALlk1W",
+              "end": 159,
+              "expanded_url": "https://x.com/AnnaYanamimi/status/2106671428762485176/photo/1",
+              "media_key": "3_2106671417626701824",
+              "start": 136,
+              "url": "https://t.co/uzEPALlk1W"
+            },
+            {
+              "display_url": "x.com/AnnaYanamimi/s…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/AnnaYanamimi/status/2106644164037251505",
+              "start": 160,
+              "url": "https://t.co/0FCe4pY6FX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106671428762485176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106671406230757376"
+          },
+          {
+            "media_key": "3_2106671417626701824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1724,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106644164037251505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都是经常上外网的人 应该有能力明辨是非\n\n发布者zxx89892501 压根搜不到这个人 不仅消息是假的 连帖子都是假的\n\n中国大部分网民仍然不会翻墙 导致看到外网的评论就会认为很有权威性\n\n不过推特的各位呢？你们也认为这个压根就搜不到的人 发布的内容是真实可信的？ https://t.co/uzEPALlk1W https://t.co/0FCe4pY6FX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106758246799438031",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 2707,
+          "like_count": 33734,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  —— 孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Sino",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Sino",
+                "start": 0,
+                "url": "https://t.co/vXSshWlnoh"
+              }
+            ]
+          }
+        },
+        "id": "2054197521690611712",
+        "is_identity_verified": false,
+        "location": "人代會與賽里斯人民(C·P·Q·S)",
+        "most_recent_tweet_id": "2106757282142752921",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2100588524994994594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054197521690611712/1780590750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103504906602860544/pA9red4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 2827,
+          "like_count": 3553,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/vXSshWlnoh",
+        "username": "AnnaYanamimi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

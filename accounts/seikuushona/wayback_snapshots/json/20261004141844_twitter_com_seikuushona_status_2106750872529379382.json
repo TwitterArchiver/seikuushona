@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2106750872529379382",
+    "created_at": "2026-10-04T14:18:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106750872529379382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1392108827760287745",
+          "start": 3,
+          "username": "Alexia476334561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106750872529379382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106643870373269642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alexia476334561: 前端boy在讨论llm是不是已经有了意识的时候，以为自己发现了新大陆，好像llm的出现提出了一个史无前例的哲学问题。\n\n实际上……20世纪初哲学家就提出了一种现在常称为哲学僵尸（p-zombie）的概念。\n讨论行为上完全拟人但没有自我意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2106750872529379382",
+        "created_at": "2026-10-04T14:18:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106750872529379382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1392108827760287745",
+              "start": 3,
+              "username": "Alexia476334561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106750872529379382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106643870373269642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alexia476334561: 前端boy在讨论llm是不是已经有了意识的时候，以为自己发现了新大陆，好像llm的出现提出了一个史无前例的哲学问题。\n\n实际上……20世纪初哲学家就提出了一种现在常称为哲学僵尸（p-zombie）的概念。\n讨论行为上完全拟人但没有自我意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392108827760287745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2106643870373269642",
+        "created_at": "2026-10-04T07:13:32.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106643870373269642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106643870373269642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2584,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "前端boy在讨论llm是不是已经有了意识的时候，以为自己发现了新大陆，好像llm的出现提出了一个史无前例的哲学问题。\n\n实际上……20世纪初哲学家就提出了一种现在常称为哲学僵尸（p-zombie）的概念。\n讨论行为上完全拟人但没有自我意识的个体能否存在。以及如果存在，如何证明自己以外的人不是哲学僵尸。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2106750872529379382",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 2703,
+          "like_count": 33668,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-11T13:27:58.000Z",
+        "description": "アニメ ゲーム VTuber ｜ CG・VFXクリエイター",
+        "id": "1392108827760287745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106643870373269642",
+        "name": "みなみ アレクシア",
+        "pinned_tweet_id": "2062199118676828381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392108827760287745/1620740686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654143957239238656/9ABOKI8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 151,
+          "like_count": 54952,
+          "listed_count": 13,
+          "media_count": 208,
+          "tweet_count": 27956
+        },
+        "url": "",
+        "username": "Alexia476334561",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103856962014511104"
+      ],
+      "media_source_tweet_id": [
+        "2103856980175839352"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103863985154244789",
+    "created_at": "2026-09-26T15:07:16.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103863985154244789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662169342883004437",
+          "start": 3,
+          "username": "FuurCho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjvQC7sia6",
+          "end": 53,
+          "expanded_url": "https://x.com/FuurCho/status/2103856980175839352/photo/1",
+          "media_key": "3_2103856962014511104",
+          "start": 30,
+          "url": "https://t.co/EjvQC7sia6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103863985154244789",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103856962014511104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103856980175839352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuurCho: ごめんなさい、遅くなっちゃった😂 https://t.co/EjvQC7sia6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2103856962014511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJmwp8bgAACmQc.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103856962014511104"
+          ],
+          "media_source_tweet_id": [
+            "2103856980175839352"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103863985154244789",
+        "created_at": "2026-09-26T15:07:16.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103863985154244789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662169342883004437",
+              "start": 3,
+              "username": "FuurCho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjvQC7sia6",
+              "end": 53,
+              "expanded_url": "https://x.com/FuurCho/status/2103856980175839352/photo/1",
+              "media_key": "3_2103856962014511104",
+              "start": 30,
+              "url": "https://t.co/EjvQC7sia6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103863985154244789",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103856962014511104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103856980175839352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuurCho: ごめんなさい、遅くなっちゃった😂 https://t.co/EjvQC7sia6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103856962014511104"
+          ]
+        },
+        "author_id": "1662169342883004437",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103856980175839352",
+        "created_at": "2026-09-26T14:39:26.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103856980175839352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjvQC7sia6",
+              "end": 40,
+              "expanded_url": "https://x.com/FuurCho/status/2103856980175839352/photo/1",
+              "media_key": "3_2103856962014511104",
+              "start": 17,
+              "url": "https://t.co/EjvQC7sia6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103856980175839352",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103856962014511104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ごめんなさい、遅くなっちゃった😂 https://t.co/EjvQC7sia6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2103863985154244789",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 2509,
+          "like_count": 31183,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-26T18:50:49.000Z",
+        "description": "中国出身|りあ友🎀Aria soll allein mein Herze haben|ときメモ・ラブプラス|明朝体活字初心者|日本語初心者・中国語/英語/漢文/偽中国語相談可|ドットフォント「ときフィク」開発中|余不能學太上之忘情。",
+        "id": "1662169342883004437",
+        "is_identity_verified": false,
+        "location": "Groningen, Nederland",
+        "most_recent_tweet_id": "2103856980175839352",
+        "name": "浮舟Fuur-Cho🎀嵐曉山館🎀ありあの伝道者",
+        "pinned_tweet_id": "2044748513649868811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662169342883004437/1685127620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018870144668459008/6EPWofmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 5101,
+          "like_count": 26807,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 9653
+        },
+        "url": "",
+        "username": "FuurCho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

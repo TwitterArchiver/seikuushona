@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107040009861906594",
+    "created_at": "2026-10-05T11:16:06.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107067299857301900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028421571778682880",
+          "start": 0,
+          "username": "GDecember172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107067299857301900",
+    "in_reply_to_user_id": "2028421571778682880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107040009861906594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GDecember172 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2107040002995834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT21uBoa0AAJXPX.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107040009861906594",
+        "created_at": "2026-10-05T11:16:06.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107067299857301900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028421571778682880",
+              "start": 0,
+              "username": "GDecember172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107067299857301900",
+        "in_reply_to_user_id": "2028421571778682880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107040009861906594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GDecember172 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107040002995834880"
+          ]
+        },
+        "author_id": "2028421571778682880",
+        "conversation_id": "2107040009861906594",
+        "created_at": "2026-10-05T09:27:39.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107040009861906594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8az1pjLLIk",
+              "end": 42,
+              "expanded_url": "https://x.com/GDecember172/status/2107040009861906594/photo/1",
+              "media_key": "3_2107040002995834880",
+              "start": 19,
+              "url": "https://t.co/8az1pjLLIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107040009861906594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107040002995834880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天咋了\n这是为什么（\n\n多了好多人 https://t.co/8az1pjLLIk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107067299857301900",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 2740,
+          "like_count": 34114,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T10:46:27.000Z",
+        "description": "大一 分享日常\nRust新手 沉迷vibe中...\nIEITS | 日本語を勉強します\nGalgame | Stellaris | Minecraft \n想交朋友喵 不是人机都会互fo喵\n\n有人知道我的另一个头像是出自哪里吗（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/December172/",
+                "end": 23,
+                "expanded_url": "https://github.com/December172/",
+                "start": 0,
+                "url": "https://t.co/ikQXHgi5RQ"
+              }
+            ]
+          }
+        },
+        "id": "2028421571778682880",
+        "is_identity_verified": false,
+        "location": "山中小木屋",
+        "most_recent_tweet_id": "2107066803273027640",
+        "name": "December172",
+        "pinned_tweet_id": "2106988211058950244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028421571778682880/1790659056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028421674182545408/P2IZB5oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 265,
+          "like_count": 5326,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/ikQXHgi5RQ",
+        "username": "GDecember172",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

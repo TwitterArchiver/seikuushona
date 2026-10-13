@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107075849904160800",
+    "created_at": "2026-10-05T12:04:21.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107079444846583876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464854644031590410",
+          "start": 0,
+          "username": "chickenleg_the"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107079444846583876",
+    "in_reply_to_user_id": "1464854644031590410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107079250134368754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenleg_the 毕竟里面确实有加米酒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107075849904160800",
+        "created_at": "2026-10-05T12:04:21.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107079444846583876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464854644031590410",
+              "start": 0,
+              "username": "chickenleg_the"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107079444846583876",
+        "in_reply_to_user_id": "1464854644031590410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107079250134368754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenleg_the 毕竟里面确实有加米酒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464854644031590410",
+        "conversation_id": "2107075849904160800",
+        "created_at": "2026-10-05T12:03:35.000Z",
+        "display_text_range": [
+          13,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107079250134368754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684547487460388864",
+              "start": 0,
+              "username": "seikuushona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107079250134368754",
+        "in_reply_to_user_id": "1684547487460388864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107077448458465644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seikuushona 听起来像是会和米酒口感类似呢，很喜欢这种甜口度数又不高的酒，想喝……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107079444846583876",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 2746,
+          "like_count": 34187,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T07:12:47.000Z",
+        "description": "985数学本科｜AI｜Indie Games｜心理学 \n• 创作小项目ing... \n• 保持对自身与世界的思考和好奇心\n• 友跨🍥， 喜欢可爱的事和人 \n\n欢迎DM交流🥰",
+        "id": "1464854644031590410",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107079250134368754",
+        "name": "S7p4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464854644031590410/1790702086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925748400688889856/5MDbwFsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "chickenleg_the",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

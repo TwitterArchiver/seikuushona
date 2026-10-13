@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105879466249798126",
+    "created_at": "2026-10-02T04:36:04.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105879466249798126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427141496407420929",
+          "start": 3,
+          "username": "__soragoto__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105879466249798126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105619027204923844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__soragoto__: 忍不到明天了\n\n我直接单方面宣布，易语言是目前最成熟的企业级低代码平台。\n\n你看，原生拖拽组件配置，甚至能实现高难逻辑流与分支选择，最牛逼的是它的配置甚至能做到图灵完备。\n\n还有哪个企业级低代码平台能完美做到这些？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105879466249798126",
+        "created_at": "2026-10-02T04:36:04.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105879466249798126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427141496407420929",
+              "start": 3,
+              "username": "__soragoto__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105879466249798126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105619027204923844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__soragoto__: 忍不到明天了\n\n我直接单方面宣布，易语言是目前最成熟的企业级低代码平台。\n\n你看，原生拖拽组件配置，甚至能实现高难逻辑流与分支选择，最牛逼的是它的配置甚至能做到图灵完备。\n\n还有哪个企业级低代码平台能完美做到这些？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427141496407420929",
+        "conversation_id": "2105619027204923844",
+        "created_at": "2026-10-01T11:21:11.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105619027204923844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__soragoto__/s…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/__soragoto__/status/2105549117900677476",
+              "start": 108,
+              "url": "https://t.co/A5p6jz6pQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105619027204923844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3024,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105549117900677476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忍不到明天了\n\n我直接单方面宣布，易语言是目前最成熟的企业级低代码平台。\n\n你看，原生拖拽组件配置，甚至能实现高难逻辑流与分支选择，最牛逼的是它的配置甚至能做到图灵完备。\n\n还有哪个企业级低代码平台能完美做到这些？ https://t.co/A5p6jz6pQ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105879466249798126",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 2610,
+          "like_count": 32595,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/在尝试写些小段子/想要变得可爱/如果你有什么装逼小故事或者技术冷知识，或许你可以投稿给我 soragoto@soragoto.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2105878736604418158",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 307,
+          "like_count": 760,
+          "listed_count": 13,
+          "media_count": 284,
+          "tweet_count": 4226
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107483194320891904",
+        "3_2107483194329292800",
+        "3_2107483194404773888"
+      ]
+    },
+    "author_id": "1684547487460388864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213132918785",
+          "name": "McNeil-PPC, Inc"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2107483334968553638",
+    "created_at": "2026-10-06T14:49:16.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107483334968553638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iptHVHk0r0",
+          "end": 117,
+          "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+          "media_key": "3_2107483194320891904",
+          "start": 94,
+          "url": "https://t.co/iptHVHk0r0"
+        },
+        {
+          "display_url": "pic.x.com/iptHVHk0r0",
+          "end": 117,
+          "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+          "media_key": "3_2107483194329292800",
+          "start": 94,
+          "url": "https://t.co/iptHVHk0r0"
+        },
+        {
+          "display_url": "pic.x.com/iptHVHk0r0",
+          "end": 117,
+          "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+          "media_key": "3_2107483194404773888",
+          "start": 94,
+          "url": "https://t.co/iptHVHk0r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107483334968553638",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107483194320891904"
+      },
+      {
+        "media_key": "3_2107483194329292800"
+      },
+      {
+        "media_key": "3_2107483194404773888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇怪的历史遗留（推流使用的域名）。\n以及另一个历史遗留。\n可能，Twitter 这个名字，会随着早已关闭的 Periscope 一同相伴至永远吧。\n©2026 Twitter, Inc. https://t.co/iptHVHk0r0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2107483194320891904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9IzJ-aMAALLGG.jpg",
+        "width": 2280
+      },
+      {
+        "height": 2215,
+        "media_key": "3_2107483194329292800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9IzKAaYAAC9dy.jpg",
+        "width": 3929
+      },
+      {
+        "height": 1275,
+        "media_key": "3_2107483194404773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9IzKSaIAAqdyF.jpg",
+        "width": 3815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107483194320891904",
+            "3_2107483194329292800",
+            "3_2107483194404773888"
+          ]
+        },
+        "author_id": "1684547487460388864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213132918785",
+              "name": "McNeil-PPC, Inc"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2107483334968553638",
+        "created_at": "2026-10-06T14:49:16.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107483334968553638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iptHVHk0r0",
+              "end": 117,
+              "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+              "media_key": "3_2107483194320891904",
+              "start": 94,
+              "url": "https://t.co/iptHVHk0r0"
+            },
+            {
+              "display_url": "pic.x.com/iptHVHk0r0",
+              "end": 117,
+              "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+              "media_key": "3_2107483194329292800",
+              "start": 94,
+              "url": "https://t.co/iptHVHk0r0"
+            },
+            {
+              "display_url": "pic.x.com/iptHVHk0r0",
+              "end": 117,
+              "expanded_url": "https://x.com/seikuushona/status/2107483334968553638/photo/1",
+              "media_key": "3_2107483194404773888",
+              "start": 94,
+              "url": "https://t.co/iptHVHk0r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107483334968553638",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107483194320891904"
+          },
+          {
+            "media_key": "3_2107483194329292800"
+          },
+          {
+            "media_key": "3_2107483194404773888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的历史遗留（推流使用的域名）。\n以及另一个历史遗留。\n可能，Twitter 这个名字，会随着早已关闭的 Periscope 一同相伴至永远吧。\n©2026 Twitter, Inc. https://t.co/iptHVHk0r0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107483334968553638",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2787,
+          "like_count": 34693,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

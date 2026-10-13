@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2107434394202120669",
+    "created_at": "2026-10-06T14:53:24.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107484372370907326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796031897753276417",
+          "start": 0,
+          "username": "xiaoduoya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107484372370907326",
+    "in_reply_to_user_id": "1796031897753276417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107434394202120669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduoya_ 小心钱没退回来先按未成年人退款封号了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2107434394202120669",
+        "created_at": "2026-10-06T14:53:24.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107484372370907326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796031897753276417",
+              "start": 0,
+              "username": "xiaoduoya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107484372370907326",
+        "in_reply_to_user_id": "1796031897753276417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107434394202120669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduoya_ 小心钱没退回来先按未成年人退款封号了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796031897753276417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2107434394202120669",
+        "created_at": "2026-10-06T11:34:48.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107434394202120669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107434394202120669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2591,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "儿子16岁，趁我不注意，一个月陆陆续续一共充值130刀，Claude GPT Grok各种平台，全部零散的二十刀，三十刀。游戏说小额消费符合未成年人认知拒绝退款，我准备12315+文旅局全部投诉，一分钱都不能便宜游戏公司。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2107484372370907326",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2787,
+          "like_count": 34700,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI ✈️ Token2049🇸🇬",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2024-05-30T04:12:43.000Z",
+        "description": "building things i wish existed\n\n16 高中生 兴趣使然\nAI / Web3 / OSS / Vibe Coder\nGitHub Trending 日榜 #1 · 周榜 #2\nBuilding @EchoLandHQ & codex-with-chatgpt\n推特当朋友圈发，不喜请右转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "EchoLandHQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeyXiaoDuo",
+                "end": 23,
+                "expanded_url": "https://t.me/HeyXiaoDuo",
+                "start": 0,
+                "url": "https://t.co/Dkth0r1iE4"
+              }
+            ]
+          }
+        },
+        "id": "1796031897753276417",
+        "is_identity_verified": false,
+        "location": "找我聊天💬 👉",
+        "most_recent_tweet_id": "2107482926502105245",
+        "name": "HeyXiaoDuo_",
+        "pinned_tweet_id": "2093333170083275125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796031897753276417/1783942998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796031965281517568/jjRXAPI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 715,
+          "like_count": 7777,
+          "listed_count": 12,
+          "media_count": 640,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/Dkth0r1iE4",
+        "username": "xiaoduoya_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

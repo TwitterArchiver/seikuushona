@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684547487460388864",
+    "conversation_id": "2105637956480540772",
+    "created_at": "2026-10-01T12:36:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105637956480540772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105637956480540772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105595142061383987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: American Journal of Psychiatry（《美国精神病学杂志》），2019年在线发表的一项研究表明，接受性别重塑手术的跨性别人士随着时间的推移，他们将变得越来越不需要心理治疗。\n\n主导这项研究的科学家们说，性别重塑手术应该…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2105595133026877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiTnhjbwAAxZiz.jpg",
+        "width": 2057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684547487460388864",
+        "conversation_id": "2105637956480540772",
+        "created_at": "2026-10-01T12:36:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105637956480540772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105637956480540772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105595142061383987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: American Journal of Psychiatry（《美国精神病学杂志》），2019年在线发表的一项研究表明，接受性别重塑手术的跨性别人士随着时间的推移，他们将变得越来越不需要心理治疗。\n\n主导这项研究的科学家们说，性别重塑手术应该…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105595133026877440"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2105595142061383987",
+        "created_at": "2026-10-01T09:46:16.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105595142061383987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YirWsUJjx",
+              "end": 170,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105595142061383987/photo/1",
+              "media_key": "3_2105595133026877440",
+              "start": 147,
+              "url": "https://t.co/9YirWsUJjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105595142061383987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105595133026877440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "American Journal of Psychiatry（《美国精神病学杂志》），2019年在线发表的一项研究表明，接受性别重塑手术的跨性别人士随着时间的推移，他们将变得越来越不需要心理治疗。\n\n主导这项研究的科学家们说，性别重塑手术应该变得更加容易获得，以帮助跨性别者提升心理健康水平。\n\n跨性别医疗有助于帮助跨性别者变成他们所希望的样子，例如一个人可能会选择使用激素或者手术改变其面部、身体或者声音。\n\n一份发表在《美国精神病学杂志》 （American Journal of Psychiatry）上的研究显示，研究人员研究了2005年至2015年间从瑞典人口登记簿收集的与国家医疗保健数据库相关的数据，并评估了2679名被诊断为性别不一致人士的可用信息。\n\n研究结果表明，跨性别者精神健康问题在于：跨性别者会因为出生时被赋予的性别与他们自我认同的性别不符而导致痛苦。例如，一个长着阴茎的人尽管该人自我认同为一个女人，但是却会被认为是一个男人。但是需要注意的是，尽管跨性别者可能会遇到性别不一致的情况，尽管并非每个跨性别者都有同样的感受。\n\n该研究小组记录了他们评估的个体是否接受过跨性别相关的激素或外科手术，以及他们是否接受过心理健康治疗，这其中包括因为抑郁或焦虑而去看医生；服用抗抑郁药或抗焦虑药；和/或在自杀未遂后住院。\n\n研究结果中表明，在诊断出性别不一致的个体中，有70％服用了激素；约有48％的人接受过性别重塑手术，其中97％的人也接受过激素治疗；接近三分之一的人没有接受任何医疗介入。\n\n就平均数据而言，被诊断为性别不一致的群体相比其他群体，试图自杀后住院的可能性要高出六倍；由于情绪或焦虑症而去看医生的可能性要高出六倍；服用抗抑郁药和抗焦虑药的可能性也高出三倍。\n\n同时研究人员发现，跨性别者接受进行性别重塑手术后时间越久，他们需要接受心理健康治疗的可能性就越小。\n\n在2005年之后的10年的数据中，手术后跨性别者对心理健康的医疗需求以每年8％的速度下降。但是，在这项研究中未发现激素疗法具有相同的作用。\n\n该研究的合著者、瑞典卡罗林斯卡学院临床神经科学系（department of Clinical Neuroscience at Karolinska Institutet, Sweden,）副教授理查德·布兰斯特罗姆（Richard Bränström, associate professor）告诉《新闻周刊》（ Newsweek ），这项研究为跨性别者寻求性别重塑手术的合理性提供了强有力的证明和支持。\n\n这项研究的作者指出，在美国的一些州，政府拒绝使用公共资金为有需要的跨性别者提供跨性别医疗服务，而退伍军人健康管理局(Veterans Health Administration)则禁止在退伍军人事务中心(Veterans Affairs facility)进行此类手术，也不愿将其资金用于提供此类服务。并表示，缺乏这类医疗服务可能会促使跨性别者在没有医疗监督的情况下寻求激素和手术，这可能是非常危险的。\n\n尽管跨性别者在接受性别重塑手术之后精神健康得到很大的好转，但是于10年前接受性别重塑手术的跨性别者与其他人群相比，精神健康问题的风险仍然偏高，研究者布兰斯特罗姆对此现象表示惊讶，他说:“在对跨性别群体提供心理健康支持方面依然需要增加。”\n\n布兰斯特罗姆承认这项研究的局限性，他说:“这项研究只是基于登记数据，我们不知道每个人的生活条件和需求的任何细节。未来的研究应该更深入地探索个体因素及其对这一日益明显的群体心理健康的影响。”布兰斯特罗姆说:“这项研究是在瑞典进行的，瑞典是一个全民医保和相对强大的社会福利体系的国家，所以了解世界其他国家和其他地区跨性别社群的情况依然非常重要。”\n\n另一项研究发现，接受过被广泛质疑的性别扭转疗法（通过电击或其他手段试图改变跨性别者的性别认同）的跨性别者更有可能试图自杀。其研究结果已经发表在《美国医学会精神病学杂志》（Journal JAMA Psychiatry）上。\n\n参考文献：Reduction in Mental Health Treatment Utilization Among Transgender Individuals After Gender-Affirming Surgeries: A Total Population Study"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1275,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "American Journal of Psychiatry（《美国精神病学杂志》），2019年在线发表的一项研究表明，接受性别重塑手术的跨性别人士随着时间的推移，他们将变得越来越不需要心理治疗。\n\n主导这项研究的科学家们说，性别重塑手术应该变得更加容易获得，以帮助跨性别者提升心理健康水平。 https://t.co/9YirWsUJjx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T12:54:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twi.trtt.net",
+                "end": 23,
+                "expanded_url": "https://twi.trtt.net",
+                "start": 0,
+                "url": "https://t.co/0dfMAeIAvE"
+              }
+            ]
+          }
+        },
+        "id": "1684547487460388864",
+        "is_identity_verified": false,
+        "location": "s@trtt.net",
+        "most_recent_tweet_id": "2105637956480540772",
+        "name": "青空 しょな",
+        "pinned_tweet_id": "2078128474653687940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684547487460388864/1777722995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417468221620224/AJg3v3Jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 2601,
+          "like_count": 32415,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/0dfMAeIAvE",
+        "username": "seikuushona",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2105625607724032160",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42980,
+          "following_count": 4249,
+          "like_count": 2509,
+          "listed_count": 3,
+          "media_count": 424,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
